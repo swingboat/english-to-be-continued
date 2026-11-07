@@ -1,0 +1,13 @@
+{
+  "episode": "014",
+  "ratio": "3x4",
+  "file": "cover-3x4.png",
+  "width": 1086,
+  "height": 1448,
+  "ratio_exact": true,
+  "sha256": "2f839dc6ffb3354f70c15ecbad779a470a861a83f8738a9fd44a2a40f49b3d88",
+  "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-fa685eaf-0359-48ee-9514-61d643beaf45.png",
+  "mode": "built-in image_gen.imagegen",
+  "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-5ca736be-caf6-4e62-8906-04bd94324b0b.png",
+  "correction_prompt": "correction-3x4.txt"
+}

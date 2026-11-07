@@ -1,0 +1,34 @@
+Built-in image_gen.imagegen · new generation with episode storyboard as reference.
+No CLI/API fallback. Each ratio is generated separately.
+
+=== cover-4x3.png ===
+Use case: ads-marketing.
+Asset type: Final Douyin episode cover for the Chinese educational story account “英语有续集”, episode 001. This is one standalone finished cover, not a collage, not a phone mockup.
+Input image 1 is ONLY a character identity, costume and warm hand-painted anime illustration style reference (the eight-panel episode storyboard). Create a fresh coherent cover scene.
+Story: Xiaoshuai asked his single clone to say hello in a school self-introduction. The overconfident clone volunteered and won a ONE-WEEK TRIAL as class monitor; there are three overlapping invitations still awaiting confirmation. Comedic surprise, no final election crown, no trophies, no claim that he registered for all invitations.
+Characters: exactly two Chinese teenage boys with identical face, height and messy short black hair, expressive dark brown eyes, NO glasses. Both wear the reference white and dark teal school jacket and black backpack. Original Xiaoshuai wears a clearly visible RED inner shirt, looks comically shocked and holds ONE clipboard with small colored index tabs. His clone wears a CYAN BLUE inner shirt, grins proudly and gives a thumbs-up. Natural five-finger hands, only one clipboard between them. No other characters.
+Setting: sunlit ordinary high-school corridor, teal classroom frames, warm golden afternoon light. Friendly, witty, high-quality cinematic anime painting matching the reference. Color identity: deep teal, warm cream, red vs blue shirts.
+Copy must be readable and correctly spelled, with no text beyond the following exact strings:
+Small series label: “英语有续集 · 001”
+Large headline line 1: “只让你说 Hello”
+Large headline line 2: “你怎么当上班长了？”
+Small supporting line: “校园故事学英语 · 本集5词”
+Typography: very bold, clean Simplified Chinese sans serif; headline deep teal with “班长” in warm red, well contrasted on warm cream. No English mistranslations or random text. Clipboard paper has only non-text strokes, no invented writing.
+All text and both faces remain comfortably inside a central safe area with at least 7% margin from the image edges. Render a polished, ready-to-use PNG cover with the headline as the strongest visual focus. No platform UI, no watermarks, no stickers, no video play button.
+Canvas MUST be exactly 1536 × 1152 pixels, aspect ratio 4:3 LANDSCAPE. Design specifically for horizontal composition: title fills a calm cream area across the upper left/top half; the two boys form a close-up pair in the lower-right/lower half, with the shocked red-shirt original facing his proud blue-shirt clone. Headline stays clear of their hair and faces. The series label is above the title, supporting line below it. Keep both faces large enough to read in a thumbnail. Fill the entire 4:3 canvas.
+
+=== cover-3x4.png ===
+Use case: ads-marketing.
+Asset type: Final Douyin episode cover for the Chinese educational story account “英语有续集”, episode 001. This is one standalone finished cover, not a collage, not a phone mockup.
+Input image 1 is ONLY a character identity, costume and warm hand-painted anime illustration style reference (the eight-panel episode storyboard). Create a fresh coherent cover scene.
+Story: Xiaoshuai asked his single clone to say hello in a school self-introduction. The overconfident clone volunteered and won a ONE-WEEK TRIAL as class monitor; there are three overlapping invitations still awaiting confirmation. Comedic surprise, no final election crown, no trophies, no claim that he registered for all invitations.
+Characters: exactly two Chinese teenage boys with identical face, height and messy short black hair, expressive dark brown eyes, NO glasses. Both wear the reference white and dark teal school jacket and black backpack. Original Xiaoshuai wears a clearly visible RED inner shirt, looks comically shocked and holds ONE clipboard with small colored index tabs. His clone wears a CYAN BLUE inner shirt, grins proudly and gives a thumbs-up. Natural five-finger hands, only one clipboard between them. No other characters.
+Setting: sunlit ordinary high-school corridor, teal classroom frames, warm golden afternoon light. Friendly, witty, high-quality cinematic anime painting matching the reference. Color identity: deep teal, warm cream, red vs blue shirts.
+Copy must be readable and correctly spelled, with no text beyond the following exact strings:
+Small series label: “英语有续集 · 001”
+Large headline line 1: “只让你说 Hello”
+Large headline line 2: “你怎么当上班长了？”
+Small supporting line: “校园故事学英语 · 本集5词”
+Typography: very bold, clean Simplified Chinese sans serif; headline deep teal with “班长” in warm red, well contrasted on warm cream. No English mistranslations or random text. Clipboard paper has only non-text strokes, no invented writing.
+All text and both faces remain comfortably inside a central safe area with at least 7% margin from the image edges. Render a polished, ready-to-use PNG cover with the headline as the strongest visual focus. No platform UI, no watermarks, no stickers, no video play button.
+Canvas MUST be exactly 1152 × 1536 pixels, aspect ratio 3:4 PORTRAIT. Design specifically for vertical composition: series label at top, the large two-line title across the upper third on a calm cream area, close-up pair of boys and the one clipboard in the middle and lower half, supporting line beneath the headline. Both faces and shirt colors clearly visible at thumbnail size. The surprised original on left and proud clone on right form one readable moment. Keep headline clear of hair and faces, allow clean breathing room below. Fill the entire 3:4 canvas.

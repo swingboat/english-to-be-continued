@@ -1,0 +1,171 @@
+{
+  "checked_on": "2026-11-02",
+  "status": "passed",
+  "episodes": [
+    {
+      "episode": "B01E001",
+      "status": "passed",
+      "title_units": 30,
+      "description_units": 159,
+      "description_with_topics_units": 190,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E002",
+      "status": "passed",
+      "title_units": 22,
+      "description_units": 167,
+      "description_with_topics_units": 198,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E003",
+      "status": "passed",
+      "title_units": 23,
+      "description_units": 169,
+      "description_with_topics_units": 200,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E004",
+      "status": "passed",
+      "title_units": 22,
+      "description_units": 167,
+      "description_with_topics_units": 198,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E005",
+      "status": "passed",
+      "title_units": 23,
+      "description_units": 177,
+      "description_with_topics_units": 208,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E006",
+      "status": "passed",
+      "title_units": 22,
+      "description_units": 164,
+      "description_with_topics_units": 195,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E007",
+      "status": "passed",
+      "title_units": 24,
+      "description_units": 186,
+      "description_with_topics_units": 217,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E008",
+      "status": "passed",
+      "title_units": 24,
+      "description_units": 170,
+      "description_with_topics_units": 201,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E009",
+      "status": "passed",
+      "title_units": 23,
+      "description_units": 172,
+      "description_with_topics_units": 203,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E010",
+      "status": "passed",
+      "title_units": 21,
+      "description_units": 172,
+      "description_with_topics_units": 203,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E011",
+      "status": "passed",
+      "title_units": 23,
+      "description_units": 184,
+      "description_with_topics_units": 215,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E012",
+      "status": "passed",
+      "title_units": 24,
+      "description_units": 180,
+      "description_with_topics_units": 211,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E013",
+      "status": "passed",
+      "title_units": 24,
+      "description_units": 177,
+      "description_with_topics_units": 208,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E014",
+      "status": "passed",
+      "title_units": 23,
+      "description_units": 134,
+      "description_with_topics_units": 165,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    },
+    {
+      "episode": "B01E015",
+      "status": "passed",
+      "title_units": 22,
+      "description_units": 181,
+      "description_with_topics_units": 212,
+      "topics": 5,
+      "policy_checked_on": "2026-11-02",
+      "keywords": 30,
+      "html_matches_source": true
+    }
+  ]
+}

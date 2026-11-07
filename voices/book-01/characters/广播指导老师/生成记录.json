@@ -1,0 +1,84 @@
+{
+  "name": "广播指导老师",
+  "version": "v001",
+  "created_at": "2026-11-02T14:24:40+08:00",
+  "status": "generated-awaiting-listening-review",
+  "character": {
+    "name": "广播指导老师",
+    "gender": "女",
+    "age": 40,
+    "personality": "冷静、耐心、务实，善于引导学生协作",
+    "voice_identity": "radio-adviser",
+    "seed": 402,
+    "direction_zh": "清晰平稳的成年女性中音，稍明亮、少气声，指导步骤简洁耐心；与妈妈的亲切家常感区分。",
+    "instruct": "A female school radio adviser around forty guiding a small student production team. A clear, focused adult female mid-register voice with a lightly bright forward placement and little breathiness. Calm, patient, practical and collaborative. Speak at an even conversational pace, breaking instructions into small understandable steps. Friendly professional guidance, with a natural everyday voice rather than a formal newsreader or soothing maternal cooing.",
+    "text": "Let's check one thing at a time. First, make sure the speaker is connected. Then play the short recording again. You don't need to replace everything when something goes quiet. Ask a question, listen carefully, and we'll find out what happened together.",
+    "evidence": [
+      "production/book-01/ep-007/image-prompt.txt：radio adviser, woman around forty, practical calm",
+      "production/book-01/ep-008/episode.json：指导排查静音"
+    ]
+  },
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
+  "revision": "5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "model_path": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/cache/huggingface/hub/models--mlx-community--Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit/snapshots/5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "generation": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.05,
+    "max_tokens": 700
+  },
+  "language": "English",
+  "full_instruction": "A female school radio adviser around forty guiding a small student production team. A clear, focused adult female mid-register voice with a lightly bright forward placement and little breathiness. Calm, patient, practical and collaborative. Speak at an even conversational pace, breaking instructions into small understandable steps. Friendly professional guidance, with a natural everyday voice rather than a formal newsreader or soothing maternal cooing. Speak clear, natural conversational American English. Use a comfortable medium pace and natural sentence pauses so a high-school English learner can follow. Keep an everyday human delivery, with no music or sound effects, no announcer performance, and no theatrical exaggeration. Read only the supplied text.",
+  "environment": {
+    "python": "3.13.4",
+    "executable": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/.venv/bin/python",
+    "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "hardware": "Apple M3 Pro",
+    "packages": {
+      "mlx-audio": "0.6.3",
+      "mlx": "0.32.4",
+      "numpy": "2.5.4"
+    },
+    "ffmpeg": "ffmpeg version 7.1.1 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "sample_rate": 24000,
+  "channels": 1,
+  "samples": 453120,
+  "duration_seconds": 18.88,
+  "generation_seconds": 10.076,
+  "peak": 0.8992089033126831,
+  "rms": 0.08184003112812044,
+  "mp3_duration_seconds": 18.936,
+  "checks": {
+    "finite_waveform": true,
+    "peak_below_full_scale": true,
+    "mp3_full_decode": true
+  },
+  "listening_review": {
+    "gender": "pending",
+    "age": "pending",
+    "personality": "pending",
+    "pronunciation_and_completeness": "pending"
+  },
+  "identity_note": "VoiceDesign candidate only; the seed is not a persistent speaker identity. Shared voice_identity does not guarantee matching timbre.",
+  "files": {
+    "广播指导老师.wav": {
+      "bytes": 906284,
+      "sha256": "dd28afd98c0e9515cc6651bce94fce05e9147b176cf6386498cd09b3b31187ed"
+    },
+    "广播指导老师.mp3": {
+      "bytes": 303404,
+      "sha256": "afd62291bff810be43ba07f95acf5c25dadbed814b69f1e8f42e6fe7b393a348"
+    },
+    "广播指导老师.txt": {
+      "bytes": 254,
+      "sha256": "0e8dcd436d7ee24f7c2febe80531f3134d6ea029121eb9d17b7a7259ef77e625"
+    },
+    "音色描述.txt": {
+      "bytes": 766,
+      "sha256": "d315e239ddd147fde3e3e0aedbc747f5d47d8f54ff12d0506c5f6f118788a71a"
+    }
+  }
+}

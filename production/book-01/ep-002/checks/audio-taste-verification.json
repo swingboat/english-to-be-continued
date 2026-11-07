@@ -1,0 +1,80 @@
+{
+  "checked_on": "2026-11-02",
+  "episode": 2,
+  "status": "passed",
+  "html": "episodes/book-01/ep-002.html",
+  "sha256": "398ab8b0bffee7579156c5c2f9075bfef40ba708b221a065fe515adea06cc076",
+  "scenes": 8,
+  "subtitle_pairs": 35,
+  "voice_statuses": [
+    "已选定",
+    "已选定",
+    "暂定采用",
+    "已选定"
+  ],
+  "embedded_reference_audio": [
+    {
+      "name": "小帅",
+      "duration_seconds": 13.84,
+      "sha256": "c051a6aae2cc0d63ee5284c156b43052afff9c345d245a01dcf9e9d9b369fd4f"
+    },
+    {
+      "name": "小帅的分身",
+      "duration_seconds": 14.16,
+      "sha256": "ce3d88284545808c57c283d9240a92fc491e82efaafbe61926a1058eda5d4146"
+    },
+    {
+      "name": "苏小满",
+      "duration_seconds": 18.88,
+      "sha256": "746b2f99491248ef285cd2f5e85992a580c2fcbdd1bfa7414293394ad54dce9b"
+    },
+    {
+      "name": "班主任",
+      "duration_seconds": 19.36,
+      "sha256": "6ae234463019c9ed5a62db2d25d2ffadfb0b529c374f285bbe7c45c52aab195c"
+    }
+  ],
+  "audio_source_bytes_match": true,
+  "vocabulary_cards": 5,
+  "keywords_unique": 30,
+  "story_sheet_and_covers_match": true,
+  "external_dependencies": [],
+  "other_episode_html_unchanged": true,
+  "skill_install": "project-only .agents/skills/taste-skill",
+  "browser_offline_audio_playback_all_four": true,
+  "audio_playback_time_advanced": true,
+  "audio_playback_errors": [],
+  "exclusive_playback_verified": true,
+  "offline_cover_downloads_verified": true,
+  "viewports_checked": [
+    375,
+    390,
+    768,
+    1440
+  ],
+  "horizontal_overflow": [],
+  "javascript_disabled_content_readable": true,
+  "reduced_motion_running_animations": 0,
+  "reference_transcript_expand_verified": true,
+  "scene_dialogue_expand_verified": true,
+  "css_story_sheet_bytes_match_source": true,
+  "keywords_rendered_and_unique": 30,
+  "final_html_bytes": 21000386,
+  "final_static_recheck": "passed",
+  "design_inspector": {
+    "widths": [
+      1440,
+      768,
+      390
+    ],
+    "failures": 0,
+    "warnings": [
+      "card-rows",
+      "no-footage",
+      "name-only-title"
+    ],
+    "report": ".taste-skill/final/report.json",
+    "justifications": ".taste-skill/build-notes.md"
+  },
+  "visual_review_complete": true
+}

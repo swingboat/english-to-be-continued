@@ -1,0 +1,10 @@
+英语有续集抖音账号视觉素材
+生成方式：内置 image_gen.imagegen；不使用 API CLI。
+角色与风格参考：production/book-01/ep-001/storyboard.png
+
+【头像生成提示词】
+undefined
+
+【主页背景图生成提示词】
+undefined
+

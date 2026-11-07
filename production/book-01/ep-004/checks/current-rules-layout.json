@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-04",
+  "fail": 0,
+  "warnings": [
+    "no-footage",
+    "off-centre",
+    "name-only-title"
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "moving_elements": 26
+    },
+    {
+      "width": 768,
+      "moving_elements": 20
+    },
+    {
+      "width": 390,
+      "moving_elements": 17
+    }
+  ],
+  "full_report": ".taste-skill/ep-004/final-verified/report.json",
+  "design_notes": ".taste-skill/ep-004/build-notes.md",
+  "html_sha256": "2087c1cdfe41feee5fff291ce3a00964d6aee4eeabb801f6b11c837df9be486f"
+}

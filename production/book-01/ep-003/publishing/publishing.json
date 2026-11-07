@@ -1,0 +1,94 @@
+{
+  "episode": "B01E003",
+  "title": "同桌看见两个我，我决定说实话｜英语有续集003",
+  "description": "同桌看见了两个小帅，分身把经过说得像产品发布会，小帅却承认：自己只是害怕用英语开口。他亲口完成简短自我介绍，也答应向老师和父母说明。坦白之后，同桌愿意听，他也开始听她的广播想法。你紧张时最难说出口的是什么？跟着故事学习 actually、differ、in person、frank、to be frank。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "英语自我介绍",
+    "坦诚表达",
+    "同桌日常",
+    "亲自开口",
+    "倾听想法",
+    "害怕说错",
+    "勇敢沟通",
+    "actually",
+    "differ",
+    "in person",
+    "frank",
+    "to be frank"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 003",
+    "headline": [
+      "同桌看见两个我",
+      "这次，我说实话"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-003-封面-4x3.png",
+      "alt": "第003集横版封面 · 4:3：同桌看见两个我，这次，我说实话。",
+      "sha256": "ea7976654a4f82d8659b5e5c0586dfc83f1c3527f5b17bd8d2ffa38d27c7b243",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-cba4d9cc-6374-4d8c-abce-a911ab0d3a0d.png",
+      "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-2c59c616-a5ee-4542-8330-2408bc9c396d.png",
+      "correction_prompt": "correction-4x3.txt"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-003-封面-3x4.png",
+      "alt": "第003集竖版封面 · 3:4：同桌看见两个我，这次，我说实话。",
+      "sha256": "60dce0b1af262c1f44ceb5d713c1fad3feec95e6466d76035fd98f52292b5646",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-de5ea53b-cf84-4764-a387-dd83f5764271.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

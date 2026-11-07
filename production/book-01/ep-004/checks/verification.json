@@ -1,0 +1,69 @@
+{
+  "episode": 4,
+  "checked_on": "2026-11-01",
+  "html": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-004.html",
+  "html_sha256": "e51ee5d009b766fa288e9530096ee3268ff51ac2981dad92ce0471afdb403379",
+  "html_bytes": 3900652,
+  "scenes": 8,
+  "embedded_images": 3,
+  "image_dimensions": [
+    887,
+    1774
+  ],
+  "image_matches_source": true,
+  "new_words": 5,
+  "main_review_words": 2,
+  "supplemental_review_words": 5,
+  "narration_words": 214,
+  "subtitle_pairs": 24,
+  "subtitles_match_source": true,
+  "ids_unique": true,
+  "anchor_links_valid": 50,
+  "clip_links_valid": 9,
+  "no_external_dependencies": true,
+  "no_video_or_audio": true,
+  "previous_episodes_unchanged": true,
+  "total_episodes": 72,
+  "total_vocabulary": 358,
+  "delivered_episodes": 4,
+  "taught_vocabulary": 20,
+  "browser": {
+    "tool": "tabbit-cli",
+    "widths": [
+      {
+        "viewport": 375,
+        "document_width": 375,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      },
+      {
+        "viewport": 768,
+        "document_width": 768,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      },
+      {
+        "viewport": 1440,
+        "document_width": 1440,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      }
+    ],
+    "offline_resource_requests": [],
+    "language_requirement_visible": true,
+    "desktop_screenshots_reviewed": true,
+    "word_anchor_navigation": true,
+    "review_answer_toggle": true,
+    "dialogue_toggle": true,
+    "mobile_screenshot_reviewed": true
+  },
+  "status": "passed",
+  "bytes": 16616351,
+  "sha256": "5eff8e473b290029ba0fe363a0c88bb98b70cb51d8861fe2e441b1c1d422e42a",
+  "distinct_embedded_images": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json",
+  "publishing_browser_verified": true
+}

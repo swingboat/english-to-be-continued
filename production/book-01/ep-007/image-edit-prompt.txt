@@ -1,0 +1,7 @@
+Use case: precise-object-edit / identity-preserve.
+Edit target: supplied Episode 007 eight-panel comic sheet.
+Make exactly ONE small correction, in the TOP RIGHT panel (panel 2) only.
+The original RED-undershirt boy at the LEFT of that panel has accidentally acquired round eyeglasses. He must NOT wear glasses. REMOVE ONLY that boy's eyeglasses and the thin bridge/frame lines around his eyes. Restore his unobstructed brown eyes and original boy face, matching the RED boy in all other panels and the identical blue clone. Keep his hair, face shape, expression, pose, clothes, red shirt, hands and role form unchanged.
+Do NOT remove Xiaoman's round glasses on the right side of that panel, or the adult teacher's rectangular glasses. Those are correct.
+Keep all other seven panels unchanged, including all characters, props, radio equipment, the radio adviser, colors, layout, gutters, dimensions and manga rendering.
+Eight panels remain 2 columns x4 rows. No letters, text, speech bubbles or watermarks. Only remove the red boy's accidental glasses in panel 2; do not redraw other events.

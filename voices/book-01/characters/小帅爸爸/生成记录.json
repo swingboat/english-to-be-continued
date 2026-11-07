@@ -1,0 +1,85 @@
+{
+  "name": "小帅爸爸",
+  "version": "v001",
+  "created_at": "2026-11-02T14:24:18+08:00",
+  "status": "generated-awaiting-listening-review",
+  "character": {
+    "name": "小帅爸爸",
+    "gender": "男",
+    "age": 43,
+    "personality": "沉稳、务实、支持孩子，表达简洁",
+    "voice_identity": "xiaoshuai-father",
+    "seed": 431,
+    "direction_zh": "温和稳重的成年男性中低音，自然放松，像在家商量日常安排；性格与具体年龄为首轮制作建议。",
+    "instruct": "A father in his early forties talking casually with his teenage son at home. A warm adult male low-middle register, naturally grounded and lightly textured, with relaxed ordinary speech. Calm, practical and supportive, speaking in short clear thoughts with a little quiet humor. He sounds approachable and human. No booming authority, threatening sternness, elderly rasp or polished radio-host delivery.",
+    "text": "Let's make room for everyone. You can share the house, and you can share the chores too. Tell us what you've agreed to do, and what help you need. We'll work it out together. For now, start with the dishes on the table.",
+    "evidence": [
+      "production/book-01/ep-004/episode.json：爸爸画外对白与家务安排",
+      "production/book-01/ep-015/episode.json：爸爸在家、家长知情"
+    ],
+    "casting_note": "父亲身份已确定；43岁及沉稳支持型声线为制作建议，不新增故事经历。"
+  },
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
+  "revision": "5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "model_path": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/cache/huggingface/hub/models--mlx-community--Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit/snapshots/5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "generation": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.05,
+    "max_tokens": 700
+  },
+  "language": "English",
+  "full_instruction": "A father in his early forties talking casually with his teenage son at home. A warm adult male low-middle register, naturally grounded and lightly textured, with relaxed ordinary speech. Calm, practical and supportive, speaking in short clear thoughts with a little quiet humor. He sounds approachable and human. No booming authority, threatening sternness, elderly rasp or polished radio-host delivery. Speak clear, natural conversational American English. Use a comfortable medium pace and natural sentence pauses so a high-school English learner can follow. Keep an everyday human delivery, with no music or sound effects, no announcer performance, and no theatrical exaggeration. Read only the supplied text.",
+  "environment": {
+    "python": "3.13.4",
+    "executable": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/.venv/bin/python",
+    "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "hardware": "Apple M3 Pro",
+    "packages": {
+      "mlx-audio": "0.6.3",
+      "mlx": "0.32.4",
+      "numpy": "2.5.4"
+    },
+    "ffmpeg": "ffmpeg version 7.1.1 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "sample_rate": 24000,
+  "channels": 1,
+  "samples": 366720,
+  "duration_seconds": 15.28,
+  "generation_seconds": 7.337,
+  "peak": 0.7918986678123474,
+  "rms": 0.07295442508378754,
+  "mp3_duration_seconds": 15.336,
+  "checks": {
+    "finite_waveform": true,
+    "peak_below_full_scale": true,
+    "mp3_full_decode": true
+  },
+  "listening_review": {
+    "gender": "pending",
+    "age": "pending",
+    "personality": "pending",
+    "pronunciation_and_completeness": "pending"
+  },
+  "identity_note": "VoiceDesign candidate only; the seed is not a persistent speaker identity. Shared voice_identity does not guarantee matching timbre.",
+  "files": {
+    "小帅爸爸.wav": {
+      "bytes": 733484,
+      "sha256": "610628ff312ac2d3037126d98f54cc13ab96f1fc55561955af9a9d5c25ce2ffe"
+    },
+    "小帅爸爸.mp3": {
+      "bytes": 245804,
+      "sha256": "96b4af8614713cfc958ea1b09fb580d8eb3a4b6b5d4eb1fc16d5019304046754"
+    },
+    "小帅爸爸.txt": {
+      "bytes": 220,
+      "sha256": "4b787e4a0513057bb9cdbbbb3e63966071c4dfb48e7d7253673f00cb249ad06d"
+    },
+    "音色描述.txt": {
+      "bytes": 713,
+      "sha256": "7d5eb79af3ac41e3d2b58e0c1858c1b51a3fca9b96b66f279d4bc8c2e0e86af6"
+    }
+  }
+}

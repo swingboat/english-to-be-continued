@@ -1,0 +1,10 @@
+Use case: precise-object-edit / illustration-story
+Edit target: the supplied Episode 003 eight-panel comic sheet.
+Keep the entire sheet and all of the FIRST SEVEN PANELS unchanged, preserving school manga style, warm lighting, grid geometry, faces, costumes, props and all actions. Change ONLY the BOTTOM RIGHT (eighth) panel.
+Correction required: the last panel currently accidentally shows only one boy wearing red while raising his hand. The story needs TWO distinct identical-faced boys plus the girl, all THREE teenagers clearly visible in this single last panel.
+Replace the composition of just the bottom-right panel with:
+LEFT: the CLONE, black messy hair, white and teal jacket, distinctly CYAN BLUE undershirt. He happily raises ONE hand to ask for his own turn introducing himself. His complete face and blue undershirt are visible.
+CENTER: ORIGINAL Xiaoshuai, same black messy hair and face, white and teal jacket, distinctly RED undershirt. He looks at the blue clone with friendly comic alarm and makes a gentle low palm-down calming gesture. HIS OWN HAND IS NOT RAISED. Both boys are fully separate, no merging bodies or arms.
+RIGHT: Xiaoman, black bob and round glasses, same jacket, laughing at the boys.
+A notebook and the single activity clipboard are stacked on the classroom desk in front. Same empty classroom. No adults, no new pupils. No text, letters, logos, bubbles or watermarks.
+Only fix panel eight. First seven panels stay unchanged. Preserve all eight panels and original dimensions.

@@ -1,0 +1,39 @@
+第一册抖音合集封面
+生成日期：2026-11-02
+生成方式：内置 image_gen.imagegen；未使用 CLI/API fallback。
+两种比例分别生成，未拉伸或裁切。
+
+【竖版 3:4】
+角色和风格参考：production/book-01/ep-001/publishing/cover-3x4.png
+Use case: ads-marketing.
+Asset type: Finished Douyin COLLECTION cover for the Chinese educational story account “英语有续集”, Book 1 collection, not a single episode cover. One polished standalone image. Canvas aspect ratio exactly 3:4 PORTRAIT, target 1152 x 1536 pixels.
+Primary request: Create a compelling coherent series key visual for “我被自己的分身卷了”, the existing campus light-science-fiction comedy that teaches vocabulary from 北师大版英语必修第一册.
+Input image 1 (existing episode 001 cover): REFERENCE ONLY for character identities, school uniforms, warm hand-painted anime style and red/cyan color identity. Create a new collection composition and replace all episode-specific copy with the exact collection copy below. Do not replicate the old episode headline, episode number or word count.
+Subjects: Exactly TWO Chinese teenage boys, original Xiaoshuai and his ONE clone. They have the same youthful face, height, messy short black hair, expressive dark-brown eyes, NO glasses. Both wear the same white-and-dark-teal school jackets with backpacks. Xiaoshuai wears a red inner shirt and is comically wide-eyed, realizing his double has volunteered him for extra work. His clone wears a cyan-blue inner shirt and has a confident cheerful smile, proudly raising ONE hand to volunteer. Xiaoshuai holds ONE clipboard, its paper only blank abstract strokes, no readable extra writing. Keep hands natural, five fingers, no extra hands. The human clone is solid, no additional duplicates. Only these two people.
+Setting: Ordinary Chinese high-school corridor with teal classroom window frames and warm golden afternoon light, softly painted and uncluttered. Thin restrained cyan pixel glints near the clone may hint at the premise. Friendly comedy, expressive character acting, high-quality cinematic anime illustration matching the reference. Deep teal, warm ivory, cyan and red palette.
+Composition: Bold editorial poster. Small brand at top, very large two-line simplified Chinese title in the upper 35% on clear warm-ivory negative space, textbook label directly beneath the title. Close waist-up pair in middle/lower portion, faces large and immediately readable at thumbnail size. Keep all exact text and faces at least 8% away from edges, all text fully inside the canvas and separate from hair. No crowded montage, no multi-panel comic.
+Text (verbatim, no other text):
+Top small brand: “英语有续集”
+Main title line 1: “我被自己的”
+Main title line 2: “分身卷了”
+Textbook label: “北师大版 · 英语必修第一册”
+Typography: crisp bold simplified Chinese sans serif. Make “分身卷了” the strongest typographic focus, emphasize “分身” in warm red, other title characters deep teal; excellent contrast against ivory. Clean refined brush underline or small teal rule can tie it to the established brand, avoid excessive stickers.
+Constraints: This is the COLLECTION cover. NO episode number, no “001”, no “本集5词”, no “全集”, no claim that all episodes are already published, no future victories or plot ending, no awards, no watermarks, no platform logos, no play button, no UI mockup, no extra captions. Render the exact Chinese text correctly.
+
+【横版 4:3】
+角色、风格与版式参考：本次生成的竖版合集封面
+Use case: ads-marketing.
+Asset type: Finished Douyin COLLECTION cover for the Chinese educational story account “英语有续集”, Book 1 collection, not a single episode cover. One polished standalone image. Canvas aspect ratio exactly 4:3 LANDSCAPE, target 1536 x 1152 pixels.
+Primary request: Create a compelling coherent series key visual for “我被自己的分身卷了”, the existing campus light-science-fiction comedy that teaches vocabulary from 北师大版英语必修第一册.
+Input image 1 (the newly created Book 1 collection portrait cover): REFERENCE ONLY for the exact collection design, title, two characters, school uniforms, illustration style and red/cyan color identity. Create a fresh coherent LANDSCAPE version of this same collection cover. Preserve all exact collection copy and the same faces and expressions.
+Subjects: Exactly TWO Chinese teenage boys, original Xiaoshuai and his ONE clone. They have the same youthful face, height, messy short black hair, expressive dark-brown eyes, NO glasses. Both wear the same white-and-dark-teal school jackets with backpacks. Xiaoshuai wears a red inner shirt and is comically wide-eyed, realizing his double has volunteered him for extra work. His clone wears a cyan-blue inner shirt and has a confident cheerful smile, proudly raising ONE hand to volunteer. Xiaoshuai holds ONE clipboard, its paper only blank abstract strokes, no readable extra writing. Keep hands natural, five fingers, no extra hands. The human clone is solid, no additional duplicates. Only these two people.
+Setting: Ordinary Chinese high-school corridor with teal classroom window frames and warm golden afternoon light, softly painted and uncluttered. Thin restrained cyan pixel glints near the clone may hint at the premise. Friendly comedy, expressive character acting, high-quality cinematic anime illustration matching the reference. Deep teal, warm ivory, cyan and red palette.
+Composition: Bold editorial LANDSCAPE series poster designed specifically for 4:3. Let the clear warm-ivory title area occupy the upper half/upper-left, with the small brand above the huge two-line title and textbook label below it. The close-up pair fills the lower half and right, faces immediately readable at thumbnail size, anxious red-shirt original left of confident cyan-shirt clone. The clone can raise his volunteering hand beside his head without obstructing any words. Prioritize balanced typography and large faces: keep all exact text and faces comfortably 8% inside the canvas with no overlap. Re-compose naturally for landscape rather than stretching or cropping the portrait. No crowded montage, no multi-panel comic.
+Text (verbatim, no other text):
+Top small brand: “英语有续集”
+Main title line 1: “我被自己的”
+Main title line 2: “分身卷了”
+Textbook label: “北师大版 · 英语必修第一册”
+Typography: crisp bold simplified Chinese sans serif. Make “分身卷了” the strongest typographic focus, emphasize “分身” in warm red, other title characters deep teal; excellent contrast against ivory. Clean refined brush underline or small teal rule can tie it to the established brand, avoid excessive stickers.
+Constraints: This is the COLLECTION cover. NO episode number, no “001”, no “本集5词”, no “全集”, no claim that all episodes are already published, no future victories or plot ending, no awards, no watermarks, no platform logos, no play button, no UI mockup, no extra captions. Render the exact Chinese text correctly.
+

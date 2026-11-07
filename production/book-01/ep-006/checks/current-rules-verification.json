@@ -1,0 +1,175 @@
+{
+  "other_episode_hashes": [
+    {
+      "name": "ep-010.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-011.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-007.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-001.html",
+      "unchanged": false
+    },
+    {
+      "name": "ep-014.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-002.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-003.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-015.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-008.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-012.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-004.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-005.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-013.html",
+      "unchanged": true
+    },
+    {
+      "name": "ep-009.html",
+      "unchanged": true
+    }
+  ],
+  "other_episodes_unchanged": 13,
+  "concurrent_other_episode_changes": [
+    "ep-001.html"
+  ],
+  "embedded_voices": [
+    {
+      "name": "小帅",
+      "sha256": "c051a6aae2cc0d63ee5284c156b43052afff9c345d245a01dcf9e9d9b369fd4f",
+      "status": "已选定"
+    },
+    {
+      "name": "小帅的分身",
+      "sha256": "ce3d88284545808c57c283d9240a92fc491e82efaafbe61926a1058eda5d4146",
+      "status": "已选定"
+    },
+    {
+      "name": "苏小满",
+      "sha256": "746b2f99491248ef285cd2f5e85992a580c2fcbdd1bfa7414293394ad54dce9b",
+      "status": "暂定采用"
+    },
+    {
+      "name": "班主任",
+      "sha256": "6ae234463019c9ed5a62db2d25d2ffadfb0b529c374f285bbe7c45c52aab195c",
+      "status": "已选定"
+    },
+    {
+      "name": "小帅妈妈",
+      "sha256": "61c3e40b112992cd5d8b7b77f7697a102ca29da427ef028e4293337e6307351c",
+      "status": "已选定"
+    }
+  ],
+  "content": {
+    "scenes": 8,
+    "caption_pairs": 27,
+    "dialogue_entries": 31,
+    "words": 5,
+    "unique_keywords": 30,
+    "missing_links": 0
+  },
+  "chapter_preview": "keyboard focus switches image; chapter links retain direct reading navigation",
+  "audio_playback": [
+    {
+      "currentTime": 0.309611,
+      "advanced": 0.30948800000000004,
+      "duration": 13.84,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.310567,
+      "advanced": 0.310473,
+      "duration": 14.16,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.309221,
+      "advanced": 0.309153,
+      "duration": 18.88,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.309671,
+      "advanced": 0.309619,
+      "duration": 19.36,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.311272,
+      "advanced": 0.311218,
+      "duration": 17.68,
+      "error": null,
+      "otherPaused": true
+    }
+  ],
+  "frame_padding": [
+    {
+      "selector": ".header-inner",
+      "left": "43.2px",
+      "right": "43.2px"
+    },
+    {
+      "selector": ".hero",
+      "left": "43.2px",
+      "right": "43.2px"
+    },
+    {
+      "selector": ".page-body",
+      "left": "43.2px",
+      "right": "43.2px"
+    }
+  ],
+  "cover_downloads": [
+    {
+      "filename": "英语有续集-006-封面-4x3.png",
+      "ratio": "4x3",
+      "sha256": "671bcbb342f7198e9ffb01a1e80475acb06572703bc4806adcd92ca2545c19df"
+    },
+    {
+      "filename": "英语有续集-006-封面-3x4.png",
+      "ratio": "3x4",
+      "sha256": "aa1452d40bd9c03a8d9491e018c88398a94d0c35e9b0e1c9e425cdf1ff0295e0"
+    }
+  ],
+  "no_script": {
+    "captionCount": 27,
+    "opacity": "1",
+    "audio": 5
+  },
+  "reduced_motion": "no active animation",
+  "offline_file_url": true,
+  "console_errors": [],
+  "html_sha256": "aab9e9210be86576b0a3d4cc58c8e48de20ab6a70abfb6c8f4a3b0a819a27a91"
+}

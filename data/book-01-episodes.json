@@ -1,0 +1,3348 @@
+{
+  "schema_version": 1,
+  "book": 1,
+  "series": "英语有续集",
+  "series_en": "English: To Be Continued",
+  "season": "我被自己的分身卷了",
+  "status": "in-production",
+  "source": {
+    "path": "/Users/huyin/Desktop/Niki/教材/英语/北师大版·英语必修 第一册.pdf",
+    "title": "北师大版英语必修第一册",
+    "vocabulary_pdf_pages": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "vocabulary_printed_pages": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "counting_rule": "按分单元词汇表逐条计数；短语、词组、带星号拓展词单独计数；同一行含不同词性的词仍算一条。",
+    "verified_on": "2026-10-31"
+  },
+  "units": [
+    {
+      "unit": 1,
+      "title": "Life Choices",
+      "entry_count": 138,
+      "episode_range": [
+        1,
+        28
+      ],
+      "new_story_count": 26,
+      "review_story_count": 2
+    },
+    {
+      "unit": 2,
+      "title": "Sports and Fitness",
+      "entry_count": 118,
+      "episode_range": [
+        29,
+        52
+      ],
+      "new_story_count": 22,
+      "review_story_count": 2
+    },
+    {
+      "unit": 3,
+      "title": "Celebrations",
+      "entry_count": 102,
+      "episode_range": [
+        53,
+        72
+      ],
+      "new_story_count": 18,
+      "review_story_count": 2
+    }
+  ],
+  "arcs": [
+    {
+      "number": 1,
+      "unit": 1,
+      "title": "分身惹的祸谁来负责",
+      "start_episode": 1,
+      "end_episode": 7
+    },
+    {
+      "number": 2,
+      "unit": 1,
+      "title": "第一次校园广播",
+      "start_episode": 8,
+      "end_episode": 14
+    },
+    {
+      "number": 3,
+      "unit": 1,
+      "title": "别把生活剪成满分",
+      "start_episode": 15,
+      "end_episode": 21
+    },
+    {
+      "number": 4,
+      "unit": 1,
+      "title": "这次我自己说",
+      "start_episode": 22,
+      "end_episode": 28
+    },
+    {
+      "number": 5,
+      "unit": 2,
+      "title": "我不是天生的替补",
+      "start_episode": 29,
+      "end_episode": 34
+    },
+    {
+      "number": 6,
+      "unit": 2,
+      "title": "练习比替我上场难",
+      "start_episode": 35,
+      "end_episode": 40
+    },
+    {
+      "number": 7,
+      "unit": 2,
+      "title": "先问别人想做什么",
+      "start_episode": 41,
+      "end_episode": 46
+    },
+    {
+      "number": 8,
+      "unit": 2,
+      "title": "输赢之外也要作选择",
+      "start_episode": 47,
+      "end_episode": 52
+    },
+    {
+      "number": 9,
+      "unit": 3,
+      "title": "一场文化展三种主意",
+      "start_episode": 53,
+      "end_episode": 57
+    },
+    {
+      "number": 10,
+      "unit": 3,
+      "title": "欢迎的是人",
+      "start_episode": 58,
+      "end_episode": 62
+    },
+    {
+      "number": 11,
+      "unit": 3,
+      "title": "照片里没有的记忆",
+      "start_episode": 63,
+      "end_episode": 67
+    },
+    {
+      "number": 12,
+      "unit": 3,
+      "title": "让每个人都留在合照里",
+      "start_episode": 68,
+      "end_episode": 72
+    }
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "id": "B01E001",
+      "unit": 1,
+      "arc": 1,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "替我说句 Hello，你怎么当上班长了",
+      "story": "小帅怕英语自我介绍，叫分身只替他说一句；分身主动报名班长试任，还接下三项待确认的活动邀请。",
+      "outcome": "小帅拿到撞期的邀请表；苏小满在走廊看见两个小帅。",
+      "dramatic_beat": "分身的目标是当班长，小帅的目标是平安回家。",
+      "new_words": [
+        "confidence",
+        "volunteer",
+        "goal",
+        "challenge",
+        "schedule"
+      ],
+      "video_review_words": [],
+      "supplemental_html_review_words": [],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-001.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-001.html",
+      "html_completed_on": "2026-10-31",
+      "source_directory": "production/book-01/ep-001",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "html_regenerated_on": "2026-10-31",
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 23
+    },
+    {
+      "number": 2,
+      "id": "B01E002",
+      "unit": 1,
+      "arc": 1,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "三个我才够用？先删掉一个承诺",
+      "story": "苏小满堵住两人问话，老师催交活动确认表；小帅亲自说明撞期，本周不报篮球初选，决定之后另行申请公告上的月底开放补选。",
+      "outcome": "搬桌提前到周五13:20—13:40，英语分享保留在14:00，由小帅本人参加；苏小满仍要求两人解释来历。",
+      "dramatic_beat": "分身计算还缺一个分身；小帅发现少答应一件事就够了。",
+      "new_words": [
+        "stressful",
+        "challenging",
+        "arise",
+        "expectation",
+        "pressure"
+      ],
+      "video_review_words": [
+        "schedule",
+        "challenge"
+      ],
+      "supplemental_html_review_words": [],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-002.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-002.html",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "html_completed_on": "2026-10-31",
+      "source_directory": "production/book-01/ep-002",
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 3,
+      "id": "B01E003",
+      "unit": 1,
+      "arc": 1,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "同桌认出我，靠的是一句大实话",
+      "story": "分身准备了一篇完美解释，小帅却承认自己只是害怕出丑；苏小满同意陪他们说明情况，但不再替两人圆谎。",
+      "outcome": "小帅亲口完成短自我介绍，答应次日向班主任和家长交代。",
+      "dramatic_beat": "分身拿出完美说辞；苏小满反而相信那句不够体面的实话。",
+      "new_words": [
+        "actually",
+        "differ",
+        "in person",
+        "frank",
+        "to be frank"
+      ],
+      "video_review_words": [
+        "confidence",
+        "goal"
+      ],
+      "supplemental_html_review_words": [
+        "confidence",
+        "volunteer",
+        "goal",
+        "challenge",
+        "schedule"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-003.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-003.html",
+      "html_completed_on": "2026-10-31",
+      "source_directory": "production/book-01/ep-003",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 4,
+      "id": "B01E004",
+      "unit": 1,
+      "arc": 1,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "两张脸，只能领一张学生任务单",
+      "story": "小帅亲自向班主任和父母说明，学校职责仍由本人承担；分身住进备用房间，两人一起洗碗。",
+      "outcome": "家长和老师知情，分身有了住处与课后参与条件；老师交代次日晨间活动，分身提出带跑，小帅接受协调责任并先收同学意见。",
+      "dramatic_beat": "母亲听完只补一句：两个人，就洗两份碗。",
+      "new_words": [
+        "senior",
+        "secondary",
+        "previous",
+        "campus",
+        "junior"
+      ],
+      "video_review_words": [
+        "volunteer",
+        "goal"
+      ],
+      "supplemental_html_review_words": [
+        "stressful",
+        "challenging",
+        "arise",
+        "expectation",
+        "pressure"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-004.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-004.html",
+      "html_completed_on": "2026-10-31",
+      "source_directory": "production/book-01/ep-004",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 24
+    },
+    {
+      "number": 5,
+      "id": "B01E005",
+      "unit": 1,
+      "arc": 1,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "他替我答应的晨跑，我来喊暂停",
+      "story": "分身留在家里拟计时方案；小帅与同学在老师看护下试跑，十秒休息倒计时引出大家对不同活动节奏的需求。",
+      "outcome": "老师批准这一组按意愿选择更慢的跑步、步行或拉伸；小帅自愿带慢跑组，约好午休听完苏小满的广播提案，尚未获准试播。",
+      "dramatic_beat": "小帅一坐下，整组都跟着坐下；刚坐稳，十秒休息计时就响了。",
+      "new_words": [
+        "dynamic",
+        "lifestyle",
+        "drag",
+        "tend to do sth",
+        "leisure"
+      ],
+      "video_review_words": [
+        "schedule",
+        "volunteer"
+      ],
+      "supplemental_html_review_words": [
+        "actually",
+        "differ",
+        "in person",
+        "frank",
+        "to be frank"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-005.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-005.html",
+      "html_completed_on": "2026-10-31",
+      "source_directory": "production/book-01/ep-005",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 6,
+      "id": "B01E006",
+      "unit": 1,
+      "arc": 1,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "她想要的不是保密费，是十分钟",
+      "story": "小帅午休听完苏小满的提案；老师许可课后讨论，分身带来全天节目表，苏小满只圈出一期十分钟。",
+      "outcome": "老师原则同意一期十分钟试播，三人提出自愿承担的候选分工，先交书面分工、完成设备检查，再确定试播日期。",
+      "dramatic_beat": "分身写了全天节目表，苏小满用笔只圈出十分钟。",
+      "new_words": [
+        "aim",
+        "target",
+        "organise",
+        "voluntary",
+        "competence"
+      ],
+      "video_review_words": [
+        "goal",
+        "challenge"
+      ],
+      "supplemental_html_review_words": [
+        "senior",
+        "secondary",
+        "previous",
+        "campus",
+        "junior"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-006.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-006.html",
+      "html_completed_on": "2026-10-31",
+      "source_directory": "production/book-01/ep-006",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 7,
+      "id": "B01E007",
+      "unit": 1,
+      "arc": 1,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "负责人的名字，不能写两个小帅",
+      "story": "分工草稿写了两个小帅；室内试听没有声音，小帅留下并寻求广播指导老师帮助，三人分别确认并签清自己的职责。",
+      "outcome": "准备组知晓分身来历，书面分工确认，音箱连接修正并通过室内试听；下周三放学后 16:40—16:50 的十分钟试播时段确定。",
+      "dramatic_beat": "同一张表上写了两个小帅，最后还得有人真正负责。",
+      "new_words": [
+        "responsible",
+        "be responsible for",
+        "function",
+        "seek",
+        "professional"
+      ],
+      "video_review_words": [
+        "organise",
+        "voluntary"
+      ],
+      "supplemental_html_review_words": [
+        "dynamic",
+        "lifestyle",
+        "drag",
+        "tend to do sth",
+        "leisure"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-007.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-007.html",
+      "html_completed_on": "2026-10-31",
+      "source_directory": "production/book-01/ep-007",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 8,
+      "id": "B01E008",
+      "unit": 1,
+      "arc": 2,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "电脑没坏，是我们点错了地方",
+      "story": "小帅亲自完成周五搬桌和英语分享后参加课后试录；音箱正常，回放却因他误触轨道静音而无声，分身的两页采购单还挡住了屏幕。",
+      "outcome": "老师指导取消轨道静音，同一段数字试音恢复播放并保存；现有硬件够本次测试，三人开始用搜索引擎找采访问题的思路。",
+      "dramatic_beat": "两页采购单把电脑挡住，真正的线索却只是播放轨道上一个带斜杠的小喇叭。",
+      "new_words": [
+        "laptop",
+        "digital",
+        "hardware",
+        "engine",
+        "search engine"
+      ],
+      "video_review_words": [
+        "function",
+        "professional"
+      ],
+      "supplemental_html_review_words": [
+        "confidence",
+        "volunteer",
+        "goal",
+        "challenge",
+        "schedule",
+        "aim",
+        "target",
+        "organise",
+        "voluntary",
+        "competence"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-008.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-008.html",
+      "html_completed_on": "2026-10-31",
+      "source_directory": "production/book-01/ep-008",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 9,
+      "id": "B01E009",
+      "unit": 1,
+      "arc": 2,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "搜了三小时，收获二十个聊天群",
+      "story": "周六在家查资料，三人逐渐看视频、回复争论、收藏群入口；午饭端来才发现三小时过去，采访页还空着。",
+      "outcome": "三人留下本人经历、同学受访意愿与手册地图三条有来源的线索，回到真实同学采访，并保存小帅半分钟个人口述草稿。",
+      "dramatic_beat": "群聊入口收藏了二十个，采访页却几乎空白；妈妈问查到的东西能不能下饭。",
+      "new_words": [
+        "chat",
+        "surf",
+        "surf the Internet",
+        "media",
+        "social media"
+      ],
+      "video_review_words": [
+        "search engine",
+        "digital"
+      ],
+      "supplemental_html_review_words": [
+        "stressful",
+        "challenging",
+        "arise",
+        "expectation",
+        "pressure",
+        "responsible",
+        "be responsible for",
+        "function",
+        "seek",
+        "professional"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-009.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-009.html",
+      "html_completed_on": "2026-10-31",
+      "source_directory": "production/book-01/ep-009",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 10,
+      "id": "B01E010",
+      "unit": 1,
+      "arc": 2,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "为了戒手机，他差点删掉整个节目",
+      "story": "周六午饭后分身整理自己的临时截图，误选含短试音、个人口述草稿和笔记的广播准备工程；小帅在确认前取消删除，三人关闭提醒和无关网页。",
+      "outcome": "全部准备文件保留；苏小满回家前，第一期收拢到高马尾同学首日找图书馆的受助经历，保存三问提纲，正式采访仍待周一安排。",
+      "dramatic_beat": "分身追求清爽屏幕，差点把工作也清掉；小帅及时点取消，最后分身先问能不能借麦克风。",
+      "new_words": [
+        "addict",
+        "reduce",
+        "remove",
+        "entirely",
+        "stressed"
+      ],
+      "video_review_words": [
+        "social media",
+        "laptop"
+      ],
+      "supplemental_html_review_words": [
+        "actually",
+        "differ",
+        "in person",
+        "frank",
+        "to be frank",
+        "laptop",
+        "digital",
+        "hardware",
+        "engine",
+        "search engine"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-010.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-010.html",
+      "html_completed_on": "2026-11-01",
+      "source_directory": "production/book-01/ep-010",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22,
+      "supplemental_review_rendering_note": "到期10项中的laptop已在主线复习卡呈现，课后补充其余9项，词卡不重复。"
+    },
+    {
+      "number": 11,
+      "id": "B01E011",
+      "unit": 1,
+      "arc": 2,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "设备清单很豪华，钱包不同意",
+      "story": "周一放学后分身带来豪华设备清单，小帅的钱包只剩一枚零钱；苏小满按图书馆桌边采访需求，在老师登记借用设备后组织现场试录。",
+      "outcome": "普通 USB 麦克风与现有学校电脑试录通过，三人优先借用、保留必要经费而未购买；周二16:40—16:50首次采访已确认，先约远程核对三问。",
+      "dramatic_beat": "设备愿望清单长得垂到地上，钱包只剩一枚硬币；现场试听后，清单折小，需求说清。",
+      "new_words": [
+        "range",
+        "various",
+        "sort",
+        "all sorts of",
+        "quality",
+        "necessity"
+      ],
+      "video_review_words": [
+        "hardware",
+        "laptop"
+      ],
+      "supplemental_html_review_words": [
+        "senior",
+        "secondary",
+        "previous",
+        "campus",
+        "junior",
+        "chat",
+        "surf",
+        "surf the Internet",
+        "media",
+        "social media"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-011.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-011.html",
+      "html_completed_on": "2026-11-01",
+      "source_directory": "production/book-01/ep-011",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 12,
+      "id": "B01E012",
+      "unit": 1,
+      "arc": 2,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "我都说到第三句了，你还在第一句",
+      "story": "周一傍晚在小帅家免提核对三问，延迟和分身连发重排提纲叠加；小帅读原稿第三条时，远端同学还在核对新图第一条。",
+      "outcome": "统一“核对版A”并让远端复述确认，逐条交接，十分钟核对按时完成；周二采访和周三试播安排不变，小帅开始练开场。",
+      "dramatic_beat": "两端同时说“你先说”，又同时停下；小帅和受访同学说的第一条、第三条其实来自不同顺序。",
+      "new_words": [
+        "convenient",
+        "according to",
+        "update",
+        "meanwhile",
+        "distance"
+      ],
+      "video_review_words": [
+        "organise",
+        "schedule"
+      ],
+      "supplemental_html_review_words": [
+        "dynamic",
+        "lifestyle",
+        "drag",
+        "tend to do sth",
+        "leisure",
+        "addict",
+        "reduce",
+        "remove",
+        "entirely",
+        "stressed"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-012.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-012.html",
+      "html_completed_on": "2026-11-01",
+      "source_directory": "production/book-01/ep-012",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 13,
+      "id": "B01E013",
+      "unit": 1,
+      "arc": 2,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "背熟了台词，忘了听别人说什么",
+      "story": "周二正式采访中，小帅照预写接话背格言，没有听完同学不敢问路的真实回答；苏小满提议暂停，小帅折起逐字稿，保留三问后追问。",
+      "outcome": "同学讲清两位新生一起向高年级同学问路的经过与没那么孤单的感受；采访独立保存并获确认使用，三人按真实回答修订主持结语，等待周三试播。",
+      "dramatic_beat": "小帅说到“Practice makes...”，同学反问“Practice getting lost?”；他放下背好的下一句，亲口问出“What did you do next?”。",
+      "new_words": [
+        "teen",
+        "native",
+        "saying",
+        "ahead",
+        "get ahead",
+        "revise"
+      ],
+      "video_review_words": [
+        "confidence",
+        "chat"
+      ],
+      "supplemental_html_review_words": [
+        "aim",
+        "target",
+        "organise",
+        "voluntary",
+        "competence",
+        "range",
+        "various",
+        "sort",
+        "all sorts of",
+        "quality",
+        "necessity"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-013.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-013.html",
+      "html_completed_on": "2026-11-01",
+      "source_directory": "production/book-01/ep-013",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 14,
+      "id": "B01E014",
+      "unit": 1,
+      "arc": 2,
+      "kind": "review-story",
+      "status": "html-ready",
+      "title": "直播前十秒，谁把提词卡翻过去了",
+      "story": "周三开播前十秒，小帅发现结语卡在最上面；分身逐张检查后叠反了顺序。三人恢复三卡原顺序、明确交接，小帅亲自开场，老师在场监看。",
+      "outcome": "16:40—16:50 第一期校内广播试播按时完成，获同意的采访片段与实际分工清楚呈现；老师邀请准备家人一天的提案，小帅先问妈妈意愿与时间。",
+      "dramatic_beat": "还没开场就看到“感谢收听”；这次小帅主动开场，分身等他讲完再播放，也等他说完才询问下次如何协助。",
+      "new_words": [],
+      "video_review_words": [
+        "confidence",
+        "volunteer",
+        "goal",
+        "schedule",
+        "organise",
+        "quality"
+      ],
+      "supplemental_html_review_words": [
+        "responsible",
+        "be responsible for",
+        "function",
+        "seek",
+        "professional",
+        "convenient",
+        "according to",
+        "update",
+        "meanwhile",
+        "distance"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-014.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-014.html",
+      "html_completed_on": "2026-11-01",
+      "source_directory": "production/book-01/ep-014",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22,
+      "vocabulary_mode": "review",
+      "new_word_count": 0,
+      "core_review_word_count": 6,
+      "supplemental_review_word_count": 10
+    },
+    {
+      "number": 15,
+      "id": "B01E015",
+      "unit": 1,
+      "arc": 3,
+      "kind": "new-vocabulary-story",
+      "status": "html-ready",
+      "title": "我妈下班了，我的录音才刚开始",
+      "story": "周六八点三人在小帅家准备提纲、试录他自己的开场，小帅把准备时间误写成采访时间；妈妈刚下夜班只想先休息，三人停下并重新确认。",
+      "outcome": "正式妈妈采访尚未开始，改约妈妈今晚不上夜班后的周日10:00—10:10，开录前再确认。手机纸笔收起，妈妈休息，小帅仍担心承诺，接续下一集。",
+      "dramatic_beat": "问妈妈早餐最想要什么，她答“安静”，连分身也用放下笔来记这一条。",
+      "new_words": [
+        "apartment",
+        "living room",
+        "am",
+        "shift",
+        "from time to time"
+      ],
+      "video_review_words": [
+        "schedule",
+        "pressure"
+      ],
+      "supplemental_html_review_words": [
+        "laptop",
+        "digital",
+        "hardware",
+        "engine",
+        "search engine",
+        "teen",
+        "native",
+        "saying",
+        "ahead",
+        "get ahead",
+        "revise"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-015.html",
+      "html_created": true,
+      "html_path": "episodes/book-01/ep-015.html",
+      "html_completed_on": "2026-11-01",
+      "source_directory": "production/book-01/ep-015",
+      "html_format": "reading-html",
+      "html_contents": [
+        "script",
+        "english_narration",
+        "bilingual_subtitles",
+        "pictures",
+        "vocabulary"
+      ],
+      "voiceover_language": "English",
+      "subtitle_languages": [
+        "English",
+        "简体中文"
+      ],
+      "subtitle_pair_count": 22
+    },
+    {
+      "number": 16,
+      "id": "B01E016",
+      "unit": 1,
+      "arc": 3,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "日程空了，人怎么还是很累",
+      "story": "虽然删掉几件事，小帅仍担心让所有人失望；苏小满让他列出真正使自己紧张的承诺。",
+      "outcome": "他取消一项非必要任务，并准备向受访者询问如何面对工作压力。",
+      "dramatic_beat": "表上明明删了任务，小帅脑子里的催促却没删。",
+      "new_words": [
+        "stress",
+        "suffer",
+        "suffer from",
+        "tension",
+        "due to"
+      ],
+      "video_review_words": [
+        "stressed",
+        "reduce"
+      ],
+      "supplemental_html_review_words": [
+        "chat",
+        "surf",
+        "surf the Internet",
+        "media",
+        "social media"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-016.html",
+      "html_created": false
+    },
+    {
+      "number": 17,
+      "id": "B01E017",
+      "unit": 1,
+      "arc": 3,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "他说一句绝对没问题，问题就来了",
+      "story": "分身写出万能减压结论，母亲提醒他们先听当事人的经历；三人把绝对判断改成具体提问。",
+      "outcome": "采访方向由成功秘诀改成普通人怎样安排生活。",
+      "dramatic_beat": "自称专家的分身，被问到简介是谁写的。",
+      "new_words": [
+        "expert",
+        "absolutely",
+        "extent",
+        "thus",
+        "in other words"
+      ],
+      "video_review_words": [
+        "seek",
+        "professional"
+      ],
+      "supplemental_html_review_words": [
+        "addict",
+        "reduce",
+        "remove",
+        "entirely",
+        "stressed",
+        "apartment",
+        "living room",
+        "am",
+        "shift",
+        "from time to time"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-017.html",
+      "html_created": false
+    },
+    {
+      "number": 18,
+      "id": "B01E018",
+      "unit": 1,
+      "arc": 3,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "我的人生，不是你的热血剪辑",
+      "story": "母亲讲起曾在军队医院任职的经历，分身把普通工作剪成闯关大片；小帅请母亲确认原意，保留平实讲述。",
+      "outcome": "母亲同意节目播出，并介绍一位参与乡村学校交流的校友。",
+      "dramatic_beat": "热血配乐响起，母亲平静地说：那天我只是在整理资料。",
+      "new_words": [
+        "position",
+        "military",
+        "editor",
+        "chapter",
+        "all in all"
+      ],
+      "video_review_words": [
+        "in person",
+        "quality"
+      ],
+      "supplemental_html_review_words": [
+        "range",
+        "various",
+        "sort",
+        "all sorts of",
+        "quality",
+        "necessity",
+        "stress",
+        "suffer",
+        "suffer from",
+        "tension",
+        "due to"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-018.html",
+      "html_created": false
+    },
+    {
+      "number": 19,
+      "id": "B01E019",
+      "unit": 1,
+      "arc": 3,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "还没采访完，他已经申请去了",
+      "story": "校友分享毕业后的选择，分身看到证书就急着申请参与活动；苏小满追问他究竟能贡献什么。",
+      "outcome": "三人先申请与乡村伙伴共同制作声音节目，得到指导老师支持。",
+      "dramatic_beat": "分身先做了参与证，才发现申请还没写完。",
+      "new_words": [
+        "graduate",
+        "graduate from",
+        "certificate",
+        "inspire",
+        "apply",
+        "eager"
+      ],
+      "video_review_words": [
+        "goal",
+        "voluntary"
+      ],
+      "supplemental_html_review_words": [
+        "convenient",
+        "according to",
+        "update",
+        "meanwhile",
+        "distance",
+        "expert",
+        "absolutely",
+        "extent",
+        "thus",
+        "in other words"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-019.html",
+      "html_created": false
+    },
+    {
+      "number": 20,
+      "id": "B01E020",
+      "unit": 1,
+      "arc": 3,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "她不要我们的标准答案",
+      "story": "远程伙伴已独立做过节目，拒绝照搬三人的城市校园脚本；小帅想退出，苏小满提议各讲一种日常声音。",
+      "outcome": "双方确定平等交换素材，约好一次由老师带队的周末录音。",
+      "dramatic_beat": "被他们想象成等待帮助的伙伴，先教了他们一招录音办法。",
+      "new_words": [
+        "province",
+        "rural",
+        "independently",
+        "tough",
+        "deal with",
+        "give up"
+      ],
+      "video_review_words": [
+        "inspire",
+        "apply"
+      ],
+      "supplemental_html_review_words": [
+        "teen",
+        "native",
+        "saying",
+        "ahead",
+        "get ahead",
+        "revise",
+        "position",
+        "military",
+        "editor",
+        "chapter",
+        "all in all"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-020.html",
+      "html_created": false
+    },
+    {
+      "number": 21,
+      "id": "B01E021",
+      "unit": 1,
+      "arc": 3,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "最好的那一遍，偏偏没有电",
+      "story": "周末录音遇到供电不稳、泥路和积灰的旧支架；三人收拾器材，改用能正常工作的离线设备继续录。",
+      "outcome": "一段不完美但完整的现场声音留下来，大家决定筹集缺少的基础器材。",
+      "dramatic_beat": "最精致的设备停机后，大家才听清现场原来的声音。",
+      "new_words": [
+        "power",
+        "supply",
+        "unstable",
+        "dusty",
+        "muddy",
+        "flash"
+      ],
+      "video_review_words": [
+        "responsible",
+        "deal with"
+      ],
+      "supplemental_html_review_words": [
+        "graduate",
+        "graduate from",
+        "certificate",
+        "inspire",
+        "apply",
+        "eager"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-021.html",
+      "html_created": false
+    },
+    {
+      "number": 22,
+      "id": "B01E022",
+      "unit": 1,
+      "arc": 4,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "帮忙之前，先问他们缺什么",
+      "story": "分身想募一大箱物品，伙伴列出的需求却很具体；三人联系学校合作的公益机构，先确认数量和用途。",
+      "outcome": "交换计划有了可执行清单，小帅负责联络和记录。",
+      "dramatic_beat": "分身准备一大箱礼物，对方清单上只有几件确实用得到的东西。",
+      "new_words": [
+        "contact",
+        "charity",
+        "organisation",
+        "contribution",
+        "intend"
+      ],
+      "video_review_words": [
+        "supply",
+        "necessity"
+      ],
+      "supplemental_html_review_words": [
+        "apartment",
+        "living room",
+        "am",
+        "shift",
+        "from time to time",
+        "province",
+        "rural",
+        "independently",
+        "tough",
+        "deal with",
+        "give up"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-022.html",
+      "html_created": false
+    },
+    {
+      "number": 23,
+      "id": "B01E023",
+      "unit": 1,
+      "arc": 4,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "最好笑的那段，不是分身写的",
+      "story": "剪片时分身删掉失误和笑声，节目变得四平八稳；苏小满让伙伴自己选能代表他们的片段。",
+      "outcome": "节目保留双方的特点和笑声，分身接受自己并非最会判断的人。",
+      "dramatic_beat": "精心写的笑话没人笑，保留的一次真实失误让双方都笑了。",
+      "new_words": [
+        "attractive",
+        "as well as",
+        "laughter",
+        "confident",
+        "feature",
+        "typical"
+      ],
+      "video_review_words": [
+        "editor",
+        "quality"
+      ],
+      "supplemental_html_review_words": [
+        "stress",
+        "suffer",
+        "suffer from",
+        "tension",
+        "due to",
+        "power",
+        "supply",
+        "unstable",
+        "dusty",
+        "muddy",
+        "flash"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-023.html",
+      "html_created": false
+    },
+    {
+      "number": 24,
+      "id": "B01E024",
+      "unit": 1,
+      "arc": 4,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "这份申请，为什么像给同桌发消息",
+      "story": "交流节目要做校内汇报，小帅把聊天记录当正式申请；三人改写结构，却保留各自真实的话。",
+      "outcome": "申请获得小额器材支持，下一次播出由小帅本人陈述。",
+      "dramatic_beat": "给学校的申请第一版，开头竟然只有一句在吗。",
+      "new_words": [
+        "formal",
+        "informal",
+        "adapt",
+        "adapt to sth",
+        "presentation",
+        "slide"
+      ],
+      "video_review_words": [
+        "apply",
+        "organisation"
+      ],
+      "supplemental_html_review_words": [
+        "expert",
+        "absolutely",
+        "extent",
+        "thus",
+        "in other words",
+        "contact",
+        "charity",
+        "organisation",
+        "contribution",
+        "intend"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-024.html",
+      "html_created": false
+    },
+    {
+      "number": 25,
+      "id": "B01E025",
+      "unit": 1,
+      "arc": 4,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "广播还没开播，体育馆先借走了人",
+      "story": "为下期运动栏目做采访，三人到体育馆找陈野；旧伤恢复中的陈野不能示范，小帅只好先拍讲解板。",
+      "outcome": "配错的消化与娱乐图标造成笑话，片子重做；陈野提醒小帅月底篮球补选将到。",
+      "dramatic_beat": "画面明明是篮球场，图标却是一只忙着消化的胃。",
+      "new_words": [
+        "gym",
+        "recreation",
+        "entertainment",
+        "digestion",
+        "recover",
+        "injury"
+      ],
+      "video_review_words": [
+        "in person",
+        "contact"
+      ],
+      "supplemental_html_review_words": [
+        "position",
+        "military",
+        "editor",
+        "chapter",
+        "all in all",
+        "attractive",
+        "as well as",
+        "laughter",
+        "confident",
+        "feature",
+        "typical"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-025.html",
+      "html_created": false
+    },
+    {
+      "number": 26,
+      "id": "B01E026",
+      "unit": 1,
+      "arc": 4,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "庆功饭还没吃上，补选通知先到了",
+      "story": "三人约在市中心小餐馆庆祝，小帅收到篮球补选的确定时间；他想再找分身代去，被问住了。",
+      "outcome": "小帅明确回复会亲自参加，回校广播也由自己完成。",
+      "dramatic_beat": "庆功饭的座位刚坐热，新任务的消息就亮了。",
+      "new_words": [
+        "unfortunately",
+        "definitely",
+        "café",
+        "downtown",
+        "at the moment"
+      ],
+      "video_review_words": [
+        "schedule",
+        "pressure"
+      ],
+      "supplemental_html_review_words": [
+        "graduate",
+        "graduate from",
+        "certificate",
+        "inspire",
+        "apply",
+        "eager",
+        "formal",
+        "informal",
+        "adapt",
+        "adapt to sth",
+        "presentation",
+        "slide"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-026.html",
+      "html_created": false
+    },
+    {
+      "number": 27,
+      "id": "B01E027",
+      "unit": 1,
+      "arc": 4,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "这次站到前面的，得是我",
+      "story": "校内成果展示前，分身习惯性走向麦克风，小帅请他停一下；苏小满也为自己的策划署名。",
+      "outcome": "三人各自认领贡献，小帅独立讲完自己的选择，准备公开讲述合作过程。",
+      "dramatic_beat": "两个小帅同时向前一步，这次分身先退回去。",
+      "new_words": [
+        "forward",
+        "look forward to (doing) sth",
+        "moment",
+        "plus",
+        "besides"
+      ],
+      "video_review_words": [
+        "presentation",
+        "confidence"
+      ],
+      "supplemental_html_review_words": [
+        "province",
+        "rural",
+        "independently",
+        "tough",
+        "deal with",
+        "give up",
+        "gym",
+        "recreation",
+        "entertainment",
+        "digestion",
+        "recover",
+        "injury"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-027.html",
+      "html_created": false
+    },
+    {
+      "number": 28,
+      "id": "B01E028",
+      "unit": 1,
+      "arc": 4,
+      "kind": "review-story",
+      "status": "planned",
+      "title": "分身能替我开口，替不了我做决定",
+      "story": "复习剧情：广播采访现场有人追问两个小帅的分工；小帅说明起因，承认逃避，并讲清现在各自的职责。",
+      "outcome": "首个项目收尾，分身身份在校园公开；小帅带着篮球补选通知进入第二篇。",
+      "dramatic_beat": "开头想隐藏的两个人，结尾终于能一起说清分工。",
+      "new_words": [],
+      "video_review_words": [
+        "schedule",
+        "confidence",
+        "volunteer",
+        "responsible",
+        "give up",
+        "deal with"
+      ],
+      "supplemental_html_review_words": [
+        "power",
+        "supply",
+        "unstable",
+        "dusty",
+        "muddy",
+        "flash",
+        "unfortunately",
+        "definitely",
+        "café",
+        "downtown",
+        "at the moment"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-028.html",
+      "html_created": false
+    },
+    {
+      "number": 29,
+      "id": "B01E029",
+      "unit": 2,
+      "arc": 5,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "这次报名表，是我自己点开的",
+      "story": "小帅按约参加篮球补选，同时协助年度运动活动的广播；分身伸手代填，被小帅收回表格。",
+      "outcome": "报名以小帅本人的名字完成，试训按实际能力安排。",
+      "dramatic_beat": "分身的手快碰到提交，小帅把表转回自己面前。",
+      "new_words": [
+        "athlete",
+        "sign up",
+        "annual",
+        "application",
+        "try out for sth"
+      ],
+      "video_review_words": [
+        "goal",
+        "volunteer"
+      ],
+      "supplemental_html_review_words": [
+        "contact",
+        "charity",
+        "organisation",
+        "contribution",
+        "intend",
+        "forward",
+        "look forward to (doing) sth",
+        "moment",
+        "plus",
+        "besides"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-029.html",
+      "html_created": false
+    },
+    {
+      "number": 30,
+      "id": "B01E030",
+      "unit": 2,
+      "arc": 5,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "我喜欢篮球，不代表我什么都会",
+      "story": "运动活动征集体验项目，分身替所有人勾选一整排；同学分别选择羽毛球、体操、骑车或滑板。",
+      "outcome": "项目按个人偏好重新分组，篮球试训保留小帅自己的选择。",
+      "dramatic_beat": "一张报名表勾满了项目，人却只有一双腿。",
+      "new_words": [
+        "prefer",
+        "rather than",
+        "badminton",
+        "gymnastics",
+        "cycle",
+        "skateboard"
+      ],
+      "video_review_words": [
+        "aim",
+        "challenge"
+      ],
+      "supplemental_html_review_words": [
+        "attractive",
+        "as well as",
+        "laughter",
+        "confident",
+        "feature",
+        "typical"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-030.html",
+      "html_created": false
+    },
+    {
+      "number": 31,
+      "id": "B01E031",
+      "unit": 2,
+      "arc": 5,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "球进了，后卫却不知道站哪儿",
+      "story": "小帅投进一次球就觉得能打比赛，试训中却找不到防守位置；教练用限时练习暴露问题。",
+      "outcome": "他拿到基本功练习任务，不能只靠一记漂亮投篮。",
+      "dramatic_beat": "漂亮进球的特写之后，镜头一拉远，他站错了位置。",
+      "new_words": [
+        "shot",
+        "net",
+        "court",
+        "within",
+        "defence",
+        "bounce"
+      ],
+      "video_review_words": [
+        "athlete",
+        "challenging"
+      ],
+      "supplemental_html_review_words": [
+        "formal",
+        "informal",
+        "adapt",
+        "adapt to sth",
+        "presentation",
+        "slide",
+        "athlete",
+        "sign up",
+        "annual",
+        "application",
+        "try out for sth"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-031.html",
+      "html_created": false
+    },
+    {
+      "number": 32,
+      "id": "B01E032",
+      "unit": 2,
+      "arc": 5,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "宣传片里，为什么只有最厉害的人",
+      "story": "广播选题总追着冠军，小帅在镜头外当背景；陈野提议记录不被看好的队员如何争取机会。",
+      "outcome": "苏小满把系列采访对准替补席，小帅决定接受跟拍。",
+      "dramatic_beat": "海报做了三版，小帅发现三版主角都是陈野。",
+      "new_words": [
+        "underdog",
+        "champion",
+        "desire",
+        "guy",
+        "inspiration"
+      ],
+      "video_review_words": [
+        "confidence",
+        "goal"
+      ],
+      "supplemental_html_review_words": [
+        "gym",
+        "recreation",
+        "entertainment",
+        "digestion",
+        "recover",
+        "injury",
+        "prefer",
+        "rather than",
+        "badminton",
+        "gymnastics",
+        "cycle",
+        "skateboard"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-032.html",
+      "html_created": false
+    },
+    {
+      "number": 33,
+      "id": "B01E033",
+      "unit": 2,
+      "arc": 5,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "替补这个词，怎么听着像我本人",
+      "story": "小帅落到替补席，分身想代替他证明能力；小帅拒绝换人，向教练问清还欠缺什么。",
+      "outcome": "他接受替补身份并争取一次真实上场机会。",
+      "dramatic_beat": "名字可以相同，训练记录却不能互相借用。",
+      "new_words": [
+        "bench",
+        "replacement",
+        "capable",
+        "be capable of",
+        "disappointment"
+      ],
+      "video_review_words": [
+        "try out for sth",
+        "champion"
+      ],
+      "supplemental_html_review_words": [
+        "unfortunately",
+        "definitely",
+        "café",
+        "downtown",
+        "at the moment",
+        "shot",
+        "net",
+        "court",
+        "within",
+        "defence",
+        "bounce"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-033.html",
+      "html_created": false
+    },
+    {
+      "number": 34,
+      "id": "B01E034",
+      "unit": 2,
+      "arc": 5,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "全队围过来，先让出一条路",
+      "story": "练习中陈野与器材包相撞，队员一拥而上；教练让大家散开，联系校医，训练暂停。",
+      "outcome": "陈野按评估休息，小帅接到替补训练安排；故事不靠带伤硬撑推进。",
+      "dramatic_beat": "围得最紧的热心人，先学会把通道让出来。",
+      "new_words": [
+        "crash",
+        "crash into",
+        "gather",
+        "gather around",
+        "pack",
+        "sharply"
+      ],
+      "video_review_words": [
+        "injury",
+        "recover"
+      ],
+      "supplemental_html_review_words": [
+        "forward",
+        "look forward to (doing) sth",
+        "moment",
+        "plus",
+        "besides",
+        "underdog",
+        "champion",
+        "desire",
+        "guy",
+        "inspiration"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-034.html",
+      "html_created": false
+    },
+    {
+      "number": 35,
+      "id": "B01E035",
+      "unit": 2,
+      "arc": 6,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "提醒卡写了十条，他漏看了第一条",
+      "story": "分身做了一长串训练提醒，小帅边吃面包边进场，才发现最显眼的规则被挤到最后。",
+      "outcome": "提醒卡改成少量关键事项，备用物品也有了固定位置。",
+      "dramatic_beat": "提醒卡长得像跑道，真正要看的那条藏在最后。",
+      "new_words": [
+        "remind",
+        "prohibit",
+        "case",
+        "in case",
+        "bite"
+      ],
+      "video_review_words": [
+        "injury",
+        "responsible"
+      ],
+      "supplemental_html_review_words": [
+        "bench",
+        "replacement",
+        "capable",
+        "be capable of",
+        "disappointment"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-035.html",
+      "html_created": false
+    },
+    {
+      "number": 36,
+      "id": "B01E036",
+      "unit": 2,
+      "arc": 6,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "他以为练到疼，才算认真",
+      "story": "小帅为赶进度自行加量，第二天连日常动作都不自在；老师叫停额外练习，重新确认训练安排。",
+      "outcome": "他接受循序练习的要求，分身不再把每次停下来都当失败。",
+      "dramatic_beat": "小帅摆出训练很有效的姿势，下一秒连抬手都犹豫。",
+      "new_words": [
+        "warm-up",
+        "muscle",
+        "bone",
+        "overdo",
+        "ache",
+        "make sure"
+      ],
+      "video_review_words": [
+        "remind",
+        "pressure"
+      ],
+      "supplemental_html_review_words": [
+        "athlete",
+        "sign up",
+        "annual",
+        "application",
+        "try out for sth",
+        "crash",
+        "crash into",
+        "gather",
+        "gather around",
+        "pack",
+        "sharply"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-036.html",
+      "html_created": false
+    },
+    {
+      "number": 37,
+      "id": "B01E037",
+      "unit": 2,
+      "arc": 6,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "每天多练一百次，谁批准的",
+      "story": "分身的周计划远超小帅能完成的量；三人按出勤、频次和实际任务重排计划。",
+      "outcome": "小帅得到可持续的小目标，广播也记录真实进度。",
+      "dramatic_beat": "分身的新计划把每分钟都填满，连改计划的时间都没留。",
+      "new_words": [
+        "frequency",
+        "regularly",
+        "weekly",
+        "achievable",
+        "amount",
+        "principle"
+      ],
+      "video_review_words": [
+        "schedule",
+        "target"
+      ],
+      "supplemental_html_review_words": [
+        "prefer",
+        "rather than",
+        "badminton",
+        "gymnastics",
+        "cycle",
+        "skateboard",
+        "remind",
+        "prohibit",
+        "case",
+        "in case",
+        "bite"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-037.html",
+      "html_created": false
+    },
+    {
+      "number": 38,
+      "id": "B01E038",
+      "unit": 2,
+      "arc": 6,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "跑最后一个，也是在往前跑",
+      "story": "队伍慢跑时小帅总想追上最快的人；陈野陪他按自己的节奏完成这一段。",
+      "outcome": "小帅第一次完整做完计划训练，允许镜头保留自己落后的样子。",
+      "dramatic_beat": "视频一快进谁都像冠军，正常速度下的坚持才属于本人。",
+      "new_words": [
+        "jog",
+        "track",
+        "energy",
+        "sweat",
+        "keep up with"
+      ],
+      "video_review_words": [
+        "weekly",
+        "achievable"
+      ],
+      "supplemental_html_review_words": [
+        "shot",
+        "net",
+        "court",
+        "within",
+        "defence",
+        "bounce",
+        "warm-up",
+        "muscle",
+        "bone",
+        "overdo",
+        "ache",
+        "make sure"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-038.html",
+      "html_created": false
+    },
+    {
+      "number": 39,
+      "id": "B01E039",
+      "unit": 2,
+      "arc": 6,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "我想听的，不是你别紧张",
+      "story": "小帅听腻了空泛鼓励；苏小满请他指出具体困难，分身只给一条当下能用的提示。",
+      "outcome": "他完成一次配合，紧张缓解；三人重新理解什么叫帮忙。",
+      "dramatic_beat": "鼓励从一大串口号，缩成一句能马上用上的提示。",
+      "new_words": [
+        "tip",
+        "ought to",
+        "relieve",
+        "relief",
+        "cheer up"
+      ],
+      "video_review_words": [
+        "confidence",
+        "pressure"
+      ],
+      "supplemental_html_review_words": [
+        "underdog",
+        "champion",
+        "desire",
+        "guy",
+        "inspiration",
+        "frequency",
+        "regularly",
+        "weekly",
+        "achievable",
+        "amount",
+        "principle"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-039.html",
+      "html_created": false
+    },
+    {
+      "number": 40,
+      "id": "B01E040",
+      "unit": 2,
+      "arc": 6,
+      "kind": "review-story",
+      "status": "planned",
+      "title": "换人牌举起来了，这次没人替我",
+      "story": "复习剧情：训练赛轮到小帅上场，他用旧表达确认任务、提醒队友；分身留在场边。",
+      "outcome": "小帅完成有限但真实的贡献，球队愿意继续给他机会。",
+      "dramatic_beat": "分身举手说我自愿，这次申请的是场边记分。",
+      "new_words": [],
+      "video_review_words": [
+        "goal",
+        "challenge",
+        "replacement",
+        "keep up with",
+        "be capable of",
+        "relief"
+      ],
+      "supplemental_html_review_words": [
+        "bench",
+        "replacement",
+        "capable",
+        "be capable of",
+        "disappointment",
+        "jog",
+        "track",
+        "energy",
+        "sweat",
+        "keep up with"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-040.html",
+      "html_created": false
+    },
+    {
+      "number": 41,
+      "id": "B01E041",
+      "unit": 2,
+      "arc": 7,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "采访别人之前，她也试了一次",
+      "story": "苏小满筹备运动体验栏目，发现只看器材说明无法写出细节；她参加一次体育馆体验，允许自己动作生疏。",
+      "outcome": "她把受访者能否参与和获得什么放进策划，减少对表现的单一评价。",
+      "dramatic_beat": "苏小满把自己不熟练的一次也写进采访稿。",
+      "new_words": [
+        "membership",
+        "equipment",
+        "upper",
+        "flexibility",
+        "benefit"
+      ],
+      "video_review_words": [
+        "in person",
+        "challenging"
+      ],
+      "supplemental_html_review_words": [
+        "crash",
+        "crash into",
+        "gather",
+        "gather around",
+        "pack",
+        "sharply",
+        "tip",
+        "ought to",
+        "relieve",
+        "relief",
+        "cheer up"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-041.html",
+      "html_created": false
+    },
+    {
+      "number": 42,
+      "id": "B01E042",
+      "unit": 2,
+      "arc": 7,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "健身海报把话说得太满了",
+      "story": "分身将宣传口号写成任何问题都能靠训练解决；体育老师让三人用课堂图示讲清系统和作用。",
+      "outcome": "夸张口号被删，节目改成由老师解释、学生提问。",
+      "dramatic_beat": "看起来最有气势的海报，恰好是老师先要求改的那张。",
+      "new_words": [
+        "strengthen",
+        "immune",
+        "system",
+        "immune system",
+        "prevent"
+      ],
+      "video_review_words": [
+        "benefit",
+        "expert"
+      ],
+      "supplemental_html_review_words": [
+        "remind",
+        "prohibit",
+        "case",
+        "in case",
+        "bite"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-042.html",
+      "html_created": false
+    },
+    {
+      "number": 43,
+      "id": "B01E043",
+      "unit": 2,
+      "arc": 7,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "一键生成的菜单，没问过吃饭的人",
+      "story": "为了做栏目，分身照着网页拼出同一种饮食清单；食堂访谈让他们发现细节和个人需要被忽略。",
+      "outcome": "三人只整理可核对的信息和课堂词义，把个别健康问题交给专业人员回答。",
+      "dramatic_beat": "打印机能给每个人吐出同一张菜单，食堂窗口却有不同的选择。",
+      "new_words": [
+        "balanced",
+        "diet",
+        "disease",
+        "guideline",
+        "click",
+        "detail"
+      ],
+      "video_review_words": [
+        "expert",
+        "according to"
+      ],
+      "supplemental_html_review_words": [
+        "warm-up",
+        "muscle",
+        "bone",
+        "overdo",
+        "ache",
+        "make sure",
+        "membership",
+        "equipment",
+        "upper",
+        "flexibility",
+        "benefit"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-043.html",
+      "html_created": false
+    },
+    {
+      "number": 44,
+      "id": "B01E044",
+      "unit": 2,
+      "arc": 7,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "一层楼的距离，他这次没催我",
+      "story": "校园采访要搬器材上楼，分身一心赶进度；小帅按分工停下来休息，旁边课堂模型正好说明血流与氧气。",
+      "outcome": "任务按各自状态完成，进步用真实体验来记录。",
+      "dramatic_beat": "分身想展示进步曲线，小帅先把下一箱器材递给他。",
+      "new_words": [
+        "in good / bad shape",
+        "stair",
+        "oxygen",
+        "flow",
+        "satisfaction"
+      ],
+      "video_review_words": [
+        "warm-up",
+        "energy"
+      ],
+      "supplemental_html_review_words": [
+        "frequency",
+        "regularly",
+        "weekly",
+        "achievable",
+        "amount",
+        "principle",
+        "strengthen",
+        "immune",
+        "system",
+        "immune system",
+        "prevent"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-044.html",
+      "html_created": false
+    },
+    {
+      "number": 45,
+      "id": "B01E045",
+      "unit": 2,
+      "arc": 7,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "你说随便，我真的不能随便选",
+      "story": "运动活动准备中，分身默认苏小满最讨厌某个项目；她坦率说出自己在意的时段与参加方式。",
+      "outcome": "被占用的时间重新协调，三人学会直接询问。",
+      "dramatic_beat": "表格里可以写随便，现场总得有人说明自己想选什么。",
+      "new_words": [
+        "be fed up with",
+        "awkward",
+        "particular",
+        "in particular",
+        "occupy"
+      ],
+      "video_review_words": [
+        "prefer",
+        "rather than"
+      ],
+      "supplemental_html_review_words": [
+        "jog",
+        "track",
+        "energy",
+        "sweat",
+        "keep up with",
+        "balanced",
+        "diet",
+        "disease",
+        "guideline",
+        "click",
+        "detail"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-045.html",
+      "html_created": false
+    },
+    {
+      "number": 46,
+      "id": "B01E046",
+      "unit": 2,
+      "arc": 7,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "介绍项目的人，把自己介绍晕了",
+      "story": "开放日节目单上有拳击、模拟高尔夫和保龄球；小帅排练时拿乱了顺序卡，熟悉的解说也串到一起。",
+      "outcome": "分身帮他把卡片按项目整理，先等搭档说完再补充；正式活动顺利开场。",
+      "dramatic_beat": "四种项目全背熟了，拿错顺序卡还是会串台。",
+      "new_words": [
+        "boxing",
+        "belt",
+        "golf",
+        "bowling",
+        "announcement",
+        "audience"
+      ],
+      "video_review_words": [
+        "organise",
+        "make sure"
+      ],
+      "supplemental_html_review_words": [
+        "tip",
+        "ought to",
+        "relieve",
+        "relief",
+        "cheer up",
+        "in good / bad shape",
+        "stair",
+        "oxygen",
+        "flow",
+        "satisfaction"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-046.html",
+      "html_created": false
+    },
+    {
+      "number": 47,
+      "id": "B01E047",
+      "unit": 2,
+      "arc": 8,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "我说不再硬撑，他听成我退出",
+      "story": "小帅提出减少额外任务，分身以为他准备半途退出球队；两人把放弃全部与停止过量分开说清。",
+      "outcome": "小帅保留球队目标，退出一项非必要兼差，给比赛留出时间。",
+      "dramatic_beat": "分身以为少做一件就是退出；小帅终于能说清自己保留什么。",
+      "new_words": [
+        "quit",
+        "halfway",
+        "not ... anymore",
+        "amazingly",
+        "extra"
+      ],
+      "video_review_words": [
+        "be fed up with",
+        "goal"
+      ],
+      "supplemental_html_review_words": [
+        "be fed up with",
+        "awkward",
+        "particular",
+        "in particular",
+        "occupy"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-047.html",
+      "html_created": false
+    },
+    {
+      "number": 48,
+      "id": "B01E048",
+      "unit": 2,
+      "arc": 8,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "明明能超过，他为什么慢下来了",
+      "story": "看学校合作活动的自行车赛录像时，分身只看名次；苏小满注意到领先者为他人让出空间的片段。",
+      "outcome": "广播选题增加体育精神，小帅带着这个问题进入决赛周。",
+      "dramatic_beat": "看上去可以超过的人主动放慢，令只盯名次的分身愣住。",
+      "new_words": [
+        "sight",
+        "cyclist",
+        "overtake",
+        "amazed",
+        "sportsmanship"
+      ],
+      "video_review_words": [
+        "audience",
+        "principle"
+      ],
+      "supplemental_html_review_words": [
+        "membership",
+        "equipment",
+        "upper",
+        "flexibility",
+        "benefit",
+        "boxing",
+        "belt",
+        "golf",
+        "bowling",
+        "announcement",
+        "audience"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-048.html",
+      "html_created": false
+    },
+    {
+      "number": 49,
+      "id": "B01E049",
+      "unit": 2,
+      "arc": 8,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "这一球没进，配合却成功了",
+      "story": "班级友谊赛中，小帅获得空位却传给位置更好的队友；球队靠配合取得一场胜利。",
+      "outcome": "他的训练得到回报，下一场仍有可能输；个人价值与单次命中分开。",
+      "dramatic_beat": "广播想给小帅一个特写，他却把球传给了镜头外的队友。",
+      "new_words": [
+        "defeat",
+        "onto",
+        "pay off",
+        "earn",
+        "crowd",
+        "clap"
+      ],
+      "video_review_words": [
+        "shot",
+        "defence"
+      ],
+      "supplemental_html_review_words": [
+        "strengthen",
+        "immune",
+        "system",
+        "immune system",
+        "prevent",
+        "quit",
+        "halfway",
+        "not ... anymore",
+        "amazingly",
+        "extra"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-049.html",
+      "html_created": false
+    },
+    {
+      "number": 50,
+      "id": "B01E050",
+      "unit": 2,
+      "arc": 8,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "拿了铜牌，为什么大家还在笑",
+      "story": "球队最终拿到第三名，分身准备安慰，发现队员正在互相致意；小帅主动祝贺对手。",
+      "outcome": "队伍留下共同领奖照，节目采用尊重对手的镜头。",
+      "dramatic_beat": "安慰稿还没读，队友的欢呼已经把第一行很遗憾盖住。",
+      "new_words": [
+        "bronze",
+        "medal",
+        "response",
+        "gesture",
+        "take advantage of sth"
+      ],
+      "video_review_words": [
+        "earn",
+        "clap"
+      ],
+      "supplemental_html_review_words": [
+        "balanced",
+        "diet",
+        "disease",
+        "guideline",
+        "click",
+        "detail",
+        "sight",
+        "cyclist",
+        "overtake",
+        "amazed",
+        "sportsmanship"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-050.html",
+      "html_created": false
+    },
+    {
+      "number": 51,
+      "id": "B01E051",
+      "unit": 2,
+      "arc": 8,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "宣传稿写我一夜逆袭，队友去哪儿了",
+      "story": "合作公司的简短宣传稿删掉长期训练和队友，分身认为这样更好看；小帅要求补回事实和共同贡献。",
+      "outcome": "报道修改完成，小帅守住团队署名，三人获得文化节采访邀请。",
+      "dramatic_beat": "最吸引人的一夜逆袭标题，最后由被夸的人亲手删掉。",
+      "new_words": [
+        "let sb down",
+        "shortcut",
+        "overnight",
+        "defend",
+        "company"
+      ],
+      "video_review_words": [
+        "sportsmanship",
+        "responsible"
+      ],
+      "supplemental_html_review_words": [
+        "in good / bad shape",
+        "stair",
+        "oxygen",
+        "flow",
+        "satisfaction",
+        "defeat",
+        "onto",
+        "pay off",
+        "earn",
+        "crowd",
+        "clap"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-051.html",
+      "html_created": false
+    },
+    {
+      "number": 52,
+      "id": "B01E052",
+      "unit": 2,
+      "arc": 8,
+      "kind": "review-story",
+      "status": "planned",
+      "title": "最好的替补，是知道何时不上场",
+      "story": "复习剧情：体育栏目总结时，分身又想替小帅说获奖感言，临到话筒却把位置让给真正的队员。",
+      "outcome": "运动篇收尾，苏小满接下文化节策划；分身开始寻找自己的贡献方式。",
+      "dramatic_beat": "第一次抢着举手的人，主动站到了该上场的人身后。",
+      "new_words": [],
+      "video_review_words": [
+        "defeat",
+        "pay off",
+        "sportsmanship",
+        "let sb down",
+        "volunteer",
+        "confidence"
+      ],
+      "supplemental_html_review_words": [
+        "be fed up with",
+        "awkward",
+        "particular",
+        "in particular",
+        "occupy",
+        "bronze",
+        "medal",
+        "response",
+        "gesture",
+        "take advantage of sth"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-052.html",
+      "html_created": false
+    },
+    {
+      "number": 53,
+      "id": "B01E053",
+      "unit": 3,
+      "arc": 9,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "一个文化节，他排了全年节日",
+      "story": "苏小满策划学期文化展，分身想把全年庆祝方式都演一遍，时间根本不够；三人保留节日介绍摊位。",
+      "outcome": "端午和毕业等作为展览主题，并不在同一天实际发生；各组开始收集物件与故事。",
+      "dramatic_beat": "分身把全年排满，小帅只问：我们今晚几点回家。",
+      "new_words": [
+        "occasion",
+        "graduation",
+        "event",
+        "host",
+        "represent",
+        "extend"
+      ],
+      "video_review_words": [
+        "organise",
+        "expectation"
+      ],
+      "supplemental_html_review_words": [
+        "boxing",
+        "belt",
+        "golf",
+        "bowling",
+        "announcement",
+        "audience",
+        "let sb down",
+        "shortcut",
+        "overnight",
+        "defend",
+        "company"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-053.html",
+      "html_created": false
+    },
+    {
+      "number": 54,
+      "id": "B01E054",
+      "unit": 3,
+      "arc": 9,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "端午为什么不能按这个月的日历找",
+      "story": "布置节日展签时，小帅拿公历日期对不上介绍卡；同学用农历解释，分身顺手发现龙旁边贴了一只恐龙。",
+      "outcome": "日期与图案都校对完成，三人开始收集家人的庆祝故事。",
+      "dramatic_beat": "龙的展签没问题，旁边那张恐龙贴纸却把大家带跑题。",
+      "new_words": [
+        "dragon",
+        "Dragon-Boat Festival",
+        "lunar",
+        "lunar month",
+        "tradition",
+        "custom"
+      ],
+      "video_review_words": [
+        "occasion",
+        "host"
+      ],
+      "supplemental_html_review_words": [
+        "quit",
+        "halfway",
+        "not ... anymore",
+        "amazingly",
+        "extra"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-054.html",
+      "html_created": false
+    },
+    {
+      "number": 55,
+      "id": "B01E055",
+      "unit": 3,
+      "arc": 9,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "他准备了六道菜，忘了展台只有一张桌",
+      "story": "各组带来不同食物介绍，黏米糕点和布丁挤满展示桌；小帅让每组只保留一份代表物和一句说明。",
+      "outcome": "美食区有了清楚路线，三人转去布置灯笼区。",
+      "dramatic_beat": "六道菜的介绍很隆重，展台实际只有一张桌。",
+      "new_words": [
+        "barbecue",
+        "sticky",
+        "snack",
+        "cuisine",
+        "hotpot",
+        "pudding"
+      ],
+      "video_review_words": [
+        "various",
+        "quality"
+      ],
+      "supplemental_html_review_words": [
+        "sight",
+        "cyclist",
+        "overtake",
+        "amazed",
+        "sportsmanship",
+        "occasion",
+        "graduation",
+        "event",
+        "host",
+        "represent",
+        "extend"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-055.html",
+      "html_created": false
+    },
+    {
+      "number": 56,
+      "id": "B01E056",
+      "unit": 3,
+      "arc": 9,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "灯笼装好了，福字跟着人走了",
+      "story": "分身忙着固定装饰，把带字纸误粘在小帅背上；苏小满先确认位置，再让两人一起完成张贴。",
+      "outcome": "灯笼区布置完成，倒置的字引起大家对不同家习的讨论。",
+      "dramatic_beat": "每个人都在找福字，只有小帅不知道自己背上有一张。",
+      "new_words": [
+        "lantern",
+        "decorate",
+        "decoration",
+        "put up",
+        "attach",
+        "character"
+      ],
+      "video_review_words": [
+        "organise",
+        "equipment"
+      ],
+      "supplemental_html_review_words": [
+        "defeat",
+        "onto",
+        "pay off",
+        "earn",
+        "crowd",
+        "clap",
+        "dragon",
+        "Dragon-Boat Festival",
+        "lunar",
+        "lunar month",
+        "tradition",
+        "custom"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-056.html",
+      "html_created": false
+    },
+    {
+      "number": 57,
+      "id": "B01E057",
+      "unit": 3,
+      "arc": 9,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "倒过来就一定对？先问这是谁家的规矩",
+      "story": "分身坚持所有字都倒着贴，受邀同学却说各家做法不同；三人边清扫边重新标注展示说明。",
+      "outcome": "展签改为具体家庭的做法，文化展保留差异而不评谁最标准。",
+      "dramatic_beat": "一张写着统一标准的卡，最后改成了我们家的做法。",
+      "new_words": [
+        "upside down",
+        "sweep",
+        "sweep away",
+        "teenager",
+        "appropriately"
+      ],
+      "video_review_words": [
+        "tradition",
+        "custom"
+      ],
+      "supplemental_html_review_words": [
+        "bronze",
+        "medal",
+        "response",
+        "gesture",
+        "take advantage of sth",
+        "barbecue",
+        "sticky",
+        "snack",
+        "cuisine",
+        "hotpot",
+        "pudding"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-057.html",
+      "html_created": false
+    },
+    {
+      "number": 58,
+      "id": "B01E058",
+      "unit": 3,
+      "arc": 10,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "要赶走年兽，别先吓跑观众",
+      "story": "分身为讲传说把音效开得太响，门口同学被吓退；三人立即停播，改用纸偶和说明卡演示。",
+      "outcome": "展台使用适合室内的表现方式，欢迎流程需要重新排练。",
+      "dramatic_beat": "纸偶年兽还没出场，开场音效先把同学吓回门口。",
+      "new_words": [
+        "monster",
+        "scare",
+        "scare sb / sth away",
+        "let off",
+        "firecracker",
+        "immediately"
+      ],
+      "video_review_words": [
+        "audience",
+        "remind"
+      ],
+      "supplemental_html_review_words": [
+        "let sb down",
+        "shortcut",
+        "overnight",
+        "defend",
+        "company",
+        "lantern",
+        "decorate",
+        "decoration",
+        "put up",
+        "attach",
+        "character"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-058.html",
+      "html_created": false
+    },
+    {
+      "number": 59,
+      "id": "B01E059",
+      "unit": 3,
+      "arc": 10,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "欢迎词很标准，爷爷一句也没接上",
+      "story": "苏小满的退休爷爷乘机来访，带来家乡口音；分身照读欢迎词，爷爷却在找能聊家常的人。",
+      "outcome": "小帅主动打招呼、带他坐下，爷爷愿意提供旧照片。",
+      "dramatic_beat": "分身连说三遍欢迎，小帅听见爷爷其实在问座位在哪。",
+      "new_words": [
+        "flight",
+        "retired",
+        "accent",
+        "greet",
+        "surround"
+      ],
+      "video_review_words": [
+        "host",
+        "in person"
+      ],
+      "supplemental_html_review_words": [
+        "upside down",
+        "sweep",
+        "sweep away",
+        "teenager",
+        "appropriately"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-059.html",
+      "html_created": false
+    },
+    {
+      "number": 60,
+      "id": "B01E060",
+      "unit": 3,
+      "arc": 10,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "庆祝不是把所有杯子倒满",
+      "story": "模拟家庭聚会展台摆着火鸡和饮品标签，分身照固定套餐摆杯；家长与学生却各有想选的饮品。",
+      "outcome": "成人饮品留在成人展示一侧，学生选果汁；三人学会先问客人需要，再送出祝贺。",
+      "dramatic_beat": "每个杯子摆得一模一样，客人想喝的却各不相同。",
+      "new_words": [
+        "gathering",
+        "wine",
+        "beer",
+        "turkey",
+        "congratulation",
+        "joy"
+      ],
+      "video_review_words": [
+        "greet",
+        "occasion"
+      ],
+      "supplemental_html_review_words": [
+        "occasion",
+        "graduation",
+        "event",
+        "host",
+        "represent",
+        "extend",
+        "monster",
+        "scare",
+        "scare sb / sth away",
+        "let off",
+        "firecracker",
+        "immediately"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-060.html",
+      "html_created": false
+    },
+    {
+      "number": 61,
+      "id": "B01E061",
+      "unit": 3,
+      "arc": 10,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "她说再具体一点，他写了三页流程",
+      "story": "苏小满让分工写清楚，分身却不断加步骤；小帅把每人最关键的一件事圈出来。",
+      "outcome": "三人各管一个区域，家长和同学开始带物件来布展。",
+      "dramatic_beat": "分工越来越具体，流程图却长到要用两个人展开。",
+      "new_words": [
+        "effort",
+        "make an effort",
+        "specific",
+        "as far as",
+        "in general",
+        "expectant"
+      ],
+      "video_review_words": [
+        "organise",
+        "target"
+      ],
+      "supplemental_html_review_words": [
+        "dragon",
+        "Dragon-Boat Festival",
+        "lunar",
+        "lunar month",
+        "tradition",
+        "custom",
+        "flight",
+        "retired",
+        "accent",
+        "greet",
+        "surround"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-061.html",
+      "html_created": false
+    },
+    {
+      "number": 62,
+      "id": "B01E062",
+      "unit": 3,
+      "arc": 10,
+      "kind": "review-story",
+      "status": "planned",
+      "title": "欢迎来到我们的不完美文化节",
+      "story": "复习剧情：预演来客不断偏离流程，三人用旧表达询问、引导和补位，不再把客人塞进固定台词。",
+      "outcome": "预演完成；旧照片和节目资料需要整理，进入记忆展区的制作。",
+      "dramatic_beat": "预演最乱的那次，恰好让大家第一次真的相互配合。",
+      "new_words": [],
+      "video_review_words": [
+        "host",
+        "greet",
+        "occasion",
+        "custom",
+        "make an effort",
+        "appropriately"
+      ],
+      "supplemental_html_review_words": [
+        "barbecue",
+        "sticky",
+        "snack",
+        "cuisine",
+        "hotpot",
+        "pudding",
+        "gathering",
+        "wine",
+        "beer",
+        "turkey",
+        "congratulation",
+        "joy"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-062.html",
+      "html_created": false
+    },
+    {
+      "number": 63,
+      "id": "B01E063",
+      "unit": 3,
+      "arc": 11,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "同一件事，他概括得只剩一句话",
+      "story": "录音室整理来宾口述，分身把有趣细节全部总结掉；苏小满请讲述者选择希望保留的部分。",
+      "outcome": "记忆展确定用原声与简短描述并置，三人开始挑照片。",
+      "dramatic_beat": "一段热闹故事被总结成一句话，讲述者还没来得及出场就结束了。",
+      "new_words": [
+        "studio",
+        "account",
+        "summarise",
+        "description",
+        "throughout"
+      ],
+      "video_review_words": [
+        "contact",
+        "in person"
+      ],
+      "supplemental_html_review_words": [
+        "lantern",
+        "decorate",
+        "decoration",
+        "put up",
+        "attach",
+        "character",
+        "effort",
+        "make an effort",
+        "specific",
+        "as far as",
+        "in general",
+        "expectant"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-063.html",
+      "html_created": false
+    },
+    {
+      "number": 64,
+      "id": "B01E064",
+      "unit": 3,
+      "arc": 11,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "相册找不到了，先别宣布世界末日",
+      "story": "爷爷寄存的相册不在原箱，分身四处找；苏小满回想搬入展区时的顺序，在楼下整理架找到。",
+      "outcome": "相册完整找回，大家按讲述者意愿选择展示照片。",
+      "dramatic_beat": "最精确的检索找不到相册，记得谁搬过箱子的人找到了。",
+      "new_words": [
+        "memory",
+        "album",
+        "select",
+        "nowhere",
+        "downstairs",
+        "move in"
+      ],
+      "video_review_words": [
+        "in person",
+        "remind"
+      ],
+      "supplemental_html_review_words": [
+        "upside down",
+        "sweep",
+        "sweep away",
+        "teenager",
+        "appropriately"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-064.html",
+      "html_created": false
+    },
+    {
+      "number": 65,
+      "id": "B01E065",
+      "unit": 3,
+      "arc": 11,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "给北极的信，为什么塞进我校服里",
+      "story": "圣诞记忆摊位展示长袜、信封和装饰树枝；分身把写给北极的样信塞错地方，小帅坐下逐封核对。",
+      "outcome": "错放的信件归位，三人决定让观众亲手参与一次简单布置。",
+      "dramatic_beat": "给北极的样信有正确收件地，却跑进了小帅的校服口袋。",
+      "new_words": [
+        "stocking",
+        "envelope",
+        "stuff",
+        "pole",
+        "lap",
+        "branch"
+      ],
+      "video_review_words": [
+        "character",
+        "attach"
+      ],
+      "supplemental_html_review_words": [
+        "monster",
+        "scare",
+        "scare sb / sth away",
+        "let off",
+        "firecracker",
+        "immediately",
+        "studio",
+        "account",
+        "summarise",
+        "description",
+        "throughout"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-065.html",
+      "html_created": false
+    },
+    {
+      "number": 66,
+      "id": "B01E066",
+      "unit": 3,
+      "arc": 11,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "排练第七遍，他终于没有催快一点",
+      "story": "寒冷的活动前夜，祖孙组装装饰总有小偏差；分身想接管，看到大家愿意慢慢重做，便陪着再试。",
+      "outcome": "装饰完成，分身把陪伴写进自己的活动记录。",
+      "dramatic_beat": "分身终于不再催快一点，而是递过下一张要重贴的纸。",
+      "new_words": [
+        "patience",
+        "over and over",
+        "slightly",
+        "somehow",
+        "frosty",
+        "eve"
+      ],
+      "video_review_words": [
+        "make an effort",
+        "quality"
+      ],
+      "supplemental_html_review_words": [
+        "flight",
+        "retired",
+        "accent",
+        "greet",
+        "surround",
+        "memory",
+        "album",
+        "select",
+        "nowhere",
+        "downstairs",
+        "move in"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-066.html",
+      "html_created": false
+    },
+    {
+      "number": 67,
+      "id": "B01E067",
+      "unit": 3,
+      "arc": 11,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "她一直在挥手，他以为只是打招呼",
+      "story": "芭蕾节目排练中苏小满小声提醒，分身只顾热闹没看懂手势；小帅注意到对方在示意暂停。",
+      "outcome": "节目顺序按表演者需要调整，三人约好可辨认的现场信号。",
+      "dramatic_beat": "同样的挥手，有时是问好，有时是请你先停一下。",
+      "new_words": [
+        "behaviour",
+        "whisper",
+        "merry",
+        "ballet",
+        "catch sb’s eye",
+        "wave"
+      ],
+      "video_review_words": [
+        "remind",
+        "immediately"
+      ],
+      "supplemental_html_review_words": [
+        "gathering",
+        "wine",
+        "beer",
+        "turkey",
+        "congratulation",
+        "joy",
+        "stocking",
+        "envelope",
+        "stuff",
+        "pole",
+        "lap",
+        "branch"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-067.html",
+      "html_created": false
+    },
+    {
+      "number": 68,
+      "id": "B01E068",
+      "unit": 3,
+      "arc": 12,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "面包卷滚走了，主持词也跟着跑了",
+      "story": "正式文化展开始，面包卷从盘边滚开，分身手忙脚乱抢救台词；小帅先处理眼前小事，再自然接话。",
+      "outcome": "一个小插曲变成观众的笑点，小帅能脱离稿子主持了。",
+      "dramatic_beat": "面包卷比主持人先走位，反而救了卡住的开场。",
+      "new_words": [
+        "roll",
+        "plate",
+        "swallow",
+        "affair",
+        "awesome"
+      ],
+      "video_review_words": [
+        "host",
+        "audience"
+      ],
+      "supplemental_html_review_words": [
+        "effort",
+        "make an effort",
+        "specific",
+        "as far as",
+        "in general",
+        "expectant",
+        "patience",
+        "over and over",
+        "slightly",
+        "somehow",
+        "frosty",
+        "eve"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-068.html",
+      "html_created": false
+    },
+    {
+      "number": 69,
+      "id": "B01E069",
+      "unit": 3,
+      "arc": 12,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "穿上西装，也不会自动变成主持人",
+      "story": "分身追求完美着装，小帅穿着整洁校服上台；苏小满提醒两人检查内容与分工。",
+      "outcome": "两人把注意力放回观众，分身愿意谦虚地请搭档补充。",
+      "dramatic_beat": "分身穿得最正式，小帅却用最自然的话接住了观众。",
+      "new_words": [
+        "suit",
+        "jeans",
+        "neat",
+        "uniform",
+        "humbly",
+        "thoroughly"
+      ],
+      "video_review_words": [
+        "appropriately",
+        "make an effort"
+      ],
+      "supplemental_html_review_words": [
+        "behaviour",
+        "whisper",
+        "merry",
+        "ballet",
+        "catch sb’s eye",
+        "wave"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-069.html",
+      "html_created": false
+    },
+    {
+      "number": 70,
+      "id": "B01E070",
+      "unit": 3,
+      "arc": 12,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "这段回忆，别替爷爷说完",
+      "story": "爷爷谈到多年前去世的伴侣，分身想赶快把气氛变热闹；苏小满请他等一等，让爷爷说完并决定是否展示。",
+      "outcome": "爷爷选择保留一段温柔的回忆，三人理解有些停顿不必填满。",
+      "dramatic_beat": "分身第一次主动关掉计时，让一段回忆按自己的速度说完。",
+      "new_words": [
+        "tear",
+        "pass away",
+        "no longer",
+        "calm",
+        "calm down"
+      ],
+      "video_review_words": [
+        "memory",
+        "patience"
+      ],
+      "supplemental_html_review_words": [
+        "studio",
+        "account",
+        "summarise",
+        "description",
+        "throughout",
+        "roll",
+        "plate",
+        "swallow",
+        "affair",
+        "awesome"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-070.html",
+      "html_created": false
+    },
+    {
+      "number": 71,
+      "id": "B01E071",
+      "unit": 3,
+      "arc": 12,
+      "kind": "new-vocabulary-story",
+      "status": "planned",
+      "title": "这张合照，少了一个人",
+      "story": "旧婚礼照引来来宾交谈，分身帮大家拍合影后退到镜头外；小帅把他叫回来，感谢他的实际贡献。",
+      "outcome": "活动合照留下每位参与者，分身以独立合作者的身份署名，文化展结束。",
+      "dramatic_beat": "负责把每个人放进镜头的人，也被大家拉进了合照。",
+      "new_words": [
+        "buzz",
+        "wedding",
+        "fortunate",
+        "original",
+        "adult"
+      ],
+      "video_review_words": [
+        "album",
+        "joy"
+      ],
+      "supplemental_html_review_words": [
+        "memory",
+        "album",
+        "select",
+        "nowhere",
+        "downstairs",
+        "move in",
+        "suit",
+        "jeans",
+        "neat",
+        "uniform",
+        "humbly",
+        "thoroughly"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-071.html",
+      "html_created": false
+    },
+    {
+      "number": 72,
+      "id": "B01E072",
+      "unit": 3,
+      "arc": 12,
+      "kind": "review-story",
+      "status": "planned",
+      "title": "他又举手了，但这回先问是什么任务",
+      "story": "复习剧情：学期回顾串起报名表、训练照和文化展合影；小帅亲自介绍收获，再问分身下学期想做什么。",
+      "outcome": "分身说出 I volunteer 后先问任务，回扣第一集；三人的选择与关系完成一册的闭环。",
+      "dramatic_beat": "我自愿说出口之后，多了一句：先告诉我是什么任务。",
+      "new_words": [],
+      "video_review_words": [
+        "confidence",
+        "volunteer",
+        "goal",
+        "replacement",
+        "memory",
+        "original"
+      ],
+      "supplemental_html_review_words": [
+        "stocking",
+        "envelope",
+        "stuff",
+        "pole",
+        "lap",
+        "branch",
+        "tear",
+        "pass away",
+        "no longer",
+        "calm",
+        "calm down"
+      ],
+      "planned_duration_seconds": [
+        90,
+        120
+      ],
+      "planned_html": "episodes/book-01/ep-072.html",
+      "html_created": false
+    }
+  ],
+  "production_requirements": {
+    "voiceover_language": "English",
+    "subtitle_languages": [
+      "English",
+      "简体中文"
+    ],
+    "caption_alignment": "英文字幕与解说一致；中英字幕按编号逐句对应",
+    "scope": "HTML提供稿件，配音及字幕时间轴由视频制作项目完成"
+  }
+}

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="description" content="英语有续集第一册第二集：完整剧本、八幅漫画、五个词汇和四位人物的离线语音试听。">
+<title>第 002 集 · 三个我才够用？先删掉一个承诺。｜英语有续集</title>
+<style>@@FONT_CSS@@
+.panel-raster{background-image:url("@@SHEET_URI@@")}
+@@PAGE_CSS@@</style>
+<link rel="icon" href="data:,">
+</head>
+<body>
+<a class="skip" href="#script">跳到完整剧本</a>
+<header class="header"><div class="header-inner"><a class="brand" href="#top">英语有续集<span>第一册 · 第二集</span></a><nav class="nav" aria-label="本集内容"><a href="#script">剧本</a><a href="#words">单词</a><a href="#cast">人物与语音</a><a href="#publishing">发布资料</a></nav></div></header>
+<main id="top">
+<section class="hero" aria-labelledby="episode-title"><div class="invitation"><div class="hero-copy"><h1 id="episode-title">三个我才够用？<br>先删掉一个承诺。</h1><p class="intro-copy">跟着小帅的分身故事学英语：三项邀请都在周五两点，这次由他亲自作选择。</p><a class="button primary" href="#script">阅读本集</a><p class="episode-facts">8 幅漫画 · 5 个新词 · 英文解说与双语字幕</p></div><figure class="hero-picture">@@COVER_ART@@<figcaption>小帅穿红内搭，分身穿蓝内搭，苏小满等着他们解释。</figcaption></figure><div class="invitation-foot"><span>周五 14:00 · 三项待确认邀请</span><a href="#cast">听听本集人物的声音</a></div></div></section>
+<div class="page-body">
+<aside class="language-note" aria-labelledby="language-note-title"><h2 id="language-note-title">用英文，听他把故事讲完</h2><div><p>本集采用小帅（Xiaoshuai）的第一人称英文解说。下方 @@SUBTITLE_COUNT@@ 组逐句中英字幕中，每条英文正文同时是可直接朗读的解说稿和英文字幕，中文行为对应的简体中文字幕。</p><p>只朗读英文正文，编号和类型标签不朗读。配音、剪辑与字幕时间轴由后续视频项目完成。</p><a href="#cast">查看人物与配音设定</a></div></aside>
+<div class="word-strip" aria-label="本集学习单词">@@WORD_LINKS@@</div>
+<section class="section" id="script" aria-labelledby="script-title"><div class="section-head"><h2 id="script-title">两个人，三件事</h2><p>每一格都有图片、完整剧本、英文解说和逐句双语字幕。角色对白及表演要求附在分镜下方。</p></div><nav class="contents" aria-label="故事段落">@@CONTENTS@@</nav><ol class="scenes">@@SCRIPT_SCENES@@</ol></section>
+<section class="section word-section" id="words" aria-labelledby="words-title"><div class="section-head"><h2 id="words-title">把五个词，带回故事</h2><p>从撞期的压力，到亲手作出选择。词义、例句和使用方式，都和这一集连在一起。</p></div><div class="vocab-grid">@@WORD_CARDS@@</div>@@REVIEW_WORDS@@</section>
+<section class="section" id="cast" aria-labelledby="cast-title"><div class="section-head"><h2 id="cast-title">人物与配音设定</h2><p>本集四位人物的参考语音已内嵌。点播放即可离线试听；这是固定音色参考，试听文本另列在各人物下方。</p></div><div class="voice-routing"><h3>英文解说使用小帅的声音</h3><div><p>小帅以第一人称讲述本集。解说中的人物引语均由他转述，沿用他的声线；内心独白也用同一声音，语气略收、停顿稍长。</p><p>角色对白若单独录制，使用各人物固定音色。班主任的画外音和办公室对白保持一致；同一人物的电话、采访回放也沿用固定声音。第 8 格“小帅与分身同时说”的表演要求仅用于角色对白录制。</p><p>小帅与分身保持相近的少年男声，通过自信程度与说话节奏区分；后续配音沿用当前参考。每镜的情绪与语气见剧本。</p></div></div><div class="cast-grid">@@CAST_CARDS@@</div><p class="cast-source">音色及采用状态依据 <code>voices/book-01/cast.json</code> 和人物目录中的试听记录。年龄为配音设计年龄感；原始 WAV 与对应文本的项目路径已逐人列明。</p></section>
+@@PUBLISHING_SECTION@@
+<section class="section continuity-section" aria-labelledby="continuity-title"><h2 id="continuity-title">表交了，解释还没说</h2><details class="continuity"><summary>本集结果与后续承接</summary><div class="continuity-grid"><div><h3>本集留下的结果</h3><ul>@@CONTINUITY_END@@</ul></div><div><h3>继续故事时记住这些</h3><ul>@@CONTINUITY_PROPS@@</ul></div></div><div class="next"><h3>下一集：同桌认出我</h3><p>日程已经说清，两个小帅的来历还没说清。苏小满等着他们给出答案。</p></div></details></section>
+</div>
+</main>
+<footer class="footer"><div><h2>故事待续</h2><p>英语有续集 · 第一册第二集<br>我被自己的分身卷了</p><p lang="en">Follow the story. Learn the words.</p></div><div class="footer-nav"><a href="#script">再读一次剧本</a><a href="#words">复习本集单词</a><a href="#cast">试听人物语音</a><a href="#top">回到开头</a></div><p class="credits">原创校园故事 · 插画由 imagegen 生成 · 字体 Schibsted Grotesk（SIL OFL）</p></footer>
+<script>@@PAGE_JS@@</script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+{
+  "episode": 8,
+  "checked_on": "2026-11-01",
+  "html": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-008.html",
+  "html_sha256": "3b922a6a04b43a606030aa213d0d05d20a19401ee74749cc658503a5de8c4739",
+  "html_bytes": 3803204,
+  "scenes": 8,
+  "embedded_images": 3,
+  "image_dimensions": [
+    887,
+    1774
+  ],
+  "image_matches_source": true,
+  "new_words": 5,
+  "main_review_words": 2,
+  "supplemental_review_words": 10,
+  "narration_words": 166,
+  "subtitle_pairs": 22,
+  "subtitles_match_source": true,
+  "ids_unique": true,
+  "anchor_links_valid": 46,
+  "clip_links_valid": 9,
+  "no_external_dependencies": true,
+  "no_video_or_audio": true,
+  "previous_episodes_unchanged": true,
+  "total_episodes": 72,
+  "total_vocabulary": 358,
+  "delivered_episodes": 8,
+  "taught_vocabulary": 40,
+  "friday_commitments_fulfilled_in_story": true,
+  "status": "passed",
+  "browser": {
+    "tool": "tabbit-cli",
+    "widths": [
+      {
+        "viewport": 375,
+        "document_width": 375,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      },
+      {
+        "viewport": 768,
+        "document_width": 768,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      },
+      {
+        "viewport": 1440,
+        "document_width": 1440,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      }
+    ],
+    "offline_resource_requests": [],
+    "language_requirement_visible": true,
+    "desktop_screenshots_reviewed": true,
+    "separate_engine_and_search_engine_navigation": true,
+    "old_review_answers_both_episodes": true,
+    "dialogue_toggle": true,
+    "mobile_screenshot_reviewed": true
+  },
+  "bytes": 16546620,
+  "sha256": "ffc9f18333951d7b6b1e74d947421d4c97a1b1e60e407bcad16cc7086e5c585a",
+  "distinct_embedded_images": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json",
+  "publishing_browser_verified": true
+}

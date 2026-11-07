@@ -1,0 +1,100 @@
+{
+  "episode": "B01E011",
+  "checked_on": "2026-11-01",
+  "status": "passed",
+  "static": {
+    "scenes": 8,
+    "embedded_pngs": 1,
+    "image_dimensions": [
+      1024,
+      1536
+    ],
+    "panel_clip_windows": 8,
+    "new_words": 6,
+    "main_review_words": 2,
+    "supplemental_review_words": 10,
+    "unique_review_words": 12,
+    "subtitle_pairs": 22,
+    "narration_words": 156,
+    "dialogue_entries": 24,
+    "source_subtitles_match": true,
+    "vocabulary_source_pages_match": true,
+    "unique_ids_and_valid_anchors": true,
+    "offline_single_file": true,
+    "no_video_audio_script_controls": true,
+    "previous_10_episodes_unchanged": true,
+    "total_episodes": 72,
+    "delivered_episodes": 11,
+    "total_vocabulary_entries": 358,
+    "first_appearance_html_ready": 56,
+    "document_links_exist": true
+  },
+  "html_sha256": "27d15c503f558fde7c31017ea5de8fcf62ddd26f98b3dedc024880b0e01c1d08",
+  "image_sha256": "c6fee7349e94e49f29db2a33888c011979a4e840ca98fc4edb0c2a314225ba29",
+  "images": {
+    "mode": "built-in imagegen reference generation",
+    "selected_original": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-2f49b065-719b-4dfe-a3af-4b73de36d36a.png",
+    "asset": "production/book-01/ep-011/storyboard.png",
+    "prompts": "production/book-01/ep-011/image-prompt.txt"
+  },
+  "browser": {
+    "tool": "tabbit-cli",
+    "layouts": [
+      {
+        "viewport_width": 375,
+        "document_width": 375,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      },
+      {
+        "viewport_width": 768,
+        "document_width": 768,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      },
+      {
+        "viewport_width": 1440,
+        "document_width": 1440,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      }
+    ],
+    "word_links_checked": [
+      "range",
+      "various",
+      "sort",
+      "all sorts of",
+      "quality",
+      "necessity"
+    ],
+    "review_links_checked": [
+      "hardware",
+      "laptop"
+    ],
+    "dialogue_expand_collapse": true,
+    "supplemental_answers_checked": [
+      "senior",
+      "surf the Internet"
+    ],
+    "expanded_review_overflow": [],
+    "mobile_table_width": 343,
+    "mobile_table_scroll_width": 343,
+    "screenshots": [
+      "desktop-cover.png",
+      "desktop-subtitles.png",
+      "mobile-subtitles.png"
+    ],
+    "visual_review": "passed"
+  },
+  "bytes": 17251424,
+  "sha256": "a94939e61deaa05121b8783afba8231260e8beeb4f54e55a4430d1c402ba9355",
+  "distinct_embedded_images": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json",
+  "publishing_browser_verified": true
+}

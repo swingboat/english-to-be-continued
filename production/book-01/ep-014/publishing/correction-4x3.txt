@@ -1,0 +1,5 @@
+Use case: precise-object-edit. Edit this final episode 014 cover. Make ONLY these continuity corrections:
+1. The host must hold exactly THREE cue cards TOTAL. Top card retains the exact text “感谢收听”. There must be only TWO other cards behind the top card, with two clearly distinguishable edges, and NO extra paper/card layers, no thick stack. Preserve the host's fingers and Xiaoman's hand naturally touching these three cards.
+2. This scene is ten seconds BEFORE going on air. Turn the wall “ON AIR” sign OFF: unlit dark/gray letters and border, no red glow. Any foreground red indicator should also be unlit, no red light emitted.
+Preserve ALL other artwork, people, expressions, costumes, studio microphone/laptop/mixer and exact cover text: “英语有续集 · 014”, “开播还剩十秒”, “怎么先感谢收听？”, “旧词复习 · 本集6词”. Preserve the painted anime style and teal/cream/red graphic typography.
+Output ONE finished PNG on an EXACT 4:3 LANDSCAPE 1536 × 1152 canvas, no clipped words or faces, no stretching, no other changes.

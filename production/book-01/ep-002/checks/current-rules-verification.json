@@ -1,0 +1,55 @@
+{
+  "checked_on": "2026-11-02",
+  "episode": 2,
+  "status": "passed",
+  "html": "episodes/book-01/ep-002.html",
+  "sha256": "42dffe2244927b463d18addbb0f1cf049e998797dd692e32d9dcc706aaf48ffc",
+  "scenes": 8,
+  "subtitle_pairs": 35,
+  "cast": [
+    {
+      "name": "小帅",
+      "status": "待确认"
+    },
+    {
+      "name": "小帅的分身",
+      "status": "待确认"
+    },
+    {
+      "name": "苏小满",
+      "status": "暂定采用"
+    },
+    {
+      "name": "班主任",
+      "status": "待确认"
+    }
+  ],
+  "narrator": "小帅",
+  "voice_sources_exist": true,
+  "selected_reference_hashes_match": true,
+  "voice_and_caption_text_identical": true,
+  "keywords_unique": 30,
+  "embedded_image_bytes_match_sources": true,
+  "cover_ratios": [
+    "4:3",
+    "3:4"
+  ],
+  "offline_preview_download_bytes_match": true,
+  "other_episodes_unchanged": true,
+  "external_resources": [],
+  "viewports_checked": [
+    375,
+    768,
+    1440
+  ],
+  "horizontal_overflow": [],
+  "content_overflow": [],
+  "browser_offline_cover_decoding": true,
+  "browser_offline_downloads_match_sources": true,
+  "screenshots": [
+    "output/playwright/ep002-voices-desktop.png",
+    "output/playwright/ep002-voice-mobile.png",
+    "output/playwright/ep002-inner-monologue-mobile.png"
+  ],
+  "browser_note": "通过本地 HTTP 载入页面后关闭浏览器网络，验证内嵌封面解码与两种比例下载；资源静态检查无外部依赖。浏览器工具禁止 file URL。"
+}

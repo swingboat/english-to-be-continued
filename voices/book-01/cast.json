@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "book": 1,
+  "language": "English",
+  "accent": "clear conversational American English",
+  "status": "selected-with-one-provisional",
+  "age_note": "具体年龄为首轮配音设计值；以学生16—17岁、母亲约40岁、广播指导老师约40岁的既有人物设定为依据，其余成人年龄为制作建议。",
+  "scope": "前015集的9位有明确身份的角色，加上整册已确定的主要人物陈野，共10位。后续配角待具体身份、性别、年龄与性格明确后加入。",
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
+  "revision": "5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "generation": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.05,
+    "max_tokens": 700
+  },
+  "common_direction": "Speak clear, natural conversational American English. Use a comfortable medium pace and natural sentence pauses so a high-school English learner can follow. Keep an everyday human delivery, with no music or sound effects, no announcer performance, and no theatrical exaggeration. Read only the supplied text.",
+  "voices": [
+    {
+      "name": "小帅",
+      "gender": "男",
+      "age": 16,
+      "personality": "真诚、内敛、容易紧张，逐渐愿意自己开口",
+      "voice_identity": "xiaoshuai-shared",
+      "seed": 172,
+      "direction_zh": "轻柔清亮的少年男声，略带气息；自然思考停顿，紧张但不持续结巴。与分身保持相近的基础声线。",
+      "instruct": "The speaker is a 16-year-old male high-school student. A light, youthful tenor, with a little breathiness and a slightly reedy, unpolished teenage texture. Modest chest resonance. He is sincere, thoughtful and a little shy. He speaks gently, with small thinking pauses and understated emotion, gradually finding the confidence to finish his thought. Keep a believable adolescent male sound, without a deep adult presenter voice or a squeaky child voice.",
+      "text": "Give me a second. I want to say this myself. I get nervous when everyone is looking at me, but that doesn't mean I have nothing to say. Let's start with one question, and listen to the answer before we move on.",
+      "evidence": [
+        "docs/book-01-plan.md：固定人物和分身规则",
+        "production/book-01/ep-004/image-prompt.txt：red original is sincere and a little anxious"
+      ],
+      "selection": {
+        "status": "selected",
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "source": "current-chat-user-clarification",
+        "approval_note": "用户在“按当前规则修改第二个 HTML”会话说明每个人物声音已经确认；按此次说明采用当前参考语音，不追记为先前逐人试听确认。",
+        "reference_audio": "characters/小帅/小帅.wav",
+        "reference_text": "characters/小帅/小帅.txt",
+        "review": "characters/小帅/试听反馈.json",
+        "reference_audio_sha256": "c051a6aae2cc0d63ee5284c156b43052afff9c345d245a01dcf9e9d9b369fd4f"
+      }
+    },
+    {
+      "name": "小帅的分身",
+      "gender": "男",
+      "age": 16,
+      "personality": "热情、自信、爱争取机会，容易抢着安排事情",
+      "voice_identity": "xiaoshuai-shared",
+      "seed": 172,
+      "direction_zh": "沿用小帅的轻清少年男声方向，起句更果断、节奏更明快，带笑意；保持真人高中生的表达。相同描述基础和种子不等于已锁定同一音色。",
+      "instruct": "The speaker is the identical clone of a 16-year-old male high-school student. Keep the same vocal anatomy direction as the original: a light, youthful tenor, with a little breathiness and a slightly reedy, unpolished teenage texture, with modest chest resonance. He is enthusiastic, eager to help and confident. His sentence openings are prompt and assured, with a small smile and brighter, lively but believable intonation. Keep his pitch range and vocal weight similar to an ordinary shy teenage boy; the difference is confidence and phrasing. No adult salesman voice, robot filter, villain voice or cartoon performance.",
+      "text": "Give me a second. I want to say this myself. I get nervous when everyone is looking at me, but that doesn't mean I have nothing to say. Let's start with one question, and listen to the answer before we move on.",
+      "evidence": [
+        "docs/book-01-plan.md：两人共享生成前经历，具有独立意愿",
+        "production/book-01/ep-004/image-prompt.txt：identical clone, enthusiastic"
+      ],
+      "selection": {
+        "status": "selected",
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "source": "current-chat-user-clarification",
+        "approval_note": "用户在“按当前规则修改第二个 HTML”会话说明每个人物声音已经确认；按此次说明采用当前参考语音，不追记为先前逐人试听确认。",
+        "reference_audio": "characters/小帅的分身/小帅的分身.wav",
+        "reference_text": "characters/小帅的分身/小帅的分身.txt",
+        "review": "characters/小帅的分身/试听反馈.json",
+        "reference_audio_sha256": "ce3d88284545808c57c283d9240a92fc491e82efaafbe61926a1058eda5d4146"
+      }
+    },
+    {
+      "name": "苏小满",
+      "gender": "女",
+      "age": 16,
+      "personality": "清醒、细心、直率，有自己的广播目标，也会不自信",
+      "voice_identity": "su-xiaoman",
+      "seed": 1942,
+      "direction_zh": "轻柔、舒缓、有耐心的16岁少女声；柔软起音、轻盈共鸣、少量自然气息，音量克制，语速稍缓，句尾轻收。情绪平和、像在近处安慰熟悉的朋友；减少强调、尖亮感与上扬，保留自然清晰的英语发音。用户已确认先使用当前音色，作为后续配音参考。",
+      "instruct": "A gentle, soft-spoken 16-year-old girl speaking tenderly to a close friend beside her. A light, delicate teenage female voice, softly rounded and slightly airy, with a smooth warm tone and gentle vowel onsets. Her manner is caring, patient, modest and reassuring. Speak quietly at a comfortable unhurried conversational pace. Use small natural pauses, restrained pitch movement, soft sentence endings and very little emphatic stress. Let the words feel like a calm personal conversation with someone she trusts. Keep the voice youthful and clearly audible, with normal speech rather than whispering. Avoid sharp bright projection, punchy consonants, excited upward inflections, a forceful confident performance, a presenter delivery, heavy adult resonance, or babyish sweetness.",
+      "text": "Hey, take your time. I'm listening. You don't have to get every word right. I get nervous too, especially when something really matters to me. We can try it together. And this time, I'd like to finish telling you my idea.",
+      "evidence": [
+        "docs/book-01-plan.md：苏小满人物弧线",
+        "production/book-01/ep-013/episode.json：暂停采访、倾听再追问"
+      ],
+      "selection": {
+        "status": "selected",
+        "provisional": true,
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "reference_audio": "characters/苏小满/苏小满.wav",
+        "reference_text": "characters/苏小满/苏小满.txt",
+        "review": "characters/苏小满/试听反馈.json",
+        "reference_audio_sha256": "746b2f99491248ef285cd2f5e85992a580c2fcbdd1bfa7414293394ad54dce9b"
+      }
+    },
+    {
+      "name": "陈野",
+      "gender": "男",
+      "age": 17,
+      "personality": "爽朗、踏实、有团队意识，习惯自己扛任务",
+      "voice_identity": "chen-ye",
+      "seed": 174,
+      "direction_zh": "比小帅稍结实、偏中音的少年男声，爽朗放松，鼓励别人时自然平等；仍有高中生年龄感。",
+      "instruct": "A 17-year-old male high-school basketball teammate. A youthful medium-register male voice, slightly fuller and more grounded than a light tenor, with a small amount of natural teenage roughness. Friendly, straightforward, relaxed and dependable. He encourages a teammate as an equal, with an easy smile and unforced confidence. Keep light adolescent resonance and conversational phrasing. No deep adult coach voice, shouting or sports-announcer performance.",
+      "text": "You don't have to be the best player on your first day. Watch where your teammates are, and give yourself time to learn. If you need a break, say so. We're on the same team, and asking for help is part of playing together.",
+      "evidence": [
+        "docs/book-01-plan.md：陈野人物弧线",
+        "data/book-01-episodes.json：第025集起，运动与团队主线"
+      ],
+      "casting_note": "整册计划中的主要人物；尚未进入已完成的前015集。年龄和声线细节为配音制作建议。",
+      "selection": {
+        "status": "selected",
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "source": "current-chat-user-clarification",
+        "approval_note": "用户在“按当前规则修改第二个 HTML”会话说明每个人物声音已经确认；按此次说明采用当前参考语音，不追记为先前逐人试听确认。",
+        "reference_audio": "characters/陈野/陈野.wav",
+        "reference_text": "characters/陈野/陈野.txt",
+        "review": "characters/陈野/试听反馈.json",
+        "reference_audio_sha256": "2f4baacbda711cf3a562d5b4d03da011bbc26a0bee5be55d820f576202b09582"
+      }
+    },
+    {
+      "name": "小帅妈妈",
+      "gender": "女",
+      "age": 40,
+      "personality": "温暖、务实、耐心，有平静的幽默感",
+      "voice_identity": "xiaoshuai-mother",
+      "selection": {
+        "status": "selected",
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "reference_audio": "characters/小帅妈妈/小帅妈妈.wav",
+        "reference_text": "characters/小帅妈妈/小帅妈妈.txt",
+        "review": "characters/小帅妈妈/试听反馈.json",
+        "reference_audio_sha256": "61c3e40b112992cd5d8b7b77f7697a102ca29da427ef028e4293337e6307351c"
+      },
+      "seed": 4041,
+      "direction_zh": "约40岁妈妈的成熟中低女声，胸腔共鸣更扎实，声音厚实，带轻微干涩与生活质感；少气声、少上扬，语尾落稳。温暖来自从容与耐心，保留务实和轻微冷幽默。已获用户试听确认，作为后续配音的参考音色。",
+      "instruct": "A middle-aged woman of forty to forty-five, the mother of a teenage son, speaking to him at home. Her voice has a clearly mature, lived-in adult female quality: a rich low-middle alto register, substantial warm chest resonance, a slightly husky dry grain, and firm, fully voiced vowels. Use restrained pitch movement and settled downward sentence endings. Her delivery is grounded, matter-of-fact and unhurried, with the quiet confidence and gentle dry humor of an experienced parent. Warmth comes from patience and calm assurance. Keep the voice distinctly feminine, naturally healthy and conversational, with clean articulation. Avoid a youthful bright placement, high airy sweetness, breathy girlish softness, sing-song upward inflections, an elderly quaver, or an exaggerated gravelly performance.",
+      "text": "I'm happy to tell you about my day. Just ask me when I'm ready, all right? Coming home doesn't always mean I'm free. Sometimes the kindest thing you can do is leave a little space in the plan. We can talk after breakfast tomorrow.",
+      "evidence": [
+        "production/book-01/ep-004/image-prompt.txt：mother around forty, warm but practical",
+        "production/book-01/ep-015/episode.json：夜班后休息与采访改约"
+      ]
+    },
+    {
+      "name": "小帅爸爸",
+      "gender": "男",
+      "age": 43,
+      "personality": "沉稳、务实、支持孩子，表达简洁",
+      "voice_identity": "xiaoshuai-father",
+      "seed": 431,
+      "direction_zh": "温和稳重的成年男性中低音，自然放松，像在家商量日常安排；性格与具体年龄为首轮制作建议。",
+      "instruct": "A father in his early forties talking casually with his teenage son at home. A warm adult male low-middle register, naturally grounded and lightly textured, with relaxed ordinary speech. Calm, practical and supportive, speaking in short clear thoughts with a little quiet humor. He sounds approachable and human. No booming authority, threatening sternness, elderly rasp or polished radio-host delivery.",
+      "text": "Let's make room for everyone. You can share the house, and you can share the chores too. Tell us what you've agreed to do, and what help you need. We'll work it out together. For now, start with the dishes on the table.",
+      "evidence": [
+        "production/book-01/ep-004/episode.json：爸爸画外对白与家务安排",
+        "production/book-01/ep-015/episode.json：爸爸在家、家长知情"
+      ],
+      "casting_note": "父亲身份已确定；43岁及沉稳支持型声线为制作建议，不新增故事经历。",
+      "selection": {
+        "status": "selected",
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "source": "current-chat-user-clarification",
+        "approval_note": "用户在“按当前规则修改第二个 HTML”会话说明每个人物声音已经确认；按此次说明采用当前参考语音，不追记为先前逐人试听确认。",
+        "reference_audio": "characters/小帅爸爸/小帅爸爸.wav",
+        "reference_text": "characters/小帅爸爸/小帅爸爸.txt",
+        "review": "characters/小帅爸爸/试听反馈.json",
+        "reference_audio_sha256": "610628ff312ac2d3037126d98f54cc13ab96f1fc55561955af9a9d5c25ce2ffe"
+      }
+    },
+    {
+      "name": "班主任",
+      "gender": "男",
+      "age": 42,
+      "personality": "理性、负责、温和而有原则",
+      "voice_identity": "homeroom-teacher",
+      "seed": 421,
+      "direction_zh": "清晰稳健的成年男中音，比爸爸更利落，强调规则但不训斥；42岁为制作建议。",
+      "instruct": "A male homeroom teacher in his early forties speaking to high-school students in a quiet classroom. A clear, steady adult male mid-register voice with a focused, slightly dry texture. Patient, fair and quietly authoritative. Articulate short instructions, natural emphasis and measured pauses, with warmth underneath firm boundaries. No shouting, deep cinematic narration or exaggerated sternness.",
+      "text": "Before you agree to another activity, check the time. You can ask for help, but you still need to make your own choices. Tell me what you can finish, and we'll make a realistic schedule. Taking responsibility starts with being clear about your commitments.",
+      "evidence": [
+        "production/book-01/ep-004/image-prompt.txt：mature man, homeroom teacher",
+        "production/book-01/ep-004/episode.json：本人承担学校职责"
+      ],
+      "selection": {
+        "status": "selected",
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "source": "current-chat-user-clarification",
+        "approval_note": "用户在“按当前规则修改第二个 HTML”会话说明每个人物声音已经确认；按此次说明采用当前参考语音，不追记为先前逐人试听确认。",
+        "reference_audio": "characters/班主任/班主任.wav",
+        "reference_text": "characters/班主任/班主任.txt",
+        "review": "characters/班主任/试听反馈.json",
+        "reference_audio_sha256": "6ae234463019c9ed5a62db2d25d2ffadfb0b529c374f285bbe7c45c52aab195c"
+      }
+    },
+    {
+      "name": "广播指导老师",
+      "gender": "女",
+      "age": 40,
+      "personality": "冷静、耐心、务实，善于引导学生协作",
+      "voice_identity": "radio-adviser",
+      "seed": 402,
+      "direction_zh": "清晰平稳的成年女性中音，稍明亮、少气声，指导步骤简洁耐心；与妈妈的亲切家常感区分。",
+      "instruct": "A female school radio adviser around forty guiding a small student production team. A clear, focused adult female mid-register voice with a lightly bright forward placement and little breathiness. Calm, patient, practical and collaborative. Speak at an even conversational pace, breaking instructions into small understandable steps. Friendly professional guidance, with a natural everyday voice rather than a formal newsreader or soothing maternal cooing.",
+      "text": "Let's check one thing at a time. First, make sure the speaker is connected. Then play the short recording again. You don't need to replace everything when something goes quiet. Ask a question, listen carefully, and we'll find out what happened together.",
+      "evidence": [
+        "production/book-01/ep-007/image-prompt.txt：radio adviser, woman around forty, practical calm",
+        "production/book-01/ep-008/episode.json：指导排查静音"
+      ],
+      "selection": {
+        "status": "selected",
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "source": "current-chat-user-clarification",
+        "approval_note": "用户在“按当前规则修改第二个 HTML”会话说明每个人物声音已经确认；按此次说明采用当前参考语音，不追记为先前逐人试听确认。",
+        "reference_audio": "characters/广播指导老师/广播指导老师.wav",
+        "reference_text": "characters/广播指导老师/广播指导老师.txt",
+        "review": "characters/广播指导老师/试听反馈.json",
+        "reference_audio_sha256": "dd28afd98c0e9515cc6651bce94fce05e9147b176cf6386498cd09b3b31187ed"
+      }
+    },
+    {
+      "name": "寸头同学",
+      "gender": "男",
+      "age": 16,
+      "personality": "直率、随和，愿意表达自己的实际感受",
+      "voice_identity": "buzz-cut-classmate",
+      "seed": 175,
+      "direction_zh": "稍带鼻腔和颗粒感的少年男中音，轻快随性，日常交流感强；具体年龄及声线为制作建议。",
+      "instruct": "A 16-year-old male high-school classmate with a youthful medium-register voice, a little natural nasal resonance and a lightly grainy teenage texture. Easygoing, candid and friendly. Casual spontaneous phrasing and a small amused smile, as if talking with classmates beside the school track. Clearly adolescent and distinct from both a soft shy tenor and a fuller sporty teammate. No adult bass voice, aggressive delivery or exaggerated comic accent.",
+      "text": "Can we slow down a little? I still want to join in, just at a pace I can manage. Let's try the next lap together. We don't all have to finish first. I'd rather keep going than use up all my energy in the first minute.",
+      "evidence": [
+        "production/book-01/ep-005/image-prompt.txt：buzz-cut boy",
+        "production/book-01/ep-005/episode.json：晨跑中表达节奏需求"
+      ],
+      "selection": {
+        "status": "selected",
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "source": "current-chat-user-clarification",
+        "approval_note": "用户在“按当前规则修改第二个 HTML”会话说明每个人物声音已经确认；按此次说明采用当前参考语音，不追记为先前逐人试听确认。",
+        "reference_audio": "characters/寸头同学/寸头同学.wav",
+        "reference_text": "characters/寸头同学/寸头同学.txt",
+        "review": "characters/寸头同学/试听反馈.json",
+        "reference_audio_sha256": "5c5811635231709640cbd5ac494e20ff7e91a0ccd3b46fa5e08e9695015b1420"
+      }
+    },
+    {
+      "name": "高马尾同学",
+      "gender": "女",
+      "age": 16,
+      "personality": "温和、真诚，初见有些害羞，熟悉后愿意分享",
+      "voice_identity": "ponytail-classmate",
+      "seed": 182,
+      "direction_zh": "柔和轻盈的少女声，略带气息，思考后再说，分享经历时逐渐放松；与苏小满的清爽利落区分。",
+      "instruct": "A 16-year-old female high-school student sharing an honest first-day memory with classmates. A soft, light mid-high teenage voice, gently airy with delicate resonance. Kind, sincere and slightly shy at first, then more relaxed as she tells her story. Natural small thinking pauses and quiet warmth, without whispering. Distinct from a brisk, direct teenage organizer. No rich mature adult voice, baby talk, exaggerated sweetness or cartoon delivery.",
+      "text": "On my first day, I was too shy to ask for help. Then I met another student who was lost too. We asked someone together, and she showed us the way. I didn't suddenly become brave. I just felt less alone, and that made it easier.",
+      "evidence": [
+        "production/book-01/ep-013/image-prompt.txt：high-ponytail teenage girl",
+        "production/book-01/ep-013/episode.json：两位新生一起求助的采访"
+      ],
+      "selection": {
+        "status": "selected",
+        "approved_by": "user",
+        "approved_on": "2026-11-02",
+        "source": "current-chat-user-clarification",
+        "approval_note": "用户在“按当前规则修改第二个 HTML”会话说明每个人物声音已经确认；按此次说明采用当前参考语音，不追记为先前逐人试听确认。",
+        "reference_audio": "characters/高马尾同学/高马尾同学.wav",
+        "reference_text": "characters/高马尾同学/高马尾同学.txt",
+        "review": "characters/高马尾同学/试听反馈.json",
+        "reference_audio_sha256": "92f29074e546e6693df870fa47790874706593d817351e305dcae0965c0696de"
+      }
+    }
+  ]
+}

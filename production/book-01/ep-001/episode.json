@@ -1,0 +1,524 @@
+{
+  "id": "B01E001",
+  "number": 1,
+  "title": "替我说句 Hello，你怎么当上班长了？",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "独立阅读 HTML：英文解说、中英字幕、图片、学习单词",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      887,
+      1774
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        474,
+        433
+      ],
+      [
+        486,
+        3,
+        398,
+        433
+      ],
+      [
+        3,
+        445,
+        438,
+        394
+      ],
+      [
+        449,
+        445,
+        435,
+        394
+      ],
+      [
+        3,
+        847,
+        438,
+        387
+      ],
+      [
+        449,
+        847,
+        435,
+        387
+      ],
+      [
+        3,
+        1242,
+        438,
+        528
+      ],
+      [
+        449,
+        1242,
+        435,
+        528
+      ]
+    ]
+  },
+  "words": [
+    {
+      "word": "confidence",
+      "meaning": "信心；自信",
+      "part": "名词",
+      "expression": "Have confidence in me.",
+      "translation": "对我有点信心。",
+      "question": "让别人相信自己，可以说 Have ___ in me.",
+      "scene": 3,
+      "source": "Unit 1 Topic Talk · 正文第 6 页；分单元词表第 107 页"
+    },
+    {
+      "word": "volunteer",
+      "meaning": "自愿做；志愿者",
+      "part": "本集作动词",
+      "expression": "I volunteer!",
+      "translation": "我自愿！",
+      "question": "老师问谁愿意，分身举手说：I ___!",
+      "scene": 4,
+      "source": "Unit 1 Lesson 1 · 正文第 9 页；分单元词表第 108 页"
+    },
+    {
+      "word": "goal",
+      "meaning": "目标",
+      "part": "名词",
+      "expression": "My goal is to be class monitor.",
+      "translation": "我的目标是当班长。",
+      "question": "分身想当班长，小帅想回家：他们的 ___ 不同。",
+      "scene": 4,
+      "source": "Unit 1 Lesson 1 · 正文第 9 页；分单元词表第 108 页"
+    },
+    {
+      "word": "challenge",
+      "meaning": "挑战",
+      "part": "本集作名词",
+      "expression": "I accept the challenge.",
+      "translation": "我接受这个挑战。",
+      "question": "老师问能否接受挑战，分身说：I accept the ___.",
+      "scene": 5,
+      "source": "Unit 1 Topic Talk 听力文本 · 正文第 101 页；分单元词表第 107 页"
+    },
+    {
+      "word": "schedule",
+      "meaning": "日程表；计划表",
+      "part": "名词",
+      "expression": "Here is your schedule.",
+      "translation": "这是你的日程表。",
+      "question": "三项活动撞在一起，先检查自己的 ___。",
+      "scene": 6,
+      "source": "Unit 1 Topic Talk · 正文第 6 页；分单元词表第 107 页"
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "一句 Hello 的代价",
+      "place": "教学楼走廊 · 放学后",
+      "shot": "中近景，先拍单张夹板，再推到小帅瞪大的眼睛。分身在旁边一脸满意。",
+      "action": "用结果开场。夹板是班长试任与待确认邀请记录，不是正式任命或已确认日程。",
+      "sound": "轻快节奏突然停半拍；夹板落到手上的纸张声。",
+      "tag": "一份自我介绍，三项新任务",
+      "cues": [
+        {
+          "who": "小帅 · 内心",
+          "text": "我只让分身替我说句哈喽。"
+        },
+        {
+          "who": "小帅 · 内心",
+          "text": "它给我领了张班长试任表。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "I asked my clone to say one word: hello.",
+          "zh": "我只让分身替我说一个词：你好。"
+        },
+        {
+          "id": "EN002",
+          "en": "He came back with a one-week trial as class monitor.",
+          "zh": "结果，他却当上了试任一周的班长。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "脑袋先下线了",
+      "place": "同一条走廊 · 三分钟前",
+      "shot": "小帅独自靠在教室门外，手里只有一部手机；教室里传来老师点名。",
+      "action": "回到起因。手机上的一次性生成功能由他主动按下；他想逃避的是即将轮到的英语介绍。",
+      "sound": "转场轻响，教室环境声，短促的手机提示音。",
+      "tag": "3 分钟前",
+      "cues": [
+        {
+          "who": "老师 · 画外音",
+          "text": "下一位，小帅！用英语介绍自己。"
+        },
+        {
+          "who": "小帅 · 内心",
+          "text": "轮到我了，脑袋却先下线了。"
+        },
+        {
+          "who": "小帅",
+          "text": "生成分身……这功能真能用？"
+        },
+        {
+          "who": "小帅",
+          "text": "就替我说句哈喽，说完就出来。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN003",
+          "en": "Three minutes earlier, it was my turn to introduce myself in English.",
+          "zh": "三分钟前，轮到我用英语自我介绍。"
+        },
+        {
+          "id": "EN004",
+          "en": "My mind went blank. So I tried the copy button on my phone.",
+          "zh": "我脑袋一片空白，于是试着按下手机的分身按钮。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "对我有点信心",
+      "place": "教室门外",
+      "shot": "蓝色像素粒子散去，分身站在小帅右侧。两人的脸、身高与校服一致，红蓝内搭不同。",
+      "action": "只出现一个实体分身。手机仍在小帅手里，随后放回口袋。分身竖起拇指，小帅重复限制。",
+      "sound": "一次短促生成音；粒子消散后恢复正常校园环境声。",
+      "tag": "一个怕开口，一个太敢开口",
+      "cues": [
+        {
+          "who": "手机提示",
+          "text": "分身已生成。"
+        },
+        {
+          "who": "分身",
+          "en": "Have confidence in me.",
+          "zh": "对我有点信心。"
+        },
+        {
+          "who": "小帅",
+          "text": "只说一句！别接别的活！"
+        },
+        {
+          "who": "分身",
+          "text": "放心，我很会自我介绍。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN005",
+          "en": "A boy with my face appeared. I gave him one rule: just say hello.",
+          "zh": "一个和我长得一样的男生出现了。我只提了一个要求：说句你好。"
+        },
+        {
+          "id": "EN006",
+          "en": "\"Have confidence in me,\" he said.",
+          "zh": "他说：“对我有点信心。”"
+        },
+        {
+          "id": "EN007",
+          "en": "That was my first mistake.",
+          "zh": "这就是我犯的第一个错。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "他举手了",
+      "place": "高一教室 · 自我介绍与班干部自荐",
+      "shot": "分身走到讲台前。切举手特写；小帅留在门外，内心反应不被教室里的人听见。",
+      "action": "老师先让他介绍，之后开启班干部自荐。分身主动争取机会；小帅没有进入教室。",
+      "sound": "椅子轻响，举手时一个轻快重音；小帅的反应配短暂停顿。",
+      "tag": "原版想回家，分身想当班长",
+      "cues": [
+        {
+          "who": "分身",
+          "en": "Hello, everyone. I'm Xiaoshuai.",
+          "zh": "大家好，我是小帅。"
+        },
+        {
+          "who": "老师",
+          "text": "谢谢。接下来，谁愿意试任班长？"
+        },
+        {
+          "who": "分身",
+          "en": "I volunteer!",
+          "zh": "我自愿！"
+        },
+        {
+          "who": "小帅 · 内心",
+          "text": "你举手干什么？！"
+        },
+        {
+          "who": "分身",
+          "en": "My goal is to be class monitor.",
+          "zh": "我的目标是当班长。"
+        },
+        {
+          "who": "小帅 · 内心",
+          "text": "我的目标，是平安回家。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN008",
+          "en": "The teacher asked who wanted to be class monitor.",
+          "zh": "老师问，谁愿意当班长。"
+        },
+        {
+          "id": "EN009",
+          "en": "My clone raised his hand. \"I volunteer!\"",
+          "zh": "分身举起手：“我自愿！”"
+        },
+        {
+          "id": "EN010",
+          "en": "\"My goal is to be class monitor.\"",
+          "zh": "“我的目标是当班长。”"
+        },
+        {
+          "id": "EN011",
+          "en": "My goal was just to get home.",
+          "zh": "我的目标，只是平安回家。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "先试任一周",
+      "place": "同一间教室",
+      "shot": "老师与同学同框，支持的同学举手；门框后的小帅只能眼看着事情推进。",
+      "action": "老师说明班长要协助活动组织，再征求支持。分身先试任一周，老师将课后活动邀请夹板交给他，明确需要确认。",
+      "sound": "克制的鼓掌声；试任章出现时一声轻敲。",
+      "tag": "试任 1 周 · 邀请待确认",
+      "cues": [
+        {
+          "who": "老师",
+          "text": "班长要帮忙组织活动，愿意接受挑战吗？"
+        },
+        {
+          "who": "分身",
+          "en": "I accept the challenge.",
+          "zh": "我接受这个挑战。"
+        },
+        {
+          "who": "老师",
+          "text": "支持小帅试任的同学举手。"
+        },
+        {
+          "who": "老师",
+          "text": "那先试一周。这是活动邀请，课后看看，确认后再报名。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN012",
+          "en": "\"Can you accept the challenge?\" asked the teacher.",
+          "zh": "老师问：“你能接受这个挑战吗？”"
+        },
+        {
+          "id": "EN013",
+          "en": "\"I accept the challenge!\" Of course he did.",
+          "zh": "“我接受这个挑战！”他当然接受了。"
+        },
+        {
+          "id": "EN014",
+          "en": "The class voted. He got a one-week trial.",
+          "zh": "同学们投票支持，他先试任一周。"
+        },
+        {
+          "id": "EN015",
+          "en": "Then came three invitations, all still waiting for confirmation.",
+          "zh": "接着来了三份活动邀请，全都还需要确认。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "三项活动，同一时间",
+      "place": "教室外走廊 · 下课后",
+      "shot": "同一张夹板在两人之间。前半段看脸，随后叠加清楚的邀请表。",
+      "action": "邀请分别来自英语活动、班级筹备和体育组。周五下午为共同课外活动时段，所以时间重叠；三项均未确认。",
+      "sound": "每看到一个 14:00 有一声轻点；第三次后留半拍给表情。",
+      "tag": "周五 14:00 × 3",
+      "cues": [
+        {
+          "who": "分身",
+          "en": "Here is your schedule.",
+          "zh": "这是你的日程表。"
+        },
+        {
+          "who": "小帅",
+          "text": "英语分享、搬桌子、篮球初选……"
+        },
+        {
+          "who": "小帅",
+          "text": "怎么全是周五下午两点？！"
+        },
+        {
+          "who": "分身",
+          "text": "我去分享，你去搬桌子。"
+        },
+        {
+          "who": "小帅",
+          "text": "篮球呢？"
+        },
+        {
+          "who": "分身",
+          "en": "Another challenge!",
+          "zh": "又一个挑战！"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN016",
+          "en": "\"Here is your schedule,\" he said.",
+          "zh": "他说：“这是你的日程表。”"
+        },
+        {
+          "id": "EN017",
+          "en": "An English talk, moving desks, and basketball tryouts. All at two on Friday!",
+          "zh": "英语分享、搬桌子、篮球初选，竟然都在周五两点！"
+        },
+        {
+          "id": "EN018",
+          "en": "\"I'll give the talk. You move the desks.\" Great. Who plays basketball?",
+          "zh": "“我去分享，你去搬桌子。”好啊，那谁去打篮球？"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "这次我自己说",
+      "place": "同一条走廊",
+      "shot": "小帅拦住分身准备勾选的手，朝办公室示意。分身停下，听他说完。",
+      "action": "三项邀请仍保持待确认。小帅决定亲自去协调，正要离开时，苏小满从转角出现。",
+      "sound": "笔尖在勾选前停住，短暂停顿后接走廊脚步声。",
+      "tag": "待确认，不等于全参加",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "先别勾！三个待确认，不是三个我都行。"
+        },
+        {
+          "who": "小帅",
+          "text": "走，找老师改时间。这次我自己说。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN019",
+          "en": "I stopped his pen. \"Wait! An invitation isn't a promise.\"",
+          "zh": "我拦住他的笔：“等等！邀请不等于承诺。”"
+        },
+        {
+          "id": "EN020",
+          "en": "\"Let's ask the teacher to change the times. This time, I'll speak for myself.\"",
+          "zh": "“找老师调整一下时间。这次，我自己说。”"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "她看见了两个小帅",
+      "place": "走廊转角",
+      "shot": "苏小满拿着笔记本回头，两名男生同时僵住；三人视线关系清楚，最后定格。",
+      "action": "两人正准备去办公室，苏小满恰好从教室出来，看见他们同框。她看到事实，本集还没有听到解释。",
+      "sound": "脚步停下，音乐抽掉半拍，最后留一个轻巧的悬念尾音。",
+      "tag": "解释一下？",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "等等……怎么有两个小帅？"
+        },
+        {
+          "who": "小帅 · 内心",
+          "text": "我能申请撤回这次自我介绍吗？"
+        },
+        {
+          "who": "下集见",
+          "text": "三个我才够用？先删掉一个承诺。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN021",
+          "en": "Then Xiaoman turned around. \"Why are there two of you?\"",
+          "zh": "就在这时，苏小满回过头：“怎么有两个你？”"
+        },
+        {
+          "id": "EN022",
+          "en": "We froze. Could I take back that hello?",
+          "zh": "我们同时僵住了。我能收回那句你好了吗？"
+        },
+        {
+          "id": "EN023",
+          "en": "Next time: two of me, three jobs. Something has to go.",
+          "zh": "下集：两个我、三件事，总得放下一件。"
+        }
+      ]
+    }
+  ],
+  "invitations": [
+    {
+      "name": "英语分享",
+      "from": "英语活动组",
+      "time": "周五 14:00",
+      "status": "待确认"
+    },
+    {
+      "name": "活动搬桌",
+      "from": "班级筹备组",
+      "time": "周五 14:00",
+      "status": "待确认"
+    },
+    {
+      "name": "篮球初选",
+      "from": "体育组",
+      "time": "周五 14:00",
+      "status": "待确认"
+    }
+  ],
+  "continuity": {
+    "start": "小帅要参加英语自我介绍，尚无分身；自我介绍后安排班干部自荐。",
+    "end": [
+      "分身已经生成，只有一个，当前以“分身”称呼。",
+      "班长先试任一周，同学把分身当作小帅。",
+      "三项周五 14:00 的邀请均待确认，没有代替小帅完成报名。",
+      "小帅决定亲自找老师协调，实际协调留到第 002 集。",
+      "苏小满看到两个人同框，尚未听到真相解释。",
+      "小帅没有在班内完成介绍，个人发言留到第 003 集。"
+    ],
+    "props": [
+      "一部手机始终属于小帅；生成后放回原版口袋。",
+      "只有一张夹板，内有试任记录与三项邀请；第 7 镜勾选被拦住。",
+      "原版红内搭，分身蓝内搭，校服与脸型一致。"
+    ],
+    "next": "第 002 集先处理撞期；第 003 集向苏小满解释，第 004 集告知家长和班主任。"
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 23
+}

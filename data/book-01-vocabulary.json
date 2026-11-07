@@ -1,0 +1,5564 @@
+{
+  "schema_version": 1,
+  "source": {
+    "path": "/Users/huyin/Desktop/Niki/教材/英语/北师大版·英语必修 第一册.pdf",
+    "title": "北师大版英语必修第一册",
+    "vocabulary_pdf_pages": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "vocabulary_printed_pages": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "counting_rule": "按分单元词汇表逐条计数；短语、词组、带星号拓展词单独计数；同一行含不同词性的词仍算一条。",
+    "verified_on": "2026-10-31"
+  },
+  "status": "first-appearance-and-retrieval-plan",
+  "entry_count": 358,
+  "review_note": "首次集数是分配计划；视频复习词每集最多2项，专门复习集为6项。其余到期词放在HTML可展开的课后回忆卡，不占90至120秒故事时间。+2与+7按集数安排，不代表实际日期；跨册到期项保留到下一册。",
+  "entries": [
+    {
+      "id": "B01U1V001",
+      "unit": 1,
+      "term": "senior",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 4,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        6,
+        11
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-004.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        6,
+        11
+      ]
+    },
+    {
+      "id": "B01U1V002",
+      "unit": 1,
+      "term": "secondary",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 4,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        6,
+        11
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-004.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        6,
+        11
+      ]
+    },
+    {
+      "id": "B01U1V003",
+      "unit": 1,
+      "term": "stressful",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 2,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        4,
+        9
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-002.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        4,
+        9
+      ]
+    },
+    {
+      "id": "B01U1V004",
+      "unit": 1,
+      "term": "challenging",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 2,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        4,
+        9
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-002.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        4,
+        9
+      ]
+    },
+    {
+      "id": "B01U1V005",
+      "unit": 1,
+      "term": "differ",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 3,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        5,
+        10
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-003.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "B01U1V006",
+      "unit": 1,
+      "term": "previous",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 4,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        6,
+        11
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-004.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        6,
+        11
+      ]
+    },
+    {
+      "id": "B01U1V007",
+      "unit": 1,
+      "term": "dynamic",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 5,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        7,
+        12
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-005.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        7,
+        12
+      ]
+    },
+    {
+      "id": "B01U1V008",
+      "unit": 1,
+      "term": "campus",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 4,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        6,
+        11
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-004.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        6,
+        11
+      ]
+    },
+    {
+      "id": "B01U1V009",
+      "unit": 1,
+      "term": "schedule",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 1,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        3,
+        8
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-001.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        2,
+        3,
+        5,
+        8,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "B01U1V010",
+      "unit": 1,
+      "term": "expectation",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 2,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        4,
+        9
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-002.html",
+      "same_episode_retrieval_created": true,
+      "forms_in_story": [
+        "expectations"
+      ],
+      "reviewed_in_html_episodes": [
+        4,
+        9
+      ]
+    },
+    {
+      "id": "B01U1V011",
+      "unit": 1,
+      "term": "confidence",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 1,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        3,
+        8
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-001.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        3,
+        8,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V012",
+      "unit": 1,
+      "term": "competence",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 6,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        8,
+        13
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-006.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": "B01U1V013",
+      "unit": 1,
+      "term": "chapter",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 18,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        20,
+        25
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V014",
+      "unit": 1,
+      "term": "all in all",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 18,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        20,
+        25
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V015",
+      "unit": 1,
+      "term": "apartment",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 15,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        17,
+        22
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-015.html",
+      "same_episode_retrieval_created": true
+    },
+    {
+      "id": "B01U1V016",
+      "unit": 1,
+      "term": "am",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 15,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        17,
+        22
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-015.html",
+      "same_episode_retrieval_created": true
+    },
+    {
+      "id": "B01U1V017",
+      "unit": 1,
+      "term": "shift",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 15,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        17,
+        22
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-015.html",
+      "same_episode_retrieval_created": true
+    },
+    {
+      "id": "B01U1V018",
+      "unit": 1,
+      "term": "pressure",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 2,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        4,
+        9
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-002.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        4,
+        9,
+        15
+      ]
+    },
+    {
+      "id": "B01U1V019",
+      "unit": 1,
+      "term": "leisure",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 5,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        7,
+        12
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-005.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        7,
+        12
+      ]
+    },
+    {
+      "id": "B01U1V020",
+      "unit": 1,
+      "term": "recover",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 25,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        27,
+        32
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V021",
+      "unit": 1,
+      "term": "injury",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 25,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        27,
+        32
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V022",
+      "unit": 1,
+      "term": "plus",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 27,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        29,
+        34
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V023",
+      "unit": 1,
+      "term": "unfortunately",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 26,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        28,
+        33
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V024",
+      "unit": 1,
+      "term": "challenge",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 1,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        3,
+        8
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-001.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        2,
+        3,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "B01U1V025",
+      "unit": 1,
+      "term": "arise",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 2,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        4,
+        9
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-002.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        4,
+        9
+      ]
+    },
+    {
+      "id": "B01U1V026",
+      "unit": 1,
+      "term": "lifestyle",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 5,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        7,
+        12
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-005.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        7,
+        12
+      ]
+    },
+    {
+      "id": "B01U1V027",
+      "unit": 1,
+      "term": "chat",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 9,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        11,
+        16
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-009.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": "B01U1V028",
+      "unit": 1,
+      "term": "surf",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 9,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        11,
+        16
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-009.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        11
+      ]
+    },
+    {
+      "id": "B01U1V029",
+      "unit": 1,
+      "term": "surf the Internet",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 9,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        11,
+        16
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-009.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        11
+      ]
+    },
+    {
+      "id": "B01U1V030",
+      "unit": 1,
+      "term": "voluntary",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 6,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        8,
+        13
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-006.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        7,
+        8,
+        13
+      ]
+    },
+    {
+      "id": "B01U1V031",
+      "unit": 1,
+      "term": "engine",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 8,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        10,
+        15
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-008.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        10,
+        15
+      ]
+    },
+    {
+      "id": "B01U1V032",
+      "unit": 1,
+      "term": "search engine",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 8,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        10,
+        15
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-008.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "id": "B01U1V033",
+      "unit": 1,
+      "term": "definitely",
+      "source_pdf_page": 109,
+      "source_printed_vocabulary_page": 107,
+      "first_episode": 26,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        28,
+        33
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V034",
+      "unit": 1,
+      "term": "teen",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 13,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        15,
+        20
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-013.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        15
+      ]
+    },
+    {
+      "id": "B01U1V035",
+      "unit": 1,
+      "term": "laptop",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 8,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        10,
+        15
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-008.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "id": "B01U1V036",
+      "unit": 1,
+      "term": "digital",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 8,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        10,
+        15
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-008.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "id": "B01U1V037",
+      "unit": 1,
+      "term": "native",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 13,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        15,
+        20
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-013.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        15
+      ]
+    },
+    {
+      "id": "B01U1V038",
+      "unit": 1,
+      "term": "range",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 11,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        13,
+        18
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-011.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        13
+      ]
+    },
+    {
+      "id": "B01U1V039",
+      "unit": 1,
+      "term": "various",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 11,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        13,
+        18
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-011.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        13
+      ]
+    },
+    {
+      "id": "B01U1V040",
+      "unit": 1,
+      "term": "hardware",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 8,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        10,
+        15
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-008.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "id": "B01U1V041",
+      "unit": 1,
+      "term": "necessity",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 11,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        13,
+        18
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-011.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        13
+      ]
+    },
+    {
+      "id": "B01U1V042",
+      "unit": 1,
+      "term": "convenient",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 12,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        14,
+        19
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-012.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        14
+      ]
+    },
+    {
+      "id": "B01U1V043",
+      "unit": 1,
+      "term": "quality",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 11,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        13,
+        18
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-011.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V044",
+      "unit": 1,
+      "term": "from time to time",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 15,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        17,
+        22
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-015.html",
+      "same_episode_retrieval_created": true
+    },
+    {
+      "id": "B01U1V045",
+      "unit": 1,
+      "term": "living room",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 15,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        17,
+        22
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-015.html",
+      "same_episode_retrieval_created": true
+    },
+    {
+      "id": "B01U1V046",
+      "unit": 1,
+      "term": "addict",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 10,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        12,
+        17
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-010.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        12
+      ]
+    },
+    {
+      "id": "B01U1V047",
+      "unit": 1,
+      "term": "according to",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 12,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        14,
+        19
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-012.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        14
+      ]
+    },
+    {
+      "id": "B01U1V048",
+      "unit": 1,
+      "term": "in person",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 3,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        5,
+        10
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-003.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "B01U1V049",
+      "unit": 1,
+      "term": "media",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 9,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        11,
+        16
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-009.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        11
+      ]
+    },
+    {
+      "id": "B01U1V050",
+      "unit": 1,
+      "term": "social media",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 9,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        11,
+        16
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-009.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "B01U1V051",
+      "unit": 1,
+      "term": "actually",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 3,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        5,
+        10
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-003.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "B01U1V052",
+      "unit": 1,
+      "term": "drag",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 5,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        7,
+        12
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-005.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        7,
+        12
+      ]
+    },
+    {
+      "id": "B01U1V053",
+      "unit": 1,
+      "term": "tend to do sth",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 5,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        7,
+        12
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-005.html",
+      "same_episode_retrieval_created": true,
+      "first_html_expression": "I tend to say yes before I ask enough questions.",
+      "reviewed_in_html_episodes": [
+        7,
+        12
+      ]
+    },
+    {
+      "id": "B01U1V054",
+      "unit": 1,
+      "term": "goal",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 1,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        3,
+        8
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-001.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        3,
+        4,
+        6,
+        8,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V055",
+      "unit": 1,
+      "term": "aim",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 6,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        8,
+        13
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-006.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": "B01U1V056",
+      "unit": 1,
+      "term": "target",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 6,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        8,
+        13
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-006.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": "B01U1V057",
+      "unit": 1,
+      "term": "update",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 12,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        14,
+        19
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-012.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        14
+      ]
+    },
+    {
+      "id": "B01U1V058",
+      "unit": 1,
+      "term": "meanwhile",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 12,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        14,
+        19
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-012.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        14
+      ]
+    },
+    {
+      "id": "B01U1V059",
+      "unit": 1,
+      "term": "distance",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 12,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        14,
+        19
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-012.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        14
+      ]
+    },
+    {
+      "id": "B01U1V060",
+      "unit": 1,
+      "term": "volunteer",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 1,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        3,
+        8
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-001.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        3,
+        4,
+        5,
+        8,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V061",
+      "unit": 1,
+      "term": "revise",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 13,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        15,
+        20
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-013.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        15
+      ]
+    },
+    {
+      "id": "B01U1V062",
+      "unit": 1,
+      "term": "saying",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 13,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        15,
+        20
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-013.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        15
+      ]
+    },
+    {
+      "id": "B01U1V063",
+      "unit": 1,
+      "term": "ahead",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 13,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        15,
+        20
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-013.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        15
+      ]
+    },
+    {
+      "id": "B01U1V064",
+      "unit": 1,
+      "term": "get ahead",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 13,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        15,
+        20
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-013.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        15
+      ]
+    },
+    {
+      "id": "B01U1V065",
+      "unit": 1,
+      "term": "café",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 26,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        28,
+        33
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V066",
+      "unit": 1,
+      "term": "downtown",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 26,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        28,
+        33
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V067",
+      "unit": 1,
+      "term": "stress",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 16,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        18,
+        23
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V068",
+      "unit": 1,
+      "term": "suffer",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 16,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        18,
+        23
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V069",
+      "unit": 1,
+      "term": "suffer from",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 16,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        18,
+        23
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V070",
+      "unit": 1,
+      "term": "reduce",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 10,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        12,
+        17
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-010.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        12
+      ]
+    },
+    {
+      "id": "B01U1V071",
+      "unit": 1,
+      "term": "expert",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 17,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        19,
+        24
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V072",
+      "unit": 1,
+      "term": "frank",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 3,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        5,
+        10
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-003.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "B01U1V073",
+      "unit": 1,
+      "term": "to be frank",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 3,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        5,
+        10
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-003.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "B01U1V074",
+      "unit": 1,
+      "term": "editor",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 18,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        20,
+        25
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V075",
+      "unit": 1,
+      "term": "remove",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 10,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        12,
+        17
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-010.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        12
+      ]
+    },
+    {
+      "id": "B01U1V076",
+      "unit": 1,
+      "term": "entirely",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 10,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        12,
+        17
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-010.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        12
+      ]
+    },
+    {
+      "id": "B01U1V077",
+      "unit": 1,
+      "term": "position",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 18,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        20,
+        25
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V078",
+      "unit": 1,
+      "term": "military",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 18,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        20,
+        25
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V079",
+      "unit": 1,
+      "term": "due to",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 16,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        18,
+        23
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V080",
+      "unit": 1,
+      "term": "absolutely",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 17,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        19,
+        24
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V081",
+      "unit": 1,
+      "term": "stressed",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 10,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        12,
+        17
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-010.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        12
+      ]
+    },
+    {
+      "id": "B01U1V082",
+      "unit": 1,
+      "term": "extent",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 17,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        19,
+        24
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V083",
+      "unit": 1,
+      "term": "thus",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 17,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        19,
+        24
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V084",
+      "unit": 1,
+      "term": "tension",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 16,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        18,
+        23
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V085",
+      "unit": 1,
+      "term": "organise",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 6,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        8,
+        13
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-006.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        7,
+        8,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V086",
+      "unit": 1,
+      "term": "in other words",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 17,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        19,
+        24
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V087",
+      "unit": 1,
+      "term": "function",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 7,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        9,
+        14
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-007.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        8,
+        9,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V088",
+      "unit": 1,
+      "term": "seek",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 7,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        9,
+        14
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-007.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        9,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V089",
+      "unit": 1,
+      "term": "professional",
+      "source_pdf_page": 110,
+      "source_printed_vocabulary_page": 108,
+      "first_episode": 7,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        9,
+        14
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-007.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        8,
+        9,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V090",
+      "unit": 1,
+      "term": "feature",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 23,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        25,
+        30
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V091",
+      "unit": 1,
+      "term": "typical",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 23,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        25,
+        30
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V092",
+      "unit": 1,
+      "term": "province",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 20,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        22,
+        27
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V093",
+      "unit": 1,
+      "term": "graduate",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 19,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        21,
+        26
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V094",
+      "unit": 1,
+      "term": "graduate from",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 19,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        21,
+        26
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V095",
+      "unit": 1,
+      "term": "certificate",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 19,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        21,
+        26
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V096",
+      "unit": 1,
+      "term": "inspire",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 19,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        21,
+        26
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V097",
+      "unit": 1,
+      "term": "apply",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 19,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        21,
+        26
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V098",
+      "unit": 1,
+      "term": "eager",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 19,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        21,
+        26
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V099",
+      "unit": 1,
+      "term": "sort",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 11,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        13,
+        18
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-011.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        13
+      ]
+    },
+    {
+      "id": "B01U1V100",
+      "unit": 1,
+      "term": "all sorts of",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 11,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        13,
+        18
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-011.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        13
+      ]
+    },
+    {
+      "id": "B01U1V101",
+      "unit": 1,
+      "term": "independently",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 20,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        22,
+        27
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V102",
+      "unit": 1,
+      "term": "power",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 21,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        23,
+        28
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V103",
+      "unit": 1,
+      "term": "supply",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 21,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        23,
+        28
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V104",
+      "unit": 1,
+      "term": "unstable",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 21,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        23,
+        28
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V105",
+      "unit": 1,
+      "term": "dusty",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 21,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        23,
+        28
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V106",
+      "unit": 1,
+      "term": "muddy",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 21,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        23,
+        28
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V107",
+      "unit": 1,
+      "term": "tough",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 20,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        22,
+        27
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V108",
+      "unit": 1,
+      "term": "flash",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 21,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        23,
+        28
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V109",
+      "unit": 1,
+      "term": "give up",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 20,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        22,
+        27
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V110",
+      "unit": 1,
+      "term": "deal with",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 20,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        22,
+        27
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V111",
+      "unit": 1,
+      "term": "responsible",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 7,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        9,
+        14
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-007.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        9,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V112",
+      "unit": 1,
+      "term": "be responsible for",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 7,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        9,
+        14
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-007.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        9,
+        14
+      ]
+    },
+    {
+      "id": "B01U1V113",
+      "unit": 1,
+      "term": "attractive",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 23,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        25,
+        30
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V114",
+      "unit": 1,
+      "term": "as well as",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 23,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        25,
+        30
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V115",
+      "unit": 1,
+      "term": "laughter",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 23,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        25,
+        30
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V116",
+      "unit": 1,
+      "term": "confident",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 23,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        25,
+        30
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V117",
+      "unit": 1,
+      "term": "besides",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 27,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        29,
+        34
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V118",
+      "unit": 1,
+      "term": "contact",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 22,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        24,
+        29
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V119",
+      "unit": 1,
+      "term": "charity",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 22,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        24,
+        29
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V120",
+      "unit": 1,
+      "term": "organisation",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 22,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        24,
+        29
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V121",
+      "unit": 1,
+      "term": "contribution",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 22,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        24,
+        29
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V122",
+      "unit": 1,
+      "term": "intend",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 22,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        24,
+        29
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V123",
+      "unit": 1,
+      "term": "junior",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 4,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        6,
+        11
+      ],
+      "review_after_book_01_episode_offsets": [],
+      "first_appearance_status": "html-ready",
+      "first_html": "episodes/book-01/ep-004.html",
+      "same_episode_retrieval_created": true,
+      "reviewed_in_html_episodes": [
+        6,
+        11
+      ]
+    },
+    {
+      "id": "B01U1V124",
+      "unit": 1,
+      "term": "formal",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 24,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        26,
+        31
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V125",
+      "unit": 1,
+      "term": "informal",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 24,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        26,
+        31
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V126",
+      "unit": 1,
+      "term": "adapt",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 24,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        26,
+        31
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V127",
+      "unit": 1,
+      "term": "adapt to sth",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 24,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        26,
+        31
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V128",
+      "unit": 1,
+      "term": "gym",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 25,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        27,
+        32
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V129",
+      "unit": 1,
+      "term": "moment",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 27,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        29,
+        34
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V130",
+      "unit": 1,
+      "term": "at the moment",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 26,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        28,
+        33
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V131",
+      "unit": 1,
+      "term": "presentation",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 24,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        26,
+        31
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V132",
+      "unit": 1,
+      "term": "slide",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 24,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        26,
+        31
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V133",
+      "unit": 1,
+      "term": "forward",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 27,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        29,
+        34
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V134",
+      "unit": 1,
+      "term": "look forward to (doing) sth",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 27,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        29,
+        34
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V135",
+      "unit": 1,
+      "term": "digestion",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 25,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        27,
+        32
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V136",
+      "unit": 1,
+      "term": "recreation",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 25,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        27,
+        32
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V137",
+      "unit": 1,
+      "term": "entertainment",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 25,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        27,
+        32
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U1V138",
+      "unit": 1,
+      "term": "rural",
+      "source_pdf_page": 111,
+      "source_printed_vocabulary_page": 109,
+      "first_episode": 20,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        22,
+        27
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V001",
+      "unit": 2,
+      "term": "athlete",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 29,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        31,
+        36
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V002",
+      "unit": 2,
+      "term": "frequency",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 37,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        39,
+        44
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V003",
+      "unit": 2,
+      "term": "prefer",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 30,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        32,
+        37
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V004",
+      "unit": 2,
+      "term": "rather than",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 30,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        32,
+        37
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V005",
+      "unit": 2,
+      "term": "badminton",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 30,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        32,
+        37
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V006",
+      "unit": 2,
+      "term": "golf",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 46,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        48,
+        53
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V007",
+      "unit": 2,
+      "term": "gymnastics",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 30,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        32,
+        37
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V008",
+      "unit": 2,
+      "term": "jog",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 38,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        40,
+        45
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V009",
+      "unit": 2,
+      "term": "cycle",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 30,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        32,
+        37
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V010",
+      "unit": 2,
+      "term": "bowling",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 46,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        48,
+        53
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V011",
+      "unit": 2,
+      "term": "skateboard",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 30,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        32,
+        37
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V012",
+      "unit": 2,
+      "term": "track",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 38,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        40,
+        45
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V013",
+      "unit": 2,
+      "term": "in good / bad shape",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 44,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        46,
+        51
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V014",
+      "unit": 2,
+      "term": "balanced",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 43,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        45,
+        50
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V015",
+      "unit": 2,
+      "term": "diet",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 43,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        45,
+        50
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V016",
+      "unit": 2,
+      "term": "stair",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 44,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        46,
+        51
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V017",
+      "unit": 2,
+      "term": "regularly",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 37,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        39,
+        44
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V018",
+      "unit": 2,
+      "term": "net",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 31,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        33,
+        38
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V019",
+      "unit": 2,
+      "term": "court",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 31,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        33,
+        38
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V020",
+      "unit": 2,
+      "term": "within",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 31,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        33,
+        38
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V021",
+      "unit": 2,
+      "term": "underdog",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 32,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        34,
+        39
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V022",
+      "unit": 2,
+      "term": "defeat",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 49,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        51,
+        56
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V023",
+      "unit": 2,
+      "term": "company",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 51,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        53,
+        58
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V024",
+      "unit": 2,
+      "term": "guy",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 32,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        34,
+        39
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V025",
+      "unit": 2,
+      "term": "champion",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 32,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        34,
+        39
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V026",
+      "unit": 2,
+      "term": "shot",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 31,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        33,
+        38
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V027",
+      "unit": 2,
+      "term": "inspiration",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 32,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        34,
+        39
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V028",
+      "unit": 2,
+      "term": "try out for sth",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 29,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        31,
+        36
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V029",
+      "unit": 2,
+      "term": "bench",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 33,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        35,
+        40
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V030",
+      "unit": 2,
+      "term": "replacement",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 33,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        35,
+        40
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V031",
+      "unit": 2,
+      "term": "desire",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 32,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        34,
+        39
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V032",
+      "unit": 2,
+      "term": "crash",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 34,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        36,
+        41
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V033",
+      "unit": 2,
+      "term": "crash into",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 34,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        36,
+        41
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V034",
+      "unit": 2,
+      "term": "gather",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 34,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        36,
+        41
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V035",
+      "unit": 2,
+      "term": "gather around",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 34,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        36,
+        41
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V036",
+      "unit": 2,
+      "term": "not ... anymore",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 47,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        49,
+        54
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V037",
+      "unit": 2,
+      "term": "pack",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 34,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        36,
+        41
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V038",
+      "unit": 2,
+      "term": "sharply",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 34,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        36,
+        41
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V039",
+      "unit": 2,
+      "term": "let sb down",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 51,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        53,
+        58
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V040",
+      "unit": 2,
+      "term": "onto",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 49,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        51,
+        56
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V041",
+      "unit": 2,
+      "term": "extra",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 47,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        49,
+        54
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V042",
+      "unit": 2,
+      "term": "pay off",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 49,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        51,
+        56
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V043",
+      "unit": 2,
+      "term": "keep up with",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 38,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        40,
+        45
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V044",
+      "unit": 2,
+      "term": "energy",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 38,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        40,
+        45
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V045",
+      "unit": 2,
+      "term": "crowd",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 49,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        51,
+        56
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V046",
+      "unit": 2,
+      "term": "clap",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 49,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        51,
+        56
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V047",
+      "unit": 2,
+      "term": "earn",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 49,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        51,
+        56
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V048",
+      "unit": 2,
+      "term": "boxing",
+      "source_pdf_page": 112,
+      "source_printed_vocabulary_page": 110,
+      "first_episode": 46,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        48,
+        53
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V049",
+      "unit": 2,
+      "term": "bounce",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 31,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        33,
+        38
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V050",
+      "unit": 2,
+      "term": "belt",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 46,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        48,
+        53
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V051",
+      "unit": 2,
+      "term": "announcement",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 46,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        48,
+        53
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V052",
+      "unit": 2,
+      "term": "defence",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 31,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        33,
+        38
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V053",
+      "unit": 2,
+      "term": "audience",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 46,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        48,
+        53
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V054",
+      "unit": 2,
+      "term": "remind",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 35,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        37,
+        42
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V055",
+      "unit": 2,
+      "term": "bite",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 35,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        37,
+        42
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V056",
+      "unit": 2,
+      "term": "prohibit",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 35,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        37,
+        42
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V057",
+      "unit": 2,
+      "term": "case",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 35,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        37,
+        42
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V058",
+      "unit": 2,
+      "term": "in case",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 35,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        37,
+        42
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V059",
+      "unit": 2,
+      "term": "sign up",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 29,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        31,
+        36
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V060",
+      "unit": 2,
+      "term": "annual",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 29,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        31,
+        36
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V061",
+      "unit": 2,
+      "term": "application",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 29,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        31,
+        36
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V062",
+      "unit": 2,
+      "term": "warm-up",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 36,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        38,
+        43
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V063",
+      "unit": 2,
+      "term": "quit",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 47,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        49,
+        54
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V064",
+      "unit": 2,
+      "term": "halfway",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 47,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        49,
+        54
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V065",
+      "unit": 2,
+      "term": "tip",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 39,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        41,
+        46
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V066",
+      "unit": 2,
+      "term": "ought to",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 39,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        41,
+        46
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V067",
+      "unit": 2,
+      "term": "occupy",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 45,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        47,
+        52
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V068",
+      "unit": 2,
+      "term": "disappointment",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 33,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        35,
+        40
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V069",
+      "unit": 2,
+      "term": "amazingly",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 47,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        49,
+        54
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V070",
+      "unit": 2,
+      "term": "relieve",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 39,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        41,
+        46
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V071",
+      "unit": 2,
+      "term": "strengthen",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 42,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        44,
+        49
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V072",
+      "unit": 2,
+      "term": "immune",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 42,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        44,
+        49
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V073",
+      "unit": 2,
+      "term": "system",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 42,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        44,
+        49
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V074",
+      "unit": 2,
+      "term": "immune system",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 42,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        44,
+        49
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V075",
+      "unit": 2,
+      "term": "cheer up",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 39,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        41,
+        46
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V076",
+      "unit": 2,
+      "term": "weekly",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 37,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        39,
+        44
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V077",
+      "unit": 2,
+      "term": "be fed up with",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 45,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        47,
+        52
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V078",
+      "unit": 2,
+      "term": "awkward",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 45,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        47,
+        52
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V079",
+      "unit": 2,
+      "term": "particular",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 45,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        47,
+        52
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V080",
+      "unit": 2,
+      "term": "in particular",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 45,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        47,
+        52
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V081",
+      "unit": 2,
+      "term": "benefit",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 41,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        43,
+        48
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V082",
+      "unit": 2,
+      "term": "membership",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 41,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        43,
+        48
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V083",
+      "unit": 2,
+      "term": "equipment",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 41,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        43,
+        48
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V084",
+      "unit": 2,
+      "term": "capable",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 33,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        35,
+        40
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V085",
+      "unit": 2,
+      "term": "be capable of",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 33,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        35,
+        40
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V086",
+      "unit": 2,
+      "term": "prevent",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 42,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        44,
+        49
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V087",
+      "unit": 2,
+      "term": "disease",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 43,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        45,
+        50
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V088",
+      "unit": 2,
+      "term": "upper",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 41,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        43,
+        48
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V089",
+      "unit": 2,
+      "term": "flow",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 44,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        46,
+        51
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V090",
+      "unit": 2,
+      "term": "oxygen",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 44,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        46,
+        51
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V091",
+      "unit": 2,
+      "term": "relief",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 39,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        41,
+        46
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V092",
+      "unit": 2,
+      "term": "ache",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 36,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        38,
+        43
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V093",
+      "unit": 2,
+      "term": "guideline",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 43,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        45,
+        50
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V094",
+      "unit": 2,
+      "term": "click",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 43,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        45,
+        50
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V095",
+      "unit": 2,
+      "term": "detail",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 43,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        45,
+        50
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V096",
+      "unit": 2,
+      "term": "principle",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 37,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        39,
+        44
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V097",
+      "unit": 2,
+      "term": "amount",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 37,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        39,
+        44
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V098",
+      "unit": 2,
+      "term": "shortcut",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 51,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        53,
+        58
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V099",
+      "unit": 2,
+      "term": "overnight",
+      "source_pdf_page": 113,
+      "source_printed_vocabulary_page": 111,
+      "first_episode": 51,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        53,
+        58
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V100",
+      "unit": 2,
+      "term": "achievable",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 37,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        39,
+        44
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V101",
+      "unit": 2,
+      "term": "make sure",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 36,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        38,
+        43
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V102",
+      "unit": 2,
+      "term": "muscle",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 36,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        38,
+        43
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V103",
+      "unit": 2,
+      "term": "bone",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 36,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        38,
+        43
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V104",
+      "unit": 2,
+      "term": "satisfaction",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 44,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        46,
+        51
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V105",
+      "unit": 2,
+      "term": "sweat",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 38,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        40,
+        45
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V106",
+      "unit": 2,
+      "term": "overdo",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 36,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        38,
+        43
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V107",
+      "unit": 2,
+      "term": "sight",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 48,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        50,
+        55
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V108",
+      "unit": 2,
+      "term": "cyclist",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 48,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        50,
+        55
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V109",
+      "unit": 2,
+      "term": "overtake",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 48,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        50,
+        55
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V110",
+      "unit": 2,
+      "term": "amazed",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 48,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        50,
+        55
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V111",
+      "unit": 2,
+      "term": "sportsmanship",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 48,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        50,
+        55
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V112",
+      "unit": 2,
+      "term": "bronze",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 50,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        52,
+        57
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V113",
+      "unit": 2,
+      "term": "medal",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 50,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        52,
+        57
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V114",
+      "unit": 2,
+      "term": "response",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 50,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        52,
+        57
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V115",
+      "unit": 2,
+      "term": "gesture",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 50,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        52,
+        57
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V116",
+      "unit": 2,
+      "term": "take advantage of sth",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 50,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        52,
+        57
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V117",
+      "unit": 2,
+      "term": "defend",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 51,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        53,
+        58
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U2V118",
+      "unit": 2,
+      "term": "flexibility",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 41,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        43,
+        48
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V001",
+      "unit": 3,
+      "term": "occasion",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 53,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        55,
+        60
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V002",
+      "unit": 3,
+      "term": "dragon",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 54,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        56,
+        61
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V003",
+      "unit": 3,
+      "term": "Dragon-Boat Festival",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 54,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        56,
+        61
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V004",
+      "unit": 3,
+      "term": "graduation",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 53,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        55,
+        60
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V005",
+      "unit": 3,
+      "term": "lunar",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 54,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        56,
+        61
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V006",
+      "unit": 3,
+      "term": "lunar month",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 54,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        56,
+        61
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V007",
+      "unit": 3,
+      "term": "barbecue",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 55,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        57,
+        62
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V008",
+      "unit": 3,
+      "term": "sticky",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 55,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        57,
+        62
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V009",
+      "unit": 3,
+      "term": "adult",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 71,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [],
+      "review_after_book_01_episode_offsets": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": "B01U3V010",
+      "unit": 3,
+      "term": "lantern",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 56,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        58,
+        63
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V011",
+      "unit": 3,
+      "term": "turkey",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 60,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        62,
+        67
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V012",
+      "unit": 3,
+      "term": "congratulation",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 60,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        62,
+        67
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V013",
+      "unit": 3,
+      "term": "decorate",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 56,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        58,
+        63
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V014",
+      "unit": 3,
+      "term": "tradition",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 54,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        56,
+        61
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V015",
+      "unit": 3,
+      "term": "monster",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 58,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        60,
+        65
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V016",
+      "unit": 3,
+      "term": "immediately",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 58,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        60,
+        65
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V017",
+      "unit": 3,
+      "term": "gathering",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 60,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        62,
+        67
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V018",
+      "unit": 3,
+      "term": "snack",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 55,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        57,
+        62
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V019",
+      "unit": 3,
+      "term": "put up",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 56,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        58,
+        63
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V020",
+      "unit": 3,
+      "term": "decoration",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 56,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        58,
+        63
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V021",
+      "unit": 3,
+      "term": "let off",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 58,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        60,
+        65
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V022",
+      "unit": 3,
+      "term": "account",
+      "source_pdf_page": 114,
+      "source_printed_vocabulary_page": 112,
+      "first_episode": 63,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        65,
+        70
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V023",
+      "unit": 3,
+      "term": "summarise",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 63,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        65,
+        70
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V024",
+      "unit": 3,
+      "term": "host",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 53,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        55,
+        60
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V025",
+      "unit": 3,
+      "term": "sweep",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 57,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        59,
+        64
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V026",
+      "unit": 3,
+      "term": "sweep away",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 57,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        59,
+        64
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V027",
+      "unit": 3,
+      "term": "character",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 56,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        58,
+        63
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V028",
+      "unit": 3,
+      "term": "attach",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 56,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        58,
+        63
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V029",
+      "unit": 3,
+      "term": "upside down",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 57,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        59,
+        64
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V030",
+      "unit": 3,
+      "term": "expectant",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 61,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        63,
+        68
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V031",
+      "unit": 3,
+      "term": "scare",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 58,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        60,
+        65
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V032",
+      "unit": 3,
+      "term": "scare sb / sth away",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 58,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        60,
+        65
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V033",
+      "unit": 3,
+      "term": "flight",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 59,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        61,
+        66
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V034",
+      "unit": 3,
+      "term": "wine",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 60,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        62,
+        67
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V035",
+      "unit": 3,
+      "term": "surround",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 59,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        61,
+        66
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V036",
+      "unit": 3,
+      "term": "accent",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 59,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        61,
+        66
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V037",
+      "unit": 3,
+      "term": "hotpot",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 55,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        57,
+        62
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V038",
+      "unit": 3,
+      "term": "firecracker",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 58,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        60,
+        65
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V039",
+      "unit": 3,
+      "term": "retired",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 59,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        61,
+        66
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V040",
+      "unit": 3,
+      "term": "buzz",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 71,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [],
+      "review_after_book_01_episode_offsets": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": "B01U3V041",
+      "unit": 3,
+      "term": "joy",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 60,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        62,
+        67
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V042",
+      "unit": 3,
+      "term": "throughout",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 63,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        65,
+        70
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V043",
+      "unit": 3,
+      "term": "original",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 71,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [],
+      "review_after_book_01_episode_offsets": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": "B01U3V044",
+      "unit": 3,
+      "term": "custom",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 54,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        56,
+        61
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V045",
+      "unit": 3,
+      "term": "wedding",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 71,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [],
+      "review_after_book_01_episode_offsets": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": "B01U3V046",
+      "unit": 3,
+      "term": "greet",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 59,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        61,
+        66
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V047",
+      "unit": 3,
+      "term": "beer",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 60,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        62,
+        67
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V048",
+      "unit": 3,
+      "term": "teenager",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 57,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        59,
+        64
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V049",
+      "unit": 3,
+      "term": "studio",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 63,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        65,
+        70
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V050",
+      "unit": 3,
+      "term": "as far as",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 61,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        63,
+        68
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V051",
+      "unit": 3,
+      "term": "appropriately",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 57,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        59,
+        64
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V052",
+      "unit": 3,
+      "term": "specific",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 61,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        63,
+        68
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V053",
+      "unit": 3,
+      "term": "neat",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 69,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        71
+      ],
+      "review_after_book_01_episode_offsets": [
+        4
+      ]
+    },
+    {
+      "id": "B01U3V054",
+      "unit": 3,
+      "term": "suit",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 69,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        71
+      ],
+      "review_after_book_01_episode_offsets": [
+        4
+      ]
+    },
+    {
+      "id": "B01U3V055",
+      "unit": 3,
+      "term": "jeans",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 69,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        71
+      ],
+      "review_after_book_01_episode_offsets": [
+        4
+      ]
+    },
+    {
+      "id": "B01U3V056",
+      "unit": 3,
+      "term": "in general",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 61,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        63,
+        68
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V057",
+      "unit": 3,
+      "term": "pudding",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 55,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        57,
+        62
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V058",
+      "unit": 3,
+      "term": "effort",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 61,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        63,
+        68
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V059",
+      "unit": 3,
+      "term": "make an effort",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 61,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        63,
+        68
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V060",
+      "unit": 3,
+      "term": "represent",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 53,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        55,
+        60
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V061",
+      "unit": 3,
+      "term": "extend",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 53,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        55,
+        60
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V062",
+      "unit": 3,
+      "term": "fortunate",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 71,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [],
+      "review_after_book_01_episode_offsets": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": "B01U3V063",
+      "unit": 3,
+      "term": "memory",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 64,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        66,
+        71
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V064",
+      "unit": 3,
+      "term": "stocking",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 65,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        67,
+        72
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V065",
+      "unit": 3,
+      "term": "move in",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 64,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        66,
+        71
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V066",
+      "unit": 3,
+      "term": "somehow",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 66,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        68
+      ],
+      "review_after_book_01_episode_offsets": [
+        1
+      ]
+    },
+    {
+      "id": "B01U3V067",
+      "unit": 3,
+      "term": "slightly",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 66,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        68
+      ],
+      "review_after_book_01_episode_offsets": [
+        1
+      ]
+    },
+    {
+      "id": "B01U3V068",
+      "unit": 3,
+      "term": "pole",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 65,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        67,
+        72
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V069",
+      "unit": 3,
+      "term": "envelope",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 65,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        67,
+        72
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V070",
+      "unit": 3,
+      "term": "stuff",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 65,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        67,
+        72
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V071",
+      "unit": 3,
+      "term": "lap",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 65,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        67,
+        72
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V072",
+      "unit": 3,
+      "term": "frosty",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 66,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        68
+      ],
+      "review_after_book_01_episode_offsets": [
+        1
+      ]
+    },
+    {
+      "id": "B01U3V073",
+      "unit": 3,
+      "term": "patience",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 66,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        68
+      ],
+      "review_after_book_01_episode_offsets": [
+        1
+      ]
+    },
+    {
+      "id": "B01U3V074",
+      "unit": 3,
+      "term": "over and over",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 66,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        68
+      ],
+      "review_after_book_01_episode_offsets": [
+        1
+      ]
+    },
+    {
+      "id": "B01U3V075",
+      "unit": 3,
+      "term": "eve",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 66,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        68
+      ],
+      "review_after_book_01_episode_offsets": [
+        1
+      ]
+    },
+    {
+      "id": "B01U3V076",
+      "unit": 3,
+      "term": "branch",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 65,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        67,
+        72
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V077",
+      "unit": 3,
+      "term": "plate",
+      "source_pdf_page": 115,
+      "source_printed_vocabulary_page": 113,
+      "first_episode": 68,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        70
+      ],
+      "review_after_book_01_episode_offsets": [
+        3
+      ]
+    },
+    {
+      "id": "B01U3V078",
+      "unit": 3,
+      "term": "behaviour",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 67,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        69
+      ],
+      "review_after_book_01_episode_offsets": [
+        2
+      ]
+    },
+    {
+      "id": "B01U3V079",
+      "unit": 3,
+      "term": "whisper",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 67,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        69
+      ],
+      "review_after_book_01_episode_offsets": [
+        2
+      ]
+    },
+    {
+      "id": "B01U3V080",
+      "unit": 3,
+      "term": "merry",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 67,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        69
+      ],
+      "review_after_book_01_episode_offsets": [
+        2
+      ]
+    },
+    {
+      "id": "B01U3V081",
+      "unit": 3,
+      "term": "ballet",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 67,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        69
+      ],
+      "review_after_book_01_episode_offsets": [
+        2
+      ]
+    },
+    {
+      "id": "B01U3V082",
+      "unit": 3,
+      "term": "roll",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 68,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        70
+      ],
+      "review_after_book_01_episode_offsets": [
+        3
+      ]
+    },
+    {
+      "id": "B01U3V083",
+      "unit": 3,
+      "term": "catch sb’s eye",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 67,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        69
+      ],
+      "review_after_book_01_episode_offsets": [
+        2
+      ]
+    },
+    {
+      "id": "B01U3V084",
+      "unit": 3,
+      "term": "wave",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 67,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        69
+      ],
+      "review_after_book_01_episode_offsets": [
+        2
+      ]
+    },
+    {
+      "id": "B01U3V085",
+      "unit": 3,
+      "term": "affair",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 68,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        70
+      ],
+      "review_after_book_01_episode_offsets": [
+        3
+      ]
+    },
+    {
+      "id": "B01U3V086",
+      "unit": 3,
+      "term": "swallow",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 68,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        70
+      ],
+      "review_after_book_01_episode_offsets": [
+        3
+      ]
+    },
+    {
+      "id": "B01U3V087",
+      "unit": 3,
+      "term": "pass away",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 70,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        72
+      ],
+      "review_after_book_01_episode_offsets": [
+        5
+      ]
+    },
+    {
+      "id": "B01U3V088",
+      "unit": 3,
+      "term": "no longer",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 70,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        72
+      ],
+      "review_after_book_01_episode_offsets": [
+        5
+      ]
+    },
+    {
+      "id": "B01U3V089",
+      "unit": 3,
+      "term": "event",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 53,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        55,
+        60
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V090",
+      "unit": 3,
+      "term": "description",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 63,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        65,
+        70
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V091",
+      "unit": 3,
+      "term": "awesome",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 68,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        70
+      ],
+      "review_after_book_01_episode_offsets": [
+        3
+      ]
+    },
+    {
+      "id": "B01U3V092",
+      "unit": 3,
+      "term": "downstairs",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 64,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        66,
+        71
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V093",
+      "unit": 3,
+      "term": "nowhere",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 64,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        66,
+        71
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V094",
+      "unit": 3,
+      "term": "select",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 64,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        66,
+        71
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V095",
+      "unit": 3,
+      "term": "album",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 64,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        66,
+        71
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V096",
+      "unit": 3,
+      "term": "calm",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 70,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        72
+      ],
+      "review_after_book_01_episode_offsets": [
+        5
+      ]
+    },
+    {
+      "id": "B01U3V097",
+      "unit": 3,
+      "term": "calm down",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 70,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        72
+      ],
+      "review_after_book_01_episode_offsets": [
+        5
+      ]
+    },
+    {
+      "id": "B01U3V098",
+      "unit": 3,
+      "term": "uniform",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 69,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        71
+      ],
+      "review_after_book_01_episode_offsets": [
+        4
+      ]
+    },
+    {
+      "id": "B01U3V099",
+      "unit": 3,
+      "term": "tear",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 70,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        72
+      ],
+      "review_after_book_01_episode_offsets": [
+        5
+      ]
+    },
+    {
+      "id": "B01U3V100",
+      "unit": 3,
+      "term": "cuisine",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 55,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        57,
+        62
+      ],
+      "review_after_book_01_episode_offsets": []
+    },
+    {
+      "id": "B01U3V101",
+      "unit": 3,
+      "term": "thoroughly",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 69,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        71
+      ],
+      "review_after_book_01_episode_offsets": [
+        4
+      ]
+    },
+    {
+      "id": "B01U3V102",
+      "unit": 3,
+      "term": "humbly",
+      "source_pdf_page": 116,
+      "source_printed_vocabulary_page": 114,
+      "first_episode": 69,
+      "same_episode_retrieval_planned": true,
+      "html_review_episodes": [
+        71
+      ],
+      "review_after_book_01_episode_offsets": [
+        4
+      ]
+    }
+  ]
+}

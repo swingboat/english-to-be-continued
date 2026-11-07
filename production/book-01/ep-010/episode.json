@@ -1,0 +1,590 @@
+{
+  "id": "B01E010",
+  "number": 10,
+  "title": "为了戒手机，他差点删掉整个节目。",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "reading-html",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      1024,
+      1536
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        502,
+        371
+      ],
+      [
+        521,
+        3,
+        500,
+        371
+      ],
+      [
+        3,
+        387,
+        502,
+        361
+      ],
+      [
+        521,
+        387,
+        500,
+        361
+      ],
+      [
+        3,
+        761,
+        502,
+        331
+      ],
+      [
+        521,
+        761,
+        500,
+        331
+      ],
+      [
+        3,
+        1105,
+        502,
+        428
+      ],
+      [
+        521,
+        1105,
+        500,
+        428
+      ]
+    ]
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 22,
+  "words": [
+    {
+      "word": "addict",
+      "part": "n.",
+      "meaning": "对某事着迷的人；有瘾的人",
+      "expression": "I feel like a phone addict.",
+      "translation": "我觉得自己像个手机迷。",
+      "usage": "a phone addict 指对手机着迷的人。本格是小帅看见通知就伸手的自嘲。addict 是名词，a 后面用单数。",
+      "question": "小帅做了什么动作，才说自己像个 phone addict？",
+      "scene": 1,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "reduce",
+      "part": "vt.",
+      "meaning": "减少；降低",
+      "expression": "We reduce interruptions and keep our tools.",
+      "translation": "我们减少打断，保留工作工具。",
+      "usage": "reduce + 名词，表示把数量或程度降下来。这里减少的是 interruptions（打断），做法是关闭提醒和无关标签页。",
+      "question": "三人实际减少了什么？为什么电脑和工作文件还要保留？",
+      "scene": 6,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "remove",
+      "part": "vt.",
+      "meaning": "移走；去掉；清除",
+      "expression": "My clone offers to remove the distracting screenshots.",
+      "translation": "分身主动提出清掉那些让我们分心的截图。",
+      "usage": "remove + 要移走的东西。小帅只同意整理三人自己的临时下载；分身误把工作工程也选进去了。",
+      "question": "分身获准清理哪些东西？哪一个文件夹不该被选中？",
+      "scene": 2,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "entirely",
+      "part": "adv.",
+      "meaning": "完全地；彻底地",
+      "expression": "He wants the screen entirely clear.",
+      "translation": "他想让屏幕彻底清爽。",
+      "usage": "entirely 在这里修饰 clear，强调“完全”。画面整洁不等于工作准备完成，先辨认内容再整理。",
+      "question": "分身追求 entirely clear 的屏幕时，忽略了什么？",
+      "scene": 2,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "stressed",
+      "part": "adj.",
+      "meaning": "感到紧张的；有压力的",
+      "expression": "Now I feel stressed.",
+      "translation": "这下我紧张起来了。",
+      "usage": "feel / be stressed 描写人的紧张状态。第二集学过 stressful，常用来描写令人紧张的事情或处境。",
+      "question": "哪个窗口让小帅 feel stressed？他怎样及时处理？",
+      "scene": 3,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    }
+  ],
+  "review_words": [
+    {
+      "word": "social media",
+      "meaning": "社交媒体",
+      "expression": "I turn off my social media alerts.",
+      "translation": "我关闭自己的社交媒体提醒。",
+      "scene": 6
+    },
+    {
+      "word": "laptop",
+      "meaning": "笔记本电脑",
+      "expression": "We open the folder on the laptop.",
+      "translation": "我们在笔记本电脑上打开那个文件夹。",
+      "scene": 5
+    }
+  ],
+  "supplemental_review_note": "到期清单共10项，其中 laptop 已在主线解说和复习卡呈现；以下补充其余9项，避免重复词卡和锚点。",
+  "supplemental_review_words": [
+    {
+      "word": "actually",
+      "meaning": "实际上；事实上",
+      "expression": "Actually, I was nervous on my first day.",
+      "translation": "实际上，第一天我很紧张。",
+      "question": "回想第三集，小帅坦白自我介绍背后的真实感受。用 actually 补一句。",
+      "first_teaching_episode": 3
+    },
+    {
+      "word": "differ",
+      "meaning": "不同；有区别",
+      "expression": "My clone and I differ in what we want to do.",
+      "translation": "分身和我想做的事有所不同。",
+      "question": "两张相同的脸，兴趣和选择一定相同吗？用 differ 回答。",
+      "first_teaching_episode": 3
+    },
+    {
+      "word": "in person",
+      "meaning": "亲自；本人",
+      "expression": "I give my introduction in person.",
+      "translation": "我亲自作自我介绍。",
+      "question": "第三集最终由谁完成小帅的自我介绍？用 in person 回答。",
+      "first_teaching_episode": 3
+    },
+    {
+      "word": "frank",
+      "meaning": "坦率的；直言的",
+      "expression": "I am frank about my fear.",
+      "translation": "我坦率地说出自己的害怕。",
+      "question": "小帅不再编理由时，可以怎样用 frank 描述他的态度？",
+      "first_teaching_episode": 3
+    },
+    {
+      "word": "to be frank",
+      "meaning": "坦白说；坦率地说",
+      "expression": "To be frank, I need help.",
+      "translation": "坦白说，我需要帮助。",
+      "question": "想坦率承认自己需要帮助，可以用哪个短语开头？",
+      "first_teaching_episode": 3
+    },
+    {
+      "word": "digital",
+      "meaning": "数字的；数码的",
+      "expression": "We keep a digital copy of the outline.",
+      "translation": "我们保留一份数字版提纲。",
+      "question": "提纲除了写在纸上，还可以保留什么版本？用 digital 回答。",
+      "first_teaching_episode": 8
+    },
+    {
+      "word": "hardware",
+      "meaning": "计算机硬件",
+      "expression": "The hardware is working.",
+      "translation": "硬件运行正常。",
+      "question": "回想第八集，电脑没坏，静音的是播放轨道。用 hardware 描述检查结果。",
+      "first_teaching_episode": 8
+    },
+    {
+      "word": "engine",
+      "meaning": "引擎；发动机",
+      "expression": "A car engine makes the car move.",
+      "translation": "汽车发动机使汽车行驶。",
+      "question": "engine 单独使用时，可以指汽车的什么部件？",
+      "first_teaching_episode": 8
+    },
+    {
+      "word": "search engine",
+      "meaning": "搜索引擎",
+      "expression": "We use a search engine to find interview ideas.",
+      "translation": "我们用搜索引擎查找采访思路。",
+      "question": "回想第八集，三人准备使用什么来查采访思路？说出完整短语。",
+      "first_teaching_episode": 8
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "手比脑子先伸过去",
+      "place": "周六 14:00 · 小帅家客厅工作桌",
+      "shot": "三人回到同一张桌子。小帅红 T 恤，分身蓝内搭配校服，苏小满戴圆眼镜。小帅伸手去拿亮屏的黑手机；桌上只有一台银色电脑。",
+      "action": "吃完饭、收拾并休息后已到两点。苏小满按与家长说好的安排，两点半回家。小帅妈妈仍在家。三人刚坐下，小帅的手机提醒就亮了，他下意识又伸出手。",
+      "sound": "椅子轻响，一声短促提示音；不提供实际音频。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "I feel like a phone addict.",
+          "zh": "我觉得自己像个手机迷。"
+        },
+        {
+          "who": "苏小满",
+          "text": "我两点半得回家。上午已经把三小时滑没了，这半小时咱们做出点东西。"
+        },
+        {
+          "who": "分身",
+          "text": "交给我，我来让桌面清爽一点。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "It is two o'clock, and we are back at work.",
+          "zh": "两点了，我们回来继续准备。"
+        },
+        {
+          "id": "EN002",
+          "en": "My phone lights up. I reach for it again.",
+          "zh": "手机亮了。我又伸手去拿。"
+        },
+        {
+          "id": "EN003",
+          "en": "I feel like a phone addict.",
+          "zh": "我觉得自己像个手机迷。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "先说清楚，清理什么",
+      "place": "14:02 · 同一张工作桌",
+      "shot": "分身坐到电脑前，指向几张聊天截图；波形和笔记图标组成的准备工程文件夹紧挨在旁边。苏小满握笔，小帅有点不放心。",
+      "action": "分身提议清理上午存下的群入口截图。小帅只同意整理他们自己的临时下载，并先看清内容；借来的学校电脑里，学校软件和其他文件都不动。分身却一心想着全选清空后的整齐画面。",
+      "sound": "触控板轻点。",
+      "cues": [
+        {
+          "who": "分身",
+          "en": "I can remove these screenshots.",
+          "zh": "我可以清掉这些截图。"
+        },
+        {
+          "who": "小帅",
+          "text": "只整理我们自己的临时下载，先看内容，学校的软件不要动。"
+        },
+        {
+          "who": "分身",
+          "en": "I want the screen entirely clear.",
+          "zh": "我想让屏幕彻底清爽。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN004",
+          "en": "My clone offers to remove the distracting screenshots.",
+          "zh": "分身主动提出清掉那些让我们分心的截图。"
+        },
+        {
+          "id": "EN005",
+          "en": "Only our own downloads, I say.",
+          "zh": "我说，只整理我们自己的下载。"
+        },
+        {
+          "id": "EN006",
+          "en": "He wants the screen entirely clear.",
+          "zh": "他想让屏幕彻底清爽。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "这一个可不算干扰",
+      "place": "14:04 · 电脑屏幕前",
+      "shot": "越肩视角看屏幕：多张截图连同一个准备工程文件夹被选中，出现尚未确认的删除窗口。红衣小帅骤然紧张，分身愣住，苏小满盯住文件夹图标。",
+      "action": "分身批量选中临时截图时，把紧挨着的“广播准备工程”也选了进去。删除确认框弹出，尚未确认，文件没有删除。工程里有第八集短试音、第九集小帅半分钟口述草稿和准备笔记，十分钟节目尚未完成。",
+      "sound": "提示音转短停顿，留出喜剧悬念。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "等一下，选中的不止截图。那个波形图标，是我们的工程！"
+        },
+        {
+          "who": "小帅",
+          "en": "Now I feel stressed.",
+          "zh": "这下我紧张起来了。"
+        },
+        {
+          "who": "小帅",
+          "text": "我好不容易亲口说完的那半分钟，也在里面！"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN007",
+          "en": "He selects our programme folder with the screenshots.",
+          "zh": "他把我们的节目准备文件夹和截图一起选中了。"
+        },
+        {
+          "id": "EN008",
+          "en": "The delete box opens. My story is in there!",
+          "zh": "删除确认框弹了出来。我的口述草稿就在里面！"
+        },
+        {
+          "id": "EN009",
+          "en": "Now I feel stressed.",
+          "zh": "这下我紧张起来了。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "取消键，救场了",
+      "place": "紧接上一格 · 删除确认前",
+      "shot": "小帅举起一只手喊停，另一只手独自操作触控板点取消；分身双手离开键盘，苏小满指着工程。人物手臂分离，不画抢夺或抓手腕。",
+      "action": "小帅喊停，分身立即把手拿开。小帅点击取消。整个过程停在删除确认之前，没有文件进入废纸篓，也没有凭空恢复的步骤。",
+      "sound": "“停！”之后，一声取消操作的轻点。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Stop! Cancel that.",
+          "zh": "停！取消。"
+        },
+        {
+          "who": "分身",
+          "text": "我以为全选的都是截图……我把手拿开，你来确认。"
+        },
+        {
+          "who": "苏小满",
+          "text": "还好没确认。清爽的桌面差点把我们的工作也清爽掉了。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN010",
+          "en": "'Stop!' I say, and press Cancel.",
+          "zh": "我喊了声“停！”，按下取消。"
+        },
+        {
+          "id": "EN011",
+          "en": "Nothing is gone. My clone takes his hands away.",
+          "zh": "文件都还在。分身把双手移开。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "先确认，工作还在",
+      "place": "14:06 · 广播准备工程",
+      "shot": "电脑里打开准备文件夹，清楚可见两项波形图标和一项笔记图标。苏小满指出保留的资料，小帅手按胸口松气，分身歉意点头。",
+      "action": "苏小满逐项核对：短试音能打开，小帅的口述草稿能打开，笔记也在。他们只确认此前已保存的素材，没有重新录制替代品。分身承认自己把“分心的内容”和“用来工作的工具与资料”混到了一起。",
+      "sound": "仅作短试听的情节说明，不制作录音或配音。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "en": "That's our work.",
+          "zh": "这些是我们的工作成果。"
+        },
+        {
+          "who": "小帅",
+          "text": "两段声音都还在，笔记也在。我的心跳终于不用当背景鼓点了。"
+        },
+        {
+          "who": "分身",
+          "text": "是我没看清。电脑不是干扰，里面有些内容才是。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN012",
+          "en": "We open the folder on the laptop.",
+          "zh": "我们在笔记本电脑上打开那个文件夹。"
+        },
+        {
+          "id": "EN013",
+          "en": "Our short sound test and my story are still there.",
+          "zh": "我们的短试音和我的口述草稿都还在。"
+        },
+        {
+          "id": "EN014",
+          "en": "'That's our work,' Xiaoman says.",
+          "zh": "小满说：“这些是我们的工作成果。”"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "关掉提醒，留下工具",
+      "place": "14:08 · 再次回到提纲",
+      "shot": "小帅用自己的黑手机关闭提醒，准备屏幕朝下放好；分身在电脑关闭无关网页标签，苏小满保留笔记。电脑与手机各一台。",
+      "action": "小帅关闭自己手机的社交媒体提醒，再把手机屏幕朝下。分身关闭无关浏览标签页，保留工程和提纲，苏小满重新拿起笔。三人先减少打断，不再继续批量删文件；借用电脑的系统和学校软件未作更改。",
+      "sound": "通知声停止，回到翻页和笔尖声。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Let's reduce the interruptions.",
+          "zh": "我们来减少打断吧。"
+        },
+        {
+          "who": "分身",
+          "text": "关无关标签，留工程。每个先看一眼。"
+        },
+        {
+          "who": "苏小满",
+          "text": "我这次也先不回评论了。提纲留在屏幕上。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN015",
+          "en": "I turn off my social media alerts.",
+          "zh": "我关闭自己的社交媒体提醒。"
+        },
+        {
+          "id": "EN016",
+          "en": "My clone closes the extra tabs.",
+          "zh": "分身关掉多余的网页标签。"
+        },
+        {
+          "id": "EN017",
+          "en": "We reduce interruptions and keep our tools.",
+          "zh": "我们减少打断，保留工作工具。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "少一条支线，多一条主线",
+      "place": "14:10 · 距苏小满回家还有二十分钟",
+      "shot": "苏小满指指墙上时钟，桌上三张线索卡分别表示小帅首日经历、图书馆地图和高马尾帮忙同学。三人把地图与同学故事放到同一条主线上。",
+      "action": "上午花掉的时间不会因关闭提醒补回来，苏小满两点半要走。他们决定第一期先围绕高马尾同学首日去图书馆迷路、得到帮助的经历展开；地图只辅助核对路线，小帅自己的口述草稿另存待用。正式采访和路线核对仍待周一安排。",
+      "sound": "纸卡挪动，时钟轻响。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "两点十分了。三条全做，今天连问题都收不拢。先围绕一个人的经历。"
+        },
+        {
+          "who": "小帅",
+          "text": "就做她第一天找图书馆的故事。她答应愿意说，周一再约具体时间、核对路线。我的那段先存着。"
+        },
+        {
+          "who": "分身",
+          "text": "地图帮我们问清楚，不能拿地图替她讲经历。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN018",
+          "en": "Xiaoman must leave at half past two.",
+          "zh": "小满两点半必须回家。"
+        },
+        {
+          "id": "EN019",
+          "en": "We have twenty minutes, and three story ideas.",
+          "zh": "我们还剩二十分钟，却有三条故事线索。"
+        },
+        {
+          "id": "EN020",
+          "en": "We choose the helper's story about finding the library.",
+          "zh": "我们选定那位帮忙同学找图书馆的故事。"
+        }
+      ],
+      "table": {
+        "caption": "第一期收拢范围：仍围绕“开学第一天，谁帮了你”",
+        "columns": [
+          "线索",
+          "这次怎么用",
+          "待做事项"
+        ],
+        "rows": [
+          [
+            "高马尾同学的经历",
+            "第一期采访主线",
+            "周一约时间；问清迷路、受助经过"
+          ],
+          [
+            "校园手册地图",
+            "辅助核对路线",
+            "周一到校核对，不能当成采访结果"
+          ],
+          [
+            "小帅半分钟草稿",
+            "保留，暂不放入第一期",
+            "以后需要时再征求本人意见使用"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "这回，先问再伸手",
+      "place": "14:25 · 保存三问提纲",
+      "shot": "苏小满记下三条提问标记，纸上只有便携麦克风草图，没有真实麦克风。小帅指着提纲，分身举手询问。电脑显示已保存图标，手机屏幕朝下。",
+      "action": "三人保存三问：在哪里迷路、谁帮了你、当时感觉怎样。苏小满仍按两点半的约定回家。若周一确认适合在图书馆附近边走边访，收音要另做测试；家里没有新设备。分身这回先询问能否借便携麦克风，为下一集的设备讨论埋伏笔。",
+      "sound": "保存轻点、合上笔记本；不制作音频。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "三问存好了。现场位置和采访时间，周一再跟她确认。"
+        },
+        {
+          "who": "小帅",
+          "text": "十分钟试播还是下周三放学后，今天先把提纲做好。"
+        },
+        {
+          "who": "分身",
+          "en": "Can we borrow a portable microphone first?",
+          "zh": "我们能先借一支便携麦克风吗？"
+        },
+        {
+          "who": "小帅",
+          "text": "你这次先问了。我放心了一半——另一半等我看完你的设备清单。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN021",
+          "en": "We save three questions and keep my story for later.",
+          "zh": "我们保存三条问题，把我的口述草稿留待以后。"
+        },
+        {
+          "id": "EN022",
+          "en": "'Can we borrow a portable microphone first?' my clone asks.",
+          "zh": "分身问：“我们能先借一支便携麦克风吗？”"
+        }
+      ]
+    }
+  ],
+  "continuity": {
+    "start": "承接第九集午饭前保存的短试音与半分钟个人口述草稿。周六午饭后在小帅家继续准备。",
+    "end": [
+      "删除在确认前取消：短试音、口述草稿、笔记都在；没有实际删除或恢复操作。",
+      "三人减少手机提醒与无关网页打断，工作电脑和工程保留。",
+      "第一期收拢到高马尾同学首日找图书馆的受助经历，地图辅助核对，小帅个人草稿另存待用。",
+      "三问提纲已保存；同学采访具体时间、路线核对与现场收音测试均留待周一安排。",
+      "苏小满按约两点半回家；下周三放学后 16:40—16:50 十分钟试播时段不变。"
+    ],
+    "props": [
+      "一台经学校登记周末借用、周一归还的银色笔记本电脑；只有小帅原有的一部黑手机。",
+      "妈妈在家，苏小满来访与回家时间获家长知情；没有周末擅自进校。",
+      "没有家用新麦克风、音箱、耳机或额外手机；便携麦克风只画在纸上。",
+      "苏小满主编、小帅统筹、分身在指导下协助声音；父母和老师已知分身来历。",
+      "周五搬桌与英语分享已经完成，月底篮球补选仍待申请；节目尚未完成或正式播出。"
+    ],
+    "next": "第十一集讨论图书馆现场采访的便携收音需要：先试借用设备，再分清必需品和豪华愿望。"
+  }
+}

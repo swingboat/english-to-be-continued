@@ -1,0 +1,7 @@
+{
+  "generated_on": "2026-11-06",
+  "mode": "built-in imagegen edit",
+  "file": "assets/clone-body.png",
+  "reference": "assets/clone-rig.png",
+  "prompt": "Use case: precise-object-edit. Edit target: the provided single blue-shirt boy T-pose animation source. This is a precise puppet layer separation task. Preserve the existing boy's head, exact face and expression, hair, blue T-shirt, backpack straps, jacket torso, waistband and trousers at exactly their existing canvas size, position and scale. Keep the canvas 1536x1024 and actual alpha transparency.\nREMOVE BOTH ENTIRE ARMS AND HANDS. Only the central armless body remains, from hair to thighs. This is the body layer of a puppet whose independently animated arms will be composited underneath. Do not leave horizontal sleeve stubs, cut-off flaps, epaulettes, stray scraps of jacket, open holes, ghost arms or hands. Smooth the two shoulder/torso silhouettes naturally so the body layer overlaps the separately animated sleeve at each shoulder. The left shoulder joint on the image is approximately (611,405), right shoulder approximately (931,403); keep the central body in exactly the same place and don't narrow or change the torso. Main body should have a clean rounded shoulder edge on each side, like a proper animation cutout. The animated sleeve pieces will attach beneath it. No background, haze, shadow, text, borders or additional characters. Preserve the alpha transparency and all central details; this is NOT a redesign or a new pose."
+}

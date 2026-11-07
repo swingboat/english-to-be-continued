@@ -1,0 +1,305 @@
+{
+  "checked_on": "2026-11-02T17:19:59+08:00",
+  "status": "passed",
+  "html": "episodes/book-01/ep-002.html",
+  "html_sha256": "576e851e0b8331d270797d47d5a9d58606af194e990ac37ef02d579c2c0675ac",
+  "rules_file": "AGENTS.md",
+  "rules_sha256": "d2a92e644271d5394da6e00459e5209aa7f9229bcae344b76b487224c4a3ea6a",
+  "book": 1,
+  "textbook": "/Users/huyin/Desktop/Niki/教材/英语/北师大版·英语必修 第一册.pdf",
+  "single_offline_html": true,
+  "video_elements": 0,
+  "scene_count": 8,
+  "complete_script_cues": 33,
+  "new_words": [
+    "stressful",
+    "challenging",
+    "arise",
+    "expectation",
+    "pressure"
+  ],
+  "review_words": [
+    "schedule",
+    "challenge"
+  ],
+  "narration_and_subtitle_pairs": 35,
+  "narrator": "小帅（Xiaoshuai）",
+  "subtitle_text_equals_narration": true,
+  "characters": [
+    {
+      "name": "小帅",
+      "status": "已选定",
+      "duration_seconds": 13.84,
+      "reference_sha256": "c051a6aae2cc0d63ee5284c156b43052afff9c345d245a01dcf9e9d9b369fd4f"
+    },
+    {
+      "name": "小帅的分身",
+      "status": "已选定",
+      "duration_seconds": 14.16,
+      "reference_sha256": "ce3d88284545808c57c283d9240a92fc491e82efaafbe61926a1058eda5d4146"
+    },
+    {
+      "name": "苏小满",
+      "status": "暂定采用",
+      "duration_seconds": 18.88,
+      "reference_sha256": "746b2f99491248ef285cd2f5e85992a580c2fcbdd1bfa7414293394ad54dce9b"
+    },
+    {
+      "name": "班主任",
+      "status": "已选定",
+      "duration_seconds": 19.36,
+      "reference_sha256": "6ae234463019c9ed5a62db2d25d2ffadfb0b529c374f285bbe7c45c52aab195c"
+    }
+  ],
+  "sources_embedded_and_unchanged": true,
+  "publishing": {
+    "episode": "B01E002",
+    "status": "passed",
+    "title_units": 22,
+    "description_units": 167,
+    "description_with_topics_units": 198,
+    "topics": 5,
+    "policy_checked_on": "2026-11-02",
+    "keywords": 30,
+    "html_matches_source": true
+  },
+  "covers": [
+    {
+      "ratio": "4x3",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "preview_download_bytes_match": true
+    },
+    {
+      "ratio": "3x4",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "preview_download_bytes_match": true
+    }
+  ],
+  "external_dependencies": [],
+  "previous_audio_taste_report_sha_matches_current": false,
+  "fixes_needed_in_html": [],
+  "browser": {
+    "offline": true,
+    "opened_standalone_file": true,
+    "screenshots": [
+      "production/book-01/ep-002/checks/latest-rules/voice-mobile.jpg",
+      "production/book-01/ep-002/checks/latest-rules/publishing-desktop.jpg"
+    ],
+    "initial": {
+      "audioCount": 4,
+      "noAutoplay": true,
+      "sceneCount": 8,
+      "subtitleCount": 35,
+      "topicCount": 5
+    },
+    "audio": {
+      "samples": [
+        {
+          "label": "播放小帅的参考语音",
+          "duration": 13.84,
+          "advanced": true,
+          "error": null
+        },
+        {
+          "label": "播放小帅的分身的参考语音",
+          "duration": 14.16,
+          "advanced": true,
+          "error": null
+        },
+        {
+          "label": "播放苏小满的参考语音",
+          "duration": 18.88,
+          "advanced": true,
+          "error": null
+        },
+        {
+          "label": "播放班主任的参考语音",
+          "duration": 19.36,
+          "advanced": true,
+          "error": null
+        }
+      ],
+      "exclusive": true
+    },
+    "disclosures": [
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      },
+      {
+        "openWorks": true,
+        "closeWorks": true
+      }
+    ],
+    "viewports": [
+      {
+        "width": 375,
+        "documentWidth": 375,
+        "contentOverflow": [],
+        "rasterWindows": 9
+      },
+      {
+        "width": 390,
+        "documentWidth": 390,
+        "contentOverflow": [],
+        "rasterWindows": 9
+      },
+      {
+        "width": 768,
+        "documentWidth": 768,
+        "contentOverflow": [],
+        "rasterWindows": 9
+      },
+      {
+        "width": 1440,
+        "documentWidth": 1440,
+        "contentOverflow": [],
+        "rasterWindows": 9
+      }
+    ],
+    "covers": [
+      {
+        "id": "publish-cover-4x3",
+        "width": 1448,
+        "height": 1086,
+        "downloadMatchesPreview": true
+      },
+      {
+        "id": "publish-cover-3x4",
+        "width": 1086,
+        "height": 1448,
+        "downloadMatchesPreview": true
+      }
+    ],
+    "downloads": [
+      {
+        "ratio": "4x3",
+        "bytesMatch": true
+      },
+      {
+        "ratio": "3x4",
+        "bytesMatch": true
+      }
+    ],
+    "reducedMotion": 0,
+    "scriptDisabled": {
+      "subtitleCount": 35,
+      "players": 4,
+      "title": "三个我才够用？\n先删掉一个承诺。"
+    },
+    "externalRequests": [],
+    "consoleErrors": []
+  },
+  "html_changed_during_audit": false,
+  "design": {
+    "skill": ".agents/skills/taste-skill/SKILL.md",
+    "direction": "The page is the object",
+    "seed": 2094817229,
+    "report": ".taste-skill/ep002-latest-rules/report.json",
+    "widths": [
+      1440,
+      768,
+      390
+    ],
+    "failures": 0,
+    "warnings": [
+      {
+        "id": "card-rows",
+        "message": "2 rows of identical boxed cards."
+      },
+      {
+        "id": "no-footage",
+        "message": "No video anywhere on the page."
+      },
+      {
+        "id": "name-only-title",
+        "message": "The h1 is a bare name (\"三个我才够用？ 先删掉一个承诺。\") and nothing else on the first screen says what this is."
+      }
+    ],
+    "visual_review_complete": true,
+    "warning_justifications": {
+      "card-rows": "重复色块用于逐句中英字幕分组，便于连续阅读；不是装饰性功能卡。",
+      "no-footage": "项目规则明确不交付视频；图片与语音均完整内嵌。",
+      "name-only-title": "检测按空格拆词，未理解中文说明；首屏已明确说明英语故事学习与本集时间冲突。"
+    }
+  },
+  "topic_research_audit": {
+    "checked_on": "2026-11-02",
+    "queries": [
+      "site.douyin.com 抖音知识 英语 官方 活动 投稿 2026 11",
+      "site.douyin.com 抖音知识 创作 活动 2026年11月 规则",
+      "site.creator.douyin.com 活动 英语 知识 2026",
+      "vibe知识大赏 英语 参与 规则 2026"
+    ],
+    "formal_topics_unchanged": true,
+    "official_campaigns_selected": [],
+    "candidate_only": [
+      {
+        "name": "vibe知识大赏",
+        "source_url": "https://www.douyin.com/video/7701282040913661211",
+        "search_result_claimed_deadline": "2026-11-30",
+        "official_initiator_verified": false,
+        "account_eligibility_verified": false,
+        "english_story_eligibility_verified": false,
+        "selection": "未列入正式话题",
+        "reason": "搜索结果含活动文案，但直接页面无可读取正文，未核验发起方、完整资格和本集适配条件。不得据此认定当前可参与的官方扶持活动。"
+      }
+    ],
+    "conclusion": "保留现有普通相关话题及系列自有话题；本次不声称全平台没有官方活动。"
+  },
+  "publication_day_followup": [
+    "实际发布当天从平台话题候选中选中话题，复核系列自有话题与剧情话题。",
+    "如采用官方活动，届时核验发起方、活动期限、资格和投稿要求；用一个活动话题替换普通机动话题，仍不超过5个。"
+  ],
+  "report_note": "旧 audio-taste-verification.json 对应先前发布区版本。当前文件与最新规则的核验以本报告记录的两个 SHA-256 为准。"
+}

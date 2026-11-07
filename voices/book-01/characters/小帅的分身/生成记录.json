@@ -1,0 +1,84 @@
+{
+  "name": "小帅的分身",
+  "version": "v001",
+  "created_at": "2026-11-02T14:23:43+08:00",
+  "status": "generated-awaiting-listening-review",
+  "character": {
+    "name": "小帅的分身",
+    "gender": "男",
+    "age": 16,
+    "personality": "热情、自信、爱争取机会，容易抢着安排事情",
+    "voice_identity": "xiaoshuai-shared",
+    "seed": 172,
+    "direction_zh": "沿用小帅的轻清少年男声方向，起句更果断、节奏更明快，带笑意；保持真人高中生的表达。相同描述基础和种子不等于已锁定同一音色。",
+    "instruct": "The speaker is the identical clone of a 16-year-old male high-school student. Keep the same vocal anatomy direction as the original: a light, youthful tenor, with a little breathiness and a slightly reedy, unpolished teenage texture, with modest chest resonance. He is enthusiastic, eager to help and confident. His sentence openings are prompt and assured, with a small smile and brighter, lively but believable intonation. Keep his pitch range and vocal weight similar to an ordinary shy teenage boy; the difference is confidence and phrasing. No adult salesman voice, robot filter, villain voice or cartoon performance.",
+    "text": "Give me a second. I want to say this myself. I get nervous when everyone is looking at me, but that doesn't mean I have nothing to say. Let's start with one question, and listen to the answer before we move on.",
+    "evidence": [
+      "docs/book-01-plan.md：两人共享生成前经历，具有独立意愿",
+      "production/book-01/ep-004/image-prompt.txt：identical clone, enthusiastic"
+    ]
+  },
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
+  "revision": "5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "model_path": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/cache/huggingface/hub/models--mlx-community--Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit/snapshots/5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "generation": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.05,
+    "max_tokens": 700
+  },
+  "language": "English",
+  "full_instruction": "The speaker is the identical clone of a 16-year-old male high-school student. Keep the same vocal anatomy direction as the original: a light, youthful tenor, with a little breathiness and a slightly reedy, unpolished teenage texture, with modest chest resonance. He is enthusiastic, eager to help and confident. His sentence openings are prompt and assured, with a small smile and brighter, lively but believable intonation. Keep his pitch range and vocal weight similar to an ordinary shy teenage boy; the difference is confidence and phrasing. No adult salesman voice, robot filter, villain voice or cartoon performance. Speak clear, natural conversational American English. Use a comfortable medium pace and natural sentence pauses so a high-school English learner can follow. Keep an everyday human delivery, with no music or sound effects, no announcer performance, and no theatrical exaggeration. Read only the supplied text.",
+  "environment": {
+    "python": "3.13.4",
+    "executable": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/.venv/bin/python",
+    "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "hardware": "Apple M3 Pro",
+    "packages": {
+      "mlx-audio": "0.6.3",
+      "mlx": "0.32.4",
+      "numpy": "2.5.4"
+    },
+    "ffmpeg": "ffmpeg version 7.1.1 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "sample_rate": 24000,
+  "channels": 1,
+  "samples": 339840,
+  "duration_seconds": 14.16,
+  "generation_seconds": 6.956,
+  "peak": 0.7651718854904175,
+  "rms": 0.06817161831476998,
+  "mp3_duration_seconds": 14.208,
+  "checks": {
+    "finite_waveform": true,
+    "peak_below_full_scale": true,
+    "mp3_full_decode": true
+  },
+  "listening_review": {
+    "gender": "pending",
+    "age": "pending",
+    "personality": "pending",
+    "pronunciation_and_completeness": "pending"
+  },
+  "identity_note": "VoiceDesign candidate only; the seed is not a persistent speaker identity. Shared voice_identity does not guarantee matching timbre.",
+  "files": {
+    "小帅的分身.wav": {
+      "bytes": 679724,
+      "sha256": "ce3d88284545808c57c283d9240a92fc491e82efaafbe61926a1058eda5d4146"
+    },
+    "小帅的分身.mp3": {
+      "bytes": 227756,
+      "sha256": "312824b365dbadf68a547d4e5fd835b3f5aed7d02578c3b100c720efec1482a7"
+    },
+    "小帅的分身.txt": {
+      "bytes": 211,
+      "sha256": "8d83a1c7ffcf3bdd2fabb6c6f2cf7e3151068318e93c19370aa1611356c7b296"
+    },
+    "音色描述.txt": {
+      "bytes": 932,
+      "sha256": "6935dd5a11c34bdd6db45c0321d4c05ddc9f00b32184521c6682888ade9f1f24"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "寸头同学",
+  "reviewed_on": "2026-11-02",
+  "selection_status": "selected",
+  "source": "current-chat-user-clarification",
+  "user_feedback": "我们在会话“每个角色的语音”中不是已经确认了每个人物的声音了吗？",
+  "note": "按用户本次说明采用当前已有参考音色；本记录不表示补做了一次逐人试听。",
+  "reference_audio": "寸头同学.wav",
+  "reference_text": "寸头同学.txt",
+  "current_audio_sha256": "5c5811635231709640cbd5ac494e20ff7e91a0ccd3b46fa5e08e9695015b1420"
+}

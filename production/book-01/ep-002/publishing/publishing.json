@@ -1,0 +1,96 @@
+{
+  "episode": "B01E002",
+  "title": "两个我三件事，这次我自己选｜英语有续集002",
+  "description": "三项邀请撞在周五两点，分身还想再找一个自己，手机却只有一次生成机会。小帅亲自找老师协调，搬桌提前，英语分享确认由自己参加，这次不报篮球初选。少留一个机会，反而把安排说清了。换作你，会怎样取舍？跟着故事学习 stressful、challenging、arise、expectation、pressure。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "日程安排",
+    "时间冲突",
+    "亲自沟通",
+    "承诺取舍",
+    "活动邀请",
+    "活动确认表",
+    "学会选择",
+    "stressful",
+    "challenging",
+    "arise",
+    "expectation",
+    "pressure"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 002",
+    "headline": [
+      "两个我，三件事",
+      "总得放下一件！"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-002-封面-4x3.png",
+      "alt": "第002集横版封面 · 4:3：两个我，三件事，总得放下一件！",
+      "sha256": "c8f6cc4ae4d98acb82db9f6523a6c57a91bc01bc1e0f159e515c6bdf31b3ef42",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-7566eb10-2e00-4dd5-9848-b278878e042d.png",
+      "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-95db68c3-c5fe-4e84-b089-0557b0a59f34.png",
+      "correction_prompt": "correction-4x3.txt"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-002-封面-3x4.png",
+      "alt": "第002集竖版封面 · 3:4：两个我，三件事，总得放下一件！",
+      "sha256": "74c4c45f08cf7eb1fe8c2e196263d6ed9aaa5cffacbabe4b722b82982cf35d8b",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-bb0a9ad6-0c90-4010-b19d-ecad2fd7e9c5.png",
+      "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-2257e33d-4e55-4129-a9d2-cdd417237209.png",
+      "correction_prompt": "correction-3x4.txt"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

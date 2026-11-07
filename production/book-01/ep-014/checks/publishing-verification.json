@@ -1,0 +1,119 @@
+{
+  "episode": 14,
+  "checked_on": "2026-11-01",
+  "status": "passed",
+  "html": "episodes/book-01/ep-014.html",
+  "sha256": "7b2279fd52cc2eb08bbd5534f27d80d979e2c996b7ee2bcc361f38797b7aef6b",
+  "bytes": 16010931,
+  "scenes": 8,
+  "subtitle_pairs": 22,
+  "learning_cards": 6,
+  "vocabulary_mode": "review",
+  "topics": 6,
+  "unique_keywords": 30,
+  "covers": [
+    {
+      "file": "cover-4x3.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "ratio": "4x3",
+      "sha256": "1310b6b02f81a323bc59937ad0f3214398587e348ee894833508ad4d037c98da"
+    },
+    {
+      "file": "cover-3x4.png",
+      "size": [
+        1086,
+        1448
+      ],
+      "ratio": "3x4",
+      "sha256": "2f839dc6ffb3354f70c15ecbad779a470a861a83f8738a9fd44a2a40f49b3d88"
+    }
+  ],
+  "original_story_html_preserved_exactly": true,
+  "story_source_and_storyboard_unchanged": true,
+  "preview_and_download_bytes_verified": true,
+  "external_assets": [],
+  "javascript_blocks": 0,
+  "offline_file_url_verified": true,
+  "viewports_checked": [
+    375,
+    768,
+    1440
+  ],
+  "landscape_viewport_checked": [
+    812,
+    375
+  ],
+  "horizontal_overflow": [],
+  "publishing_element_overflow": [],
+  "external_runtime_requests": [],
+  "cover_images_decoded": true,
+  "browser": {
+    "publishingNavVerified": true,
+    "wordLinkVerified": true,
+    "referenceDialogueVerified": true,
+    "structure": {
+      "unique": 30,
+      "topics": 6,
+      "scenes": 8,
+      "keywords": 30,
+      "panels": 8,
+      "subtitles": 22,
+      "cards": 6,
+      "images": [
+        {
+          "width": 1448,
+          "complete": true,
+          "height": 1086
+        },
+        {
+          "width": 1086,
+          "complete": true,
+          "height": 1448
+        }
+      ],
+      "links": [
+        {
+          "name": "英语有续集-014-封面-4x3.png",
+          "sameAsPreview": true,
+          "embedded": true
+        },
+        {
+          "name": "英语有续集-014-封面-3x4.png",
+          "sameAsPreview": true,
+          "embedded": true
+        }
+      ],
+      "resources": []
+    },
+    "layouts": [
+      {
+        "width": 375,
+        "document": 375,
+        "overflow": []
+      },
+      {
+        "width": 768,
+        "document": 768,
+        "overflow": []
+      },
+      {
+        "width": 1440,
+        "document": 1440,
+        "overflow": []
+      },
+      {
+        "width": 812,
+        "document": 812,
+        "overflow": []
+      }
+    ],
+    "episode": 14
+  },
+  "core_review_answer_toggle_verified": true,
+  "screenshots": [
+    "publishing-batch-mobile-review.png"
+  ]
+}

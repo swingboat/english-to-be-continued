@@ -1,0 +1,69 @@
+{
+  "other_episodes_unchanged": 14,
+  "embedded_voices": [
+    {
+      "name": "小帅",
+      "sha256": "c051a6aae2cc0d63ee5284c156b43052afff9c345d245a01dcf9e9d9b369fd4f",
+      "status": "已选定"
+    },
+    {
+      "name": "小帅的分身",
+      "sha256": "ce3d88284545808c57c283d9240a92fc491e82efaafbe61926a1058eda5d4146",
+      "status": "已选定"
+    },
+    {
+      "name": "苏小满",
+      "sha256": "746b2f99491248ef285cd2f5e85992a580c2fcbdd1bfa7414293394ad54dce9b",
+      "status": "暂定采用"
+    }
+  ],
+  "content": {
+    "scenes": 8,
+    "caption_pairs": 22,
+    "dialogue_entries": 31,
+    "words": 5,
+    "unique_keywords": 30,
+    "missing_links": 0
+  },
+  "audio_playback": [
+    {
+      "currentTime": 0.188739,
+      "duration": 13.84,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.310228,
+      "duration": 14.16,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.325379,
+      "duration": 18.88,
+      "error": null,
+      "otherPaused": true
+    }
+  ],
+  "cover_downloads": [
+    {
+      "filename": "英语有续集-003-封面-4x3.png",
+      "ratio": "4x3",
+      "sha256": "ea7976654a4f82d8659b5e5c0586dfc83f1c3527f5b17bd8d2ffa38d27c7b243"
+    },
+    {
+      "filename": "英语有续集-003-封面-3x4.png",
+      "ratio": "3x4",
+      "sha256": "60dce0b1af262c1f44ceb5d713c1fad3feec95e6466d76035fd98f52292b5646"
+    }
+  ],
+  "no_script": {
+    "captionCount": 22,
+    "opacity": "1",
+    "audio": 3
+  },
+  "reduced_motion": "no active animation",
+  "offline_file_url": true,
+  "console_errors": [],
+  "html_sha256": "c78c01affcf73dadef3314d087b1d7673f32f9618b9c99e3d8d2231610b1382b"
+}

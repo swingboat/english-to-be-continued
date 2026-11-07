@@ -1,0 +1,8 @@
+Use case: precise-object-edit / identity-preserve.
+Edit target: supplied Episode 008 eight-panel comic sheet.
+Make ONLY a shirt-color identity correction in the TOP RIGHT panel (panel 2). Do not change any other panels.
+In panel 2, the FRONT SEATED boy at the laptop, whose hand points at the playback controls, must be the ORIGINAL Xiaoshuai: change his visible undershirt from cyan blue to RED, matching the original red boy everywhere else.
+In that same panel 2, the STANDING boy behind him on the LEFT must be the CLONE: change his visible undershirt from red to CYAN BLUE, matching the clone elsewhere.
+Their faces and hairstyles are identical, so changing only these two undershirts correctly identifies who is doing the action. Preserve their faces, brown eyes, hair, no-glasses faces, white/teal jackets, body positions, hands, expressions, screen waveform, crossed-out speaker icon, microphone, adviser and Xiaoman.
+All other seven panels remain unchanged, including panel 6 where the blue clone helps unmute, and panel 7 where the red original holds the list and blue clone wears headphones. Keep exact eight-panel 2x4 layout and dimensions.
+No text, digits, speech bubbles, logos, new objects or other alterations.

@@ -1,0 +1,558 @@
+{
+  "html_sha256": "5248db2efd1565dc0ccbf5508a22ff8a1c96de3a79b85adcc47ca0b9d164cfb3",
+  "other_episodes": {
+    "ep-006.html": "da00a52084f525ba9865b4f3bc3b1cf48d698e9cbb16d58d233ca255d4254840",
+    "ep-010.html": "f39b4a3bc7be2b0cb89388a7598e6a04cfd0a12fcd04dbc0210da87b6264a080",
+    "ep-011.html": "a94939e61deaa05121b8783afba8231260e8beeb4f54e55a4430d1c402ba9355",
+    "ep-007.html": "ff7427189cb9b99c32025ce3c41e9af88c9fde738e2c4fa86b2da64575b121b7",
+    "ep-001.html": "21db1d879dfd4510f77cea471313565afdd7f8937e323ef3237f7d58fd0afe64",
+    "ep-014.html": "7b2279fd52cc2eb08bbd5534f27d80d979e2c996b7ee2bcc361f38797b7aef6b",
+    "ep-002.html": "398ab8b0bffee7579156c5c2f9075bfef40ba708b221a065fe515adea06cc076",
+    "ep-015.html": "f87591c34fccabf2cf90d33580e52e690e151a950144269baa4f1410dd94d66a",
+    "ep-008.html": "ffc9f18333951d7b6b1e74d947421d4c97a1b1e60e407bcad16cc7086e5c585a",
+    "ep-012.html": "b7d30adc6f87a9e38e8bda7fa50688143b9c620b95eeb0c5dc965fc59e5012f9",
+    "ep-004.html": "5eff8e473b290029ba0fe363a0c88bb98b70cb51d8861fe2e441b1c1d422e42a",
+    "ep-005.html": "bb12289b13773428ca934ae023f65bbeca8ff88de22e9cf42b769a1859e4be3b",
+    "ep-013.html": "92d069c3bff5a1f8ae0b8cd6ab4c1b3c1796eb1bf10f88aed70a52a28cfc3cd2",
+    "ep-009.html": "ffaef6a1177aa12a406188881f175866fb437338443bf5d0996fed2b5ba2d4c7"
+  },
+  "episode": {
+    "id": "B01E003",
+    "number": 3,
+    "title": "同桌认出我，靠的是一句大实话。",
+    "series": "英语有续集",
+    "season": "我被自己的分身卷了",
+    "format": "独立阅读 HTML：英文解说、中英字幕、图片、学习单词",
+    "art": {
+      "file": "storyboard.png",
+      "source_dimensions": [
+        887,
+        1774
+      ],
+      "panels": [
+        [
+          3,
+          3,
+          434,
+          431
+        ],
+        [
+          448,
+          3,
+          436,
+          431
+        ],
+        [
+          3,
+          444,
+          434,
+          400
+        ],
+        [
+          448,
+          444,
+          436,
+          400
+        ],
+        [
+          3,
+          853,
+          434,
+          389
+        ],
+        [
+          448,
+          853,
+          436,
+          389
+        ],
+        [
+          3,
+          1253,
+          434,
+          518
+        ],
+        [
+          448,
+          1253,
+          436,
+          518
+        ]
+      ]
+    },
+    "production_language": {
+      "voiceover": "English",
+      "subtitles": [
+        "English",
+        "简体中文"
+      ],
+      "narrator": "小帅第一人称叙述",
+      "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+    },
+    "subtitle_pair_count": 22,
+    "words": [
+      {
+        "word": "actually",
+        "part": "副词",
+        "meaning": "实际上；事实上",
+        "expression": "Actually, it was not that brave.",
+        "translation": "实际上，那没那么勇敢。",
+        "scene": 2,
+        "question": "分身说这是一次勇敢的实验，小帅为什么用 actually 接话？",
+        "usage": "actually 可以引出与先前说法不同的实际情况。本句 that brave 表示“那么勇敢”。",
+        "source": "Unit 1 Lesson 1 · 分单元词表第 108 页（PDF 第 110 页）"
+      },
+      {
+        "word": "differ",
+        "part": "动词",
+        "meaning": "不同；有区别",
+        "expression": "We look the same, but our goals differ.",
+        "translation": "我们看起来一样，但目标不同。",
+        "scene": 4,
+        "question": "长相一样的两个人，在什么方面 differ？",
+        "usage": "differ 在这里是不及物动词，不直接接宾语；our goals 是复数主语，因此用 differ。常见搭配：differ from（与……不同）。",
+        "source": "Unit 1 Topic Talk · 分单元词表第 107 页（PDF 第 109 页）"
+      },
+      {
+        "word": "in person",
+        "part": "短语",
+        "meaning": "亲自；本人",
+        "expression": "I promise to explain everything to the teacher and my parents in person.",
+        "translation": "我答应亲自向老师和父母解释清楚一切。",
+        "scene": 6,
+        "question": "这次小帅为什么要强调 in person，不能继续让分身替他说？",
+        "usage": "in person 强调本人亲自到场或做某事。本集指小帅将亲自向老师和父母说明情况。",
+        "source": "Unit 1 Lesson 1 · 分单元词表第 108 页（PDF 第 110 页）"
+      },
+      {
+        "word": "frank",
+        "part": "形容词",
+        "meaning": "坦率的；直言不讳的",
+        "expression": "That's a frank answer.",
+        "translation": "这个回答很坦率。",
+        "scene": 3,
+        "question": "苏小满觉得小帅的回答 frank，是因为它漂亮，还是因为它说出了真实原因？",
+        "usage": "frank 在本句中放在名词 answer 前，描述回答坦率、没有掩饰。",
+        "source": "Unit 1 Lesson 2 · 分单元词表第 108 页（PDF 第 110 页）"
+      },
+      {
+        "word": "to be frank",
+        "part": "固定表达",
+        "meaning": "坦白说；坦率地说",
+        "expression": "To be frank, I was afraid of making mistakes.",
+        "translation": "坦白说，我害怕犯错。",
+        "scene": 3,
+        "question": "如果小帅不用完美说辞，而是坦白自己的担心，可以用哪三个词开头？",
+        "usage": "to be frank 常放在句首，后接逗号，引出坦率的意见或承认。frank 是形容词，to be frank 是整组表达。",
+        "source": "Unit 1 Lesson 2 · 分单元词表第 108 页（PDF 第 110 页）"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "confidence",
+        "meaning": "自信；信心",
+        "expression": "My voice shakes. My confidence grows.",
+        "translation": "我的声音在发抖，我的信心却在增长。",
+        "scene": 7
+      },
+      {
+        "word": "goal",
+        "meaning": "目标",
+        "expression": "My goal is to stop hiding.",
+        "translation": "我的目标是不再躲着。",
+        "scene": 4
+      }
+    ],
+    "supplemental_review_words": [
+      {
+        "word": "volunteer",
+        "meaning": "自愿做；主动提出",
+        "question": "回想第一集：分身报名班长时说了哪句短话？结尾小帅又提醒他别急着做什么？",
+        "expression": "I volunteer! / Just don't volunteer for another job!",
+        "translation": "我自愿！／可别又报名另一项工作！"
+      },
+      {
+        "word": "challenge",
+        "meaning": "挑战",
+        "question": "回想第二集：作出选择本身也是一种什么？试着补全 Making a choice is a ___, too.",
+        "expression": "Making a choice is a challenge, too.",
+        "translation": "作出选择也是个挑战。"
+      },
+      {
+        "word": "schedule",
+        "meaning": "日程表；计划表",
+        "question": "回想第二集：小帅亲自找老师调整的是什么？试着补全 Can we change the ___?",
+        "expression": "Can we change the schedule?",
+        "translation": "能调整一下日程吗？"
+      }
+    ],
+    "scenes": [
+      {
+        "id": 1,
+        "panel": 0,
+        "name": "表交了，话还没交代",
+        "place": "放学后 · 办公室外的走廊",
+        "shot": "苏小满抱着刚收下的单张活动夹板，两个小帅分别指向对方。用相同的手势制造开场笑点；红内搭是本人，蓝内搭是分身。",
+        "action": "紧接上集最后一刻。苏小满没有放行，先让两人选一个开口，活动表与分身问题各自有了下文。",
+        "sound": "两次几乎重叠的衣袖摩擦声；远处放学铃尾音。",
+        "cues": [
+          {
+            "who": "苏小满",
+            "text": "表我收到了。现在，谁先解释？"
+          },
+          {
+            "who": "小帅、分身",
+            "text": "他先。"
+          },
+          {
+            "who": "苏小满",
+            "text": "很好，连推给别人都同步。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN001",
+            "en": "Xiaoman has our form, but she still wants an answer.",
+            "zh": "小满收下了我们的表，但她还在等一个解释。"
+          },
+          {
+            "id": "EN002",
+            "en": "My clone and I point at each other. That explains nothing.",
+            "zh": "分身和我互相指着对方。这可什么都没解释。"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "panel": 1,
+        "name": "听着像产品发布会",
+        "place": "同一条走廊 · 教室门口",
+        "shot": "分身从口袋拿出自己的折叠便笺，像主持人一样展开；苏小满抬眉，小帅窘迫地想插话。便笺不是上一集的活动夹板。",
+        "action": "分身把事情包装成勇敢的课堂实验。小帅第一次主动打断漂亮说辞，纠正自己的动机。",
+        "sound": "折纸展开的沙沙声；小帅短促吸气。",
+        "cues": [
+          {
+            "who": "分身",
+            "text": "这是一次关于勇气、效率与课堂参与的伟大实验——"
+          },
+          {
+            "who": "苏小满",
+            "text": "你们是在解释，还是给我开发布会？"
+          },
+          {
+            "who": "小帅",
+            "en": "Actually, it was not that brave.",
+            "zh": "实际上，那没那么勇敢。"
+          },
+          {
+            "who": "小帅",
+            "text": "我当时只是想让他替我说一句 Hello。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN003",
+            "en": "He starts a perfect speech about a brave classroom experiment.",
+            "zh": "他开始了一篇完美演说，说这是一场勇敢的课堂实验。"
+          },
+          {
+            "id": "EN004",
+            "en": "Actually, it was not that brave.",
+            "zh": "实际上，那没那么勇敢。"
+          },
+          {
+            "id": "EN005",
+            "en": "I just wanted someone else to say hello for me.",
+            "zh": "我只是想让别人替我说声你好。"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "panel": 2,
+        "name": "那句不好意思说的实话",
+        "place": "教室门旁 · 近景",
+        "shot": "小帅一手按着胸口，一手低低拿着自己的手机。苏小满认真听，分身安静站在后方。屏幕无需文字，不表现第二次生成。",
+        "action": "小帅承认害怕当众说错，再简要说明手机生成了一个分身且机会已用完。苏小满认可的是他的坦率，没有拿紧张取笑他。",
+        "sound": "走廊环境声放轻，留出坦白前的半拍停顿。",
+        "cues": [
+          {
+            "who": "小帅",
+            "en": "To be frank, I was afraid of making mistakes.",
+            "zh": "坦白说，我害怕犯错。"
+          },
+          {
+            "who": "小帅",
+            "text": "手机里有一次生成机会。我用了，就出现了他。现在不能再用了。"
+          },
+          {
+            "who": "苏小满",
+            "en": "That's a frank answer.",
+            "zh": "这个回答很坦率。"
+          },
+          {
+            "who": "苏小满",
+            "text": "害怕可以直接说，不用先做一份宣传稿。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN006",
+            "en": "To be frank, I was afraid of making mistakes.",
+            "zh": "坦白说，我害怕犯错。"
+          },
+          {
+            "id": "EN007",
+            "en": "I used my phone to make him. It only worked once.",
+            "zh": "我用手机生成了他。这个功能只能用一次。"
+          },
+          {
+            "id": "EN008",
+            "en": "Xiaoman nods. \"That's a frank answer.\"",
+            "zh": "小满点点头：“这个回答很坦率。”"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "panel": 3,
+        "name": "同一张脸，不同的目标",
+        "place": "教室门口 · 两人并排",
+        "shot": "分身蓝内搭，张开手掌像在迎接掌声；红内搭小帅有点不好意思地摊手。苏小满侧身看着他们，夹板仍在她手里。",
+        "action": "两人解释各自的想法。苏小满把坦白与上集小帅自己进办公室的行动连起来，开始认识这个会紧张也愿意承担的人。",
+        "sound": "分身笑着轻咳一声，等掌声却没有掌声。",
+        "cues": [
+          {
+            "who": "小帅",
+            "en": "We look the same, but our goals differ.",
+            "zh": "我们看起来一样，但目标不同。"
+          },
+          {
+            "who": "分身",
+            "text": "我觉得，站到前面挺好的。最好还有掌声。"
+          },
+          {
+            "who": "小帅",
+            "en": "My goal is to stop hiding.",
+            "zh": "我的目标是不再躲着。"
+          },
+          {
+            "who": "苏小满",
+            "text": "所以刚才进办公室改表的人是你。会怕，也肯自己开口——这回我算认识你了。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN009",
+            "en": "We look the same, but our goals differ.",
+            "zh": "我们看起来一样，但目标不同。"
+          },
+          {
+            "id": "EN010",
+            "en": "He wants applause. My goal is to stop hiding.",
+            "zh": "他想要掌声。我的目标是不再躲着。"
+          },
+          {
+            "id": "EN011",
+            "en": "Now she understands why I entered the office myself.",
+            "zh": "现在她明白，我为什么要自己走进办公室了。"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "panel": 4,
+        "name": "她也有一句话想说完",
+        "place": "门旁空教室 · 靠窗课桌",
+        "shot": "三人走入门旁空教室。苏小满把夹板放在桌上，打开自己的笔记本，页面是广播节目的构想示意；两个男生都看向她。",
+        "action": "苏小满说起自己没被听完的广播策划。她愿意帮忙是合作的选择，也要求自己的想法被认真听见。小帅让她说完，没有替她说算了。",
+        "sound": "翻笔记本声；室外偶尔的球场回响。",
+        "cues": [
+          {
+            "who": "苏小满",
+            "text": "我也有个广播节目策划。上次还没讲完，就有人说太麻烦、算了吧。"
+          },
+          {
+            "who": "苏小满",
+            "text": "以后别替我说‘算了’。想帮忙，就先听完。"
+          },
+          {
+            "who": "小帅",
+            "text": "那你接着说。我们听着。"
+          },
+          {
+            "who": "分身",
+            "text": "这回我不抢开场。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN012",
+            "en": "Then she opens her notebook. She has a radio show idea.",
+            "zh": "接着，她打开笔记本。她有一个广播节目的想法。"
+          },
+          {
+            "id": "EN013",
+            "en": "Last time, someone said it was too much trouble before she could finish.",
+            "zh": "上次她还没说完，就有人嫌太麻烦。"
+          },
+          {
+            "id": "EN014",
+            "en": "This time, we listen.",
+            "zh": "这一次，我们听她说。"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "panel": 5,
+        "name": "陪你去，不能替你说",
+        "place": "空教室 · 课桌旁",
+        "shot": "小帅认真前倾，手放在胸前，面对苏小满作出承诺。分身也站在旁边听；画面没有老师或父母。",
+        "action": "三人约定次日一起向班主任说明；小帅也会亲自向父母解释。苏小满愿意陪同找老师，但不会编一个双胞胎身份替他们遮掩。",
+        "sound": "小帅收好手机，拉链轻响。",
+        "cues": [
+          {
+            "who": "苏小满",
+            "text": "明天我陪你们找班主任，但经过你自己讲。你父母也得知道，不能一直瞒着。"
+          },
+          {
+            "who": "小帅",
+            "en": "I'll explain everything in person.",
+            "zh": "我会亲自把一切解释清楚。"
+          },
+          {
+            "who": "苏小满",
+            "text": "好。我不会给你们编一个双胞胎的故事。"
+          },
+          {
+            "who": "分身",
+            "text": "我的那部分，我也自己讲。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN015",
+            "en": "She will come with us to see our teacher tomorrow.",
+            "zh": "明天她会陪我们一起去找老师。"
+          },
+          {
+            "id": "EN016",
+            "en": "I promise to explain everything to the teacher and my parents in person.",
+            "zh": "我答应亲自向老师和父母解释清楚一切。"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "panel": 6,
+        "name": "这次，Hello 是我自己说的",
+        "place": "空教室 · 小范围自我介绍",
+        "shot": "小帅站在课桌旁，手微张，紧张却努力微笑。苏小满面向他听；分身坐在旁边安静竖拇指，不替他说话。",
+        "action": "为明天的说明先练习开口。小帅面对同桌亲口完成三句英语介绍，声音有点抖但说到底；这不是补演第一集全班已经听过的分身介绍。",
+        "sound": "开头一声深呼吸；说完后苏小满轻轻鼓掌。",
+        "cues": [
+          {
+            "who": "小帅",
+            "text": "我先练一下。你们别替我接。"
+          },
+          {
+            "who": "小帅",
+            "en": "Hi, I'm Xiaoshuai. I like basketball. I get nervous, but I want to try.",
+            "zh": "嗨，我是小帅。我喜欢篮球。我会紧张，但我想试试。"
+          },
+          {
+            "who": "苏小满",
+            "text": "听到了。这次是你自己说完的。"
+          },
+          {
+            "who": "小帅心声",
+            "en": "My voice shakes. My confidence grows.",
+            "zh": "我的声音在发抖，我的信心却在增长。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN017",
+            "en": "First, I practise with a smaller audience.",
+            "zh": "先从少一点的听众开始练习。"
+          },
+          {
+            "id": "EN018",
+            "en": "\"Hi, I'm Xiaoshuai. I like basketball. I get nervous, but I want to try.\"",
+            "zh": "“嗨，我是小帅。我喜欢篮球。我会紧张，但我想试试。”"
+          },
+          {
+            "id": "EN019",
+            "en": "My voice shakes. My confidence grows.",
+            "zh": "我的声音在发抖，我的信心却在增长。"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "panel": 7,
+        "name": "能介绍，先别报名",
+        "place": "同一间教室 · 三人同框",
+        "shot": "分身兴奋地举手，小帅面向他作出手掌向下的提醒动作，苏小满笑出声。笔记本与唯一的夹板叠在桌上；没有新增任务表。",
+        "action": "分身也希望亲自表达。小帅同意，却条件反射地提醒别再揽工作；轻松收尾，次日见老师和父母的约定进入下一集。",
+        "sound": "苏小满的笑声，分身一句刚起头的清嗓声。",
+        "cues": [
+          {
+            "who": "分身",
+            "en": "Can I introduce myself, too?",
+            "zh": "我也能介绍一下自己吗？"
+          },
+          {
+            "who": "小帅",
+            "en": "Yes. Just don't volunteer for another job!",
+            "zh": "可以。可别又报名另一项工作！"
+          },
+          {
+            "who": "分身",
+            "text": "我刚想说，我自——我自己讲。"
+          },
+          {
+            "who": "苏小满",
+            "text": "这句改得挺及时。明天见。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN020",
+            "en": "My clone raises his hand. \"Can I introduce myself, too?\"",
+            "zh": "分身举起手：“我也能介绍一下自己吗？”"
+          },
+          {
+            "id": "EN021",
+            "en": "\"Yes. Just don't volunteer for another job!\"",
+            "zh": "“可以。可别又报名另一项工作！”"
+          },
+          {
+            "id": "EN022",
+            "en": "Tomorrow, we both have some explaining to do.",
+            "zh": "明天，我们两个都有些事得解释清楚。"
+          }
+        ]
+      }
+    ],
+    "continuity": {
+      "start": "小帅已亲自协调周五活动，苏小满收下修改后的表，并追问两个小帅的来历。班主任尚未见到分身。",
+      "end": [
+        "苏小满听到了生成经过：小帅因害怕英语开口，用手机的一次机会生成了一个分身。她相信他的坦白，没有验证不存在的记忆差异。",
+        "小帅亲口向苏小满完成了简短英语自我介绍，没有让分身代说；全班的正式展示和周五英语分享尚未发生。",
+        "三人约定次日一起向班主任说明，小帅也答应亲自向父母交代。本集老师和家长尚未知情，下一集兑现。",
+        "苏小满提出自己的广播策划，希望先被认真听完；尚未获批为学校项目。",
+        "分身希望自己介绍，也有自己的意愿，不被当作随时可以复制的工具。",
+        "周五搬桌 13:20—13:40、英语分享 14:00 的安排不变；小帅尚未申请月底篮球开放补选。"
+      ],
+      "props": [
+        "红内搭为小帅本人，蓝内搭为唯一的分身；没有新增复制机会或超能力。",
+        "唯一的活动夹板由苏小满带入教室，最后放在她的笔记本旁；分身展开的是自己的口袋便笺。",
+        "手机始终属于小帅，说明经过后收回口袋；本集不生成第二个分身。",
+        "三人从办公室外走廊移入门旁空教室；老师与家长没有出现在这场对话中。"
+      ],
+      "next": "第 004 集向班主任和家长说明情况，落实本人职责、分身住处与获准的课后分工。"
+    }
+  }
+}

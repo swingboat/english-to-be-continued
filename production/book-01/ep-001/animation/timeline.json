@@ -1,0 +1,14 @@
+{
+  "duration": 16,
+  "format": "HTML Canvas 2D continuous rigged study",
+  "voiceover_status": "尚未录制；正式英文解说使用小帅已选定音色，由视频项目制作",
+  "audio": "浏览器本地合成轻音乐与动作音效，不含台词音频",
+  "revision": "2026-11-06 continuity repair",
+  "cues": [
+    {"at":0,"until":4,"source":"EN008","shot":"固定镜头看向教室：班主任提问，蓝内搭分身双臂自然下垂。"},
+    {"at":4,"until":8,"source":"EN009","shot":"分身保持相同头部、身体和比例，上臂、前臂与手掌连续举起；老师仍在原位。"},
+    {"at":8,"until":12,"source":"EN010","shot":"分身保持举手，自信表达班长目标；红内搭小帅在左侧走廊逐渐探头。"},
+    {"at":12,"until":16,"source":"EN011","shot":"镜头与场景保持不变，门外小帅缓缓后仰，分身仍在教室举着手；停在同一画面结束。"}
+  ],
+  "assets": {"characters":"assets/characters.png","backgrounds":"assets/backgrounds.png","rig":"assets/clone-rig.png","body":"assets/clone-body.png"}
+}

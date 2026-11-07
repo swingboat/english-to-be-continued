@@ -1,0 +1,3920 @@
+{
+ "url": "episodes/book-01/ep-006.html",
+ "at": "2026-11-06T01:22:12.782Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.38,
+    0.29,
+    0.39,
+    0.38,
+    0.36,
+    0.49,
+    0.35,
+    0.48,
+    0.7,
+    0.44,
+    0.57,
+    0.52
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 10233,
+     "screens": 11.4,
+     "words": 731,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 10,
+     "sections": 13,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "9k0Y7PhLgAAAABJRU5ErkJggg==",
+      "I0AABmEkDAASICEACRCAECCQBEgCAAmQJEmAjACEFAgBCiRJ"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "她想要的不是保密费， 是十分钟。",
+     "words": 2,
+     "chars": 16,
+     "lines": 2,
+     "size": 58,
+     "vw": 4,
+     "font": "ui-sans-serif",
+     "weight": 850,
+     "tracking": -0.038,
+     "leading": 1.3,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.42,
+     "top": 199,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "她想要的不是保密费， 是十分钟。",
+     "words": 2,
+     "lines": 2,
+     "size": 58,
+     "font": "ui-sans-serif"
+    },
+    "headings": [
+     {
+      "text": "她想要的不是保密费， 是十分钟。",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 58,
+      "vw": 4,
+      "font": "ui-sans-serif",
+      "weight": 850,
+      "tracking": -0.038,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 199,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "故事怎么发生。",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 33,
+      "vw": 2.3,
+      "font": "ui-serif",
+      "weight": 600,
+      "tracking": 0.015,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 952,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "08",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 46,
+      "vw": 3.2,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.03,
+      "top": 985,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 1228,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 1842,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 2506,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "04",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 3170,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "05",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 3810,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "06",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 4450,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "07",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 5064,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "08",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 5678,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "五个词，五个故事瞬间。",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 33,
+      "vw": 2.3,
+      "font": "ui-serif",
+      "weight": 600,
+      "tracking": 0.015,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 6683,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "05",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 46,
+      "vw": 3.2,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.03,
+      "top": 6717,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "aim",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 6855,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "target",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.33,
+      "top": 6855,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "organise",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 7262,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "voluntary",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.33,
+      "top": 7262,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "competence",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 7670,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "抖音发布资料。",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 33,
+      "vw": 2.3,
+      "font": "ui-serif",
+      "weight": 600,
+      "tracking": 0.015,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 8436,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 19,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "ui-sans-serif",
+       "share": 0.97,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.02,
+       "mono": false
+      },
+      {
+       "family": "ui-serif",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      25,
+      32,
+      33,
+      36,
+      46,
+      58
+     ],
+     "sizeCount": 19,
+     "notLoaded": [],
+     "body": {
+      "font": "ui-sans-serif",
+      "size": 13,
+      "leading": 1.85,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.2
+     },
+     "measureChars": 125,
+     "max": {
+      "size": 58,
+      "vw": 4,
+      "font": "ui-sans-serif",
+      "text": "她想要的不是保密费，"
+     },
+     "monoShare": 0.02,
+     "monoProseShare": 0.02,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [
+      "EP.006",
+      "01",
+      "02",
+      "03",
+      "04",
+      "05"
+     ],
+     "microLabels": 11,
+     "microLabelShare": 0.022,
+     "microSamples": [
+      "第一册 / UNIT 1 LIFE CHOICES",
+      "Narration & subtitles",
+      "The story, frame by frame",
+      "Words from the story",
+      "WORD / 01",
+      "WORD / 02"
+     ],
+     "upperShare": 0.06,
+     "centerShare": 0,
+     "smallText": 75
+    },
+    "eyebrows": [
+     {
+      "text": "EP.006",
+      "above": "她想要的不是保密费， 是十分钟。",
+      "upper": true,
+      "tracked": false,
+      "mono": true,
+      "pill": false,
+      "size": 13,
+      "top": 148
+     },
+     {
+      "text": "The story, frame by frame",
+      "above": "故事怎么发生。",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 927
+     },
+     {
+      "text": "Words from the story",
+      "above": "五个词，五个故事瞬间。",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 6659
+     },
+     {
+      "text": "故事第 2 格 ↗",
+      "above": "aim",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 6814
+     },
+     {
+      "text": "故事第 4 格 ↗",
+      "above": "target",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 6814
+     },
+     {
+      "text": "故事第 5 格 ↗",
+      "above": "organise",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 7221
+     },
+     {
+      "text": "故事第 7 格 ↗",
+      "above": "voluntary",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 7221
+     },
+     {
+      "text": "故事第 6 格 ↗",
+      "above": "competence",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 7629
+     },
+     {
+      "text": "Ready to publish / EP.006",
+      "above": "抖音发布资料。",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 8412
+     }
+    ],
+    "numbered": [
+     {
+      "text": "08",
+      "size": 46,
+      "top": 985
+     },
+     {
+      "text": "01",
+      "size": 11,
+      "top": 1086
+     },
+     {
+      "text": "02",
+      "size": 11,
+      "top": 1086
+     },
+     {
+      "text": "03",
+      "size": 11,
+      "top": 1086
+     },
+     {
+      "text": "04",
+      "size": 11,
+      "top": 1086
+     },
+     {
+      "text": "05",
+      "size": 11,
+      "top": 1130
+     },
+     {
+      "text": "06",
+      "size": 11,
+      "top": 1130
+     },
+     {
+      "text": "07",
+      "size": 11,
+      "top": 1130
+     },
+     {
+      "text": "08",
+      "size": 11,
+      "top": 1130
+     },
+     {
+      "text": "01",
+      "size": 36,
+      "top": 1228
+     },
+     {
+      "text": "02",
+      "size": 36,
+      "top": 1842
+     },
+     {
+      "text": "03",
+      "size": 36,
+      "top": 2506
+     }
+    ],
+    "color": {
+     "bodyBg": "#f6f3eb",
+     "bodyBgHsl": {
+      "h": 44,
+      "s": 0.38,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fffdf7",
+       "top": 7603,
+       "hsl": {
+        "h": 45,
+        "s": 1,
+        "l": 0.98
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#53645f",
+       "share": 0.53
+      },
+      {
+       "color": "#153f3a",
+       "share": 0.42
+      },
+      {
+       "color": "#b84735",
+       "share": 0.05
+      },
+      {
+       "color": "#245f72",
+       "share": 0
+      },
+      {
+       "color": "#fffdf7",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#153f3a",
+      "hsl": {
+       "h": 173,
+       "s": 0.5,
+       "l": 0.16
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "Narration & subtitles",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 10,
+       "fg": "#b84735",
+       "bg": "#e7ece0"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 4,
+     "height": 47,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "跳到完整剧本",
+      "阅读剧本与图片 ↓",
+      "学习本集单词"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 1,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.cover-paper → rgb(224, 230, 215) 8px 9px 0px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 81,
+     "hairlineSamples": [
+      "header.header 1440px",
+      "aside.language-note 1080px",
+      "div.word-strip 1080px",
+      "nav.contents 1080px",
+      "article#scene-1.scene 1080px"
+     ],
+     "outlinedBoxes": 21,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 607
+      },
+      {
+       "count": 8,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1188
+      },
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 6788
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.11
+     }
+    ],
+    "nav": {
+     "links": 4,
+     "fixed": false,
+     "height": 87,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 10233,
+    "margins": {
+     "left": 180,
+     "right": 181
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 87,
+      "height": 516,
+      "words": 28,
+      "media": 1,
+      "middle": 124,
+      "heading": {
+       "text": "她想要的不是保密费，",
+       "size": 58,
+       "tag": "h1"
+      },
+      "left": 180,
+      "right": 184,
+      "textLeft": 180,
+      "textRight": 201,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "aside.language-note",
+      "tag": "aside",
+      "top": 607,
+      "height": 189,
+      "words": 11,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "英文解说 · 中英双语字幕",
+       "size": 21,
+       "tag": "h2"
+      },
+      "left": 211,
+      "right": 423,
+      "textLeft": 211,
+      "textRight": 423,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#script.section",
+      "tag": "section",
+      "top": 881,
+      "height": 5730,
+      "words": 568,
+      "media": 8,
+      "middle": 0,
+      "heading": {
+       "text": "08",
+       "size": 46,
+       "tag": "span"
+      },
+      "left": 180,
+      "right": 180,
+      "textLeft": 180,
+      "textRight": 180,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.vocab-grid",
+      "tag": "div",
+      "top": 6788,
+      "height": 1184,
+      "words": 182,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "aim",
+       "size": 32,
+       "tag": "h3"
+      },
+      "left": 208,
+      "right": 208,
+      "textLeft": 208,
+      "textRight": 208,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "aside.review-block",
+      "tag": "aside",
+      "top": 7995,
+      "height": 211,
+      "words": 27,
+      "media": 0,
+      "middle": 263,
+      "heading": {
+       "text": "前面学过的词，这次自己用",
+       "size": 15,
+       "tag": "h3"
+      },
+      "left": 207,
+      "right": 448,
+      "textLeft": 207,
+      "textRight": 448,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "dl.publishing-fields",
+      "tag": "dl",
+      "top": 8541,
+      "height": 437,
+      "words": 73,
+      "media": 0,
+      "middle": 59,
+      "heading": null,
+      "left": 180,
+      "right": 188,
+      "textLeft": 180,
+      "textRight": 188,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.publish-covers",
+      "tag": "div",
+      "top": 9133,
+      "height": 790,
+      "words": 24,
+      "media": 2,
+      "middle": 60,
+      "heading": {
+       "text": "横版封面 · 4:3",
+       "size": 15,
+       "tag": "h4"
+      },
+      "left": 196,
+      "right": 196,
+      "textLeft": 196,
+      "textRight": 196,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 9969,
+      "height": 183,
+      "words": 3,
+      "media": 0,
+      "middle": 337,
+      "heading": {
+       "text": "本集留下的结果",
+       "size": 13,
+       "tag": "h3"
+      },
+      "left": 207,
+      "right": 587,
+      "textLeft": 207,
+      "textRight": 587,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "她想要的不是保密费， 是十分钟。",
+      "size": 58,
+      "top": 199,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 239,
+      "n": 8
+     },
+     {
+      "x": 180,
+      "n": 6
+     },
+     {
+      "x": 207,
+      "n": 5
+     },
+     {
+      "x": 757,
+      "n": 2
+     },
+     {
+      "x": 322,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 12,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.12,
+    "voidBox": {
+     "x": 1020,
+     "y": 540,
+     "w": 420,
+     "h": 360
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    0.42,
+    0.42,
+    0.45,
+    0.49,
+    0.45,
+    0.54,
+    0.37,
+    0.86,
+    0.65,
+    0.61,
+    0.53
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 10499,
+     "screens": 10.3,
+     "words": 731,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 10,
+     "sections": 13,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "9k0Y7PhLgAAAABJRU5ErkJggg==",
+      "I0AABmEkDAASICEACRCAECCQBEgCAAmQJEmAjACEFAgBCiRJ"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "她想要的不是保密费， 是十分钟。",
+     "words": 2,
+     "chars": 16,
+     "lines": 3,
+     "size": 44,
+     "vw": 5.7,
+     "font": "ui-sans-serif",
+     "weight": 850,
+     "tracking": -0.05,
+     "leading": 1.3,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.52,
+     "top": 192,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "她想要的不是保密费， 是十分钟。",
+     "words": 2,
+     "lines": 3,
+     "size": 44,
+     "font": "ui-sans-serif"
+    },
+    "headings": [
+     {
+      "text": "她想要的不是保密费， 是十分钟。",
+      "words": 2,
+      "chars": 16,
+      "lines": 3,
+      "size": 44,
+      "vw": 5.7,
+      "font": "ui-sans-serif",
+      "weight": 850,
+      "tracking": -0.05,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.52,
+      "top": 192,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "故事怎么发生。",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 33,
+      "vw": 4.3,
+      "font": "ui-serif",
+      "weight": 600,
+      "tracking": 0.015,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 958,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "08",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 46,
+      "vw": 6,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.06,
+      "top": 991,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 1234,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 1842,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 2562,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "04",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 3282,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "05",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 3974,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "06",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 4666,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "07",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 5302,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "08",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 5909,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "五个词，五个故事瞬间。",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 33,
+      "vw": 4.3,
+      "font": "ui-serif",
+      "weight": 600,
+      "tracking": 0.015,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 6994,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "05",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 46,
+      "vw": 6,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.06,
+      "top": 7028,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "aim",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 7166,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "target",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.37,
+      "top": 7166,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "organise",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 7648,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "voluntary",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.37,
+      "top": 7648,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "competence",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 8099,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "抖音发布资料。",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 33,
+      "vw": 4.3,
+      "font": "ui-serif",
+      "weight": 600,
+      "tracking": 0.015,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.7,
+      "top": 8865,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 19,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "ui-sans-serif",
+       "share": 0.97,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.02,
+       "mono": false
+      },
+      {
+       "family": "ui-serif",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      25,
+      32,
+      33,
+      36,
+      44,
+      46
+     ],
+     "sizeCount": 19,
+     "notLoaded": [],
+     "body": {
+      "font": "ui-sans-serif",
+      "size": 13,
+      "leading": 1.85,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.2
+     },
+     "measureChars": 75,
+     "max": {
+      "size": 46,
+      "vw": 6,
+      "font": "ui-serif",
+      "text": "08"
+     },
+     "monoShare": 0.02,
+     "monoProseShare": 0.02,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [
+      "EP.006",
+      "01",
+      "02",
+      "03",
+      "04",
+      "05"
+     ],
+     "microLabels": 11,
+     "microLabelShare": 0.022,
+     "microSamples": [
+      "第一册 / UNIT 1 LIFE CHOICES",
+      "Narration & subtitles",
+      "The story, frame by frame",
+      "Words from the story",
+      "WORD / 01",
+      "WORD / 02"
+     ],
+     "upperShare": 0.06,
+     "centerShare": 0,
+     "smallText": 75
+    },
+    "eyebrows": [
+     {
+      "text": "EP.006",
+      "above": "她想要的不是保密费， 是十分钟。",
+      "upper": true,
+      "tracked": false,
+      "mono": true,
+      "pill": false,
+      "size": 13,
+      "top": 141
+     },
+     {
+      "text": "The story, frame by frame",
+      "above": "故事怎么发生。",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 933
+     },
+     {
+      "text": "Words from the story",
+      "above": "五个词，五个故事瞬间。",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 6970
+     },
+     {
+      "text": "故事第 2 格 ↗",
+      "above": "aim",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 7125
+     },
+     {
+      "text": "故事第 4 格 ↗",
+      "above": "target",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 7125
+     },
+     {
+      "text": "故事第 5 格 ↗",
+      "above": "organise",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 7607
+     },
+     {
+      "text": "故事第 7 格 ↗",
+      "above": "voluntary",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 7607
+     },
+     {
+      "text": "故事第 6 格 ↗",
+      "above": "competence",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 8058
+     },
+     {
+      "text": "Ready to publish / EP.006",
+      "above": "抖音发布资料。",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 8841
+     }
+    ],
+    "numbered": [
+     {
+      "text": "08",
+      "size": 46,
+      "top": 991
+     },
+     {
+      "text": "01",
+      "size": 11,
+      "top": 1092
+     },
+     {
+      "text": "02",
+      "size": 11,
+      "top": 1092
+     },
+     {
+      "text": "03",
+      "size": 11,
+      "top": 1092
+     },
+     {
+      "text": "04",
+      "size": 11,
+      "top": 1092
+     },
+     {
+      "text": "05",
+      "size": 11,
+      "top": 1136
+     },
+     {
+      "text": "06",
+      "size": 11,
+      "top": 1136
+     },
+     {
+      "text": "07",
+      "size": 11,
+      "top": 1136
+     },
+     {
+      "text": "08",
+      "size": 11,
+      "top": 1136
+     },
+     {
+      "text": "01",
+      "size": 36,
+      "top": 1234
+     },
+     {
+      "text": "02",
+      "size": 36,
+      "top": 1842
+     },
+     {
+      "text": "03",
+      "size": 36,
+      "top": 2562
+     }
+    ],
+    "color": {
+     "bodyBg": "#f6f3eb",
+     "bodyBgHsl": {
+      "h": 44,
+      "s": 0.38,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fffdf7",
+       "top": 8032,
+       "hsl": {
+        "h": 45,
+        "s": 1,
+        "l": 0.98
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#53645f",
+       "share": 0.53
+      },
+      {
+       "color": "#153f3a",
+       "share": 0.42
+      },
+      {
+       "color": "#b84735",
+       "share": 0.05
+      },
+      {
+       "color": "#245f72",
+       "share": 0
+      },
+      {
+       "color": "#fffdf7",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#153f3a",
+      "hsl": {
+       "h": 173,
+       "s": 0.5,
+       "l": 0.16
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "Narration & subtitles",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 10,
+       "fg": "#b84735",
+       "bg": "#e7ece0"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 4,
+     "height": 47,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "跳到完整剧本",
+      "阅读剧本与图片 ↓",
+      "学习本集单词"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 1,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.cover-paper → rgb(224, 230, 215) 8px 9px 0px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 81,
+     "hairlineSamples": [
+      "header.header 768px",
+      "aside.language-note 704px",
+      "div.word-strip 704px",
+      "nav.contents 704px",
+      "article#scene-1.scene 704px"
+     ],
+     "outlinedBoxes": 21,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 7099
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 4,
+     "fixed": false,
+     "height": 87,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 10499,
+    "margins": {
+     "left": 32,
+     "right": 36
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 87,
+      "height": 522,
+      "words": 28,
+      "media": 1,
+      "middle": 139,
+      "heading": {
+       "text": "她想要的不是保密费，",
+       "size": 44,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 38,
+      "textLeft": 32,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "aside.language-note",
+      "tag": "aside",
+      "top": 613,
+      "height": 189,
+      "words": 11,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "英文解说 · 中英双语字幕",
+       "size": 21,
+       "tag": "h2"
+      },
+      "left": 63,
+      "right": 68,
+      "textLeft": 63,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#script.section",
+      "tag": "section",
+      "top": 887,
+      "height": 6036,
+      "words": 568,
+      "media": 8,
+      "middle": 0,
+      "heading": {
+       "text": "08",
+       "size": 46,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.vocab-grid",
+      "tag": "div",
+      "top": 7099,
+      "height": 1302,
+      "words": 182,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "aim",
+       "size": 32,
+       "tag": "h3"
+      },
+      "left": 60,
+      "right": 60,
+      "textLeft": 60,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "aside.review-block",
+      "tag": "aside",
+      "top": 8425,
+      "height": 211,
+      "words": 27,
+      "media": 0,
+      "middle": 75,
+      "heading": {
+       "text": "前面学过的词，这次自己用",
+       "size": 15,
+       "tag": "h3"
+      },
+      "left": 59,
+      "right": 112,
+      "textLeft": 59,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#publishing.section",
+      "tag": "section",
+      "top": 8794,
+      "height": 1441,
+      "words": 121,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "抖音发布资料。",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 39,
+      "textLeft": 32,
+      "textRight": 39,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 10235,
+      "height": 183,
+      "words": 3,
+      "media": 0,
+      "middle": 149,
+      "heading": {
+       "text": "本集留下的结果",
+       "size": 13,
+       "tag": "h3"
+      },
+      "left": 59,
+      "right": 251,
+      "textLeft": 59,
+      "textRight": 251,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "她想要的不是保密费， 是十分钟。",
+      "size": 44,
+      "top": 192,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 91,
+      "n": 8
+     },
+     {
+      "x": 32,
+      "n": 6
+     },
+     {
+      "x": 59,
+      "n": 5
+     },
+     {
+      "x": 421,
+      "n": 2
+     },
+     {
+      "x": 174,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 12,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.52,
+    0.41,
+    0.66,
+    0.83,
+    0.81,
+    0.71,
+    0.65,
+    0.64,
+    0.7,
+    0.62,
+    0.57,
+    0.75
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 15892,
+     "screens": 18.8,
+     "words": 727,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 10,
+     "sections": 13,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "她想要的不是保密费， 是十分钟。",
+     "words": 2,
+     "chars": 16,
+     "lines": 3,
+     "size": 40,
+     "vw": 10.3,
+     "font": "ui-sans-serif",
+     "weight": 850,
+     "tracking": -0.045,
+     "leading": 1.3,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 190,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "她想要的不是保密费， 是十分钟。",
+     "words": 2,
+     "lines": 3,
+     "size": 40,
+     "font": "ui-sans-serif"
+    },
+    "headings": [
+     {
+      "text": "她想要的不是保密费， 是十分钟。",
+      "words": 2,
+      "chars": 16,
+      "lines": 3,
+      "size": 40,
+      "vw": 10.3,
+      "font": "ui-sans-serif",
+      "weight": 850,
+      "tracking": -0.045,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 190,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "故事怎么发生。",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "ui-serif",
+      "weight": 600,
+      "tracking": 0.018,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 1337,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "08",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 37,
+      "vw": 9.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.09,
+      "top": 1394,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 1706,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 2660,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 3774,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "04",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 4898,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "05",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 5965,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "06",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 7031,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "07",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 8036,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "08",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 9132,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "五个词，五个故事瞬间。",
+      "words": 1,
+      "chars": 11,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "ui-serif",
+      "weight": 600,
+      "tracking": 0.018,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 10659,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "05",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 37,
+      "vw": 9.5,
+      "font": "ui-serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.09,
+      "top": 10755,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "aim",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.028,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.81,
+      "top": 10876,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "target",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.028,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.81,
+      "top": 11315,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "organise",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.028,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.81,
+      "top": 11731,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "voluntary",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.028,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.81,
+      "top": 12148,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "competence",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "ui-sans-serif",
+      "weight": 750,
+      "tracking": -0.028,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.81,
+      "top": 12586,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "抖音发布资料。",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "ui-serif",
+      "weight": 600,
+      "tracking": 0.018,
+      "leading": 1.4,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 13542,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "负责人的名字，不能写两个小帅。",
+      "words": 1,
+      "chars": 15,
+      "lines": 2,
+      "size": 23,
+      "vw": 5.9,
+      "font": "ui-serif",
+      "weight": 550,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 16570,
+      "tag": "strong",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 20,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "ui-sans-serif",
+       "share": 0.97,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.02,
+       "mono": false
+      },
+      {
+       "family": "ui-serif",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      23,
+      28,
+      29,
+      31,
+      37,
+      40
+     ],
+     "sizeCount": 19,
+     "notLoaded": [],
+     "body": {
+      "font": "ui-sans-serif",
+      "size": 12,
+      "leading": 1.85,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.6
+     },
+     "measureChars": 48,
+     "max": {
+      "size": 40,
+      "vw": 10.3,
+      "font": "ui-sans-serif",
+      "text": "她想要的不是保密费，"
+     },
+     "monoShare": 0.02,
+     "monoProseShare": 0.02,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [
+      "EP.006",
+      "01",
+      "02",
+      "03",
+      "04",
+      "05"
+     ],
+     "microLabels": 11,
+     "microLabelShare": 0.022,
+     "microSamples": [
+      "第一册 / UNIT 1 LIFE CHOICES",
+      "Narration & subtitles",
+      "The story, frame by frame",
+      "Words from the story",
+      "WORD / 01",
+      "WORD / 02"
+     ],
+     "upperShare": 0.06,
+     "centerShare": 0,
+     "smallText": 108
+    },
+    "eyebrows": [
+     {
+      "text": "EP.006",
+      "above": "她想要的不是保密费， 是十分钟。",
+      "upper": true,
+      "tracked": false,
+      "mono": true,
+      "pill": false,
+      "size": 13,
+      "top": 143
+     },
+     {
+      "text": "The story, frame by frame",
+      "above": "故事怎么发生。",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 1313
+     },
+     {
+      "text": "苏小满",
+      "above": "03",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 3676
+     },
+     {
+      "text": "分身",
+      "above": "04",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 4869
+     },
+     {
+      "text": "分身",
+      "above": "05",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 5867
+     },
+     {
+      "text": "苏小满",
+      "above": "06",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 7006
+     },
+     {
+      "text": "班主任",
+      "above": "07",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 7938
+     },
+     {
+      "text": "小帅",
+      "above": "08",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 9034
+     },
+     {
+      "text": "Words from the story",
+      "above": "五个词，五个故事瞬间。",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 10635
+     },
+     {
+      "text": "故事第 2 格 ↗",
+      "above": "aim",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 10835
+     },
+     {
+      "text": "故事第 4 格 ↗",
+      "above": "target",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 11274
+     },
+     {
+      "text": "故事第 5 格 ↗",
+      "above": "organise",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 11690
+     },
+     {
+      "text": "故事第 7 格 ↗",
+      "above": "voluntary",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 12107
+     },
+     {
+      "text": "故事第 6 格 ↗",
+      "above": "competence",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 10,
+      "top": 12545
+     },
+     {
+      "text": "NEXT EPISODE / 007",
+      "above": "负责人的名字，不能写两个小帅。",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 16545
+     }
+    ],
+    "numbered": [
+     {
+      "text": "08",
+      "size": 37,
+      "top": 1394
+     },
+     {
+      "text": "01",
+      "size": 11,
+      "top": 1482
+     },
+     {
+      "text": "02",
+      "size": 11,
+      "top": 1482
+     },
+     {
+      "text": "03",
+      "size": 11,
+      "top": 1526
+     },
+     {
+      "text": "04",
+      "size": 11,
+      "top": 1526
+     },
+     {
+      "text": "05",
+      "size": 11,
+      "top": 1570
+     },
+     {
+      "text": "06",
+      "size": 11,
+      "top": 1570
+     },
+     {
+      "text": "07",
+      "size": 11,
+      "top": 1614
+     },
+     {
+      "text": "08",
+      "size": 11,
+      "top": 1614
+     },
+     {
+      "text": "01",
+      "size": 31,
+      "top": 1706
+     },
+     {
+      "text": "02",
+      "size": 31,
+      "top": 2660
+     },
+     {
+      "text": "03",
+      "size": 31,
+      "top": 3774
+     }
+    ],
+    "color": {
+     "bodyBg": "#f6f3eb",
+     "bodyBgHsl": {
+      "h": 44,
+      "s": 0.38,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fffdf7",
+       "top": 555,
+       "hsl": {
+        "h": 45,
+        "s": 1,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#dfd9c7",
+       "top": 562,
+       "hsl": {
+        "h": 45,
+        "s": 0.27,
+        "l": 0.83
+       }
+      },
+      {
+       "color": "#e9e4d6",
+       "top": 1770,
+       "hsl": {
+        "h": 44,
+        "s": 0.3,
+        "l": 0.88
+       }
+      },
+      {
+       "color": "#e7ece0",
+       "top": 12996,
+       "hsl": {
+        "h": 85,
+        "s": 0.24,
+        "l": 0.9
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#53645f",
+       "share": 0.53
+      },
+      {
+       "color": "#153f3a",
+       "share": 0.42
+      },
+      {
+       "color": "#b84735",
+       "share": 0.05
+      },
+      {
+       "color": "#245f72",
+       "share": 0
+      },
+      {
+       "color": "#fffdf7",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#153f3a",
+      "hsl": {
+       "h": 173,
+       "s": 0.5,
+       "l": 0.16
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "Narration & subtitles",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 10,
+       "fg": "#b84735",
+       "bg": "#e7ece0"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 4,
+     "height": 47,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "跳到完整剧本",
+      "阅读剧本与图片 ↓",
+      "学习本集单词"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 1,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div.cover-paper → rgb(224, 230, 215) 8px 9px 0px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 81,
+     "hairlineSamples": [
+      "header.header 390px",
+      "aside.language-note 358px",
+      "div.word-strip 358px",
+      "nav.contents 358px",
+      "article#scene-1.scene 358px"
+     ],
+     "outlinedBoxes": 21,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.3
+     }
+    ],
+    "nav": {
+     "links": 4,
+     "fixed": false,
+     "height": 115,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 15892,
+    "margins": {
+     "left": 16,
+     "right": 23
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 115,
+      "height": 843,
+      "words": 28,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "她想要的不是保密费，",
+       "size": 40,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 19,
+      "textLeft": 16,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "aside.language-note",
+      "tag": "aside",
+      "top": 962,
+      "height": 197,
+      "words": 11,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "英文解说 · 中英双语字幕",
+       "size": 18,
+       "tag": "h2"
+      },
+      "left": 39,
+      "right": 39,
+      "textLeft": 39,
+      "textRight": 39,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "nav.contents",
+      "tag": "nav",
+      "top": 1452,
+      "height": 201,
+      "words": 16,
+      "media": 0,
+      "middle": 33,
+      "heading": null,
+      "left": 16,
+      "right": 43,
+      "textLeft": 16,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#scene-1.scene",
+      "tag": "article",
+      "top": 1672,
+      "height": 953,
+      "words": 41,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "01",
+       "size": 31,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#scene-2.scene",
+      "tag": "article",
+      "top": 2625,
+      "height": 1114,
+      "words": 67,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "02",
+       "size": 31,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 17,
+      "textLeft": 16,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#scene-3.scene",
+      "tag": "article",
+      "top": 3740,
+      "height": 1124,
+      "words": 55,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "03",
+       "size": 31,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#scene-4.scene",
+      "tag": "article",
+      "top": 4863,
+      "height": 1068,
+      "words": 49,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "04",
+       "size": 31,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#scene-5.scene",
+      "tag": "article",
+      "top": 5931,
+      "height": 1066,
+      "words": 57,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "05",
+       "size": 31,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#scene-6.scene",
+      "tag": "article",
+      "top": 6997,
+      "height": 1005,
+      "words": 51,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "06",
+       "size": 31,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#scene-7.scene",
+      "tag": "article",
+      "top": 8002,
+      "height": 1096,
+      "words": 50,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "07",
+       "size": 31,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#scene-8.scene",
+      "tag": "article",
+      "top": 9098,
+      "height": 1468,
+      "words": 92,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "08",
+       "size": 31,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.section-head",
+      "tag": "div",
+      "top": 10635,
+      "height": 157,
+      "words": 6,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "五个词，五个故事瞬间。",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 75,
+      "textLeft": 16,
+      "textRight": 75,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#word-aim.word-card",
+      "tag": "article",
+      "top": 10813,
+      "height": 420,
+      "words": 45,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "aim",
+       "size": 29,
+       "tag": "h3"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#word-target.word-card",
+      "tag": "article",
+      "top": 11252,
+      "height": 399,
+      "words": 35,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "target",
+       "size": 29,
+       "tag": "h3"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#word-organise.word-card",
+      "tag": "article",
+      "top": 11668,
+      "height": 399,
+      "words": 29,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "organise",
+       "size": 29,
+       "tag": "h3"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#word-voluntary.word-card",
+      "tag": "article",
+      "top": 12085,
+      "height": 420,
+      "words": 38,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "voluntary",
+       "size": 29,
+       "tag": "h3"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article#word-competence.word-card",
+      "tag": "article",
+      "top": 12523,
+      "height": 449,
+      "words": 35,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "competence",
+       "size": 29,
+       "tag": "h3"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "aside.review-block",
+      "tag": "aside",
+      "top": 12996,
+      "height": 351,
+      "words": 27,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "前面学过的词，这次自己用",
+       "size": 15,
+       "tag": "h3"
+      },
+      "left": 38,
+      "right": 91,
+      "textLeft": 38,
+      "textRight": 91,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "dl.publishing-fields",
+      "tag": "dl",
+      "top": 13657,
+      "height": 775,
+      "words": 73,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.publish-covers",
+      "tag": "div",
+      "top": 14632,
+      "height": 964,
+      "words": 24,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "横版封面 · 4:3",
+       "size": 15,
+       "tag": "h4"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 15629,
+      "height": 149,
+      "words": 1,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 36,
+      "right": 174,
+      "textLeft": 36,
+      "textRight": 174,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "她想要的不是保密费， 是十分钟。",
+      "size": 40,
+      "top": 190,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 64,
+      "n": 8
+     },
+     {
+      "x": 16,
+      "n": 7
+     },
+     {
+      "x": 38,
+      "n": 7
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 12,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "9 eyebrow/kicker label(s) above headings: \"EP.006\" above \"她想要的不是保密费， 是十分钟。\"; \"The story, frame by frame\" above \"故事怎么发生。\"; \"Words from the story\" above \"五个词，五个故事瞬间。\"; \"故事第 2 格 ↗\" above \"aim\"; \"故事第 4 格 ↗\" above \"target\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "mono",
+   "width": 1440,
+   "message": "Monospace type outside code: ui-monospace — e.g. \"EP.006\", \"01\", \"02\", \"03\"",
+   "fix": "Set it in the text face. Monospace is for literal code inside <pre>/<code> only.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"08\", \"01\", \"02\", \"03\", \"04\", \"05\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "11 tiny uppercase letter-spaced labels (e.g. \"第一册 / UNIT 1 LIFE CHOICES\", \"Narration & subtitles\", \"The story, frame by frame\", \"Words from the story\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "1 box-shadow(s) on elements at rest: div.cover-paper → rgb(224, 230, 215) 8px 9px 0px 0px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "81 thin rule(s)/divider line(s): header.header 1440px | aside.language-note 1080px | div.word-strip 1080px | nav.contents 1080px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "21 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "card-rows",
+   "width": 1440,
+   "message": "3 rows of identical boxed cards.",
+   "fix": "Vary the composition; not every section is a card grid."
+  },
+  {
+   "level": "FAIL",
+   "id": "palette-claude",
+   "width": 1440,
+   "message": "Cream + terracotta palette (page background #f6f3eb, section #fffdf7, text #b84735).",
+   "fix": "Re-draw the palette from the library. This pairing reads as an assistant brand, not yours.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Low-contrast text: \"Narration & subtitles\" 4.4:1 needs 4.5:1",
+   "fix": "Darken or lighten the text colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "19 different font sizes (9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 25, 32, 33, 36, 46, 58).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 13px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (5.2:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 2 picture(s) on the page (2 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 125 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch)."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "75 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "focal-point",
+   "width": 1440,
+   "message": "The first screen has no dominant element: the largest type is 58px (4vw) and no single picture holds a third of the viewport.",
+   "fix": "Make one thing lead: the headline at display size, or one large picture. A grid of many small pictures is not one thing; in blind tests jurors marked a first screen without a headline down every time. On the strongest studied sites the largest type has a median of 8.4vw."
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Schibsted Grotesk and Schibsted Grotesk, but the page renders ui-sans-serif, ui-monospace.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 1440,
+   "message": "The h1 is a bare name (\"她想要的不是保密费， 是十分钟。\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 0 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "1 headline(s) wrap past two lines at 768px: \"她想要的不是保密费， 是十分钟。\" → 3 lines (2 words, 44px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"她想要的不是保密费， 是十分钟。\" → 3 lines (2 words, 40px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/desktop-fold.jpg",
+   "pages": [
+    "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/desktop-page-01.jpg",
+    "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/desktop-page-02.jpg",
+    "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/tablet-fold.jpg",
+   "pages": [
+    "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/tablet-page-01.jpg",
+    "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/mobile-fold.jpg",
+   "pages": [
+    "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/mobile-page-01.jpg",
+    "/Users/huyin/Swingboat/english-to-be-continued/.taste-skill/ep-006/before/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

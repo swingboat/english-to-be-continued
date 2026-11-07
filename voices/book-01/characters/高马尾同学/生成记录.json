@@ -1,0 +1,84 @@
+{
+  "name": "高马尾同学",
+  "version": "v001",
+  "created_at": "2026-11-02T14:24:57+08:00",
+  "status": "generated-awaiting-listening-review",
+  "character": {
+    "name": "高马尾同学",
+    "gender": "女",
+    "age": 16,
+    "personality": "温和、真诚，初见有些害羞，熟悉后愿意分享",
+    "voice_identity": "ponytail-classmate",
+    "seed": 182,
+    "direction_zh": "柔和轻盈的少女声，略带气息，思考后再说，分享经历时逐渐放松；与苏小满的清爽利落区分。",
+    "instruct": "A 16-year-old female high-school student sharing an honest first-day memory with classmates. A soft, light mid-high teenage voice, gently airy with delicate resonance. Kind, sincere and slightly shy at first, then more relaxed as she tells her story. Natural small thinking pauses and quiet warmth, without whispering. Distinct from a brisk, direct teenage organizer. No rich mature adult voice, baby talk, exaggerated sweetness or cartoon delivery.",
+    "text": "On my first day, I was too shy to ask for help. Then I met another student who was lost too. We asked someone together, and she showed us the way. I didn't suddenly become brave. I just felt less alone, and that made it easier.",
+    "evidence": [
+      "production/book-01/ep-013/image-prompt.txt：high-ponytail teenage girl",
+      "production/book-01/ep-013/episode.json：两位新生一起求助的采访"
+    ]
+  },
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
+  "revision": "5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "model_path": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/cache/huggingface/hub/models--mlx-community--Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit/snapshots/5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "generation": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.05,
+    "max_tokens": 700
+  },
+  "language": "English",
+  "full_instruction": "A 16-year-old female high-school student sharing an honest first-day memory with classmates. A soft, light mid-high teenage voice, gently airy with delicate resonance. Kind, sincere and slightly shy at first, then more relaxed as she tells her story. Natural small thinking pauses and quiet warmth, without whispering. Distinct from a brisk, direct teenage organizer. No rich mature adult voice, baby talk, exaggerated sweetness or cartoon delivery. Speak clear, natural conversational American English. Use a comfortable medium pace and natural sentence pauses so a high-school English learner can follow. Keep an everyday human delivery, with no music or sound effects, no announcer performance, and no theatrical exaggeration. Read only the supplied text.",
+  "environment": {
+    "python": "3.13.4",
+    "executable": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/.venv/bin/python",
+    "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "hardware": "Apple M3 Pro",
+    "packages": {
+      "mlx-audio": "0.6.3",
+      "mlx": "0.32.4",
+      "numpy": "2.5.4"
+    },
+    "ffmpeg": "ffmpeg version 7.1.1 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "sample_rate": 24000,
+  "channels": 1,
+  "samples": 483840,
+  "duration_seconds": 20.16,
+  "generation_seconds": 8.899,
+  "peak": 0.4639933407306671,
+  "rms": 0.07656049384888201,
+  "mp3_duration_seconds": 20.208,
+  "checks": {
+    "finite_waveform": true,
+    "peak_below_full_scale": true,
+    "mp3_full_decode": true
+  },
+  "listening_review": {
+    "gender": "pending",
+    "age": "pending",
+    "personality": "pending",
+    "pronunciation_and_completeness": "pending"
+  },
+  "identity_note": "VoiceDesign candidate only; the seed is not a persistent speaker identity. Shared voice_identity does not guarantee matching timbre.",
+  "files": {
+    "高马尾同学.wav": {
+      "bytes": 967724,
+      "sha256": "92f29074e546e6693df870fa47790874706593d817351e305dcae0965c0696de"
+    },
+    "高马尾同学.mp3": {
+      "bytes": 323756,
+      "sha256": "157e7e9983a4c80fe6c8872a1ca68d98b6e706dfff09e1778644366de817ef7d"
+    },
+    "高马尾同学.txt": {
+      "bytes": 228,
+      "sha256": "267120e766e9e565d16bcf2cc082bd673e7dc77df278ccbdb38757f2d113db55"
+    },
+    "音色描述.txt": {
+      "bytes": 759,
+      "sha256": "9a12cb4a6b2f9ff9aed3ff258ec4c301b53a040b39cf1cdcb74568e93787c6ba"
+    }
+  }
+}

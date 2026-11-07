@@ -1,0 +1,128 @@
+{
+  "episode": "B01E006",
+  "title": "分身想包全天，她只要十分钟｜英语有续集006",
+  "description": "苏小满终于把广播提案讲完：让安静的同学也有机会说出自己的校园故事。分身一来却展开全天节目表，她只圈出一期十分钟。老师原则同意准备试播，要求先交清分工、再检查设备，日期之后再定。第一次合作，你会先做多大？跟着故事学习 aim、target、organise、voluntary、competence。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "广播提案",
+    "十分钟试播",
+    "明确目标",
+    "自愿参与",
+    "团队合作",
+    "听完再说",
+    "缩小范围",
+    "aim",
+    "target",
+    "organise",
+    "voluntary",
+    "competence"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 006",
+    "headline": [
+      "节目排了一整天",
+      "先做好这十分钟！"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-006-封面-4x3.png",
+      "alt": "第006集横版封面 · 4:3：节目排了一整天，先做好这十分钟！。",
+      "sha256": "671bcbb342f7198e9ffb01a1e80475acb06572703bc4806adcd92ca2545c19df",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-29c086a6-affa-4b97-b879-ad2971161aaf.png",
+      "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-a1eec6f4-50f1-4fb5-9ebd-22ec64968fa0.png",
+      "correction_prompt": "correction-4x3.txt"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-006-封面-3x4.png",
+      "alt": "第006集竖版封面 · 3:4：节目排了一整天，先做好这十分钟！。",
+      "sha256": "aa1452d40bd9c03a8d9491e018c88398a94d0c35e9b0e1c9e425cdf1ff0295e0",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-282e4fad-23f1-46ea-888d-e49dc3e66c81.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-06",
+    "method": "公开网页搜索与直接打开抖音视频页面；未登录当前发布入口实测。",
+    "queries": [
+      "site.douyin.com 高中英语 英语单词 校园广播",
+      "site.douyin.com 抖音知识 官方活动 2026 11 投稿",
+      "site.douyin.com vibe知识大赏 活动 2026",
+      "site.douyin.com 校园广播 英语"
+    ],
+    "ordinary_topic_evidence": [
+      {
+        "url": "https://www.douyin.com/video/7690474881057672489",
+        "observed": "检索摘要可见高中英语、单词等普通话题；仅作为内容相关性参考。",
+        "published_on": "2026-09-28"
+      },
+      {
+        "url": "https://jingxuan.douyin.com/m/video/7510186854563908922",
+        "observed": "英语词汇学习内容，仅作内容相关性参考。",
+        "published_on": "2025-05-30"
+      }
+    ],
+    "official_campaigns": [],
+    "candidate_campaigns": [
+      {
+        "topic": "vibe知识大赏",
+        "source_url": "https://www.douyin.com/video/7701282040913661211",
+        "checked_on": "2026-11-06",
+        "official_initiator": "未核实；公开摘要未显示可确认的认证发起方",
+        "announced_on": "2026-10-27（公开检索摘要，未独立核验）",
+        "validity": "摘要称即日起至11月30日；完整规则及年份未独立核实",
+        "eligibility": "账号资格、是否须报名及本集英语剧情的适用性未核实",
+        "submission_requirements": "摘要称必带 #vibe知识大赏；热点科普可同时带 #vibe热点新知计划；投稿会场和完整要求未核实",
+        "verification": "直接打开页面无可读正文，只获取公开搜索摘要；未认定为当前适合本集的官方活动。",
+        "selected": false
+      }
+    ],
+    "status": "保留原有5个系列及普通相关话题；未核实到同时满足官方身份、有效期和本集资格的活动，不承诺流量。",
+    "publication_day_recheck": "实际发布当天复核普通话题候选与官方活动；有效且匹配的活动替换1个普通话题，总数最多5个。",
+    "policy_source": "data/douyin-publishing-policy.json（2026-11-02规则沿用）"
+  }
+}

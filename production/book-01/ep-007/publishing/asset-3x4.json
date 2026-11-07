@@ -1,0 +1,11 @@
+{
+  "episode": "007",
+  "ratio": "3x4",
+  "file": "cover-3x4.png",
+  "width": 1086,
+  "height": 1448,
+  "ratio_exact": true,
+  "sha256": "25949e2f91dc1d47b43c083f9c5e61bd4beaa2610b2af18c7a510648dc323383",
+  "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-4f3d2ca2-d727-4516-8406-f6de7ac6abb2.png",
+  "mode": "built-in image_gen.imagegen"
+}

@@ -1,0 +1,92 @@
+{
+  "episode": "B01E015",
+  "title": "妈妈下夜班，我的采访先暂停｜英语有续集015",
+  "description": "小帅把“八点准备”写成了“八点采访”，妈妈却刚下夜班，想先坐下休息。他停掉自己的开场试音，问早餐想要什么，妈妈笑着答：“安静。”三人收起手机纸笔，改约到她休息后的周日上午，开始前再确认。安排别人的时间前，你会先问哪一句？跟着故事学习 apartment、living room、am、shift、from time to time。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "家庭故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "家人的一天",
+    "夜班后休息",
+    "尊重受访者",
+    "采访改约",
+    "家庭沟通",
+    "时间留白",
+    "安静早餐",
+    "apartment",
+    "living room",
+    "am",
+    "shift",
+    "from time to time"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 015",
+    "headline": [
+      "我刚开始录音",
+      "我妈刚下夜班"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-015-封面-4x3.png",
+      "alt": "第015集横版封面 · 4:3：我刚开始录音，我妈刚下夜班。",
+      "sha256": "74cc53a25486a31fc57193703361a31ef04a0d250b6517d324605754689973d1",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-058e1c3e-3a35-4013-aee6-acf210e14406.png"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-015-封面-3x4.png",
+      "alt": "第015集竖版封面 · 3:4：我刚开始录音，我妈刚下夜班。",
+      "sha256": "9dcfd88c49ea5ba0589857ff78d321be1c2169efc257dd608960c129675d84ae",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-59022666-f958-47be-805e-020127c66ac0.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

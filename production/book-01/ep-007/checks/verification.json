@@ -1,0 +1,73 @@
+{
+  "episode": 7,
+  "checked_on": "2026-11-01",
+  "html": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-007.html",
+  "html_sha256": "58f0442649d62c18e69b7911706b627c0d90750d39eb03bfd546345765be671d",
+  "html_bytes": 3823131,
+  "scenes": 8,
+  "embedded_images": 3,
+  "image_dimensions": [
+    887,
+    1774
+  ],
+  "image_matches_source": true,
+  "new_words": 5,
+  "main_review_words": 2,
+  "supplemental_review_words": 5,
+  "narration_words": 194,
+  "subtitle_pairs": 22,
+  "subtitles_match_source": true,
+  "ids_unique": true,
+  "anchor_links_valid": 48,
+  "clip_links_valid": 9,
+  "result_tables": 1,
+  "no_external_dependencies": true,
+  "no_video_or_audio": true,
+  "previous_episodes_unchanged": true,
+  "total_episodes": 72,
+  "total_vocabulary": 358,
+  "delivered_episodes": 7,
+  "taught_vocabulary": 35,
+  "status": "passed",
+  "browser": {
+    "tool": "tabbit-cli",
+    "widths": [
+      {
+        "viewport": 375,
+        "document_width": 375,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      },
+      {
+        "viewport": 768,
+        "document_width": 768,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      },
+      {
+        "viewport": 1440,
+        "document_width": 1440,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      }
+    ],
+    "offline_resource_requests": [],
+    "language_requirement_visible": true,
+    "result_table_no_overflow": true,
+    "desktop_screenshots_reviewed": true,
+    "word_anchor_navigation": true,
+    "responsible_phrase_and_adjective_navigation": true,
+    "review_answer_toggle": true,
+    "dialogue_toggle": true,
+    "result_table_content_verified": true,
+    "mobile_screenshot_reviewed": true
+  },
+  "bytes": 16632752,
+  "sha256": "ff7427189cb9b99c32025ce3c41e9af88c9fde738e2c4fa86b2da64575b121b7",
+  "distinct_embedded_images": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json",
+  "publishing_browser_verified": true
+}

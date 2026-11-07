@@ -1,0 +1,176 @@
+{
+  "other_episodes_unchanged": 14,
+  "embedded_voices": [
+    {
+      "name": "小帅",
+      "sha256": "c051a6aae2cc0d63ee5284c156b43052afff9c345d245a01dcf9e9d9b369fd4f",
+      "status": "已选定"
+    },
+    {
+      "name": "小帅的分身",
+      "sha256": "ce3d88284545808c57c283d9240a92fc491e82efaafbe61926a1058eda5d4146",
+      "status": "已选定"
+    },
+    {
+      "name": "苏小满",
+      "sha256": "746b2f99491248ef285cd2f5e85992a580c2fcbdd1bfa7414293394ad54dce9b",
+      "status": "暂定采用"
+    },
+    {
+      "name": "寸头同学",
+      "sha256": "5c5811635231709640cbd5ac494e20ff7e91a0ccd3b46fa5e08e9695015b1420",
+      "status": "已选定"
+    },
+    {
+      "name": "高马尾同学",
+      "sha256": "92f29074e546e6693df870fa47790874706593d817351e305dcae0965c0696de",
+      "status": "已选定"
+    },
+    {
+      "name": "班主任",
+      "sha256": "6ae234463019c9ed5a62db2d25d2ffadfb0b529c374f285bbe7c45c52aab195c",
+      "status": "已选定"
+    }
+  ],
+  "content": {
+    "scenes": 8,
+    "caption_pairs": 25,
+    "dialogue_entries": 30,
+    "words": 5,
+    "unique_keywords": 30,
+    "missing_links": 0
+  },
+  "chapter_preview": "keyboard focus switches image; chapter links retain direct reading navigation",
+  "audio_playback": [
+    {
+      "currentTime": 0.00036,
+      "duration": 13.84,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.000116,
+      "duration": 14.16,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.000184,
+      "duration": 18.88,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.000415,
+      "duration": 15.2,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.000075,
+      "duration": 20.16,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.000076,
+      "duration": 19.36,
+      "error": null,
+      "otherPaused": true
+    }
+  ],
+  "cover_downloads": [
+    {
+      "filename": "英语有续集-005-封面-4x3.png",
+      "ratio": "4x3",
+      "sha256": "d1a55c340c779cddaa33b6b208bbc0329be86aba8c3b35fb1a1b2f1cc6ebfb90"
+    },
+    {
+      "filename": "英语有续集-005-封面-3x4.png",
+      "ratio": "3x4",
+      "sha256": "163c74cb837f5f9b901d39f88ba6aad45cf04e2f263a8c09f4b2598f225ff430"
+    }
+  ],
+  "no_script": {
+    "captionCount": 25,
+    "opacity": "1",
+    "audio": 6
+  },
+  "reduced_motion": "no active animation",
+  "offline_file_url": true,
+  "console_errors": [],
+  "html_sha256": "b7fc7f465605dc852e5ef3b18ad434f1e2322069315453fe9f34ff7b8e5fa130",
+  "audio_progression": [
+    {
+      "name": "播放小帅的参考语音",
+      "start": 0.000306,
+      "end": 0.309477,
+      "advanced": 0.30917100000000003,
+      "duration": 13.84,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "name": "播放小帅的分身的参考语音",
+      "start": 0.000083,
+      "end": 0.310287,
+      "advanced": 0.310204,
+      "duration": 14.16,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "name": "播放苏小满的参考语音",
+      "start": 0.000076,
+      "end": 0.309916,
+      "advanced": 0.30984,
+      "duration": 18.88,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "name": "播放寸头同学的参考语音",
+      "start": 0.00022,
+      "end": 0.308948,
+      "advanced": 0.308728,
+      "duration": 15.2,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "name": "播放高马尾同学的参考语音",
+      "start": 0.000158,
+      "end": 0.309899,
+      "advanced": 0.309741,
+      "duration": 20.16,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "name": "播放班主任的参考语音",
+      "start": 0.000183,
+      "end": 0.310757,
+      "advanced": 0.310574,
+      "duration": 19.36,
+      "error": null,
+      "otherPaused": true
+    }
+  ],
+  "frame_padding": [
+    {
+      "selector": ".header-inner",
+      "left": "43.2px",
+      "right": "43.2px"
+    },
+    {
+      "selector": ".hero",
+      "left": "43.2px",
+      "right": "43.2px"
+    },
+    {
+      "selector": ".page-body",
+      "left": "43.2px",
+      "right": "43.2px"
+    }
+  ]
+}

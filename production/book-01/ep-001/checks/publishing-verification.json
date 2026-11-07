@@ -1,0 +1,95 @@
+{
+  "checked_on": "2026-11-01",
+  "status": "passed",
+  "html": "episodes/book-01/ep-001.html",
+  "bytes": 15892494,
+  "sha256": "21db1d879dfd4510f77cea471313565afdd7f8937e323ef3237f7d58fd0afe64",
+  "scenes": 8,
+  "subtitle_pairs": 23,
+  "learning_words": 5,
+  "publishing": {
+    "title": true,
+    "description": true,
+    "topics": 6,
+    "keywords": 30,
+    "unique_keywords": 30,
+    "covers": [
+      {
+        "file": "cover-4x3.png",
+        "size": [
+          1448,
+          1086
+        ],
+        "ratio": "4x3",
+        "sha256": "ed69dfade5f7ac00f35ffc0a7f6e3f5cab37c40852c9cb4254d6a35271bf0ee0"
+      },
+      {
+        "file": "cover-3x4.png",
+        "size": [
+          1086,
+          1448
+        ],
+        "ratio": "3x4",
+        "sha256": "58d5bc76d00c301a0361c24afb3c8ee55f0edde4c7ee8791f49d64aa531aac26"
+      }
+    ],
+    "embedded_preview_and_download_bytes_verified": true,
+    "mode": "built-in image_gen.imagegen"
+  },
+  "prior_story_source_and_storyboard_unchanged": true,
+  "other_episode_html_files_unchanged": 14,
+  "checked_unchanged_files": [
+    "episodes/book-01/ep-006.html",
+    "episodes/book-01/ep-010.html",
+    "episodes/book-01/ep-011.html",
+    "episodes/book-01/ep-007.html",
+    "episodes/book-01/ep-014.html",
+    "episodes/book-01/ep-002.html",
+    "episodes/book-01/ep-003.html",
+    "episodes/book-01/ep-015.html",
+    "episodes/book-01/ep-008.html",
+    "episodes/book-01/ep-012.html",
+    "episodes/book-01/ep-004.html",
+    "episodes/book-01/ep-005.html",
+    "episodes/book-01/ep-013.html",
+    "episodes/book-01/ep-009.html",
+    "production/book-01/ep-001/episode.json",
+    "production/book-01/ep-001/storyboard.png"
+  ],
+  "external_assets": [],
+  "javascript_blocks": 0,
+  "html_deliverables": 15,
+  "offline_file_url_verified": true,
+  "viewports_checked": [
+    375,
+    768,
+    1440
+  ],
+  "landscape_viewport_checked": [
+    812,
+    375
+  ],
+  "horizontal_overflow": [],
+  "publishing_element_overflow": [],
+  "external_runtime_requests": [],
+  "cover_images_decoded": true,
+  "cover_natural_dimensions": [
+    [
+      1448,
+      1086
+    ],
+    [
+      1086,
+      1448
+    ]
+  ],
+  "keyword_links_checked": 5,
+  "reference_dialogue_toggle_verified": true,
+  "screenshots": [
+    "publishing-desktop-text.png",
+    "publishing-desktop-covers.png",
+    "publishing-mobile-text.png",
+    "publishing-mobile-cover.png"
+  ],
+  "download_verification": "Native download links contain the exact PNG bytes shown in their corresponding previews; no external URL required."
+}

@@ -1,0 +1,96 @@
+{
+  "episode": "B01E014",
+  "title": "开播前十秒，怎么先感谢收听？｜英语有续集014",
+  "description": "离第一次试播只剩十秒，小帅翻到的顶卡竟是“感谢收听”。分身检查后把三张卡叠反了。小满恢复卡序，小帅亲口开场，分身等手势播放获同意的采访，老师控制广播通道，十分钟试播终于完成。本集用 6 个重点旧词回顾这段合作。开场前，你会最后检查哪件事？英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "试播完成",
+    "提词卡顺序",
+    "主持开场",
+    "等待信号",
+    "合作分工",
+    "旧词复习",
+    "confidence",
+    "volunteer",
+    "goal",
+    "schedule",
+    "organise",
+    "quality"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 014",
+    "headline": [
+      "开播还剩十秒",
+      "怎么先感谢收听？"
+    ],
+    "supporting_line": "旧词复习 · 本集6词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-014-封面-4x3.png",
+      "alt": "第014集横版封面 · 4:3：开播还剩十秒，怎么先感谢收听？。",
+      "sha256": "1310b6b02f81a323bc59937ad0f3214398587e348ee894833508ad4d037c98da",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-792d5bb0-631f-4729-94b1-46a7cf968038.png",
+      "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-413dc714-ba31-4670-8719-3fff288c7005.png",
+      "correction_prompt": "correction-4x3.txt"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-014-封面-3x4.png",
+      "alt": "第014集竖版封面 · 3:4：开播还剩十秒，怎么先感谢收听？。",
+      "sha256": "2f839dc6ffb3354f70c15ecbad779a470a861a83f8738a9fd44a2a40f49b3d88",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-fa685eaf-0359-48ee-9514-61d643beaf45.png",
+      "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-5ca736be-caf6-4e62-8906-04bd94324b0b.png",
+      "correction_prompt": "correction-3x4.txt"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

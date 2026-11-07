@@ -1,0 +1,604 @@
+{
+  "id": "B01E014",
+  "number": 14,
+  "kind": "review-story",
+  "title": "直播前十秒，谁把提词卡翻过去了？",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "reading-html",
+  "vocabulary_mode": "review",
+  "new_words": [],
+  "core_review_words": [
+    "confidence",
+    "volunteer",
+    "goal",
+    "schedule",
+    "organise",
+    "quality"
+  ],
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      1024,
+      1536
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        503,
+        373
+      ],
+      [
+        519,
+        3,
+        502,
+        373
+      ],
+      [
+        3,
+        389,
+        503,
+        351
+      ],
+      [
+        519,
+        389,
+        502,
+        351
+      ],
+      [
+        3,
+        753,
+        503,
+        330
+      ],
+      [
+        519,
+        753,
+        502,
+        330
+      ],
+      [
+        3,
+        1095,
+        503,
+        438
+      ],
+      [
+        519,
+        1095,
+        502,
+        438
+      ]
+    ]
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 22,
+  "words": [
+    {
+      "word": "confidence",
+      "part": "n.",
+      "meaning": "信心；自信",
+      "expression": "My confidence is growing, but my hands still shake.",
+      "translation": "我的信心在增长，双手却还是有点抖。",
+      "usage": "confidence 可以在实际尝试中增长。小帅仍有紧张感，也能选择亲自开场。",
+      "question": "开播前，小帅的手还在抖。他后来做了什么，体现出 confidence 的增长？",
+      "scene": 1,
+      "first_teaching_episode": 1,
+      "source": "首次学习第 001 集 · 第一册 Unit 1 词表 · 印刷页 107 / PDF 第 109 页"
+    },
+    {
+      "word": "volunteer",
+      "part": "vi.",
+      "meaning": "自愿做；主动承担",
+      "expression": "I volunteer to open the programme myself.",
+      "translation": "我主动承担节目的开场。",
+      "usage": "volunteer to do sth 表示主动做某事。回想第一集分身抢先替小帅报名，这次由小帅说出自己的选择。",
+      "question": "这次是谁 volunteer to open the programme？与第一集相比，决定由谁作出？",
+      "scene": 3,
+      "first_teaching_episode": 1,
+      "source": "首次学习第 001 集 · 第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "goal",
+      "part": "n.",
+      "meaning": "目标",
+      "expression": "Our goal is to share a real story.",
+      "translation": "我们的目标是分享一个真实故事。",
+      "usage": "Our goal is to ... 可以说清大家共同要完成的事。明确目标后，三人回到已确认的分工。",
+      "question": "十秒内来不及重写节目，他们用什么共同的 goal 稳住方向？",
+      "scene": 4,
+      "first_teaching_episode": 1,
+      "source": "首次学习第 001 集 · 第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "schedule",
+      "part": "n.",
+      "meaning": "日程；安排",
+      "expression": "We finish on schedule at four fifty.",
+      "translation": "我们在四点五十按时结束。",
+      "usage": "on schedule 表示按计划、准时。16:40 开始、16:50 结束，正好是获准的十分钟时段。",
+      "question": "试播几点开始、几点结束？用 on schedule 描述结果。",
+      "scene": 7,
+      "first_teaching_episode": 1,
+      "source": "首次学习第 001 集 · 第一册 Unit 1 词表 · 印刷页 107 / PDF 第 109 页"
+    },
+    {
+      "word": "organise",
+      "part": "vt.",
+      "meaning": "组织；安排",
+      "expression": "Xiaoman helps us organise the three cards.",
+      "translation": "小满帮我们排好三张提示卡。",
+      "usage": "organise + 要组织或安排的内容。这里依照同一份流程，把开场、采访录音、结语的卡片排回原顺序。",
+      "question": "苏小满如何 organise the three cards？她需要临时重写三问吗？",
+      "scene": 4,
+      "first_teaching_episode": 6,
+      "source": "首次学习第 006 集 · 第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "quality",
+      "part": "n.",
+      "meaning": "质量；品质",
+      "expression": "The sound quality is good.",
+      "translation": "音质很好。",
+      "usage": "sound quality 指音质。第十一集靠试录判断是否够用，本集按老师确认的设置播放已获同意的采访片段。",
+      "question": "这集出了问题的是卡片顺序，采访录音的 sound quality 怎样？",
+      "scene": 6,
+      "first_teaching_episode": 11,
+      "source": "首次学习第 011 集 · 第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    }
+  ],
+  "review_words": [],
+  "supplemental_review_words": [
+    {
+      "word": "responsible",
+      "meaning": "负责的；有责任心的",
+      "expression": "We are responsible team members.",
+      "translation": "我们是有责任心的团队成员。",
+      "question": "回想第七集，明确自己的职责后，可以用 responsible 怎样描述三人？",
+      "first_teaching_episode": 7
+    },
+    {
+      "word": "be responsible for",
+      "meaning": "负责",
+      "expression": "I am responsible for the opening.",
+      "translation": "我负责开场。",
+      "question": "把 be responsible for 中的 be 换成合适形式，说出小帅这次负责的部分。",
+      "first_teaching_episode": 7
+    },
+    {
+      "word": "function",
+      "meaning": "功能；作用",
+      "expression": "Every tool has a function.",
+      "translation": "每件工具都有它的作用。",
+      "question": "回想第七集，为什么先弄清设备的 function，再决定由谁操作？",
+      "first_teaching_episode": 7
+    },
+    {
+      "word": "seek",
+      "meaning": "寻求；请求",
+      "expression": "We seek help from our teacher.",
+      "translation": "我们向老师寻求帮助。",
+      "question": "面对不熟悉的广播设备，三人可以怎样用 seek 表达向老师求助？",
+      "first_teaching_episode": 7
+    },
+    {
+      "word": "professional",
+      "meaning": "专业的；职业的",
+      "expression": "Our teacher gives professional advice.",
+      "translation": "老师给我们专业建议。",
+      "question": "第七集老师的设备指导，可以怎样用 professional 描述？",
+      "first_teaching_episode": 7
+    },
+    {
+      "word": "convenient",
+      "meaning": "方便的；便利的",
+      "expression": "We agree on a convenient time for a short call.",
+      "translation": "我们约好一个方便的时间，简短通个电话。",
+      "question": "第十二集为什么先约好十分钟？用 convenient 描述这个时间。",
+      "first_teaching_episode": 12
+    },
+    {
+      "word": "according to",
+      "meaning": "根据；按照",
+      "expression": "According to my outline, we start with the library.",
+      "translation": "按照我的提纲，我们从图书馆的问题开始。",
+      "question": "第十二集小帅根据哪份内容讲话？用 according to 回答。",
+      "first_teaching_episode": 12
+    },
+    {
+      "word": "update",
+      "meaning": "更新",
+      "expression": "We update the outline after the call.",
+      "translation": "我们在通话后更新提纲。",
+      "question": "第十二集版本混乱后，新的修改应该何时一起确认？用 update 回答。",
+      "first_teaching_episode": 12
+    },
+    {
+      "word": "meanwhile",
+      "meaning": "与此同时",
+      "expression": "I speak. Meanwhile, my clone waits.",
+      "translation": "我在说话。与此同时，分身等着。",
+      "question": "小帅开场时，分身同时在做什么？用 meanwhile 连接两个动作。",
+      "first_teaching_episode": 12
+    },
+    {
+      "word": "distance",
+      "meaning": "距离；间距",
+      "expression": "She lives a short distance away.",
+      "translation": "她住得不远。",
+      "question": "第十二集受访同学住得不远，怎样用 a short distance away 表达？",
+      "first_teaching_episode": 12
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "检查到最后，顺手叠反了",
+      "place": "周三 16:35 · 学校广播室",
+      "shot": "三位学生与广播指导老师在场。小帅红内搭、分身蓝内搭，苏小满短发圆眼镜；女老师短卷棕发、无眼镜，深蓝开衫配赭色上衣。桌上只有一支固定台式麦克风、一台银色电脑和一台小调音台。",
+      "action": "老师已确认十分钟流程，家长知情。使用第十三集获同意的采访片段，图书馆借用手持麦克风已归还保管，本集使用广播室固定设备。分身最后逐张检查提示卡，顺手把每张检查完的卡压在新的一沓最上面，开场、录音、结语的顺序因此叠反。小帅练习，苏小满核对节目单，老师确认播出设置。",
+      "sound": "纸卡翻动与短试听；本项目只提供音效参考。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "采访时能接上话了，今天开场，手还是有点抖。"
+        },
+        {
+          "who": "分身",
+          "text": "我最后再看一遍卡片，不改内容。"
+        },
+        {
+          "who": "指导老师",
+          "text": "设备与片段都确认了。按四点四十到四点五十的流程来。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "It is Wednesday, five minutes before our first trial broadcast.",
+          "zh": "周三，距离我们的第一次试播还有五分钟。"
+        },
+        {
+          "id": "EN002",
+          "en": "My confidence is growing, but my hands still shake.",
+          "zh": "我的信心在增长，双手却还是有点抖。"
+        },
+        {
+          "id": "EN003",
+          "en": "My clone checks the cue cards one last time.",
+          "zh": "分身最后再检查一遍提示卡。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "还没开场，先感谢收听？",
+      "place": "16:39:50 · 开播前十秒",
+      "shot": "小帅翻起最上方提示卡，看见挥手告别图标，表情发愣。分身心虚，苏小满看清卡片顺序，女指导老师在调音台旁保持镇定。播出指示灯尚未亮起。",
+      "action": "小帅翻开顶卡，看到结语“感谢收听”。分身才发现检查时叠反了卡片，内容和电脑文件都没变。离开播只有十秒，需要把三张已确认的卡排回来。",
+      "sound": "纸卡啪地翻开，小帅低声反问；尚未播出。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "感谢收听？我们还没开始呢。"
+        },
+        {
+          "who": "分身",
+          "text": "叠反了。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN004",
+          "en": "Ten seconds remain.",
+          "zh": "还剩十秒。"
+        },
+        {
+          "id": "EN005",
+          "en": "The top card says, 'Thank you for listening.'",
+          "zh": "最上面的卡写着：“感谢收听。”"
+        },
+        {
+          "id": "EN006",
+          "en": "We have not even started!",
+          "zh": "我们明明还没开始！"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "这次，第一句我自己来",
+      "place": "16:39:52—16:39:55 · 说清开场与交接",
+      "shot": "分身刚想举手帮忙就停住，听红内搭小帅说完。小帅作出自己开场的决定，固定麦克风始终在原位，苏小满接过三张卡，老师点头。",
+      "action": "分身差点又要抢着替小帅开场。小帅主动明确自己开场，分身等他讲完、给手势后再放采访。苏小满恢复卡序，老师照原流程开播，大家沿用已确认的职责。",
+      "sound": "短句交接，动作迅速。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "我开场，你等手势放录音。"
+        },
+        {
+          "who": "分身",
+          "text": "好。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN007",
+          "en": "My clone almost offers to take over.",
+          "zh": "分身差点又要替我接过去。"
+        },
+        {
+          "id": "EN008",
+          "en": "I volunteer to open the programme myself.",
+          "zh": "我主动承担节目的开场。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "三张卡，排回同一条线",
+      "place": "16:39:55—16:39:59 · 开播前最后几秒",
+      "shot": "苏小满按开场麦克风、录音波形、结语挥手三个图标排卡。小帅点头，分身手离播放键、先等主持信号，女老师准备操作调音台。指示灯仍未亮。",
+      "action": "三张卡排回开场、采访录音、结语的原顺序。小帅记住共同目标是把同学的真实故事讲清，苏小满指卡，分身按手势播放，老师控制校内广播通道。紧急现场只说短句，英文解说承担旁述。",
+      "sound": "三张卡快速排好，随后留出开场的吸气停顿。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "开场、录音、结语。"
+        },
+        {
+          "who": "小帅",
+          "text": "就讲真事。"
+        },
+        {
+          "who": "指导老师",
+          "text": "准备。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN009",
+          "en": "Xiaoman helps us organise the three cards.",
+          "zh": "小满帮我们排好三张提示卡。"
+        },
+        {
+          "id": "EN010",
+          "en": "Our goal is to share a real story.",
+          "zh": "我们的目标是分享一个真实故事。"
+        },
+        {
+          "id": "EN011",
+          "en": "Opening, interview, closing. We know our jobs.",
+          "zh": "开场、采访、结语。我们各自知道要做什么。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "灯亮了，他等我说完",
+      "place": "16:40—16:43 · 开场与采访背景",
+      "shot": "播出灯亮，小帅面对唯一的固定麦克风开场。分身在电脑旁先看主持、等待手势，苏小满拿开场卡，女指导老师监看调音台。",
+      "action": "老师按时接入获准的放学后校园试播。小帅亲口完成开场与已核对的故事背景，留校活动的同学可收听。分身等他讲完并看到手势，再按老师确认的方式播放片段。苏小满只作卡片提示，职责清楚。",
+      "sound": "开场原声后留短停顿，再交给采访录音；不生成实际音频。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Welcome. Today, we share a first-day story about asking for help.",
+          "zh": "欢迎收听。今天，我们分享一个开学第一天开口求助的故事。"
+        },
+        {
+          "who": "分身（动作参考）",
+          "text": "看见主持交接手势，才播放已确认的采访片段。"
+        },
+        {
+          "who": "苏小满（动作参考）",
+          "text": "指开场与背景卡，跟随原流程，不另换版本。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN012",
+          "en": "The light turns red. I begin.",
+          "zh": "指示灯亮了，我开始开场。"
+        },
+        {
+          "id": "EN013",
+          "en": "My clone waits until I finish the introduction.",
+          "zh": "分身等我讲完开场。"
+        },
+        {
+          "id": "EN014",
+          "en": "Then I give him the signal.",
+          "zh": "然后我给他交接手势。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "昨天认真听的，今天认真放",
+      "place": "16:43—16:46 · 播放已获同意的采访片段",
+      "shot": "电脑显示采访波形和播放图标，小帅闭嘴认真听，分身按信号操作电脑，苏小满显示录音卡，女老师监看通道。高马尾同学不在房间里，不画成第五人。",
+      "action": "播放同学已确认可用的采访片段，保留不敢问路、两个新生一起向高年级同学求助、后来没那么孤单的经历。老师按已确认的设置监看音量与通道，声音清楚。三人没有用预写的励志句替换她的实际感受。",
+      "sound": "剧情中的采访片段与清楚的交接；这里仅交付文本和图片。",
+      "cues": [
+        {
+          "who": "采访片段（节选）",
+          "en": "I was too shy to ask for help. We asked a senior student together. I felt less alone.",
+          "zh": "我那时太害羞，不敢问路。我们一起问了一位高年级同学。我觉得没那么孤单了。"
+        },
+        {
+          "who": "分身（动作参考）",
+          "text": "保持已确认的播放顺序，留意主持与老师信号。"
+        },
+        {
+          "who": "小帅（动作参考）",
+          "text": "听完受访同学的话，再接回主持。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN015",
+          "en": "He plays the interview we saved yesterday.",
+          "zh": "他播放我们昨天保存的采访。"
+        },
+        {
+          "id": "EN016",
+          "en": "The sound quality is good.",
+          "zh": "音质很好。"
+        },
+        {
+          "id": "EN017",
+          "en": "We hear how asking together helped two new students.",
+          "zh": "我们听见，一起开口怎样帮助了两位新生。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "这一次，感谢收听放对了地方",
+      "place": "16:46—16:50 · 故事回顾与结语",
+      "shot": "小帅自然收尾，苏小满举挥手结语卡，分身等结束手势，女指导老师示意时钟。指示灯在主持结束前仍亮着。",
+      "action": "小帅按修订主持稿回顾问路经过与受访感受，结语呼应“一起开口，会没那么孤单”。节目单列明苏小满主编、小帅主持统筹、分身声音协助。16:50，老师按计划结束试播，十分钟第一期完成。",
+      "sound": "主持结语后留短拍，老师结束通道。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Asking together made her feel less alone. Thank you for listening.",
+          "zh": "一起开口让她没那么孤单。感谢收听。"
+        },
+        {
+          "who": "苏小满（动作参考）",
+          "text": "结语卡放在正确位置，提醒准时收尾。"
+        },
+        {
+          "who": "指导老师（动作参考）",
+          "text": "16:50 按流程结束校内试播。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN018",
+          "en": "We finish on schedule at four fifty.",
+          "zh": "我们在四点五十按时结束。"
+        },
+        {
+          "id": "EN019",
+          "en": "This time, the closing card is in the right place.",
+          "zh": "这一次，结语卡终于出现在正确的位置。"
+        }
+      ],
+      "table": {
+        "caption": "本期十分钟试播流程：已按计划完成",
+        "columns": [
+          "时间",
+          "内容",
+          "主要分工"
+        ],
+        "rows": [
+          [
+            "16:40—16:41",
+            "开场与主题",
+            "小帅主持；苏小满提示"
+          ],
+          [
+            "16:41—16:43",
+            "已核对的采访背景",
+            "小帅说明；分身等待交接"
+          ],
+          [
+            "16:43—16:46",
+            "获同意的采访片段",
+            "分身按信号播放；老师监看"
+          ],
+          [
+            "16:46—16:49",
+            "经历与感受回顾",
+            "小帅主持；苏小满核对"
+          ],
+          [
+            "16:49—16:50",
+            "结语与致谢",
+            "小帅收尾；老师按时结束"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "终于会接话，先等我讲完",
+      "place": "16:50 后 · 试播结束，老师反馈",
+      "shot": "播出灯已灭，三张卡用回形针固定。女老师指向纸上的家庭主题图标提出下一次采访想法，小帅先说，分身半举手却耐心等他讲完，苏小满微笑。",
+      "action": "老师确认第一期完成，邀请三人先准备家人一天的采访提案，愿意受访的人与方便时间都要再约。小帅决定回家先问妈妈意愿，尚未确定采访或播出时间。分身等小帅讲完再问自己能协助什么，呼应第一集抢先替别人报名的开端。老师收好设备，三人保留最终稿与已获同意的录音。",
+      "sound": "指示灯熄灭后松一口气，回形针轻响，自然对话。",
+      "cues": [
+        {
+          "who": "指导老师",
+          "text": "第一期按时完成了。下一次可以先准备“家人的一天”提案，先问本人愿不愿意，再约时间。"
+        },
+        {
+          "who": "小帅",
+          "text": "我回家先问妈妈愿不愿意讲她的一天。时间也先问她。"
+        },
+        {
+          "who": "分身",
+          "text": "等你问好，我能协助哪一段？这次不抢着替你答应。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN020",
+          "en": "Our teacher invites us to try a family story next.",
+          "zh": "老师邀请我们接着尝试一个家人的故事。"
+        },
+        {
+          "id": "EN021",
+          "en": "I will ask my mum if she wants to join.",
+          "zh": "我会先问妈妈愿不愿意参与。"
+        },
+        {
+          "id": "EN022",
+          "en": "My clone waits for me to finish before he speaks.",
+          "zh": "分身等我讲完，才接着说话。"
+        }
+      ]
+    }
+  ],
+  "continuity": {
+    "start": "第十三集正式采访与受访同学确认已完成，主持结语已按真实回答修改，周三十分钟试播获准。",
+    "end": [
+      "周三 16:40—16:50，第一期校园广播试播按时完成。",
+      "提示卡因逐张检查后叠反而出错，内容和音频文件未改；开播前按原流程恢复开场、录音、结语顺序。",
+      "小帅亲自开场，苏小满提示，分身等主持信号播放采访，老师监看并控制校内广播通道。",
+      "受访同学获同意的求助经历与感受用于节目，录音和修订主持稿保留，节目单清楚列明实际分工。",
+      "老师邀请准备“家人的一天”提案；小帅将先问妈妈意愿，具体采访和下一次播出时间尚未约定。",
+      "分身在收尾等小帅讲完再询问自己能做什么，第一段广播合作故事完成。"
+    ],
+    "props": [
+      "三位学生与女广播指导老师在场。老师短卷棕发、深蓝开衫配赭色上衣、无眼镜；没有家长或高马尾受访同学到场。",
+      "学校广播室原有固定台式麦克风、调音台和一台银色电脑，老师监看操作；图书馆借用手持麦克风仍归还保管。",
+      "三张纸卡分别提示开场、采访录音、结语，结束后固定顺序；没有临时添加设备或重录采访。",
+      "小帅红内搭、分身蓝内搭、苏小满短发圆眼镜，父母与老师知情，分身只参加获准课后项目。",
+      "周五搬桌与英语分享已完成，月底篮球补选仍待申请。"
+    ],
+    "next": "第十五集转向家人的真实生活：妈妈愿意分享也需要合适时间，不能照着学生自己的准备节奏就开录。"
+  }
+}

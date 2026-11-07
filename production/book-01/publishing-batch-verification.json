@@ -1,0 +1,722 @@
+{
+  "checked_on": "2026-11-01",
+  "status": "passed",
+  "updated_episodes": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "episode_001_unchanged": true,
+  "new_covers": 28,
+  "reports": [
+    {
+      "episode": 2,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-002.html",
+      "sha256": "e57b8420a216d47b7f40e420eaf773e50706d3a8cf55536ce0005caf7721b43e",
+      "bytes": 16369870,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "c8f6cc4ae4d98acb82db9f6523a6c57a91bc01bc1e0f159e515c6bdf31b3ef42"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "74c4c45f08cf7eb1fe8c2e196263d6ed9aaa5cffacbabe4b722b82982cf35d8b"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 3,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-003.html",
+      "sha256": "5248db2efd1565dc0ccbf5508a22ff8a1c96de3a79b85adcc47ca0b9d164cfb3",
+      "bytes": 16361732,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "ea7976654a4f82d8659b5e5c0586dfc83f1c3527f5b17bd8d2ffa38d27c7b243"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "60dce0b1af262c1f44ceb5d713c1fad3feec95e6466d76035fd98f52292b5646"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 4,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-004.html",
+      "sha256": "5eff8e473b290029ba0fe363a0c88bb98b70cb51d8861fe2e441b1c1d422e42a",
+      "bytes": 16616351,
+      "scenes": 8,
+      "subtitle_pairs": 24,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "585cad385add38dd6d226ebf39ac4d4d54318d2066fd7dcb0c6a967591001bcc"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "bcf154c06e529616fd1d4f2ac92066e1eb58650bf99c811499b8c13af60f3cba"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 5,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-005.html",
+      "sha256": "bb12289b13773428ca934ae023f65bbeca8ff88de22e9cf42b769a1859e4be3b",
+      "bytes": 17341099,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "d1a55c340c779cddaa33b6b208bbc0329be86aba8c3b35fb1a1b2f1cc6ebfb90"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "163c74cb837f5f9b901d39f88ba6aad45cf04e2f263a8c09f4b2598f225ff430"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 6,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-006.html",
+      "sha256": "da00a52084f525ba9865b4f3bc3b1cf48d698e9cbb16d58d233ca255d4254840",
+      "bytes": 15906118,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "671bcbb342f7198e9ffb01a1e80475acb06572703bc4806adcd92ca2545c19df"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "aa1452d40bd9c03a8d9491e018c88398a94d0c35e9b0e1c9e425cdf1ff0295e0"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 7,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-007.html",
+      "sha256": "ff7427189cb9b99c32025ce3c41e9af88c9fde738e2c4fa86b2da64575b121b7",
+      "bytes": 16632752,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "718bc443a134f6c3898889582cc9e7b9e9396631ed61601554e34caa1225372c"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "25949e2f91dc1d47b43c083f9c5e61bd4beaa2610b2af18c7a510648dc323383"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 8,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-008.html",
+      "sha256": "ffc9f18333951d7b6b1e74d947421d4c97a1b1e60e407bcad16cc7086e5c585a",
+      "bytes": 16546620,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "7ba209ec286ee6ef5b4ce51a77b0506fdba305b1a6d6540d1b236c26b68d9538"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "6260759b2e270931f787f51be9b3eec8977ede5822f495546b05a5e643cce833"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 9,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-009.html",
+      "sha256": "ffaef6a1177aa12a406188881f175866fb437338443bf5d0996fed2b5ba2d4c7",
+      "bytes": 16405484,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "59d2e2774e48d01f62c57e5e122734a6b168cdc4885368bf5e9d2546652d4d14"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "7a94a4e111073951e2d5900206210f11ccdc276c40cde662658c3245752eec98"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 10,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-010.html",
+      "sha256": "f39b4a3bc7be2b0cb89388a7598e6a04cfd0a12fcd04dbc0210da87b6264a080",
+      "bytes": 16426625,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "e498ca68f4783364081be6ce47464604f47b62f3dc8e67d9d519f09bfd3d217d"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "823401dd686b691db6d29f787ea1288158b89b3ef1f1106cd147045e39a7fe52"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 11,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-011.html",
+      "sha256": "a94939e61deaa05121b8783afba8231260e8beeb4f54e55a4430d1c402ba9355",
+      "bytes": 17251424,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 6,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "f48264c198c9918ff1890fa4e4fdbabdbe32005391ceff386cfeb2ac69481bc9"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "7280a6832a947c372f192434520c566567ec7f787636738ff39377e12b3a5f48"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 12,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-012.html",
+      "sha256": "b7d30adc6f87a9e38e8bda7fa50688143b9c620b95eeb0c5dc965fc59e5012f9",
+      "bytes": 16934170,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "4ff35b988ec93d5224359900d976acd775f3eb7e02134a0858b4a72588ee44f1"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "462c9100d164d955fe8622ab7bbc843cca2337b710a07f9a0d9860752a02171e"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 13,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-013.html",
+      "sha256": "92d069c3bff5a1f8ae0b8cd6ab4c1b3c1796eb1bf10f88aed70a52a28cfc3cd2",
+      "bytes": 16676592,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 6,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "27514abc4d008d72612a0305a57e7078226ba3766363ad02e5c268af4157b553"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "ff8d533172a52eb164062885558d8772b66e56ce601cd04c0226966c8918bb89"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 14,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-014.html",
+      "sha256": "7b2279fd52cc2eb08bbd5534f27d80d979e2c996b7ee2bcc361f38797b7aef6b",
+      "bytes": 16010931,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 6,
+      "vocabulary_mode": "review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "1310b6b02f81a323bc59937ad0f3214398587e348ee894833508ad4d037c98da"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "2f839dc6ffb3354f70c15ecbad779a470a861a83f8738a9fd44a2a40f49b3d88"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    },
+    {
+      "episode": 15,
+      "checked_on": "2026-11-01",
+      "status": "passed",
+      "html": "episodes/book-01/ep-015.html",
+      "sha256": "f87591c34fccabf2cf90d33580e52e690e151a950144269baa4f1410dd94d66a",
+      "bytes": 16986168,
+      "scenes": 8,
+      "subtitle_pairs": 22,
+      "learning_cards": 5,
+      "vocabulary_mode": "new-and-review",
+      "topics": 6,
+      "unique_keywords": 30,
+      "covers": [
+        {
+          "file": "cover-4x3.png",
+          "size": [
+            1448,
+            1086
+          ],
+          "ratio": "4x3",
+          "sha256": "74cc53a25486a31fc57193703361a31ef04a0d250b6517d324605754689973d1"
+        },
+        {
+          "file": "cover-3x4.png",
+          "size": [
+            1086,
+            1448
+          ],
+          "ratio": "3x4",
+          "sha256": "9dcfd88c49ea5ba0589857ff78d321be1c2169efc257dd608960c129675d84ae"
+        }
+      ],
+      "original_story_html_preserved_exactly": true,
+      "story_source_and_storyboard_unchanged": true,
+      "preview_and_download_bytes_verified": true,
+      "external_assets": [],
+      "javascript_blocks": 0,
+      "viewports_checked": [
+        375,
+        768,
+        1440
+      ],
+      "landscape_viewport_checked": [
+        812,
+        375
+      ],
+      "browser_verified": true
+    }
+  ],
+  "browser_verified_episodes": 14,
+  "visual_review": "publishing-art-review.json",
+  "viewports_checked": [
+    375,
+    768,
+    1440
+  ],
+  "landscape_viewport_checked": [
+    812,
+    375
+  ],
+  "external_runtime_requests": []
+}

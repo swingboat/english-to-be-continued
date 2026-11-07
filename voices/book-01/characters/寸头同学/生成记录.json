@@ -1,0 +1,84 @@
+{
+  "name": "寸头同学",
+  "version": "v001",
+  "created_at": "2026-11-02T14:24:47+08:00",
+  "status": "generated-awaiting-listening-review",
+  "character": {
+    "name": "寸头同学",
+    "gender": "男",
+    "age": 16,
+    "personality": "直率、随和，愿意表达自己的实际感受",
+    "voice_identity": "buzz-cut-classmate",
+    "seed": 175,
+    "direction_zh": "稍带鼻腔和颗粒感的少年男中音，轻快随性，日常交流感强；具体年龄及声线为制作建议。",
+    "instruct": "A 16-year-old male high-school classmate with a youthful medium-register voice, a little natural nasal resonance and a lightly grainy teenage texture. Easygoing, candid and friendly. Casual spontaneous phrasing and a small amused smile, as if talking with classmates beside the school track. Clearly adolescent and distinct from both a soft shy tenor and a fuller sporty teammate. No adult bass voice, aggressive delivery or exaggerated comic accent.",
+    "text": "Can we slow down a little? I still want to join in, just at a pace I can manage. Let's try the next lap together. We don't all have to finish first. I'd rather keep going than use up all my energy in the first minute.",
+    "evidence": [
+      "production/book-01/ep-005/image-prompt.txt：buzz-cut boy",
+      "production/book-01/ep-005/episode.json：晨跑中表达节奏需求"
+    ]
+  },
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
+  "revision": "5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "model_path": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/cache/huggingface/hub/models--mlx-community--Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit/snapshots/5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "generation": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.05,
+    "max_tokens": 700
+  },
+  "language": "English",
+  "full_instruction": "A 16-year-old male high-school classmate with a youthful medium-register voice, a little natural nasal resonance and a lightly grainy teenage texture. Easygoing, candid and friendly. Casual spontaneous phrasing and a small amused smile, as if talking with classmates beside the school track. Clearly adolescent and distinct from both a soft shy tenor and a fuller sporty teammate. No adult bass voice, aggressive delivery or exaggerated comic accent. Speak clear, natural conversational American English. Use a comfortable medium pace and natural sentence pauses so a high-school English learner can follow. Keep an everyday human delivery, with no music or sound effects, no announcer performance, and no theatrical exaggeration. Read only the supplied text.",
+  "environment": {
+    "python": "3.13.4",
+    "executable": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/.venv/bin/python",
+    "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "hardware": "Apple M3 Pro",
+    "packages": {
+      "mlx-audio": "0.6.3",
+      "mlx": "0.32.4",
+      "numpy": "2.5.4"
+    },
+    "ffmpeg": "ffmpeg version 7.1.1 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "sample_rate": 24000,
+  "channels": 1,
+  "samples": 364800,
+  "duration_seconds": 15.2,
+  "generation_seconds": 6.585,
+  "peak": 0.9475990533828735,
+  "rms": 0.06356356843954829,
+  "mp3_duration_seconds": 15.264,
+  "checks": {
+    "finite_waveform": true,
+    "peak_below_full_scale": true,
+    "mp3_full_decode": true
+  },
+  "listening_review": {
+    "gender": "pending",
+    "age": "pending",
+    "personality": "pending",
+    "pronunciation_and_completeness": "pending"
+  },
+  "identity_note": "VoiceDesign candidate only; the seed is not a persistent speaker identity. Shared voice_identity does not guarantee matching timbre.",
+  "files": {
+    "寸头同学.wav": {
+      "bytes": 729644,
+      "sha256": "5c5811635231709640cbd5ac494e20ff7e91a0ccd3b46fa5e08e9695015b1420"
+    },
+    "寸头同学.mp3": {
+      "bytes": 244652,
+      "sha256": "9f5e5201892a897eccb84ac2eb687dd4d71da532539175a2cf61aba671f174bb"
+    },
+    "寸头同学.txt": {
+      "bytes": 218,
+      "sha256": "bfbf38915dfc785a1b2917fbf067f8f68dd518be38cf967774b5eb46454328d1"
+    },
+    "音色描述.txt": {
+      "bytes": 760,
+      "sha256": "03a9bf8d7ff01a3cb3912ecb348a254af1abd7b276eb141fde596be5c18859b5"
+    }
+  }
+}

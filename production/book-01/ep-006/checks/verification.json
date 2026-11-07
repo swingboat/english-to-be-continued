@@ -1,0 +1,72 @@
+{
+  "episode": 6,
+  "checked_on": "2026-11-01",
+  "html": "/Users/huyin/Swingboat/english-to-be-continued/episodes/book-01/ep-006.html",
+  "html_sha256": "e532279776726520f2f7627ecacaabc20c8ce552196ae04b447416a6adc328fe",
+  "html_bytes": 3912383,
+  "scenes": 8,
+  "embedded_images": 3,
+  "image_dimensions": [
+    887,
+    1774
+  ],
+  "image_matches_source": true,
+  "new_words": 5,
+  "main_review_words": 2,
+  "supplemental_review_words": 5,
+  "narration_words": 183,
+  "subtitle_pairs": 22,
+  "subtitles_match_source": true,
+  "ids_unique": true,
+  "anchor_links_valid": 49,
+  "clip_links_valid": 9,
+  "result_tables": 1,
+  "no_external_dependencies": true,
+  "no_video_or_audio": true,
+  "previous_episodes_unchanged": true,
+  "total_episodes": 72,
+  "total_vocabulary": 358,
+  "delivered_episodes": 6,
+  "taught_vocabulary": 30,
+  "status": "passed",
+  "browser": {
+    "tool": "tabbit-cli",
+    "widths": [
+      {
+        "viewport": 375,
+        "document_width": 375,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      },
+      {
+        "viewport": 768,
+        "document_width": 768,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      },
+      {
+        "viewport": 1440,
+        "document_width": 1440,
+        "text_overflow": false,
+        "visible_scene_images": 8
+      }
+    ],
+    "offline_resource_requests": [],
+    "language_requirement_visible": true,
+    "result_table_no_overflow": true,
+    "desktop_screenshots_reviewed": true,
+    "word_anchor_navigation": true,
+    "review_answer_toggle": true,
+    "dialogue_toggle": true,
+    "result_table_content_verified": true,
+    "mobile_screenshot_reviewed": true
+  },
+  "bytes": 15906118,
+  "sha256": "da00a52084f525ba9865b4f3bc3b1cf48d698e9cbb16d58d233ca255d4254840",
+  "distinct_embedded_images": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json",
+  "publishing_browser_verified": true
+}

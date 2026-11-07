@@ -1,0 +1,961 @@
+{
+  "id": "B01E002",
+  "number": 2,
+  "title": "三个我才够用？先删掉一个承诺。",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "独立阅读 HTML：英文解说、中英字幕、图片、学习单词",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      887,
+      1774
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        436,
+        430
+      ],
+      [
+        449,
+        3,
+        435,
+        430
+      ],
+      [
+        3,
+        441,
+        436,
+        384
+      ],
+      [
+        449,
+        441,
+        435,
+        384
+      ],
+      [
+        3,
+        834,
+        436,
+        382
+      ],
+      [
+        449,
+        834,
+        435,
+        382
+      ],
+      [
+        3,
+        1225,
+        436,
+        546
+      ],
+      [
+        449,
+        1225,
+        435,
+        546
+      ]
+    ]
+  },
+  "words": [
+    {
+      "word": "stressful",
+      "meaning": "充满压力的；令人紧张的",
+      "part": "形容词",
+      "expression": "This is stressful!",
+      "translation": "这也太让人紧张了！",
+      "question": "看到三个一样的活动时间，小帅为什么说 stressful？",
+      "scene": 2,
+      "source": "Unit 1 Topic Talk · 正文第 6 页；分单元词表第 107 页",
+      "usage": "stressful 描述让人紧张、产生压力的事情或处境。"
+    },
+    {
+      "word": "challenging",
+      "meaning": "富有挑战性的；有难度的",
+      "part": "形容词",
+      "expression": "It's challenging, but possible.",
+      "translation": "很有挑战性，但能做到。",
+      "question": "分身觉得重新安排活动很有难度，用的是哪个形容词？",
+      "scene": 4,
+      "source": "Unit 1 Topic Talk · 正文第 6 页；分单元词表第 107 页",
+      "usage": "challenging 强调事情需要努力、具有挑战性。"
+    },
+    {
+      "word": "arise",
+      "meaning": "（问题或困难）出现；发生",
+      "part": "不及物动词",
+      "expression": "Problems arise when you say yes to everything.",
+      "translation": "什么都答应，麻烦就来了。",
+      "question": "苏小满用哪句话提醒分身，什么都答应会带来问题？",
+      "scene": 3,
+      "source": "Unit 1 Topic Talk 听力文本 · 正文第 101 页；分单元词表第 107 页",
+      "usage": "本句的主语是 problems，arise 表示问题出现。"
+    },
+    {
+      "word": "expectation",
+      "forms": [
+        "expectations"
+      ],
+      "meaning": "期待；预料；预期",
+      "part": "名词",
+      "expression": "We have different expectations.",
+      "translation": "我们俩的期待不一样。",
+      "question": "一个想全都拿下，一个希望自己作选择，他们的 expectations 有何不同？",
+      "scene": 4,
+      "source": "Unit 1 Topic Talk · 正文第 6 页；分单元词表第 107 页",
+      "usage": "词条为 expectation，故事中使用复数 expectations。"
+    },
+    {
+      "word": "pressure",
+      "meaning": "压力",
+      "part": "名词",
+      "expression": "I'm under pressure.",
+      "translation": "我现在压力好大。",
+      "question": "小帅独自走进办公室时，under pressure 表达什么感受？",
+      "scene": 5,
+      "source": "Unit 1 Topic Talk 听力文本 · 正文第 101 页；分单元词表第 107 页",
+      "usage": "under pressure 表示承受压力，常用来描述人的处境。"
+    }
+  ],
+  "review_words": [
+    {
+      "word": "schedule",
+      "meaning": "日程表；计划表",
+      "expression": "Can we change the schedule?",
+      "translation": "能调整一下日程吗？",
+      "scene": 5
+    },
+    {
+      "word": "challenge",
+      "meaning": "挑战",
+      "expression": "Making a choice is a challenge, too.",
+      "translation": "作出选择也是个挑战。",
+      "scene": 7
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "先交表，再解释",
+      "place": "教学楼走廊 · 紧接上一集",
+      "shot": "苏小满挡在两人面前，分身拿着上一集的夹板。老师的声音从办公室方向传来，老师没有看见两人同框。",
+      "action": "苏小满已看到两个小帅，还没听到解释。她负责收活动确认表，决定跟着两人，先把待确认的邀请处理清楚。",
+      "sound": "接上一集的脚步停顿，随后传来老师催交表的声音。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "两个小帅？你们先别走！",
+          "voices": [
+            "苏小满"
+          ]
+        },
+        {
+          "who": "班主任 · 画外音",
+          "text": "小帅，活动确认表交一下。",
+          "voices": [
+            "班主任"
+          ]
+        },
+        {
+          "who": "小帅的分身",
+          "text": "先交表，解释的事一会儿说。",
+          "voices": [
+            "小帅的分身"
+          ]
+        },
+        {
+          "who": "苏小满",
+          "text": "我负责收表。我跟着，交完就解释。",
+          "voices": [
+            "苏小满"
+          ]
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "Xiaoman saw both of us.",
+          "zh": "苏小满看见了我们两个。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN002",
+          "en": "Then the teacher called for the activity form.",
+          "zh": "老师却在这时催交活动确认表。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN003",
+          "en": "She was collecting activity forms, so she followed us.",
+          "zh": "她负责收活动确认表，就跟着我们。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN004",
+          "en": "No escape.",
+          "zh": "看来是躲不掉了。",
+          "kind": "narration"
+        }
+      ],
+      "voice_direction": {
+        "narration": "接上集的惊讶，转为被叫住的无奈；末句短停，轻微自嘲。",
+        "dialogue": [
+          {
+            "name": "苏小满",
+            "direction": "惊讶后温和留住两人，语速稍快但不尖声质问。"
+          },
+          {
+            "name": "班主任",
+            "direction": "画外音，从办公室方向自然催交表；沿用班主任固定音色。"
+          },
+          {
+            "name": "小帅的分身",
+            "direction": "明快地接话，想先把解释拖后，带一点笑意。"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "两个我，三件事",
+      "place": "同一条走廊",
+      "shot": "分身把同一张夹板递给小帅。小帅盯着三个相同的时间，分身伸出两根手指算人数，苏小满看向表格。",
+      "action": "三项邀请都在周五课外活动时段，仍未确认。小帅说出自己原本想参加篮球初选，日程问题有了真实的取舍。",
+      "sound": "每看到一项相同的时间，一声轻点；第三次后给小帅的反应留半拍。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "三项都周五两点？我本来还想去篮球初选。",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "小帅",
+          "en": "This is stressful!",
+          "zh": "这也太让人紧张了！",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "苏小满",
+          "en": "Let's check the schedule.",
+          "zh": "先看看日程表。",
+          "voices": [
+            "苏小满"
+          ]
+        },
+        {
+          "who": "小帅的分身",
+          "text": "两个我，三件事……还缺一个我。",
+          "voices": [
+            "小帅的分身"
+          ]
+        }
+      ],
+      "table": {
+        "caption": "尚未确认的三项邀请",
+        "columns": [
+          "活动",
+          "时间",
+          "状态"
+        ],
+        "rows": [
+          [
+            "英语分享",
+            "周五 14:00",
+            "待确认"
+          ],
+          [
+            "活动搬桌",
+            "周五 14:00",
+            "待确认"
+          ],
+          [
+            "篮球初选",
+            "周五 14:00",
+            "待确认"
+          ]
+        ]
+      },
+      "narration": [
+        {
+          "id": "EN005",
+          "en": "Three invitations.",
+          "zh": "三份邀请。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN006",
+          "en": "One time: Friday at two.",
+          "zh": "同一个时间：周五两点。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN007",
+          "en": "\"This is stressful!\" I said.",
+          "zh": "我说：“这也太让人紧张了！”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅"
+        },
+        {
+          "id": "EN008",
+          "en": "\"Let's check the schedule,\" Xiaoman replied.",
+          "zh": "苏小满回答：“先看看日程表。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "苏小满"
+        },
+        {
+          "id": "EN009",
+          "en": "My clone counted: \"Two of me.\"",
+          "zh": "分身算起来：“两个我。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅的分身"
+        },
+        {
+          "id": "EN010",
+          "en": "\"Three jobs.\"",
+          "zh": "“三件事。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅的分身"
+        },
+        {
+          "id": "EN011",
+          "en": "\"We need one more.\"",
+          "zh": "“还缺一个我。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅的分身"
+        }
+      ],
+      "voice_direction": {
+        "narration": "看到撞期时间时收紧语气；数人数和任务时留短停，保留轻喜剧节奏。",
+        "dialogue": [
+          {
+            "name": "小帅",
+            "direction": "先诧异，再露出篮球初选被挤掉的焦虑。"
+          },
+          {
+            "name": "苏小满",
+            "direction": "轻柔、耐心地提醒先看表，音量克制。"
+          },
+          {
+            "name": "小帅的分身",
+            "direction": "认真数数，自信地提出再加一个自己。"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "手机不是打印机",
+      "place": "教室门外的走廊",
+      "shot": "分身在夹板纸上画三个圆，小帅拿出自己的手机给他看。手机界面只有已停用的灰色按钮；现场始终只有两个男生。",
+      "action": "分身提出再找一个自己，小帅指出生成机会只有一次。增加人数这条路走不通，他们必须面对承诺本身。",
+      "sound": "笔画到第三个圆时停住，手机没有再次生成的音效。",
+      "cues": [
+        {
+          "who": "小帅的分身",
+          "text": "再生成一个，不就够了？",
+          "voices": [
+            "小帅的分身"
+          ]
+        },
+        {
+          "who": "小帅",
+          "text": "按钮只能用一次。手机又不是打印机。",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "苏小满",
+          "en": "Problems arise when you say yes to everything.",
+          "zh": "什么都答应，麻烦就来了。",
+          "voices": [
+            "苏小满"
+          ]
+        },
+        {
+          "who": "小帅",
+          "text": "先别加人，看看哪些事能改。",
+          "voices": [
+            "小帅"
+          ]
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN012",
+          "en": "\"The button only works once,\" I said.",
+          "zh": "我说：“这个按钮只能用一次。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅"
+        },
+        {
+          "id": "EN013",
+          "en": "\"This phone isn't a printer.\"",
+          "zh": "“手机又不是打印机。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅"
+        },
+        {
+          "id": "EN014",
+          "en": "Xiaoman warned, \"Problems arise when you say yes to everything.\"",
+          "zh": "苏小满提醒：“什么都答应，麻烦就来了。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "苏小满"
+        }
+      ],
+      "voice_direction": {
+        "narration": "解释一次生成限制时自然吐槽；转述苏小满的提醒时放慢重点词 arise。",
+        "dialogue": [
+          {
+            "name": "小帅",
+            "direction": "用平常语气说明限制，“打印机”一语带轻微无奈。"
+          },
+          {
+            "name": "小帅的分身",
+            "direction": "跃跃欲试地提议，遇到限制时收住。"
+          },
+          {
+            "name": "苏小满",
+            "direction": "温和直率地提醒后果，句尾轻收，避免训斥。"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "先换个排法",
+      "place": "教室外 · 能看见待布置的活动场地",
+      "shot": "苏小满打开场地记录本，指向教室里的桌椅。分身放下笔，小帅开始认真看准备工作的说明。",
+      "action": "苏小满指出搬桌是英语分享的布场工作，应该发生在活动之前。分身想同时拿下所有机会，小帅希望作出自己的选择。",
+      "sound": "翻开记录本的纸声，紧张的节奏稍微放松。",
+      "cues": [
+        {
+          "who": "小帅的分身",
+          "en": "It's challenging, but possible.",
+          "zh": "很有挑战性，但能做到。",
+          "voices": [
+            "小帅的分身"
+          ]
+        },
+        {
+          "who": "小帅",
+          "en": "We have different expectations.",
+          "zh": "我们俩的期待不一样。",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "苏小满",
+          "text": "搬桌是给英语分享布场，本来就该先做。",
+          "voices": [
+            "苏小满"
+          ]
+        },
+        {
+          "who": "小帅",
+          "text": "对啊！不用三件事都挤在开场那一刻。",
+          "voices": [
+            "小帅"
+          ]
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN015",
+          "en": "\"It's challenging, but possible,\" my clone insisted.",
+          "zh": "分身还坚持：“很有挑战性，但能做到。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅的分身"
+        },
+        {
+          "id": "EN016",
+          "en": "\"We have different expectations,\" I said.",
+          "zh": "我说：“我们俩的期待不一样。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅"
+        },
+        {
+          "id": "EN017",
+          "en": "Moving desks was preparation.",
+          "zh": "搬桌子是布场工作。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN018",
+          "en": "It could happen before the talk.",
+          "zh": "可以安排在分享开始之前。",
+          "kind": "narration"
+        }
+      ],
+      "voice_direction": {
+        "narration": "从争抢机会转为思考安排；expectations 读清复数，找到办法时稍放松。",
+        "dialogue": [
+          {
+            "name": "小帅的分身",
+            "direction": "仍觉得可以全部拿下，起句果断而不过度夸张。"
+          },
+          {
+            "name": "小帅",
+            "direction": "平静说出期待不同，意识到可以调整顺序时语气亮一点。"
+          },
+          {
+            "name": "苏小满",
+            "direction": "轻声、清楚地指出布场先于分享，像和同学商量。"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "这次自己开口",
+      "place": "班主任办公室 · 只有原版进入",
+      "shot": "红内搭的小帅独自走进办公室，向同一位戴眼镜的男老师展示夹板。蓝内搭分身和苏小满留在关着的门外。",
+      "action": "小帅没有派分身代说，亲自解释撞期。老师尚不知道分身存在；本次是确认活动，不是补做完整自我介绍。",
+      "sound": "敲门声、椅子轻响；小帅开口前有一次短停顿。",
+      "cues": [
+        {
+          "who": "小帅 · 内心",
+          "en": "I'm under pressure.",
+          "zh": "我现在压力好大。",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "小帅",
+          "text": "老师，我想自己确认一下这些邀请。",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "小帅",
+          "en": "Can we change the schedule?",
+          "zh": "能调整一下日程吗？",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "班主任",
+          "text": "搬桌能调到一点二十，分享还是两点。篮球呢？",
+          "voices": [
+            "班主任"
+          ]
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN019",
+          "en": "I left my clone outside and entered the office myself.",
+          "zh": "我把分身留在门外，独自走进办公室。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN020",
+          "en": "\"I'm under pressure,\" I thought.",
+          "zh": "我心想：“我现在压力好大。”",
+          "kind": "inner_monologue",
+          "quoted_character": "小帅"
+        },
+        {
+          "id": "EN021",
+          "en": "Then I asked, \"Can we change the schedule?\"",
+          "zh": "然后开口问：“能调整一下日程吗？”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅"
+        }
+      ],
+      "voice_direction": {
+        "narration": "进门时略紧张，提出问题时语速放稳、句子说完整。",
+        "dialogue": [
+          {
+            "name": "小帅",
+            "direction": "对班主任礼貌而清楚地提出调整请求；紧张但不持续结巴。"
+          },
+          {
+            "name": "班主任",
+            "direction": "先听再问，平稳确认限制；有原则但不训斥。"
+          }
+        ],
+        "inner_monologue": "内心独白由小帅同一音色转述，音量略收、停顿稍长；保持清楚可闻，不做耳语或额外旁白声线。"
+      }
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "机会不能全留着",
+      "place": "同一间办公室",
+      "shot": "老师指向活动日历和篮球选拔公告，小帅看着公告犹豫。镜头保留他舍不得的表情。",
+      "action": "调整准备时间后，英语分享和篮球初选仍然冲突。月底开放补选已写在体育组公告上，所有未参加初选的学生都可另行报名。",
+      "sound": "环境声放轻，留出小帅作决定的一拍。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "篮球初选我也想去……能都留着吗？",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "班主任",
+          "text": "时间冲突，总得选。",
+          "voices": [
+            "班主任"
+          ]
+        },
+        {
+          "who": "班主任",
+          "text": "公告有月底开放补选，没参加初选也能报名。",
+          "voices": [
+            "班主任"
+          ]
+        },
+        {
+          "who": "小帅",
+          "text": "那我这次先留英语分享，补选再单独报名。",
+          "voices": [
+            "小帅"
+          ]
+        }
+      ],
+      "table": {
+        "caption": "体育组公告提供的另一条路",
+        "columns": [
+          "项目",
+          "时间",
+          "报名说明"
+        ],
+        "rows": [
+          [
+            "篮球初选",
+            "本周五 14:00",
+            "与英语分享冲突"
+          ],
+          [
+            "开放补选",
+            "本月底",
+            "未参加初选也可另行报名"
+          ]
+        ]
+      },
+      "narration": [
+        {
+          "id": "EN022",
+          "en": "The teacher moved the desk setup to one twenty.",
+          "zh": "老师把搬桌安排到一点二十。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN023",
+          "en": "The talk stayed at two.",
+          "zh": "分享仍在两点。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN024",
+          "en": "Basketball still clashed.",
+          "zh": "篮球初选还是撞期了。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN025",
+          "en": "I couldn't do both.",
+          "zh": "我没法两边都参加。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN026",
+          "en": "The notice offered open tryouts at the end of the month.",
+          "zh": "不过，公告上原本就有月底开放补选的安排。",
+          "kind": "narration"
+        }
+      ],
+      "voice_direction": {
+        "narration": "一点二十与两点读清；仍须放下篮球初选时带遗憾，读到补选公告时留一点希望。",
+        "dialogue": [
+          {
+            "name": "小帅",
+            "direction": "舍不得放弃机会，问清后再作决定，避免表现成已经报名补选。"
+          },
+          {
+            "name": "班主任",
+            "direction": "务实解释能协调和不能协调的部分，提及月底公告时保持平常语气。"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "划掉一项，事情清楚了",
+      "place": "办公室桌前",
+      "shot": "小帅亲手在确认表上划掉本周篮球初选这一项，确认另两项的安排。老师点头，没有出现第三个人，也没有分身代签。",
+      "action": "搬桌提前，英语分享由小帅本人参加，篮球初选这次不报。小帅有些遗憾，但决定由自己承担结果。",
+      "sound": "划掉表格一项的笔声，夹板合上的轻响。",
+      "cues": [
+        {
+          "who": "班主任",
+          "text": "决定了？",
+          "voices": [
+            "班主任"
+          ]
+        },
+        {
+          "who": "小帅",
+          "text": "搬桌按新时间去，分享我自己讲。篮球初选这次不报。",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "班主任",
+          "en": "Making a choice is a challenge, too.",
+          "zh": "作出选择也是个挑战。",
+          "voices": [
+            "班主任"
+          ]
+        },
+        {
+          "who": "班主任",
+          "text": "我通知筹备组改时间，你把确认表交给小满。",
+          "voices": [
+            "班主任"
+          ]
+        }
+      ],
+      "table": {
+        "caption": "小帅亲自确认后的安排",
+        "columns": [
+          "活动",
+          "安排",
+          "状态"
+        ],
+        "rows": [
+          [
+            "活动搬桌",
+            "周五 13:20—13:40",
+            "老师协调确认"
+          ],
+          [
+            "英语分享",
+            "周五 14:00",
+            "小帅本人参加"
+          ],
+          [
+            "本周篮球初选",
+            "周五 14:00",
+            "这次不报名"
+          ],
+          [
+            "月底篮球补选",
+            "另交申请",
+            "尚未报名"
+          ]
+        ]
+      },
+      "narration": [
+        {
+          "id": "EN027",
+          "en": "I chose to move desks earlier, give the talk, and skip this week's basketball tryout.",
+          "zh": "我选择提前搬桌、参加分享，这次不报篮球初选。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN028",
+          "en": "I could apply for the later tryout separately.",
+          "zh": "之后，我可以另行申请月底补选。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN029",
+          "en": "\"Making a choice is a challenge, too,\" the teacher said.",
+          "zh": "班主任说：“作出选择也是个挑战。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "班主任"
+        }
+      ],
+      "voice_direction": {
+        "narration": "作出选择后语气踏实；保留对篮球的遗憾，不把后续活动说成已经完成。",
+        "dialogue": [
+          {
+            "name": "小帅",
+            "direction": "确认安排时更坚定，承认本次不报篮球初选。"
+          },
+          {
+            "name": "班主任",
+            "direction": "温和肯定小帅自己作决定，“challenge”自然强调。"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "两个人，一个答案",
+      "place": "关着的办公室门外",
+      "shot": "小帅拿着修改后的夹板出来，分身和苏小满仍在走廊等他。苏小满看着两张一样的脸，两个男生同时指向对方。",
+      "action": "日程冲突已经解决，小帅把确认表交给苏小满。她没有忘记第一集看到的事实，要求两人留下解释。",
+      "sound": "轻快节奏短暂恢复；两人同时回答后，留一个尴尬的停顿。",
+      "cues": [
+        {
+          "who": "小帅的分身",
+          "text": "人没加，怎么搞定的？",
+          "voices": [
+            "小帅的分身"
+          ]
+        },
+        {
+          "who": "小帅",
+          "text": "少答应一件事就行。",
+          "voices": [
+            "小帅"
+          ]
+        },
+        {
+          "who": "苏小满",
+          "text": "时间说清了。现在，解释你们两个。",
+          "voices": [
+            "苏小满"
+          ]
+        },
+        {
+          "who": "小帅与分身 · 同时",
+          "text": "他说。",
+          "voices": [
+            "小帅",
+            "小帅的分身"
+          ]
+        },
+        {
+          "who": "苏小满",
+          "text": "还挺一致。那就一个一个说。",
+          "voices": [
+            "苏小满"
+          ]
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN030",
+          "en": "\"You didn't add another person?\" my clone asked.",
+          "zh": "分身问：“你没再加一个人？”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅的分身"
+        },
+        {
+          "id": "EN031",
+          "en": "\"No.\"",
+          "zh": "“没有。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅"
+        },
+        {
+          "id": "EN032",
+          "en": "\"I stopped saying yes to everything.\"",
+          "zh": "“我不再什么都答应了。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅"
+        },
+        {
+          "id": "EN033",
+          "en": "\"Now explain why there are two of you,\" said Xiaoman.",
+          "zh": "苏小满说：“现在，解释为什么有两个你。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "苏小满"
+        },
+        {
+          "id": "EN034",
+          "en": "We pointed at each other.",
+          "zh": "我们同时指向对方。",
+          "kind": "narration"
+        },
+        {
+          "id": "EN035",
+          "en": "\"He will.\"",
+          "zh": "“他说。”",
+          "kind": "retold_dialogue",
+          "quoted_character": "小帅、小帅的分身"
+        }
+      ],
+      "voice_direction": {
+        "narration": "回到走廊时轻松一点；最后一句先短停，再用尴尬的笑意收尾。",
+        "dialogue": [
+          {
+            "name": "小帅的分身",
+            "direction": "先好奇怎么解决，最后与小帅同时说“他说”。"
+          },
+          {
+            "name": "小帅",
+            "direction": "简洁说明取舍；最后与分身同时开口，略心虚。"
+          },
+          {
+            "name": "苏小满",
+            "direction": "轻柔但明确地要求解释，最后一句带一点无奈的笑意。"
+          }
+        ]
+      }
+    }
+  ],
+  "continuity": {
+    "start": "苏小满已经看见两个小帅；复制体当前称为“分身”，三项周五 14:00 邀请均待确认。",
+    "end": [
+      "小帅亲自与班主任确认邀请，没有让分身代说。",
+      "活动搬桌由老师协调到周五 13:20—13:40，英语分享仍为周五 14:00，由小帅本人参加。",
+      "小帅这次不报篮球初选；体育组已有月底开放补选，他决定之后另行申请，尚未完成报名。",
+      "手机的一次生成机会已经用完，只有一个实体分身。",
+      "苏小满收下修改后的表，仍要求两人解释来历；本集尚未解释生成经过。",
+      "班主任没有看见两个小帅同框，完整英语自我介绍仍留到第 003 集。"
+    ],
+    "props": [
+      "单张夹板先从分身递给小帅，办公室里由小帅修改，结尾交给苏小满。",
+      "手机始终属于红内搭的小帅；分身不能再次生成。",
+      "只有原版进入办公室，分身和苏小满留在门外，校服红蓝标识保持一致。"
+    ],
+    "next": "第 003 集听两人解释，小帅坦率承认害怕开口，并亲自完成短自我介绍。"
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅（Xiaoshuai），第一人称英文解说",
+    "instruction": "小帅朗读全部英文解说；字幕英文与朗读文本逐字一致。解说中的引号为小帅转述人物原话，沿用小帅音色；EN 编号不朗读。内心独白转述沿用小帅音色，略放轻。角色对白参考另列，若后续单独录制，按各角色固定音色配音；同一角色的画外音、电话、采访回放沿用同一音色。配音、剪辑与字幕时间轴在视频项目完成。",
+    "voice_reference": "voices/book-01/characters/小帅/小帅.wav"
+  },
+  "subtitle_pair_count": 35,
+  "voice_cast": [
+    {
+      "name": "小帅",
+      "usage": "本集全部英文解说、内心独白及本人对白；红内搭。"
+    },
+    {
+      "name": "小帅的分身",
+      "usage": "分身的角色对白；蓝内搭，与小帅外貌和身份相同。"
+    },
+    {
+      "name": "苏小满",
+      "usage": "走廊角色对白；沿用用户暂定采用的轻柔、舒缓音色。"
+    },
+    {
+      "name": "班主任",
+      "usage": "第 01 格办公室方向的画外音，以及第 05—07 格办公室内对白。"
+    }
+  ]
+}

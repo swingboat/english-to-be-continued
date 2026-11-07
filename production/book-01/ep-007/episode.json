@@ -1,0 +1,592 @@
+{
+  "id": "B01E007",
+  "number": 7,
+  "title": "负责人的名字，不能写两个小帅。",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "独立阅读 HTML：英文解说、中英字幕、图片、学习单词",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      887,
+      1774
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        433,
+        392
+      ],
+      [
+        450,
+        3,
+        434,
+        392
+      ],
+      [
+        3,
+        407,
+        433,
+        404
+      ],
+      [
+        450,
+        407,
+        434,
+        404
+      ],
+      [
+        3,
+        824,
+        433,
+        392
+      ],
+      [
+        450,
+        824,
+        434,
+        392
+      ],
+      [
+        3,
+        1229,
+        433,
+        542
+      ],
+      [
+        450,
+        1229,
+        434,
+        542
+      ]
+    ]
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 22,
+  "words": [
+    {
+      "word": "responsible",
+      "part": "形容词",
+      "meaning": "负责任的；负责的",
+      "expression": "Being responsible also means knowing when to ask.",
+      "translation": "负责任，也意味着知道什么时候该求助。",
+      "usage": "responsible 在这里描述做事负责的态度。Being responsible 是句子的主语；承担责任可以包括留下了解情况、向合适的人求助。",
+      "question": "小帅没有走开，而是留下并求助，这为什么是 responsible 的表现？",
+      "scene": 7,
+      "source": "Unit 1 · 分单元词表第 109 页（PDF 第 111 页）"
+    },
+    {
+      "word": "be responsible for",
+      "part": "短语",
+      "meaning": "对……负责；负责……",
+      "expression": "I will be responsible for the schedule.",
+      "translation": "我会负责时间安排。",
+      "usage": "be responsible for 后接所负责的事情。本集用 will be responsible for 表达承担安排的意愿；主语和时态变化时，be 也随之变化。",
+      "question": "小帅明确说由自己负责时间安排，可以怎样补全 I will ___ the schedule？",
+      "scene": 2,
+      "source": "Unit 1 · 分单元词表第 109 页（PDF 第 111 页）"
+    },
+    {
+      "word": "function",
+      "part": "名词",
+      "meaning": "功能；作用",
+      "expression": "What is the function of this button?",
+      "translation": "这个按钮有什么功能？",
+      "usage": "the function of ... 表示“……的功能”。分身先问功能，再看说明；本次没有声音的原因后来确认是试听音箱的音频线松动。",
+      "question": "分身不确定按钮有什么作用时，怎样用 function 提问？",
+      "scene": 3,
+      "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+    },
+    {
+      "word": "seek",
+      "part": "动词",
+      "meaning": "寻求；请求",
+      "expression": "We need to seek help.",
+      "translation": "我们需要寻求帮助。",
+      "usage": "seek help 表示“寻求帮助”，seek 后可直接接 help。小帅先向在场的班主任说明，再请广播指导老师协助。",
+      "question": "遇到不熟悉的设备问题，怎样用 seek 表达“寻求帮助”？",
+      "scene": 5,
+      "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+    },
+    {
+      "word": "professional",
+      "part": "形容词",
+      "meaning": "专业的；职业的",
+      "expression": "Now we have someone with professional experience.",
+      "translation": "现在，有具备专业经验的人来帮忙了。",
+      "usage": "professional 修饰 experience，说明要找具有相关专业经验的人。本集指熟悉广播设备的指导老师。",
+      "question": "为什么这次要找有 professional experience 的指导老师，而不是继续猜按钮？",
+      "scene": 6,
+      "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+    }
+  ],
+  "review_words": [
+    {
+      "word": "organise",
+      "meaning": "组织；安排",
+      "expression": "Xiaoman edits. I organise. My clone checks sound with guidance.",
+      "translation": "小满主编，我来统筹，分身在指导下检查声音。",
+      "scene": 7
+    },
+    {
+      "word": "voluntary",
+      "meaning": "自愿的；志愿的",
+      "expression": "Taking part is voluntary.",
+      "translation": "参与是自愿的。",
+      "scene": 2
+    }
+  ],
+  "supplemental_review_words": [
+    {
+      "word": "dynamic",
+      "meaning": "充满活力的；生气勃勃的",
+      "question": "回想第五集：分身保证一天有活力的开场。补全 My clone promises a ___ start to the day.",
+      "expression": "My clone promises a dynamic start to the day.",
+      "translation": "分身保证，这一天会以充满活力的方式开始。"
+    },
+    {
+      "word": "lifestyle",
+      "meaning": "生活方式",
+      "question": "分身想给什么都配上秒表，这体现他的生活方式。补全 His dream ___ comes with a stopwatch.",
+      "expression": "His dream lifestyle comes with a stopwatch.",
+      "translation": "他理想的生活方式，连秒表都配好了。"
+    },
+    {
+      "word": "drag",
+      "meaning": "拖；拖着脚步缓慢移动",
+      "question": "第五集试跑时，小帅脚步开始变沉。补全 Soon I start to ___ my feet.",
+      "expression": "Soon I start to drag my feet.",
+      "translation": "没多久，我开始拖着脚步走。"
+    },
+    {
+      "word": "tend to do sth",
+      "meaning": "倾向于做某事；往往会做某事",
+      "question": "怎样把 do sth 换成“答应”，说明自己往往没问清就点头？补全 I ___ before I ask enough questions.",
+      "expression": "I tend to say yes before I ask enough questions.",
+      "translation": "我往往还没问清楚，就先答应了。"
+    },
+    {
+      "word": "leisure",
+      "meaning": "空闲；闲暇",
+      "question": "苏小满课余也会跑步。补全 Xiaoman runs in her ___ time.",
+      "expression": "Xiaoman runs in her leisure time.",
+      "translation": "小满会在闲暇时间跑步。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "两张脸，两行同样的名字",
+      "place": "次日放学后 · 广播准备室门口",
+      "shot": "小帅与分身带着一张分工草稿来到广播准备室，苏小满抱着笔记本。班主任陪同，参加过晨间活动的高马尾同学作为自愿协助的广播组同学迎接他们，看到两个男生有些意外。",
+      "action": "老师和家长已确认本次课后试机的时间与许可，分身由家长接送。三人先交分工草稿，统筹一栏却并排写着两个“小帅”。小帅当面向新加入的协助同学说明分身来历，项目协作没有靠隐瞒推进。",
+      "sound": "开门声；纸张翻到重复名字时停顿半拍。",
+      "cues": [
+        {
+          "who": "高马尾同学",
+          "text": "我来帮忙整理稿子。咦，你们怎么……长得一样？"
+        },
+        {
+          "who": "小帅",
+          "text": "他是我的分身，来自一次手机复制。老师和家长都知道；他只在获准的课后时间来协助。"
+        },
+        {
+          "who": "苏小满",
+          "text": "外貌一样，做的事情要分清楚。先看这张草稿。"
+        },
+        {
+          "who": "高马尾同学",
+          "text": "那这两行“小帅”，分别是谁？"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "The next afternoon, we bring our roles to the radio room.",
+          "zh": "第二天下午，我们带着分工草稿来到广播准备室。"
+        },
+        {
+          "id": "EN002",
+          "en": "A student helper meets my clone. We explain who he is.",
+          "zh": "来协助的同学见到了分身，我们向她说明他的来历。"
+        },
+        {
+          "id": "EN003",
+          "en": "Then she sees the same name written twice.",
+          "zh": "接着，她看到同一个名字被写了两遍。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "先说清，谁来统筹",
+      "place": "广播准备室 · 试机前",
+      "shot": "红内搭小帅指向自己与那张分工表，分身指向声音设备，苏小满指着笔记本。班主任在近旁听三人说明。高马尾同学去旁边整理纸稿，不必一直入镜。",
+      "action": "开始试机前，三人先口头确认小帅本人统筹，苏小满主编，分身在老师指导下协助声音检查。老师收下草稿，要求最终表格分别写清本人、分身和具体工作。三人再次确认参与自愿，不替全班报名。",
+      "sound": "小帅把表放在桌上，语气比最初的自我介绍稳了一点。",
+      "cues": [
+        {
+          "who": "班主任",
+          "text": "先把当班分工说清楚。谁来统筹这次试播准备？"
+        },
+        {
+          "who": "小帅",
+          "en": "I will be responsible for the schedule.",
+          "zh": "我会负责时间安排。"
+        },
+        {
+          "who": "苏小满",
+          "text": "我主编，先整理稿子；分身在老师指导下协助声音检查。"
+        },
+        {
+          "who": "小帅",
+          "en": "Taking part is voluntary.",
+          "zh": "参与是自愿的。"
+        },
+        {
+          "who": "班主任",
+          "text": "好，按这个分工开始。表格上的身份和职责，等会儿也要改清楚再各自签名。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN004",
+          "en": "I will be responsible for the schedule.",
+          "zh": "我会负责时间安排。"
+        },
+        {
+          "id": "EN005",
+          "en": "Xiaoman edits the script. My clone helps check the sound.",
+          "zh": "小满编辑稿件，分身协助检查声音。"
+        },
+        {
+          "id": "EN006",
+          "en": "\"Taking part is voluntary,\" I remind them.",
+          "zh": "我提醒大家：“参与是自愿的。”"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "试一句 Hello，音箱却没回应",
+      "place": "同一张操作桌 · 校内试听",
+      "shot": "分身和小帅望着安静的桌面小音箱。分身指向控制台一个按钮提问，没有乱按；苏小满在旁翻开设备说明册，班主任在场监督。",
+      "action": "老师在场时开始室内试听，尚未向全校播出。设备亮着指示灯，小音箱却没有声音。分身先问按钮功能，三人翻说明确认操作；这次问题是音箱的音频连接，未涉及下一集的录音软件。",
+      "sound": "一句试音“Hello”；随后是刻意留出的安静。",
+      "cues": [
+        {
+          "who": "分身",
+          "text": "Hello？……怎么只有我自己听见？"
+        },
+        {
+          "who": "分身",
+          "en": "What is the function of this button?",
+          "zh": "这个按钮有什么功能？"
+        },
+        {
+          "who": "苏小满",
+          "text": "先看说明，别靠猜。我们把已经确认的地方记下来。"
+        },
+        {
+          "who": "小帅",
+          "text": "指示灯亮着，音箱还没出声。先把问题说清楚。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN007",
+          "en": "The speaker stays silent.",
+          "zh": "音箱还是没有声音。"
+        },
+        {
+          "id": "EN008",
+          "en": "\"What is the function of this button?\" my clone asks.",
+          "zh": "分身问：“这个按钮有什么功能？”"
+        },
+        {
+          "id": "EN009",
+          "en": "We stop guessing and open the guide.",
+          "zh": "我们不再猜按钮，翻开了说明册。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "另一个小帅能签吗",
+      "place": "操作桌前 · 分工表还摊着",
+      "shot": "分身有点紧张地指向小帅手里的分工表。红内搭小帅看着重复名字的栏位，苏小满抬眉，安静的麦克风与小音箱在前景。",
+      "action": "分身提议让“另一个小帅”签名，以为同名能省一次说明。小帅意识到纸上的两个名字仍没有写明各自负责什么，不能拿同名把未完成的检查含混带过。他决定留下继续协调。",
+      "sound": "分身手指轻点纸面；音箱仍安静，形成反差。",
+      "cues": [
+        {
+          "who": "分身",
+          "text": "那……能让另一个小帅签吗？名字反正一样。"
+        },
+        {
+          "who": "小帅",
+          "text": "统筹我会签。但你做的检查，也得写清楚是你做的，没完成就先记未完成。"
+        },
+        {
+          "who": "苏小满",
+          "text": "同一个名字写两次，音箱也不会自己响。先找谁能帮忙。"
+        },
+        {
+          "who": "分身",
+          "text": "明白。我还没查清楚，不该先勾完成。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN010",
+          "en": "My clone points at the form. \"Could the other Xiaoshuai sign?\"",
+          "zh": "分身指着表：“能让另一个小帅签吗？”"
+        },
+        {
+          "id": "EN011",
+          "en": "The form still does not show who does what.",
+          "zh": "这张表仍没写清，谁做哪件事。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "留下来，也要会求助",
+      "place": "广播准备室 · 联系指导老师",
+      "shot": "小帅留在桌旁，翻着打开的说明册，看向班主任。班主任用自己的手机联系广播指导老师；分身与苏小满仍在小帅身边。",
+      "action": "小帅把已试过和仍不确定的地方告诉老师，承认自己也不熟悉设备。班主任联系熟悉广播设备的指导老师，并说明两人的身份和当前分工。三人等待时保留现场状态，没有拆开设备或重复乱试。",
+      "sound": "老师拨电话的轻声；三人核对记录的简短对话。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "We need to seek help.",
+          "zh": "我们需要寻求帮助。"
+        },
+        {
+          "who": "小帅",
+          "text": "这些我们已经照说明看过，音箱连接还不确定。我留下把情况说清楚。"
+        },
+        {
+          "who": "班主任",
+          "text": "我联系广播指导老师，请她过来看。你们把刚才确认过的地方告诉她。"
+        },
+        {
+          "who": "分身",
+          "text": "我把还没确认的标出来，等她来教。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN012",
+          "en": "I stay by the desk. \"We need to seek help.\"",
+          "zh": "我留在桌旁：“我们需要寻求帮助。”"
+        },
+        {
+          "id": "EN013",
+          "en": "Our teacher calls the radio adviser.",
+          "zh": "老师联系了广播指导老师。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "有经验的人，先看连接",
+      "place": "同一间准备室 · 指导老师到场",
+      "shot": "广播指导老师为短卷棕发、无眼镜、深蓝开衫配赭色上衣的成年女性。她指向小音箱旁一根没接牢的低压音频插头，三名学生认真看着。班主任仍在近旁，可不入镜。",
+      "action": "指导老师已从班主任处了解分身情况。她听完三人的检查记录，发现试听音箱的音频线没有接牢，指导确认并接好连接，重新试音后听到声音。只处理外部音频线，没有拆机；三人也知道以后要先检查哪一段。",
+      "sound": "插头接妥的轻响；随后一句清楚的室内试音。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Now we have someone with professional experience.",
+          "zh": "现在，有具备专业经验的人来帮忙了。"
+        },
+        {
+          "who": "广播指导老师",
+          "text": "班主任已经把情况说明了。你们先讲刚才做过哪些检查。"
+        },
+        {
+          "who": "分身",
+          "text": "按钮按说明确认过，这根音箱连接我们不确定。"
+        },
+        {
+          "who": "广播指导老师",
+          "text": "问题就在这里，音频线没接牢。我带你们确认连接，再试听一次。"
+        },
+        {
+          "who": "苏小满",
+          "text": "这次听到了。我把检查顺序记进准备稿。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN014",
+          "en": "Now we have someone with professional experience.",
+          "zh": "现在，有具备专业经验的人来帮忙了。"
+        },
+        {
+          "id": "EN015",
+          "en": "The adviser spots a loose audio cable.",
+          "zh": "指导老师发现一根音频线松了。"
+        },
+        {
+          "id": "EN016",
+          "en": "She helps us connect it, and the speaker finally works.",
+          "zh": "她带着我们接好连接，音箱终于有声音了。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "各自的工作，各自签清楚",
+      "place": "试听完成后 · 正式确认分工",
+      "shot": "三人在同一张分工表上确认不同的行。小帅正拿笔填写，分身指着自己那一行等着签，苏小满微笑，老师在旁。一次只由一人写字，画面不生成具体姓名文字。",
+      "action": "三人把草稿改清楚：苏小满主编，小帅（本人）统筹，小帅（分身）在指导下协助声音检查。本人和分身分别对各自做过的事签名。小帅理解，负责包括知道什么时候需要向人求助。项目组协助同学和指导老师都已知晓两人的身份。",
+      "sound": "三次先后落笔的沙沙声；分身很认真地读回自己的职责。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Being responsible also means knowing when to ask.",
+          "zh": "负责任，也意味着知道什么时候该求助。"
+        },
+        {
+          "who": "苏小满",
+          "text": "我主编，稿子有问题来找我。"
+        },
+        {
+          "who": "小帅",
+          "text": "我本人统筹。人和时间没安排清楚，来找我。"
+        },
+        {
+          "who": "分身",
+          "text": "我写“小帅（分身）—声音协助”。这行我自己签，检查记录也写我做过的。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN017",
+          "en": "Being responsible also means knowing when to ask.",
+          "zh": "负责任，也意味着知道什么时候该求助。"
+        },
+        {
+          "id": "EN018",
+          "en": "We write the roles clearly and sign for ourselves.",
+          "zh": "我们把分工写清楚，各自为自己的工作签名。"
+        },
+        {
+          "id": "EN019",
+          "en": "Xiaoman edits. I organise. My clone checks sound with guidance.",
+          "zh": "小满主编，我来统筹，分身在指导下检查声音。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "十分钟，终于有了时间",
+      "place": "准备室日历前 · 试播安排确认",
+      "shot": "广播指导老师指向墙上空白日历中的一个圈定时段，小帅与苏小满松了一口气。分身拿着已填写的那张分工表，认真而高兴。麦克风和音箱此时已经停用，没有正式播出。",
+      "action": "书面分工与本次室内试听完成后，指导老师确认下周三放学后 16:40—16:50 的十分钟试播时段。家长知情、老师在场的课后参与条件继续适用于分身。节目稿件和录音素材尚未准备好，接下来仍要做内容与电脑试录。",
+      "sound": "日历上落下一个圈；分身把自己的签名轻轻读了一遍。",
+      "cues": [
+        {
+          "who": "广播指导老师",
+          "text": "分工清楚，试听也通过了。下周三放学后，16:40 到 16:50，留给你们做十分钟试播。"
+        },
+        {
+          "who": "苏小满",
+          "text": "那我先把稿子的第一版带来，采访素材也要开始准备。"
+        },
+        {
+          "who": "小帅",
+          "text": "我把时段和到场安排通知清楚。录音电脑下一次再一起学。"
+        },
+        {
+          "who": "分身",
+          "text": "这回我签的，是我自己要做的事。"
+        }
+      ],
+      "table": {
+        "caption": "本集确认的分工与试播",
+        "columns": [
+          "事项",
+          "确认结果"
+        ],
+        "rows": [
+          [
+            "主编",
+            "苏小满：选题、稿件与内容整理"
+          ],
+          [
+            "统筹",
+            "小帅（本人）：人员和时间安排"
+          ],
+          [
+            "声音协助",
+            "小帅（分身）：在指导下检查声音，记录自己做过的工作"
+          ],
+          [
+            "试播时段",
+            "下周三放学后 16:40—16:50，共十分钟"
+          ],
+          [
+            "待准备",
+            "稿件、采访素材与电脑试录；尚未正式播出"
+          ]
+        ]
+      },
+      "narration": [
+        {
+          "id": "EN020",
+          "en": "Our trial is next Wednesday, from four forty to four fifty in the afternoon.",
+          "zh": "试播定在下周三下午四点四十到四点五十。"
+        },
+        {
+          "id": "EN021",
+          "en": "One ten-minute trial. We still need to prepare the stories.",
+          "zh": "一期十分钟的试播，故事内容还得继续准备。"
+        },
+        {
+          "id": "EN022",
+          "en": "\"This signature is mine,\" my clone says.",
+          "zh": "分身说：“这个签名，是我自己的。”"
+        }
+      ]
+    }
+  ],
+  "continuity": {
+    "start": "老师已原则同意一期十分钟试播，要求先交书面分工、完成设备检查，再确定日期。苏小满主编、小帅统筹、分身声音协助仍是候选分工。",
+    "end": [
+      "在教师监督、家长许可与接送的课后准备中，三人先提交草稿，口头确认当班职责，再开始室内试听；最终书面分工与签名均已确认。",
+      "高马尾协助同学与广播指导老师知道分身来历，准备组按“小帅（本人）”和“小帅（分身）”辨认不同职责，不靠同名替换责任。",
+      "苏小满主编，小帅本人统筹人员与时间，分身在指导下协助声音检查，参与仍自愿。",
+      "本次没声音是试听音箱的低压音频线没接牢，指导老师协助确认并接好，室内试听已通过；没有提前发生下一集的电脑软件静音问题。",
+      "指导老师确认下周三放学后 16:40—16:50 的十分钟试播时段；稿件、采访素材和电脑试录仍待准备，本集未正式播出。",
+      "分身只参与获准、家长同意且有老师在场的课后项目，不代课、不日间常驻，也没有新复制机会或自动精通设备的能力。",
+      "周五搬桌 13:20—13:40、英语分享 14:00 的既定安排仍需小帅本人履行，月底篮球补选仍待另行申请。"
+    ],
+    "props": [
+      "红内搭是本人，蓝内搭是唯一分身；新加入的高马尾同学是第五集出现过的普通同学，作为自愿协助者参加准备。",
+      "全程只有一张本次分工表，从重复名字的草稿改成标清身份、职责的正式记录；不与第一集活动表或第四集学生任务单混用。",
+      "苏小满使用原来的笔记本，设备说明册来自第六集。室内只测试已有控制台、麦克风和小音箱，还未操作下一集的电脑录音软件。",
+      "班主任用的是老师自己的手机；本集没有学生手机的新能力，也没有远程遥控分身。",
+      "广播指导老师首次出现，短卷棕发、无眼镜、深蓝开衫配赭色上衣；班主任仍为戴方框眼镜、棕外套配领带的男性。"
+    ],
+    "next": "第 008 集准备电脑录音素材，先确认本集已接好的音箱正常，再检查录音软件；硬件与软件的不同问题要分清，现有设备够用。"
+  }
+}

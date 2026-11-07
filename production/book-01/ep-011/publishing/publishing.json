@@ -1,0 +1,92 @@
+{
+  "episode": "B01E011",
+  "title": "麦克风清单很豪华，钱包不同意｜英语有续集011",
+  "description": "分身的麦克风清单长到地板，小帅的钱包却只剩一枚硬币。老师借来一支普通 USB 麦克风，三人先在安静桌边试录、回听，发现声音已经清楚，决定借用并留下经费。图上的豪华设备不必马上搬到桌上。你的准备清单里，什么才是这次真正需要的？跟着故事学习 range、various、sort、all sorts of、quality、necessity。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "设备清单",
+    "借用麦克风",
+    "采访准备",
+    "先试再买",
+    "保留经费",
+    "声音清晰",
+    "range",
+    "various",
+    "sort",
+    "all sorts of",
+    "quality",
+    "necessity"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 011",
+    "headline": [
+      "设备清单很豪华",
+      "钱包不同意！"
+    ],
+    "supporting_line": "校园故事学英语 · 本集6词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-011-封面-4x3.png",
+      "alt": "第011集横版封面 · 4:3：设备清单很豪华，钱包不同意！。",
+      "sha256": "f48264c198c9918ff1890fa4e4fdbabdbe32005391ceff386cfeb2ac69481bc9",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-8185ef1c-98e1-44b9-8779-bbf96d88195f.png"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-011-封面-3x4.png",
+      "alt": "第011集竖版封面 · 3:4：设备清单很豪华，钱包不同意！。",
+      "sha256": "7280a6832a947c372f192434520c566567ec7f787636738ff39377e12b3a5f48",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-cfd6b4c4-fc60-48b5-8c5e-3e0e20632d56.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

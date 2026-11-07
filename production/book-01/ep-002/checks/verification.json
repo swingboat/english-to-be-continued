@@ -1,0 +1,81 @@
+{
+  "checked_on": "2026-11-01",
+  "episode": 2,
+  "format": "reading-html",
+  "html": "episodes/book-01/ep-002.html",
+  "bytes": 16369870,
+  "sha256": "e57b8420a216d47b7f40e420eaf773e50706d3a8cf55536ce0005caf7721b43e",
+  "scenes": 8,
+  "dialogue_entries": 33,
+  "new_words": [
+    "stressful",
+    "challenging",
+    "arise",
+    "expectation",
+    "pressure"
+  ],
+  "review_words": [
+    "schedule",
+    "challenge"
+  ],
+  "embedded_images": 3,
+  "distinct_panel_windows": 8,
+  "offline_file_url_verified": true,
+  "external_runtime_requests": [],
+  "viewports_checked": [
+    375,
+    768,
+    1440
+  ],
+  "horizontal_overflow": [],
+  "dialogue_overflow": [],
+  "javascript_blocks": 0,
+  "video_audio_controls": 0,
+  "tables": 3,
+  "checks": [
+    "complete script and eight images",
+    "vocabulary meanings/examples/translations visible",
+    "expectations links to expectation",
+    "schedule/challenge review links",
+    "eight explicitly clipped panel windows",
+    "image/HTML sizes reserved on mobile and desktop",
+    "one standalone HTML for episode 002"
+  ],
+  "continuity_checks": [
+    "only one generated clone",
+    "phone remains with original",
+    "only original enters office",
+    "monthly open selection is an existing announced option",
+    "selection application not yet submitted",
+    "Su knows two faces but not yet the origin"
+  ],
+  "character_name": "小帅",
+  "character_name_en": "Xiaoshuai",
+  "name_consistency_verified": true,
+  "name_update_on": "2026-10-31",
+  "screenshots_note": "已有截图保留作此前排版检查记录；当前命名以重新生成的HTML为准。",
+  "previous_episode_unchanged_during_creation": true,
+  "voiceover_language": "English",
+  "subtitle_languages": [
+    "English",
+    "简体中文"
+  ],
+  "subtitle_pair_count": 22,
+  "english_narration_entries": 22,
+  "narration_subtitle_pairs_verified": true,
+  "narration_layout_viewports_checked": [
+    375,
+    768,
+    1440
+  ],
+  "narration_horizontal_overflow": [],
+  "reference_dialogue_collapsed": true,
+  "subtitle_timing": "由视频项目根据配音对齐",
+  "current_narration_screenshot": "english-narration.png",
+  "distinct_embedded_images": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json",
+  "publishing_browser_verified": true
+}

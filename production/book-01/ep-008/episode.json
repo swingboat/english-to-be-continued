@@ -1,0 +1,591 @@
+{
+  "id": "B01E008",
+  "number": 8,
+  "title": "电脑没坏，是我们点错了地方。",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "独立阅读 HTML：英文解说、中英字幕、图片、学习单词",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      887,
+      1774
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        433,
+        394
+      ],
+      [
+        450,
+        3,
+        434,
+        394
+      ],
+      [
+        3,
+        410,
+        433,
+        422
+      ],
+      [
+        450,
+        410,
+        434,
+        422
+      ],
+      [
+        3,
+        845,
+        433,
+        404
+      ],
+      [
+        450,
+        845,
+        434,
+        404
+      ],
+      [
+        3,
+        1261,
+        433,
+        510
+      ],
+      [
+        450,
+        1261,
+        434,
+        510
+      ]
+    ]
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 22,
+  "words": [
+    {
+      "word": "laptop",
+      "part": "名词",
+      "meaning": "笔记本电脑",
+      "expression": "A borrowed laptop is already waiting.",
+      "translation": "一台借来的笔记本电脑已经备好了。",
+      "usage": "laptop 指便携的笔记本电脑。本集使用学校借出的电脑，先用现有设备完成短试录。",
+      "question": "指导老师给三人准备的便携电脑，用哪个词表达？",
+      "scene": 1,
+      "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+    },
+    {
+      "word": "digital",
+      "part": "形容词",
+      "meaning": "数字的；数码的",
+      "expression": "We make a short digital recording.",
+      "translation": "我们录了一小段数字音频。",
+      "usage": "digital 修饰 recording，表示声音以数字形式录入、保存。本集只录短试音片段，还没有做完正式节目。",
+      "question": "这段录在电脑里的声音，怎样用 digital 修饰 recording？",
+      "scene": 2,
+      "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+    },
+    {
+      "word": "hardware",
+      "part": "名词",
+      "meaning": "硬件",
+      "expression": "Our current hardware works for this test.",
+      "translation": "我们现有的硬件够用来完成这次测试。",
+      "usage": "hardware 指电脑及周边设备的物理部件。本集电脑、麦克风和音箱都能工作，问题在录音软件的播放轨道设置。结论只针对眼前这次试录。",
+      "question": "取消软件中的静音就能听到声音，说明这次需要更换 hardware 吗？",
+      "scene": 7,
+      "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+    },
+    {
+      "word": "engine",
+      "part": "名词",
+      "meaning": "引擎；发动机",
+      "expression": "This engine helps us find information.",
+      "translation": "这个引擎帮助我们查找信息。",
+      "usage": "engine 常表示“发动机、引擎”。在 search engine 中，它指支持信息检索的系统；本句 this engine 指上一句的搜索引擎。",
+      "question": "故事里 this engine 指的是查找信息的什么工具？",
+      "scene": 8,
+      "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+    },
+    {
+      "word": "search engine",
+      "part": "名词短语",
+      "meaning": "搜索引擎",
+      "expression": "We use a search engine to find ideas for our first question.",
+      "translation": "我们用搜索引擎，为第一个采访问题寻找思路。",
+      "usage": "use a search engine to do sth 表示“用搜索引擎做某事”。搜索提供线索，具体节目内容仍要由三人选择、阅读和采访整理。",
+      "question": "三人为了寻找采访问题的思路，开始使用什么工具？",
+      "scene": 8,
+      "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+    }
+  ],
+  "review_words": [
+    {
+      "word": "function",
+      "meaning": "功能；作用",
+      "expression": "What is the function of this icon?",
+      "translation": "这个图标有什么功能？",
+      "scene": 4
+    },
+    {
+      "word": "professional",
+      "meaning": "专业的；职业的",
+      "expression": "The adviser gives us professional guidance.",
+      "translation": "指导老师给我们专业指导。",
+      "scene": 6
+    }
+  ],
+  "supplemental_review_words": [
+    {
+      "word": "confidence",
+      "meaning": "信心；自信",
+      "expression": "Have confidence in me.",
+      "translation": "对我有点信心。",
+      "question": "回想第一集：分身让小帅对他有点信心。补全 Have ___ in me.",
+      "first_teaching_episode": 1
+    },
+    {
+      "word": "volunteer",
+      "meaning": "自愿做；志愿者",
+      "expression": "I volunteer!",
+      "translation": "我自愿！",
+      "question": "回想第一集：分身主动报名时说哪两个词？补全 I ___!",
+      "first_teaching_episode": 1
+    },
+    {
+      "word": "goal",
+      "meaning": "目标",
+      "expression": "My goal is to be class monitor.",
+      "translation": "我的目标是当班长。",
+      "question": "回想第一集：分身想当班长。补全 My ___ is to be class monitor.",
+      "first_teaching_episode": 1
+    },
+    {
+      "word": "challenge",
+      "meaning": "挑战",
+      "expression": "I accept the challenge.",
+      "translation": "我接受这个挑战。",
+      "question": "回想第一集：接受挑战怎样表达？补全 I accept the ___.",
+      "first_teaching_episode": 1
+    },
+    {
+      "word": "schedule",
+      "meaning": "日程表；计划表",
+      "expression": "Here is your schedule.",
+      "translation": "这是你的日程表。",
+      "question": "回想第一集：三项活动撞期的表叫什么？补全 Here is your ___.",
+      "first_teaching_episode": 1
+    },
+    {
+      "word": "aim",
+      "meaning": "力求达到；旨在",
+      "expression": "I aim to give quiet students a voice.",
+      "translation": "我希望让安静的同学也能表达自己的想法。",
+      "question": "回想第六集：苏小满力求让安静的同学被听见。补全 I ___ to give quiet students a voice.",
+      "first_teaching_episode": 6
+    },
+    {
+      "word": "target",
+      "meaning": "目标",
+      "expression": "Our target is one ten-minute trial.",
+      "translation": "我们的目标是做一期十分钟的试播。",
+      "question": "回想第六集：本次只做一期十分钟试播。补全 Our ___ is one ten-minute trial.",
+      "first_teaching_episode": 6
+    },
+    {
+      "word": "organise",
+      "meaning": "组织；安排",
+      "expression": "Who will organise it?",
+      "translation": "谁来组织这件事？",
+      "question": "回想第六集：老师问谁来组织。补全 Who will ___ it?",
+      "first_teaching_episode": 6
+    },
+    {
+      "word": "voluntary",
+      "meaning": "自愿的；志愿的",
+      "expression": "Taking part is voluntary.",
+      "translation": "参与是自愿的。",
+      "question": "回想第六集：参与是自愿的。补全 Taking part is ___.",
+      "first_teaching_episode": 6
+    },
+    {
+      "word": "competence",
+      "meaning": "能力；胜任能力",
+      "expression": "We will build competence through practice.",
+      "translation": "我们会通过练习培养胜任工作的能力。",
+      "question": "回想第六集：能力要通过练习培养。补全 We will build ___ through practice.",
+      "first_teaching_episode": 6
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "说完分享，再来练录音",
+      "place": "周五放学后 · 广播准备室",
+      "shot": "红内搭小帅把自己的英语分享卡收进书包，松了一口气。苏小满与蓝内搭分身在桌旁等着，借来的银色笔记本电脑、小音箱和麦克风已备好，女性广播指导老师在场。",
+      "action": "小帅已亲自按时完成周五 13:20—13:40 的搬桌和 14:00 的英语分享，放学后再参加获准的录音练习。分身经家长许可与接送来校，指导老师全程在场。老师先用电脑里一段正常提示音验证音箱输出，确认上一集接好的连接仍正常，再打开录音软件。",
+      "sound": "准备室里响起一小段清楚的提示音；小帅放好分享卡。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "搬桌和两点的英语分享都按时做完了。这次是我自己讲的。"
+        },
+        {
+          "who": "苏小满",
+          "text": "听到了。现在轮到把声音录下来。"
+        },
+        {
+          "who": "广播指导老师",
+          "text": "学校借来的电脑先给你们练。提示音听到了，音箱连接正常，接下来打开录音软件。"
+        },
+        {
+          "who": "分身",
+          "text": "我把说明和准备清单都带来了。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "After Friday's talk, I arrive for our recording practice.",
+          "zh": "周五的分享讲完后，我来参加录音练习。"
+        },
+        {
+          "id": "EN002",
+          "en": "A borrowed laptop is already waiting.",
+          "zh": "一台借来的笔记本电脑已经备好了。"
+        },
+        {
+          "id": "EN003",
+          "en": "The speaker passes its test. We can hear it clearly.",
+          "zh": "音箱测试正常，声音听得很清楚。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "录上了，回放却点错了",
+      "place": "同一张桌前 · 短试音",
+      "shot": "小帅坐在电脑前，对着麦克风录一小段试音，手指在触控板附近。屏幕有简单波形和播放控件，小喇叭图标成为后续线索。分身在旁看，苏小满做记录，指导老师监督。",
+      "action": "三人先录一小段测试，不制作正式节目。录音已结束并显示波形；小帅回放时误触轨道的静音图标，随后点击播放。这里静音的是已录下音轨的播放，不是麦克风输入，也不是上一集的音箱插头。",
+      "sound": "一小句试音“Welcome to our radio test.”；触控板轻点两下。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Welcome to our radio test.",
+          "zh": "欢迎来到我们的广播测试。"
+        },
+        {
+          "who": "苏小满",
+          "text": "先留这一小段，回放听听。"
+        },
+        {
+          "who": "小帅",
+          "text": "我点这里……再按播放。"
+        },
+        {
+          "who": "分身",
+          "text": "波形出来了，怎么没听到回放？"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN004",
+          "en": "We make a short digital recording.",
+          "zh": "我们录了一小段数字音频。"
+        },
+        {
+          "id": "EN005",
+          "en": "I click near the playback controls.",
+          "zh": "我在播放控件旁边点了一下。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "声音没来，采购单先来了",
+      "place": "操作桌前 · 两页升级清单",
+      "shot": "回放安静，屏幕仍有录音波形。分身举起两张 A4 采购建议，恰好挡住电脑屏幕；小帅从一边探头想看，苏小满从另一侧抬眉，老师在旁带着一点笑意。",
+      "action": "分身担心借来的电脑不够好，拿出自己事先列的升级建议，纸上有电脑、耳机等设想。清单只是建议，尚未申请采购或花钱。小帅和苏小满想先看录音软件，屏幕却被两页纸挡住，形成笑点。",
+      "sound": "两页纸被举起的刷刷声；电脑仍安静。",
+      "cues": [
+        {
+          "who": "分身",
+          "text": "会不会电脑太旧？我列了两页升级建议——电脑、耳机、接口……"
+        },
+        {
+          "who": "小帅",
+          "text": "先等一下。你的清单把电脑挡住了。"
+        },
+        {
+          "who": "苏小满",
+          "text": "我现在只能看见你准备买什么，看不见哪里出了问题。"
+        },
+        {
+          "who": "广播指导老师",
+          "text": "先把纸放下，看看刚才那段录音。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN006",
+          "en": "The waveform is there, but we hear nothing.",
+          "zh": "波形明明在，我们却听不到声音。"
+        },
+        {
+          "id": "EN007",
+          "en": "My clone has two pages of hardware to buy.",
+          "zh": "分身列了整整两页想买的硬件。"
+        },
+        {
+          "id": "EN008",
+          "en": "\"Maybe we need an upgrade!\"",
+          "zh": "“也许该升级设备了！”"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "先让我们看见屏幕",
+      "place": "同一张桌前 · 回到软件界面",
+      "shot": "小帅轻轻放低两页清单，露出电脑屏幕，指向一个小图标提问。分身有点不好意思，苏小满靠近看，老师没有动音箱或连接线。",
+      "action": "小帅接着上一集学到的做法，先弄清功能，而不是猜设备坏了。他把遮住屏幕的纸放到一旁，三人终于看到播放轨道旁的小喇叭图标。",
+      "sound": "纸被放回桌面；几秒认真看屏幕的安静。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "先让我们看见屏幕。刚才我是不是点到旁边了？"
+        },
+        {
+          "who": "小帅",
+          "en": "What is the function of this icon?",
+          "zh": "这个图标有什么功能？"
+        },
+        {
+          "who": "分身",
+          "text": "好，我先收住清单，跟你们一起看。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN009",
+          "en": "His list blocks the screen.",
+          "zh": "他的清单挡住了屏幕。"
+        },
+        {
+          "id": "EN010",
+          "en": "\"First, let us see the screen,\" I say.",
+          "zh": "我说：“先让我们看见屏幕。”"
+        },
+        {
+          "id": "EN011",
+          "en": "\"What is the function of this icon?\"",
+          "zh": "“这个图标有什么功能？”"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "线索只有一个小图标",
+      "place": "电脑近景 · 播放轨道",
+      "shot": "画面重点是同一台银色电脑：一条波形轨道和带斜杠的红色小喇叭图标。苏小满指向图标，小帅在旁露出认出自己误操作的神情，分身从后面看。界面无真实软件品牌或文字。",
+      "action": "苏小满发现轨道静音图标。小帅回想刚才的点击，承认是自己误触，指导老师确认这是该条录音轨道的播放静音。录音本身仍在，没有被删掉。",
+      "sound": "苏小满一声短促的“这里”；小帅恍然的轻呼。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "这里的小喇叭怎么有一条斜线？"
+        },
+        {
+          "who": "小帅",
+          "text": "是我。刚才想点旁边，结果把它关了。"
+        },
+        {
+          "who": "广播指导老师",
+          "text": "这是这一条轨道的播放静音。声音录进来了，只是回放时被关住了。"
+        },
+        {
+          "who": "分身",
+          "text": "我那两页清单，还没看到这一个小图标。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN012",
+          "en": "Xiaoman spots a crossed-out speaker on the track.",
+          "zh": "小满发现，轨道上的小喇叭图标被划掉了。"
+        },
+        {
+          "id": "EN013",
+          "en": "That was me. I clicked the wrong icon.",
+          "zh": "是我刚才点错了图标。"
+        },
+        {
+          "id": "EN014",
+          "en": "The track is muted.",
+          "zh": "这条轨道被静音了。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "同一段声音，终于听到了",
+      "place": "操作桌前 · 取消静音后回放",
+      "shot": "指导老师指着电脑界面，分身在她确认后用触控板取消该轨道静音并播放同一个短文件。小帅在旁听，小喇叭图标不再有斜杠，三名学生都松了一口气。",
+      "action": "老师指导分身取消轨道播放静音，再回放刚才同一段录音，音箱清楚传出小帅的试音。没有换电脑、重新插线或另外录一段来掩盖问题，原因与结果一一对应。",
+      "sound": "触控板轻点；音箱清楚传出刚才那句“Welcome to our radio test.”。",
+      "cues": [
+        {
+          "who": "广播指导老师",
+          "text": "取消这条轨道的静音，再放刚才同一段。"
+        },
+        {
+          "who": "小帅",
+          "text": "听到了，这次确实是我刚才录的声音。"
+        },
+        {
+          "who": "苏小满",
+          "text": "录音在，设备也能用。问题记清楚，下次先检查。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN015",
+          "en": "The adviser gives us professional guidance.",
+          "zh": "指导老师给我们专业指导。"
+        },
+        {
+          "id": "EN016",
+          "en": "We unmute the track and play the same recording.",
+          "zh": "我们取消轨道静音，再播放同一段录音。"
+        },
+        {
+          "id": "EN017",
+          "en": "I hear my own voice at last.",
+          "zh": "我终于听到了自己的声音。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "设备先用好，清单先收好",
+      "place": "同一间准备室 · 保存试音文件",
+      "shot": "小帅收起分身那两页采购建议，分身戴着准备室已有的耳机检查回放，苏小满在保存短试音后记录检查点，指导老师仍在近旁。没有新买的设备。",
+      "action": "确认现有设备够完成眼前这次试录后，苏小满保存短测试文件，再在笔记本记录检查点。音箱试听通过后，分身也用准备室借出的耳机复核。小帅帮忙折好采购建议，本集没有花钱；正式节目、采访素材与外出采访装备仍是后续工作。",
+      "sound": "两页纸折起的声音；保存操作的轻点声。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Our current hardware works for this test.",
+          "zh": "我们现有的硬件够用来完成这次测试。"
+        },
+        {
+          "who": "分身",
+          "text": "耳机里也听到了。我先不加第三页，先把这套用明白。"
+        },
+        {
+          "who": "苏小满",
+          "text": "短试音保存好了。接下来准备真正要讲的内容。"
+        },
+        {
+          "who": "广播指导老师",
+          "text": "好，照分工继续。下周三的十分钟试播时段保留。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN018",
+          "en": "Our current hardware works for this test.",
+          "zh": "我们现有的硬件够用来完成这次测试。"
+        },
+        {
+          "id": "EN019",
+          "en": "I fold the list. Xiaoman saves the test file.",
+          "zh": "我折好采购单，小满保存了试音文件。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "轮到搜索框，找我们的故事",
+      "place": "同一场课后准备 · 开始查找选题思路",
+      "shot": "同一台电脑切到无品牌浏览器，画面有搜索框、放大镜图标和几行空白结果示意。小帅思考着输入，苏小满指向笔记本里的入学第一天选题，分身靠近看，指导老师仍在准备室。",
+      "action": "三人开始用搜索引擎寻找入学第一天采访问题的思路，工具提供线索，具体内容仍要阅读、选择与采访整理。这里只开始查资料，没有把网上故事当成自己的经历，也没完成正式节目。",
+      "sound": "键盘轻敲；笔记本翻回选题页。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "We use a search engine to find ideas for our first question.",
+          "zh": "我们用搜索引擎，为第一个采访问题寻找思路。"
+        },
+        {
+          "who": "苏小满",
+          "text": "先搜采访问题的思路，再决定真正问谁、问什么。还是围绕入学第一天得到的帮助。"
+        },
+        {
+          "who": "分身",
+          "text": "这次引擎负责找资料，我们负责把它看明白。"
+        },
+        {
+          "who": "小帅",
+          "text": "先各记下一条有用的线索，别又让准备清单比内容多。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN020",
+          "en": "We use a search engine to find ideas for our first question.",
+          "zh": "我们用搜索引擎，为第一个采访问题寻找思路。"
+        },
+        {
+          "id": "EN021",
+          "en": "This engine helps us find information.",
+          "zh": "这个引擎帮助我们查找信息。"
+        },
+        {
+          "id": "EN022",
+          "en": "We still have to choose what belongs in our show.",
+          "zh": "哪些内容适合放进节目，仍得由我们自己选择。"
+        }
+      ]
+    }
+  ],
+  "continuity": {
+    "start": "书面分工与室内试听已确认，音箱音频线已接好。试播定在下周三放学后 16:40—16:50，三人还需准备稿件、采访素材与电脑试录。",
+    "end": [
+      "本集来到周五放学后，小帅已亲自完成 13:20—13:40 的搬桌和 14:00 的英语分享，兑现第二集确认的旧承诺。",
+      "准备室原有音箱连接正常，提示音测试通过；新的回放问题是小帅误触录音软件中某条播放轨道的静音。",
+      "短数字试音已录入，取消轨道静音后播放同一文件听到声音，并由苏小满保存。不是重录，也没有再次修理上一集的音频线。",
+      "现有借用电脑、麦克风与音箱够完成眼前试录，两页采购建议收起，没有买设备或花钱。外出采访需求尚未决定。",
+      "三人开始用搜索引擎找入学第一天采访问题的思路，节目内容尚未完成，接下来需要筛选线索并采访整理。",
+      "苏小满主编、小帅本人统筹、分身在指导下协助声音；下周三放学后 16:40—16:50 的十分钟试播时段保留。",
+      "家长许可与接送、老师在场和课后时段的条件继续适用，分身不代课、不日间常驻，月底篮球补选仍待另行申请。"
+    ],
+    "props": [
+      "同一台银色笔记本电脑是学校借出，使用已有麦克风、小音箱与耳机；先通过音箱听到同一段试音，之后才用耳机复核，没有新购设备。",
+      "红内搭为本人，蓝内搭为唯一分身，两人均不戴眼镜；苏小满戴圆眼镜，女性广播指导老师为短卷棕发、无眼镜、深蓝开衫配赭色上衣。",
+      "采购建议只有两张 A4 纸，一度挡住电脑屏幕，之后放低并折起；它不是第六集的长节目表或第七集的分工表。",
+      "录音软件界面为不带品牌的示意；静音属于已录音轨的播放设置。画面中的波形、图标配合 HTML 说明，不构成某个具体软件的操作教程。",
+      "苏小满沿用原笔记本记录选题与检查点；小帅自己的英语分享卡在开场收进书包。",
+      "短试音文件仅为故事中的准备成果；本项目仍只交付剧本、插画、字幕与学习内容，不生成音视频文件。"
+    ],
+    "next": "第 009 集继续查找选题资料，搜索逐渐被动态与聊天带偏，三人要把线索收回到可用于广播的真实信息。"
+  }
+}

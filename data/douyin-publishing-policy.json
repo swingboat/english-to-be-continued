@@ -1,0 +1,53 @@
+{
+  "checked_on": "2026-11-02",
+  "scope": "抖音创作者中心网页端的视频发布；不套用西瓜视频、文章、图文或历史开放接口限制",
+  "title_max_units": 30,
+  "description_with_topics_max_units": 1000,
+  "topics_max": 5,
+  "recommended_description_units": [80, 200],
+  "counting": "项目按 UTF-16 code unit 保守计数；汉字、英文字母、数字、标点、空格、换行均计入，补充平面字符计 2。最终以发布页计数器为准。",
+  "caption_format": "description + 换行 + topics.map(t => '#' + t).join(' ')",
+  "evidence": [
+    {
+      "url": "https://creator.douyin.com/creator-micro/content/post/video",
+      "kind": "当前登录界面实测",
+      "observed": "作品标题提示填写作品标题，为作品获得更多流量，计数 0/30；添加作品简介，计数 0/1000；输入 #英语 后为 3/1000，输入 #高中英语 后为 5/1000；官方活动和关联热点是独立入口。未上传或发布作品。"
+    },
+    {
+      "kind": "用户确认的当前入口限制",
+      "observed": "2026-11-02 用户明确告知话题目前最多支持 5 个；项目按此硬上限执行，不宣称已跨所有客户端验证。"
+    },
+    {
+      "url": "https://www.douyin.com/video/7223294657524976953",
+      "discovery_url": "https://www.douyin.com/shipin/7264805682406131764",
+      "kind": "抖音作者助手官方教程",
+      "observed": "如何获取抖音搜索流量 I 第八讲：从需求出发确定创作主题（下）；推荐站内热点榜、创作灵感、巨量算数、搜索推荐词。视频是历史教程，搜索聚合页的更新时间不视为视频发布时间。"
+    },
+    {
+      "url": "https://jingxuan.douyin.com/m/video/7497085396724043060",
+      "kind": "抖音知识官方发布",
+      "published_on": "2025-04-25",
+      "observed": "抖音知识创作砥砺计划确有官方发布；本次没有核实到适合本系列、当前有效并可直接参与的指定话题，不把计划名当作有效投稿话题。"
+    },
+    {
+      "url": "https://open.douyin.com/platform/resource/docs/openapi/video-management/douyin/create/create-video/",
+      "kind": "抖音开放平台文档",
+      "observed": "text 支持话题与 @；文档提示话题仍需审核、谨慎拟定名称。该接口不用于确定当前网页端的字段上限。"
+    }
+  ],
+  "topic_candidates": [
+    {"name": "高中英语", "type": "平台已有普通话题", "verified_on": "2026-11-02", "evidence": "官方视频发布页话题搜索候选", "official_campaign": false},
+    {"name": "高中英语单词", "type": "平台已有普通话题", "verified_on": "2026-11-02", "evidence": "官方视频发布页话题搜索候选", "official_campaign": false},
+    {"name": "高中英语词汇", "type": "平台已有普通话题", "verified_on": "2026-11-02", "evidence": "官方视频发布页话题搜索候选", "official_campaign": false},
+    {"name": "英语学习", "type": "平台已有普通话题", "verified_on": "2026-11-02", "evidence": "官方视频发布页话题搜索候选", "official_campaign": false},
+    {"name": "英语单词", "type": "平台已有普通话题", "verified_on": "2026-11-02", "evidence": "官方视频发布页话题搜索候选", "official_campaign": false},
+    {"name": "英语有续集", "type": "系列自有话题", "verified_on": null, "evidence": "项目系列名；尚未核验同名话题页或占用情况", "official_campaign": false}
+  ],
+  "official_campaign_selection": {
+    "verified_eligible_campaigns": [],
+    "required_evidence": ["准确话题名称和活动链接", "可核验的官方发起方", "起止日期及发布时间仍有效", "投稿入口与是否需报名", "账号资格、内容形式和本集剧情匹配", "明确的奖励或扶持规则（如有）"],
+    "refresh": "每次生成发布资料时搜索；实际发布当天再核验。未核实、过期或不匹配时使用普通相关话题。",
+    "allocation": "1 个系列话题 + 2 个英语精准话题 + 1 个剧情话题 + 1 个机动话题；有效且匹配的官方活动替换机动话题，总数不超过 5。",
+    "traffic_claim": "话题搜索候选、累计热度、官方活动、关联热点及创作者计划不混同；不承诺添加话题即可获得推荐或保量。"
+  }
+}

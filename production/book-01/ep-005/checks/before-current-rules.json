@@ -1,0 +1,662 @@
+{
+  "episode": {
+    "id": "B01E005",
+    "number": 5,
+    "title": "他替我答应的晨跑，我来喊暂停。",
+    "series": "英语有续集",
+    "season": "我被自己的分身卷了",
+    "format": "独立阅读 HTML：英文解说、中英字幕、图片、学习单词",
+    "art": {
+      "file": "storyboard.png",
+      "source_dimensions": [
+        887,
+        1774
+      ],
+      "panels": [
+        [
+          3,
+          3,
+          434,
+          415
+        ],
+        [
+          450,
+          3,
+          434,
+          415
+        ],
+        [
+          3,
+          429,
+          434,
+          452
+        ],
+        [
+          450,
+          429,
+          434,
+          452
+        ],
+        [
+          3,
+          892,
+          434,
+          369
+        ],
+        [
+          450,
+          892,
+          434,
+          369
+        ],
+        [
+          3,
+          1272,
+          434,
+          499
+        ],
+        [
+          450,
+          1272,
+          434,
+          499
+        ]
+      ]
+    },
+    "production_language": {
+      "voiceover": "English",
+      "subtitles": [
+        "English",
+        "简体中文"
+      ],
+      "narrator": "小帅第一人称叙述",
+      "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+    },
+    "subtitle_pair_count": 22,
+    "words": [
+      {
+        "word": "dynamic",
+        "part": "形容词",
+        "meaning": "充满活力的；生气勃勃的",
+        "expression": "My clone promises a dynamic start to the day.",
+        "translation": "分身保证，这一天会以充满活力的方式开始。",
+        "usage": "dynamic 在这里形容一天的开场充满活力。分身的设想很热闹，实际安排仍需适合同学的节奏。",
+        "question": "分身希望一天的开场充满活力，可以用哪个形容词？",
+        "scene": 1,
+        "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+      },
+      {
+        "word": "lifestyle",
+        "part": "名词",
+        "meaning": "生活方式",
+        "expression": "His dream lifestyle comes with a stopwatch.",
+        "translation": "他理想的生活方式，连秒表都配好了。",
+        "usage": "lifestyle 指日常习惯和生活安排所形成的生活方式。这里用秒表表现分身总想把每件事排得很满的习惯。",
+        "question": "分身希望什么都按秒表安排，这体现了怎样的 lifestyle？",
+        "scene": 1,
+        "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+      },
+      {
+        "word": "drag",
+        "part": "动词",
+        "meaning": "拖；拖着脚步缓慢移动",
+        "expression": "Soon I start to drag my feet.",
+        "translation": "没多久，我开始拖着脚步走。",
+        "usage": "本格的 drag my feet 表现脚步变沉、缓慢挪动。drag one's feet 在其他语境也可以比喻拖延；结合画面判断这里的实际动作。",
+        "question": "小帅开始 drag his feet 时，是步子变轻快了，还是脚步变沉了？",
+        "scene": 3,
+        "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+      },
+      {
+        "word": "tend to do sth",
+        "forms": [
+          "tend to say yes"
+        ],
+        "part": "动词短语",
+        "meaning": "倾向于做某事；往往会做某事",
+        "expression": "I tend to say yes before I ask enough questions.",
+        "translation": "我往往还没问清楚，就先答应了。",
+        "usage": "学习条目中的 do sth 代表实际要做的事，句中替换为 say yes，形成 tend to say yes。to 后接动词原形；主语换成 he 时用 tends to。",
+        "question": "小帅说自己“往往先答应”，怎样把 tend to do sth 里的 do sth 换成具体动作？",
+        "scene": 6,
+        "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+      },
+      {
+        "word": "leisure",
+        "part": "名词",
+        "meaning": "空闲；闲暇",
+        "expression": "Xiaoman runs in her leisure time.",
+        "translation": "小满会在闲暇时间跑步。",
+        "usage": "in one's leisure time 表示“在某人的闲暇时间”。苏小满提到自己课余跑步的习惯，说明她愿意运动，也希望选择合适的节奏。",
+        "question": "苏小满在课余会跑步，怎样用 leisure 表达“在她的闲暇时间”？",
+        "scene": 5,
+        "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "schedule",
+        "meaning": "日程表；计划表",
+        "expression": "Can we change the schedule?",
+        "translation": "能调整一下日程吗？",
+        "scene": 5
+      },
+      {
+        "word": "volunteer",
+        "meaning": "自愿做；主动提出",
+        "expression": "I volunteer to lead the slower group.",
+        "translation": "我自愿带领慢一点的那一组。",
+        "scene": 7
+      }
+    ],
+    "supplemental_review_words": [
+      {
+        "word": "actually",
+        "meaning": "实际上；事实上",
+        "question": "回想第三集：分身称这是一场勇敢的实验，小帅怎样纠正？补全 ___, it was not that brave.",
+        "expression": "Actually, it was not that brave.",
+        "translation": "实际上，那没那么勇敢。"
+      },
+      {
+        "word": "differ",
+        "meaning": "不同；有区别",
+        "question": "两个小帅长相一样，目标不同。补全 We look the same, but our goals ___.",
+        "expression": "We look the same, but our goals differ.",
+        "translation": "我们看起来一样，但目标不同。"
+      },
+      {
+        "word": "in person",
+        "meaning": "亲自；本人",
+        "question": "回想第三集：小帅保证本人去说明。补全 I'll explain everything ___.",
+        "expression": "I'll explain everything in person.",
+        "translation": "我会亲自把一切解释清楚。"
+      },
+      {
+        "word": "frank",
+        "meaning": "坦率的；直言不讳的",
+        "question": "苏小满怎样形容那句承认害怕的实话？补全 That's a ___ answer.",
+        "expression": "That's a frank answer.",
+        "translation": "这个回答很坦率。"
+      },
+      {
+        "word": "to be frank",
+        "meaning": "坦白说；坦率地说",
+        "question": "第三集小帅承认害怕犯错，用哪三个词开头？补全 ___, I was afraid of making mistakes.",
+        "expression": "To be frank, I was afraid of making mistakes.",
+        "translation": "坦白说，我害怕犯错。"
+      }
+    ],
+    "scenes": [
+      {
+        "id": 1,
+        "panel": 0,
+        "name": "连休息都安排好了",
+        "place": "次日上学前 · 家中书桌旁",
+        "shot": "蓝内搭分身把家里的黑色秒表和折叠计时便笺递给红内搭小帅。小帅一边整理书包带，一边半信半疑地看着便笺；只有两个男生在家中。",
+        "action": "承接上一集书桌上的准备。分身把试跑与休息都写进方案，还特意设好十秒休息的倒计时。小帅接过秒表和便笺，准备先问同学再试；分身留在家里，没有早间进校权限。",
+        "sound": "秒表按键轻响；书包带扣合的声音。",
+        "cues": [
+          {
+            "who": "分身",
+            "text": "开场要有活力！跑多久、歇多久，我都安排好了。"
+          },
+          {
+            "who": "小帅",
+            "text": "连休息都要倒计时？我先拿去问问大家。"
+          },
+          {
+            "who": "分身",
+            "text": "我在家等反馈。记得，休息键在这边。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN001",
+            "en": "My clone promises a dynamic start to the day.",
+            "zh": "分身保证，这一天会以充满活力的方式开始。"
+          },
+          {
+            "id": "EN002",
+            "en": "His dream lifestyle comes with a stopwatch.",
+            "zh": "他理想的生活方式，连秒表都配好了。"
+          },
+          {
+            "id": "EN003",
+            "en": "Even rest has a time limit.",
+            "zh": "就连休息，也有时间限制。"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "panel": 1,
+        "name": "先问，再试半圈",
+        "place": "早读前 · 操场跑道旁",
+        "shot": "热身后，小帅拿着秒表询问苏小满、寸头男生和高马尾女生。班主任在跑道边看着，只有红内搭小帅本人到校，没有蓝内搭分身。",
+        "action": "小帅先兑现询问意见的约定。有人想走走，有人愿意慢跑；四人同意先慢跑半圈体验，感觉不合适就停下来再调整。老师在场，只试这一小组，没有替全班统一作决定。",
+        "sound": "清晨操场环境声；慢慢活动脚腕的鞋底摩擦声。",
+        "cues": [
+          {
+            "who": "小帅",
+            "text": "想怎么运动？咱们先说清楚，不照着一张表硬来。"
+          },
+          {
+            "who": "苏小满",
+            "text": "我想先走走，也能试半圈慢跑，别一上来就冲。"
+          },
+          {
+            "who": "寸头同学",
+            "text": "慢一点我可以，先试试。"
+          },
+          {
+            "who": "班主任",
+            "text": "热完身再开始。我在旁边，觉得不合适就停下说。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN004",
+            "en": "Before we start, I ask the group what they want.",
+            "zh": "开始前，我先问这一组同学想怎样活动。"
+          },
+          {
+            "id": "EN005",
+            "en": "We agree to try half a lap slowly, with our teacher watching.",
+            "zh": "我们同意在老师看着的情况下，先慢慢试跑半圈。"
+          },
+          {
+            "id": "EN006",
+            "en": "My clone stays at home. I bring his stopwatch.",
+            "zh": "分身留在家里，我带来了他准备的秒表。"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "panel": 2,
+        "name": "嘴上慢跑，脚先想休息",
+        "place": "同一段跑道 · 试跑途中",
+        "shot": "小帅的步子开始拖低，肩膀稍垮，但没有跌倒或受伤。苏小满指向不远处的长椅，另外两名同学在后方几步的位置。",
+        "action": "纸上写的慢跑与每个人实际觉得轻松的速度不同。小帅发现自己脚步变沉，苏小满提醒到旁边停下；老师就在这一小段跑道旁，四人结束试跑。",
+        "sound": "脚步由整齐变得参差；小帅轻轻喘气。",
+        "cues": [
+          {
+            "who": "小帅",
+            "en": "Soon I start to drag my feet.",
+            "zh": "没多久，我开始拖着脚步走。"
+          },
+          {
+            "who": "高马尾同学",
+            "text": "刚才说的慢，和我想的慢，好像不是一个慢。"
+          },
+          {
+            "who": "苏小满",
+            "text": "前面有长椅。咱们先停下来问问大家的感觉。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN007",
+            "en": "Soon I start to drag my feet. This feels nothing like a gentle start.",
+            "zh": "没多久，我开始拖着脚步走。这可一点也不像轻松的开场。"
+          },
+          {
+            "id": "EN008",
+            "en": "Xiaoman points to a bench.",
+            "zh": "小满指向一张长椅。"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "panel": 3,
+        "name": "我一坐下，整组都坐下",
+        "place": "操场边 · 长椅",
+        "shot": "小帅先坐下，手里握着秒表；苏小满、寸头男生和高马尾女生紧接着在足够长的长椅上坐成一排，一起松了口气。老师站在近旁。这幅画停在提示音响起前的短暂轻松。",
+        "action": "小帅按了便笺上设好的十秒休息倒计时，刚坐稳，其他人也跟着坐下。秒表很快响起，所有人都还没想站起来。笑点来自方案与实际体验的落差，没人被要求硬撑。",
+        "sound": "四次连续的落座声；十秒后，一声突兀的秒表提示音。",
+        "cues": [
+          {
+            "who": "小帅",
+            "text": "休息一下。我按个休息键——"
+          },
+          {
+            "who": "寸头同学",
+            "text": "你坐我也坐，刚好。"
+          },
+          {
+            "who": "秒表",
+            "text": "嘀！"
+          },
+          {
+            "who": "苏小满",
+            "text": "这就结束了？我还没把气喘匀。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN009",
+            "en": "I press the rest timer and sit down.",
+            "zh": "我按下休息倒计时，坐了下来。"
+          },
+          {
+            "id": "EN010",
+            "en": "The whole group follows.",
+            "zh": "整组同学都跟着坐下了。"
+          },
+          {
+            "id": "EN011",
+            "en": "Ten seconds later, it beeps.",
+            "zh": "十秒后，秒表就响了。"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "panel": 4,
+        "name": "休息怎么也成了比赛",
+        "place": "同一张长椅 · 苏小满的反问",
+        "shot": "苏小满抬眉指着小帅手中的秒表，小帅有点尴尬地低头看它。两名同学可在画面边缘，大家只是正常休息，没有争吵。",
+        "action": "苏小满说明自己课余也跑步，只是不想把所有活动都过成赶时间。她质疑十秒休息的安排，小帅意识到便笺只能作为建议。老师没有催他们继续，留出调整时间。",
+        "sound": "秒表停止提示；稍远处的晨间活动声。",
+        "cues": [
+          {
+            "who": "苏小满",
+            "text": "我课余也会跑步，但不想一早就比赛。休息怎么也要抢时间？"
+          },
+          {
+            "who": "小帅",
+            "en": "Can we change the schedule?",
+            "zh": "能调整一下日程吗？"
+          },
+          {
+            "who": "班主任（近旁）",
+            "text": "当然。表是拿来帮人的，先听听各自的感觉。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN012",
+            "en": "Xiaoman runs in her leisure time.",
+            "zh": "小满会在闲暇时间跑步。"
+          },
+          {
+            "id": "EN013",
+            "en": "\"Why is even resting a race?\" she asks.",
+            "zh": "她问：“怎么连休息都成了比赛？”"
+          },
+          {
+            "id": "EN014",
+            "en": "\"Can we change the schedule?\"",
+            "zh": "“能调整一下日程吗？”"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "panel": 5,
+        "name": "先关秒表，再听人说",
+        "place": "长椅旁 · 与老师商量",
+        "shot": "小帅站起，用拇指明确按停秒表，再面向老师商量。苏小满举手提出另一种节奏，老师点头同意。",
+        "action": "小帅承认自己常常问得不够细，就先点头照做。这次他停掉倒计时，认真问清谁想跑、谁想走或拉伸，再请老师确认新的安排。",
+        "sound": "秒表停止键轻响；对话恢复正常节奏。",
+        "cues": [
+          {
+            "who": "小帅",
+            "en": "I tend to say yes before I ask enough questions.",
+            "zh": "我往往还没问清楚，就先答应了。"
+          },
+          {
+            "who": "小帅",
+            "text": "刚才只问要不要试，没问大家觉得多慢才合适。现在再问一次。"
+          },
+          {
+            "who": "苏小满",
+            "text": "我想走一圈，再做拉伸。"
+          },
+          {
+            "who": "寸头同学（画外）",
+            "text": "我还想跑，但想比刚才再慢一点。"
+          },
+          {
+            "who": "班主任",
+            "text": "可以。休息好了再开始，跑步自愿，步行和拉伸也都是活动。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN015",
+            "en": "I tend to say yes before I ask enough questions.",
+            "zh": "我往往还没问清楚，就先答应了。"
+          },
+          {
+            "id": "EN016",
+            "en": "I stop the timer and ask what everyone can manage.",
+            "zh": "我停掉秒表，问清每个人能接受怎样的活动。"
+          },
+          {
+            "id": "EN017",
+            "en": "A plan should fit people, too.",
+            "zh": "计划也得适合实际参加的人。"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "panel": 6,
+        "name": "同一节活动，不同的节奏",
+        "place": "操场 · 调整后的活动",
+        "shot": "小帅与寸头同学并排慢慢跑，神情放松。苏小满和高马尾同学在旁侧安全步道上走动，后者舒展手臂；老师在近旁看着，分身不在学校。",
+        "action": "老师同意后，这一组分成愿意慢跑的人和选择步行、拉伸的人，仍在同一片可照看的活动区域。小帅自愿带更慢的那组，秒表收好，不再靠十秒倒计时催人。",
+        "sound": "轻松的脚步声；几句能从容说完的话。",
+        "cues": [
+          {
+            "who": "小帅",
+            "en": "I volunteer to lead the slower group.",
+            "zh": "我自愿带领慢一点的那一组。"
+          },
+          {
+            "who": "寸头同学",
+            "text": "这个慢，是我想的那个慢。"
+          },
+          {
+            "who": "苏小满",
+            "text": "我们这边走完再拉伸，就不跟你们比圈数了。"
+          },
+          {
+            "who": "班主任",
+            "text": "各自按说好的方式来，活动完一起回班。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN018",
+            "en": "With our teacher's approval, some jog. Others walk or stretch.",
+            "zh": "老师同意后，有人慢跑，有人步行或拉伸。"
+          },
+          {
+            "id": "EN019",
+            "en": "I volunteer to lead the slower group.",
+            "zh": "我自愿带领慢一点的那一组。"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "panel": 7,
+        "name": "这次，让她把话说完",
+        "place": "当天课间 · 教室外走廊",
+        "shot": "苏小满打开那本画着广播构想的笔记本，小帅认真听着，顺手把秒表收进自己口袋。只有两人，没有分身或已经开播的设备。",
+        "action": "晨间活动按时结束，两人正常回班上课。课间苏小满提起尚未讲完整的广播提案，想找十分钟认真说清楚；小帅答应午休留出时间听完，再一起争取试播。没有把晨间活动或上课时间直接改成广播，也没有提前获得节目许可。",
+        "sound": "正常课间走廊声；笔记本翻页声，秒表不再响。",
+        "cues": [
+          {
+            "who": "苏小满",
+            "text": "午休能留十分钟吗？我想把广播提案完整讲一遍。"
+          },
+          {
+            "who": "小帅",
+            "text": "可以。你讲完，我们再一起问老师能不能试播。"
+          },
+          {
+            "who": "苏小满",
+            "text": "先把秒表收好。我不想开头十秒就被提醒结束。"
+          },
+          {
+            "who": "小帅",
+            "text": "这回它不管开场。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN020",
+            "en": "At break, Xiaoman asks for a few minutes to explain her radio idea.",
+            "zh": "课间，小满想找几分钟，讲清她的广播想法。"
+          },
+          {
+            "id": "EN021",
+            "en": "She wants ten minutes to explain it properly.",
+            "zh": "她想用十分钟，把提案好好说完整。"
+          },
+          {
+            "id": "EN022",
+            "en": "For once, I leave the stopwatch in my pocket.",
+            "zh": "这一次，我让秒表老实待在口袋里。"
+          }
+        ]
+      }
+    ],
+    "continuity": {
+      "start": "老师与父母已知分身来历，小帅本人负责试任班长和学生任务。老师请他协调次日晨间活动，分身在家准备计时建议，没有早间进校权限。",
+      "end": [
+        "小帅先询问这一组同学，老师在场时试跑半圈；发现对慢跑节奏的理解不同后，由本人提出暂停和重新安排。",
+        "十秒休息是分身在家拟的建议，小帅现场照做后发现不合适，主动停掉秒表；没有强迫任何人忍着继续跑。",
+        "老师批准这一组按意愿选择更慢的跑步、步行或拉伸，小帅自愿带慢跑组，晨间活动正常结束后回班上课。",
+        "分身整段晨间活动都在家里，没有进入学校、远程控制别人或替小帅履行职责。",
+        "苏小满约小帅午休听完十分钟广播提案，这是准备与讨论时间，尚未取得校园广播试播许可。",
+        "周五搬桌 13:20—13:40、英语分享 14:00 的既定安排不变，月底篮球补选仍待另行申请。"
+      ],
+      "props": [
+        "普通黑色秒表由分身在家交给小帅；在校只有红内搭小帅拿着，最后收进口袋，不是远程控制装置。",
+        "便笺是从家中带出的计时建议，不是老师重新发放的学生任务单；已有任务单留在书包里。",
+        "小帅红内搭，分身蓝内搭；分身仅在第一格家中出现。寸头男同学与高马尾女同学是普通同学，外貌与小帅不同。",
+        "苏小满仍使用第三集的广播构想笔记本；本集没有广播设备、正式节目排期或新的秘密交易。",
+        "学习条目 tend to do sth 在句中以 tend to say yes 呈现；do sth 是学习用的动作占位，不能照着当解说朗读。"
+      ],
+      "next": "第 006 集先听完苏小满的广播提案，再向老师争取一次十分钟试播；分身的全天节目设想需要收回到可行范围。"
+    }
+  },
+  "publishing": {
+    "episode": "B01E005",
+    "title": "休息只有十秒？这场晨跑先暂停｜英语有续集005",
+    "description": "分身在家拟好晨跑方案，连休息都只留了十秒。小帅到操场先问同学、试跑半圈，才发现纸上的“慢跑”和大家的感受并不一样。他停下秒表，在老师同意后按意愿调整跑步、步行和拉伸。活动有节奏，也要听听参加的人。你喜欢怎样的晨间活动？跟着故事学习 dynamic、lifestyle、drag、tend to do sth、leisure。英文解说＋中英字幕，故事继续。",
+    "topics": [
+      "英语有续集",
+      "高中英语",
+      "英语单词",
+      "英语学习",
+      "校园故事"
+    ],
+    "keywords": [
+      "英语有续集",
+      "我被自己的分身卷了",
+      "高中英语",
+      "高一英语",
+      "北师大版英语",
+      "英语必修第一册",
+      "英语词汇",
+      "英语单词",
+      "单词记忆",
+      "情境学英语",
+      "英语解说",
+      "中英双语字幕",
+      "校园故事",
+      "校园日常",
+      "分身故事",
+      "小帅",
+      "小帅的分身",
+      "英语学习",
+      "晨间活动",
+      "慢跑体验",
+      "休息时间",
+      "倾听同学",
+      "生活方式",
+      "活动调整",
+      "按意愿参与",
+      "dynamic",
+      "lifestyle",
+      "drag",
+      "tend to do sth",
+      "leisure"
+    ],
+    "cover_copy": {
+      "series": "英语有续集 · 005",
+      "headline": [
+        "休息只有十秒？",
+        "我先喊暂停！"
+      ],
+      "supporting_line": "校园故事学英语 · 本集5词"
+    },
+    "covers": [
+      {
+        "id": "4x3",
+        "label": "横版封面 · 4:3",
+        "file": "cover-4x3.png",
+        "width": 1448,
+        "height": 1086,
+        "download_name": "英语有续集-005-封面-4x3.png",
+        "alt": "第005集横版封面 · 4:3：休息只有十秒？，我先喊暂停！。",
+        "sha256": "d1a55c340c779cddaa33b6b208bbc0329be86aba8c3b35fb1a1b2f1cc6ebfb90",
+        "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-c3327d03-f940-47ca-b67e-4a40fec65e31.png"
+      },
+      {
+        "id": "3x4",
+        "label": "竖版封面 · 3:4",
+        "file": "cover-3x4.png",
+        "width": 1086,
+        "height": 1448,
+        "download_name": "英语有续集-005-封面-3x4.png",
+        "alt": "第005集竖版封面 · 3:4：休息只有十秒？，我先喊暂停！。",
+        "sha256": "163c74cb837f5f9b901d39f88ba6aad45cf04e2f263a8c09f4b2598f225ff430",
+        "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-c58d0cfa-799c-484f-9cbf-fbea8c4c298e.png"
+      }
+    ],
+    "image_generation": {
+      "mode": "built-in image_gen.imagegen",
+      "reference": "../storyboard.png",
+      "style_reference": "../../ep-001/publishing/cover-4x3.png",
+      "prompts": [
+        "prompt-4x3.txt",
+        "prompt-3x4.txt"
+      ],
+      "visual_reviewed": true
+    },
+    "topic_research": {
+      "checked_on": "2026-11-02",
+      "evidence": "data/douyin-publishing-policy.json",
+      "official_campaigns": [],
+      "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+    }
+  },
+  "other_episodes": {
+    "ep-006.html": "00fcf1cd882abdbe07616722050874a360add24e61416c1f378005dd4f5b28d1",
+    "ep-010.html": "c616305ddaf9ce8b3db2994dce5f93fa60c8244f840a88b074dfc3d95c559e36",
+    "ep-011.html": "7f9ad98fb0b55a3d40bde8a16cf84afb8311282d42ed80c9ffa3839cd9d0559d",
+    "ep-007.html": "bdf283b0e2c3c4eafe97bdae3e4af9d30745085a8332cd1bca652bc736d6b0c3",
+    "ep-001.html": "6b5d07b11d8ad32b764834227b2b915094861300908a574a0f6ae669c66c59c3",
+    "ep-014.html": "5a42352cd572c2771f783ad39c3e7c5205dbb333af54864c99115a930479a030",
+    "ep-002.html": "576e851e0b8331d270797d47d5a9d58606af194e990ac37ef02d579c2c0675ac",
+    "ep-003.html": "cdbd89926bc656e0e4d64ce6487f23f9ef20223e780e25bb1b9d818fa1881757",
+    "ep-015.html": "766f591929111a1d791e68e5f4e03f33f614b12ce8874bfbdacb823710ae90f0",
+    "ep-008.html": "dbead39cfe566ef6dc107f17a855087457d255344e4d21c47b608df8533c8d11",
+    "ep-012.html": "9d91b5843dbe6cba4b3a2f303ceb80907b8cfa265c078ede4092dc78f3c7f12a",
+    "ep-004.html": "2087c1cdfe41feee5fff291ce3a00964d6aee4eeabb801f6b11c837df9be486f",
+    "ep-013.html": "14ca9e78034a4647b680effeac42d8025821637e17d8c9f49bb9d36a63fea4e5",
+    "ep-009.html": "0f40b048928d073ab9340808a04bbd57a9bbf001b19344aeb49f7e011bb9afec"
+  },
+  "media": {
+    "storyboard.png": "670f7fa466e6105bda0f4ebb176ab6996ad9ff7cb166a02b70e6fab64a3f7430",
+    "publishing/cover-4x3.png": "d1a55c340c779cddaa33b6b208bbc0329be86aba8c3b35fb1a1b2f1cc6ebfb90",
+    "publishing/cover-3x4.png": "163c74cb837f5f9b901d39f88ba6aad45cf04e2f263a8c09f4b2598f225ff430"
+  }
+}

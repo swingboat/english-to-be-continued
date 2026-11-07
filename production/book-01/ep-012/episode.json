@@ -1,0 +1,605 @@
+{
+  "id": "B01E012",
+  "number": 12,
+  "title": "我都说到第三句了，你还在第一句。",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "reading-html",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      1024,
+      1536
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        501,
+        369
+      ],
+      [
+        522,
+        3,
+        499,
+        369
+      ],
+      [
+        3,
+        386,
+        501,
+        339
+      ],
+      [
+        522,
+        386,
+        499,
+        339
+      ],
+      [
+        3,
+        739,
+        501,
+        340
+      ],
+      [
+        522,
+        739,
+        499,
+        340
+      ],
+      [
+        3,
+        1093,
+        501,
+        440
+      ],
+      [
+        522,
+        1093,
+        499,
+        440
+      ]
+    ]
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 22,
+  "words": [
+    {
+      "word": "convenient",
+      "part": "adj.",
+      "meaning": "方便的；便利的",
+      "expression": "We agree on a convenient time for a short call.",
+      "translation": "我们约好一个方便的时间，简短通个电话。",
+      "usage": "a convenient time 指方便的时间。询问对方可说 Is this time convenient for you?，用时间作主语。",
+      "question": "三人为什么先与受访同学约好十分钟，而不是随时打过去？",
+      "scene": 1,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "according to",
+      "part": "phr.",
+      "meaning": "根据；按照",
+      "expression": "According to my outline, we start with the library.",
+      "translation": "按照我的提纲，我们从图书馆的问题开始。",
+      "usage": "according to + 信息来源或依据，如 according to my outline。小帅和受访同学手上的顺序不同，才需要先确认同一份提纲。",
+      "question": "小帅依据哪份内容讲话？为什么对方听着却对不上？",
+      "scene": 3,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "update",
+      "forms": [
+        "updates",
+        "updated",
+        "updating"
+      ],
+      "part": "vt.",
+      "meaning": "更新",
+      "expression": "My clone starts to update the outline.",
+      "translation": "分身开始更新提纲。",
+      "usage": "update + 要更新的内容。修改后还要让搭档确认版本；本集的问题是通话中反复改顺序、连发新照片。",
+      "question": "分身更新了什么？为什么他觉得在帮忙，其他人却更乱了？",
+      "scene": 4,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "meanwhile",
+      "part": "adv.",
+      "meaning": "与此同时",
+      "expression": "Meanwhile, he sends new photos during the call.",
+      "translation": "与此同时，他在通话中不断发新版照片。",
+      "usage": "meanwhile 连接同时发生的事：小帅照旧提纲说，分身同时发送新顺序。常放在句首，后加逗号。",
+      "question": "小帅读三问的时候，分身与此同时在做什么？",
+      "scene": 4,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "distance",
+      "part": "n.",
+      "meaning": "距离；间距",
+      "expression": "She lives a short distance away, but the call has a delay.",
+      "translation": "她住得不远，通话却有延迟。",
+      "usage": "a short distance away 表示距离不远。这里说的是两家之间的距离，住得近也仍可能遇到通话延迟。",
+      "question": "受访同学住得远吗？这次除了延迟，还有哪个人为问题让沟通变乱？",
+      "scene": 2,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    }
+  ],
+  "review_words": [
+    {
+      "word": "organise",
+      "meaning": "组织；安排",
+      "expression": "We need to organise the call.",
+      "translation": "我们得安排好这次通话。",
+      "scene": 6
+    },
+    {
+      "word": "schedule",
+      "meaning": "日程表；安排",
+      "expression": "We keep tomorrow's interview on the schedule.",
+      "translation": "我们保留日程中明天的采访安排。",
+      "scene": 8
+    }
+  ],
+  "supplemental_review_words": [
+    {
+      "word": "dynamic",
+      "meaning": "充满活力的；精力充沛的",
+      "expression": "My clone is dynamic in the morning.",
+      "translation": "分身早晨精力充沛。",
+      "question": "回想第五集，分身早晨状态如何？用 dynamic 描述他。",
+      "first_teaching_episode": 5
+    },
+    {
+      "word": "lifestyle",
+      "meaning": "生活方式",
+      "expression": "We do not need the same lifestyle.",
+      "translation": "我们不必有完全相同的生活方式。",
+      "question": "两人长得相同，是否必须按同一种节奏生活？用 lifestyle 回答。",
+      "first_teaching_episode": 5
+    },
+    {
+      "word": "drag",
+      "meaning": "拖；拉；硬拉",
+      "expression": "Do not drag me into your running plan.",
+      "translation": "别硬拉我参加你的跑步计划。",
+      "question": "第五集小帅不想被强行拉去晨跑，可以怎样用 drag 表达？",
+      "first_teaching_episode": 5
+    },
+    {
+      "word": "tend to do sth",
+      "meaning": "往往会做某事；倾向于做某事",
+      "expression": "I tend to stay quiet when I am nervous.",
+      "translation": "我紧张时往往不说话。",
+      "question": "把 tend to do sth 中的 do sth 换成具体动作，说出小帅紧张时的倾向。",
+      "first_teaching_episode": 5
+    },
+    {
+      "word": "leisure",
+      "meaning": "空闲；闲暇",
+      "expression": "I want some leisure time after school.",
+      "translation": "我想在放学后有些闲暇时间。",
+      "question": "回想第五集，小帅希望给自己的日程留出什么时间？",
+      "first_teaching_episode": 5
+    },
+    {
+      "word": "addict",
+      "meaning": "对某事着迷的人；有瘾的人",
+      "expression": "I feel like a phone addict.",
+      "translation": "我觉得自己像个手机迷。",
+      "question": "第十集手机一亮，小帅就伸手。他怎样自嘲自己？",
+      "first_teaching_episode": 10
+    },
+    {
+      "word": "reduce",
+      "meaning": "减少；降低",
+      "expression": "We reduce interruptions and keep our tools.",
+      "translation": "我们减少打断，保留工作工具。",
+      "question": "第十集他们关闭提醒和无关网页，实际减少了什么？",
+      "first_teaching_episode": 10
+    },
+    {
+      "word": "remove",
+      "meaning": "移走；去掉；清除",
+      "expression": "We can remove the distracting screenshots.",
+      "translation": "我们可以清掉让人分心的截图。",
+      "question": "第十集允许整理哪些内容？用 remove 说一句，同时记住工作工程要保留。",
+      "first_teaching_episode": 10
+    },
+    {
+      "word": "entirely",
+      "meaning": "完全地；彻底地",
+      "expression": "He wants the screen entirely clear.",
+      "translation": "他想让屏幕彻底清爽。",
+      "question": "分身在第十集追求怎样的屏幕？用 entirely 补全句子。",
+      "first_teaching_episode": 10
+    },
+    {
+      "word": "stressed",
+      "meaning": "感到紧张的；有压力的",
+      "expression": "I feel stressed when our work is almost deleted.",
+      "translation": "工作差点被删除时，我感到紧张。",
+      "question": "第十集看到误选工程的删除确认框，小帅是什么感受？",
+      "first_teaching_episode": 10
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "先约时间，再开免提",
+      "place": "周一 17:15 · 小帅家工作桌",
+      "shot": "小帅红 T 恤、分身蓝内搭，苏小满短发圆眼镜，三人围家中木桌。小帅把唯一的黑手机放在桌中央开免提，纸上是三问提纲。没有电脑和麦克风。",
+      "action": "学校电脑和麦克风已按约交回老师。三人与受访的高马尾同学约好 17:15—17:25 核对问题，双方家长知情。苏小满经家长同意到小帅家短暂合作，17:30 回家；妈妈在家。通话前，小帅用原有黑手机发送三问照片，这次只核对顺序和表达，正式采访仍在周二。",
+      "sound": "接通提示后是普通免提语音；不制作实际音频。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "我们就按说好的十分钟，今天只对问题，明天再讲完整经历。"
+        },
+        {
+          "who": "高马尾同学（电话）",
+          "text": "这个时间方便，我已经看到你发的三问照片了。"
+        },
+        {
+          "who": "苏小满",
+          "text": "我们都看同一张：在哪里迷路、谁帮了你、当时感觉怎样。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "Xiaoman joins us at my home.",
+          "zh": "小满来到我家，和我们一起核对。"
+        },
+        {
+          "id": "EN002",
+          "en": "We agree on a convenient time for a short call.",
+          "zh": "我们约好一个方便的时间，简短通个电话。"
+        },
+        {
+          "id": "EN003",
+          "en": "Our guest has tomorrow's three questions.",
+          "zh": "受访同学已经拿到了明天的三条问题。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "你先说——两边都这么说",
+      "place": "17:16 · 同一通电话",
+      "shot": "红衣小帅张口又举手让话，手机以抽象声波图标表示远端声音；分身和苏小满一起僵住。只有三位本地人物，远端同学不画成房间里的第四人。",
+      "action": "受访同学住在附近，网络语音仍出现延迟。小帅没等到回应就接话，恰好撞上对方的回应；两人又同时让对方先说。",
+      "sound": "两端“你先说”重叠，接着一起安静；音效仅作参考。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "第一条我们……啊，你先说。"
+        },
+        {
+          "who": "高马尾同学（电话）",
+          "text": "你先说——咦，又一起了。"
+        },
+        {
+          "who": "苏小满",
+          "text": "先等她的话完整过来。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN004",
+          "en": "She lives a short distance away, but the call has a delay.",
+          "zh": "她住得不远，通话却有延迟。"
+        },
+        {
+          "id": "EN005",
+          "en": "I start speaking before her answer arrives.",
+          "zh": "她的回应还没传来，我就开始说话了。"
+        },
+        {
+          "id": "EN006",
+          "en": "Then we both stop.",
+          "zh": "然后我们两个又都停了下来。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "我按这张，你按哪张",
+      "place": "17:17 · 原三问手卡",
+      "shot": "小帅拿原三问手卡往下读，纸上依次是地点、帮助、感受图标。苏小满对照笔记，分身拿另一份纸稿、笔尖悬着。唯一手机在桌中央。",
+      "action": "小帅急着把三条问题解释清楚，照原稿连续往下读，没逐条等对方确认。分身看见对方迟迟没有回应，以为把提纲改得更顺就能帮忙，忘了上集说好的“先别边聊边改”。",
+      "sound": "纸页轻响，小帅一口气讲得稍快。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "According to my outline, we start with the library.",
+          "zh": "按照我的提纲，我们从图书馆的问题开始。"
+        },
+        {
+          "who": "小帅",
+          "text": "第二条是谁帮忙，第三条是当时感觉……这样可以吗？"
+        },
+        {
+          "who": "分身",
+          "text": "这张拍得不太清楚，我给她补张清楚的？"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN007",
+          "en": "According to my outline, we start with the library.",
+          "zh": "按照我的提纲，我们从图书馆的问题开始。"
+        },
+        {
+          "id": "EN008",
+          "en": "I read the three questions without waiting.",
+          "zh": "我没等回应，就把三条问题都读了下去。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "与此同时，他又改了",
+      "place": "17:18 · 语音与新照片交错",
+      "shot": "分身把感受问题用箭头挪到前面，举起同一部黑手机拍纸稿。小帅仍在说，苏小满注意到顺序已变。手机界面仅有通话与照片发送图标，桌上没有第二部手机。",
+      "action": "小帅同意用同一部手机补清晰照片，分身却顺手调整了顺序，还连发两张改过的照片，没有等大家确认。网络语音继续着，旧话、新照片和旧手卡交错。",
+      "sound": "纸上划箭头与两次发送提示，轻叠在通话声下。",
+      "cues": [
+        {
+          "who": "分身",
+          "en": "Let me update the outline.",
+          "zh": "让我更新一下提纲。"
+        },
+        {
+          "who": "苏小满",
+          "text": "等一下，你这张不只是拍清楚，顺序也变了。"
+        },
+        {
+          "who": "分身",
+          "text": "我以为先问感受比较好开口……啊，我又边聊边改了。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN009",
+          "en": "My clone starts to update the outline.",
+          "zh": "分身开始更新提纲。"
+        },
+        {
+          "id": "EN010",
+          "en": "Meanwhile, he sends new photos during the call.",
+          "zh": "与此同时，他在通话中不断发新版照片。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "第三条遇上第一条",
+      "place": "17:20 · 两份顺序对不上",
+      "shot": "小帅指着原提纲，分身拿着箭头重排稿心虚，苏小满举手暂停并指出两份不同顺序。黑手机回到桌中央，抽象声波表示远端回应。",
+      "action": "小帅正在解释原稿第三条“感觉怎样”，受访同学还在核对新照片第一条“感觉怎样”，两人说的编号已不是同一个意思。延迟又让“你先说”撞在一起，苏小满终于举手叫停。",
+      "sound": "“第三条？”“第一条？”交错，然后两声“你先说”后一起停。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "我都说到第三条了，你还在第一条？"
+        },
+        {
+          "who": "高马尾同学（电话）",
+          "text": "我这张第一条就是“当时感觉怎样”呀。到底看哪张？"
+        },
+        {
+          "who": "小帅／高马尾同学",
+          "en": "You go first!",
+          "zh": "你先说！"
+        },
+        {
+          "who": "苏小满",
+          "text": "先暂停。一个电话，怎么聊出了好几个版本。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN011",
+          "en": "I am on question three.",
+          "zh": "我已经说到第三条问题了。"
+        },
+        {
+          "id": "EN012",
+          "en": "She is still checking question one.",
+          "zh": "她还在核对第一条问题。"
+        },
+        {
+          "id": "EN013",
+          "en": "We both say, 'You go first!' Then we both stop.",
+          "zh": "我们都说“你先说！”，接着又都停了下来。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "只认核对版 A",
+      "place": "17:21 · 暂停修改，确认同一版",
+      "shot": "苏小满把确定的一份三问放到中央，小帅拿着同一部手机展示、发送核对照片，分身把修改笔放到一边。旧纸稿摊放在旁，三人开始确认同一顺序。",
+      "action": "小帅提议先组织好通话，苏小满主编确认恢复三问原顺序，标作“核对版 A”。小帅用同一手机发送这张最终核对照片，苏小满请远端按图标顺序复述，确认双方看到的相同。旧照片仍在聊天记录中，明确不再用；需要新修改就留到通话后一起商量。",
+      "sound": "大家停一下，一次发送后等对方完整确认。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "We need to organise the call.",
+          "zh": "我们得安排好这次通话。"
+        },
+        {
+          "who": "苏小满",
+          "text": "现在只认“核对版 A”：地点、帮助、感受。请你说一下看到的顺序。"
+        },
+        {
+          "who": "高马尾同学（电话）",
+          "text": "看到了。先在哪里迷路，再谁帮忙，最后当时感觉。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN014",
+          "en": "We need to organise the call.",
+          "zh": "我们得安排好这次通话。"
+        },
+        {
+          "id": "EN015",
+          "en": "We choose one outline and stop changing it.",
+          "zh": "我们选定同一份提纲，先不再修改。"
+        },
+        {
+          "id": "EN016",
+          "en": "Xiaoman checks that everyone has the same photo.",
+          "zh": "小满确认每个人看到的是同一张照片。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "说完了，再交给你",
+      "place": "17:23 · 一问一答重新核对",
+      "shot": "黑手机回到桌上。小帅举一根手指核对第一问，随即闭嘴听；苏小满轻轻示意等待，分身双手离开笔。中央保持同一份三问。",
+      "action": "他们约好叫对方名字、一次只核对一条，讲完明确说“交给你”，等对方讲完再接。如果没听清就确认，不靠不断重发提纲催对方。延迟并未神奇消失，但轮流交接让核对继续；同学只确认明天可讲的范围，完整经历留到正式采访。",
+      "sound": "说完留空拍；听到完整回应后再接，保留自然停顿。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Question one. Where did you get lost? Over to you.",
+          "zh": "第一问，你在哪里迷路？交给你。"
+        },
+        {
+          "who": "高马尾同学（电话）",
+          "text": "第一问确认了，明天我从当时走到哪儿讲起。"
+        },
+        {
+          "who": "分身",
+          "text": "我这次先听完。想改的记在旁边，通话后一起看。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN017",
+          "en": "I ask one question and say, 'Over to you.'",
+          "zh": "我核对一条问题，然后说：“交给你。”"
+        },
+        {
+          "id": "EN018",
+          "en": "I wait until she finishes before I speak again.",
+          "zh": "我等她讲完，再继续说。"
+        },
+        {
+          "id": "EN019",
+          "en": "The delay is still there, but we take turns.",
+          "zh": "延迟还在，但我们开始轮流说话。"
+        }
+      ],
+      "table": {
+        "caption": "核对版 A：统一顺序，逐条交接",
+        "columns": [
+          "步骤",
+          "这边做什么",
+          "等到什么再继续"
+        ],
+        "rows": [
+          [
+            "确认版本",
+            "说清“核对版 A”，请对方复述顺序",
+            "双方都是地点、帮助、感受"
+          ],
+          [
+            "核对一问",
+            "叫对方名字，只讲一条，讲完说“交给你”",
+            "对方讲完或明确交回"
+          ],
+          [
+            "遇到没听清",
+            "暂停并确认缺的那句话",
+            "听清后再往下"
+          ],
+          [
+            "想到新修改",
+            "记在旁边，通话中不再换图",
+            "通话后共同确认是否修改"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "通话结束，背稿开始？",
+      "place": "17:25 · 按约结束核对",
+      "shot": "手机结束通话、屏幕暗下。苏小满合上笔记，分身拿带勾的统一提纲，小帅已经捧起开场手卡认真练习。只有三人、纸笔和一部手机。",
+      "action": "三问与交接方式已确认，十分钟通话按时结束。周二 16:40—16:50 图书馆旁安静桌位采访、周三同一时段试播的安排均不变。核对版 A 照片保留在小帅手机，纸稿留给三人准备；这次没有正式录下受访经历。苏小满按约 17:30 回家，小帅开始反复练开场句，为下一集背稿遇到真实回答埋下伏笔。",
+      "sound": "挂断轻响，随后小帅小声练开场；不提供实际音频。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "明天采访、后天试播，都按原安排。电话核对完成，我五点半回家。"
+        },
+        {
+          "who": "分身",
+          "text": "同一张提纲，终于没有人在追我发的下一张了。"
+        },
+        {
+          "who": "小帅",
+          "text": "那我把开场再练几遍。只要背熟，明天应该就稳了吧？"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN020",
+          "en": "We keep tomorrow's interview on the schedule.",
+          "zh": "我们保留日程中明天的采访安排。"
+        },
+        {
+          "id": "EN021",
+          "en": "The call ends on time.",
+          "zh": "通话按时结束。"
+        },
+        {
+          "id": "EN022",
+          "en": "Now I want to practise my opening line.",
+          "zh": "现在，我想再练练自己的开场句。"
+        }
+      ]
+    }
+  ],
+  "continuity": {
+    "start": "周一校内收音试录已通过，电脑和麦克风已交回老师，三问及周二采访时段已确认。",
+    "end": [
+      "周一 17:15—17:25 在小帅家用原有黑手机完成免提语音核对，受访同学在自己家，未到场。",
+      "延迟与临时重排提纲叠加造成错位，三人选定“核对版 A”，远端复述确认同一顺序。",
+      "原三问依次为在哪里迷路、谁帮了你、当时感觉怎样；通话中不再换版本，待双方讲完再交接。",
+      "旧照片仍在记录中但明确不再用，核对版 A 的纸稿和照片保留，学校旧录音与工程未改。",
+      "周二 16:40—16:50 正式采访与周三 16:40—16:50 十分钟试播安排不变，正式受访故事尚未录制、节目尚未完成。",
+      "苏小满按约 17:30 回家，小帅开始练开场句，下一集面对真实回答时仍需要倾听。"
+    ],
+    "props": [
+      "只有小帅原有的一部黑色手机；分身经同意使用同一部拍纸稿，没有第二部手机。",
+      "没有学校电脑、麦克风、耳机等设备带回家；它们仍由老师保管，采访时登记领用。",
+      "三位学生在小帅家，妈妈在家且双方家长知情；高马尾同学只以电话声音出现，不画成第四位到场人物。",
+      "小帅红 T 恤短黑发，分身蓝内搭校服短黑发，苏小满短发圆眼镜，分工保持主编、统筹、声音协助。",
+      "周五搬桌与英语分享已完成，月底篮球补选仍待申请。"
+    ],
+    "next": "第十三集小帅把开场练得很熟，却在受访同学临时换一种说法时卡住；苏小满让他先听完再追问。"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "checked_on": "2026-11-02T17:26:59+08:00",
+  "method": "直接在已登录 Chrome 中读取活动原帖，并打开发布账号主页核对账号名称、抖音号及同一作品；结合网页搜索定位原帖。",
+  "publisher": {
+    "name": "抖音知识",
+    "douyin_id": "dy_knowledge",
+    "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA69p6siOTBY0e-JLK06NcaUOHbJcp9HPyEynypxv-ByIahMvmutJmGVq-QK-vnn4y"
+  },
+  "source_url": "https://www.douyin.com/video/7701282040913661211",
+  "source_published_on": "2026-10-27 17:47",
+  "candidates": [
+    {
+      "topic": "vibe知识大赏",
+      "source_url": "https://www.douyin.com/video/7701282040913661211",
+      "publisher": "抖音知识",
+      "deadline": "2026-11-30",
+      "deadline_basis": "2026-10-27 原帖写即日起至11月30日",
+      "participation_observed": "原帖要求携带该话题，鼓励代码动画、视觉设计及新形式的知识表达。",
+      "eligibility": {
+        "account_threshold": null,
+        "separate_registration_required": null,
+        "full_campaign_rules_checked": false
+      },
+      "episode_fit": "本集是英语知识与原创故事结合，可作为候选；是否符合活动收录形式仍需核对最终成片与会场细则。",
+      "selected_for_ep002": false
+    },
+    {
+      "topic": "vibe热点新知计划",
+      "source_url": "https://www.douyin.com/video/7701282040913661211",
+      "publisher": "抖音知识",
+      "deadline": "2026-11-30",
+      "participation_observed": "同帖写热点科普作品可同步携带；不据此推定该计划本身的独立长期有效期。",
+      "episode_fit": "第002集为校园英语剧情，未围绕当下热点科普，不建议为该标签改变剧情或直接加入。",
+      "selected_for_ep002": false
+    }
+  ],
+  "current_topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "conditional_replacement": {
+    "remove": "英语学习",
+    "add": "vibe知识大赏",
+    "condition": "确认最终成片符合活动会场的形式、账号资格与投稿要求；实际发布时活动仍有效。",
+    "resulting_total": 5
+  },
+  "traffic_note": "原帖激励针对优质作品，不表示所有带话题作品都获得固定曝光；不承诺流量。",
+  "html_changed": false,
+  "supersedes": "latest-rules-verification.json 中仅通过搜索无法核验发布账号的候选状态；现已直接读取原帖并核对发布账号，完整资格仍待核验。"
+}

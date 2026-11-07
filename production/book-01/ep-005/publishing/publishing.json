@@ -1,0 +1,123 @@
+{
+  "episode": "B01E005",
+  "title": "休息只有十秒？这场晨跑先暂停｜英语有续集005",
+  "description": "分身在家拟好晨跑方案，连休息都只留了十秒。小帅到操场先问同学、试跑半圈，才发现纸上的“慢跑”和大家的感受并不一样。他停下秒表，在老师同意后按意愿调整跑步、步行和拉伸。活动有节奏，也要听听参加的人。你喜欢怎样的晨间活动？跟着故事学习 dynamic、lifestyle、drag、tend to do sth、leisure。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "晨间活动",
+    "慢跑体验",
+    "休息时间",
+    "倾听同学",
+    "生活方式",
+    "活动调整",
+    "按意愿参与",
+    "dynamic",
+    "lifestyle",
+    "drag",
+    "tend to do sth",
+    "leisure"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 005",
+    "headline": [
+      "休息只有十秒？",
+      "我先喊暂停！"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-005-封面-4x3.png",
+      "alt": "第005集横版封面 · 4:3：休息只有十秒？，我先喊暂停！。",
+      "sha256": "d1a55c340c779cddaa33b6b208bbc0329be86aba8c3b35fb1a1b2f1cc6ebfb90",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-c3327d03-f940-47ca-b67e-4a40fec65e31.png"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-005-封面-3x4.png",
+      "alt": "第005集竖版封面 · 3:4：休息只有十秒？，我先喊暂停！。",
+      "sha256": "163c74cb837f5f9b901d39f88ba6aad45cf04e2f263a8c09f4b2598f225ff430",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-c58d0cfa-799c-484f-9cbf-fbea8c4c298e.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-05",
+    "method": "公开网页搜索与抖音页面检索摘要；页面正文未能完整读取，未登录复核发布候选或活动会场。",
+    "queries": [
+      "site.douyin.com 高中英语 英语单词 晨跑 话题",
+      "site.douyin.com 抖音知识 官方 活动 2026 11月 英语 创作 投稿",
+      "site.douyin.com 抖音作者助手 知识 2026 11月 活动",
+      "site.douyin.com vibe知识大赏 11月30",
+      "site.douyin.com 高中英语 英语单词 2026-10"
+    ],
+    "ordinary_topic_evidence": [
+      {
+        "url": "https://www.douyin.com/video/7690474881057672489",
+        "observation": "2026-09-28 的普通英语学习视频检索结果出现 #高中英语；不视作官方活动。"
+      },
+      {
+        "url": "https://www.douyin.com/video/7692024685738855716",
+        "observation": "2026-10-02 的普通词汇学习视频检索结果；用于相关内容搜索，不视作官方扶持。"
+      }
+    ],
+    "official_campaigns": [],
+    "candidate_campaigns": [
+      {
+        "topic": "vibe知识大赏",
+        "source_url": "https://www.douyin.com/video/7701282040913661211",
+        "source_publish_date": "2026-10-27",
+        "official_initiator": "未能从可读取的抖音页面完整核实官方发起方身份",
+        "checked_on": "2026-11-05",
+        "validity": "检索摘要称即日起至11月30日；完整会场规则、起始日期及延长期限待核验",
+        "eligibility": "账号资格及本集英语剧情适用性未核实",
+        "submission_requirements": "检索摘要称发布作品须带 #vibe知识大赏；热点科普可另带 #vibe热点新知计划。完整投稿入口、标题及内容要求待会场核验。",
+        "status": "未采用：尚不足以认定为本集当前适用的官方活动，不承诺曝光或流量。"
+      }
+    ],
+    "status": "未核实到同时满足官方身份、有效期、资格与本集适用性的活动；保留原5个系列及普通相关话题，实际发布当天复核。",
+    "evidence": "publishing/topic-research.template；data/douyin-publishing-policy.json"
+  }
+}

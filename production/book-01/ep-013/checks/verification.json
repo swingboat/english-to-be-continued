@@ -1,0 +1,101 @@
+{
+  "episode": "B01E013",
+  "checked_on": "2026-11-01",
+  "status": "passed",
+  "static": {
+    "scenes": 8,
+    "embedded_pngs": 1,
+    "image_dimensions": [
+      1024,
+      1536
+    ],
+    "panel_clip_windows": 8,
+    "new_words": 6,
+    "main_review_words": 2,
+    "supplemental_review_words": 11,
+    "unique_review_words": 13,
+    "subtitle_pairs": 22,
+    "narration_words": 162,
+    "dialogue_entries": 25,
+    "source_subtitles_match": true,
+    "vocabulary_source_pages_match": true,
+    "unique_ids_and_valid_anchors": true,
+    "offline_single_file": true,
+    "no_video_audio_script_controls": true,
+    "previous_12_episodes_unchanged": true,
+    "total_episodes": 72,
+    "delivered_episodes": 13,
+    "total_vocabulary_entries": 358,
+    "first_appearance_html_ready": 67,
+    "document_links_exist": true
+  },
+  "html_sha256": "243458bb0d53aa148d9f762b933b5fe9f931b42bae25e5dededfa7d8d51aa16e",
+  "image_sha256": "38af367eacc269a1cb28c2dc3fd0c16df66edf27a898eb8d7b073dd28e21895d",
+  "images": {
+    "mode": "built-in imagegen reference generation + microphone continuity edit",
+    "initial_original": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-219ca49c-896f-426c-9572-849696fdac8e.png",
+    "selected_original": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-8e077bf0-8e6d-4c40-ba12-79bcaae188f8.png",
+    "asset": "production/book-01/ep-013/storyboard.png",
+    "prompts": "production/book-01/ep-013/image-prompt.txt"
+  },
+  "browser": {
+    "tool": "tabbit-cli",
+    "layouts": [
+      {
+        "viewport_width": 375,
+        "document_width": 375,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      },
+      {
+        "viewport_width": 768,
+        "document_width": 768,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      },
+      {
+        "viewport_width": 1440,
+        "document_width": 1440,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      }
+    ],
+    "word_links_checked": [
+      "teen",
+      "native",
+      "saying",
+      "ahead",
+      "get ahead",
+      "revise"
+    ],
+    "review_links_checked": [
+      "confidence",
+      "chat"
+    ],
+    "dialogue_expand_collapse": true,
+    "supplemental_answers_checked": [
+      "aim",
+      "all sorts of"
+    ],
+    "expanded_review_overflow": [],
+    "mobile_table_width": 343,
+    "mobile_table_scroll_width": 343,
+    "screenshots": [
+      "desktop-cover.png",
+      "desktop-subtitles.png",
+      "mobile-subtitles.png"
+    ],
+    "visual_review": "passed"
+  },
+  "bytes": 16676592,
+  "sha256": "92d069c3bff5a1f8ae0b8cd6ab4c1b3c1796eb1bf10f88aed70a52a28cfc3cd2",
+  "distinct_embedded_images": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json",
+  "publishing_browser_verified": true
+}

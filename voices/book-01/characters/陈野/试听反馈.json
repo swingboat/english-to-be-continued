@@ -1,0 +1,11 @@
+{
+  "name": "陈野",
+  "reviewed_on": "2026-11-02",
+  "selection_status": "selected",
+  "source": "current-chat-user-clarification",
+  "user_feedback": "我们在会话“每个角色的语音”中不是已经确认了每个人物的声音了吗？",
+  "note": "按用户本次说明采用当前已有参考音色；本记录不表示补做了一次逐人试听。",
+  "reference_audio": "陈野.wav",
+  "reference_text": "陈野.txt",
+  "current_audio_sha256": "2f4baacbda711cf3a562d5b4d03da011bbc26a0bee5be55d820f576202b09582"
+}

@@ -1,0 +1,92 @@
+{
+  "episode": "B01E009",
+  "title": "搜了三小时，采访页还是空的？｜英语有续集009",
+  "description": "三人说好查采访思路，链接却把他们带进社交媒体、搞笑视频和争论。三小时过去，分身收藏了二十个群聊邀请入口，采访页仍几乎空白。小满让每人带回一条有来源的线索，才把准备拉回真实故事。你查资料时，最容易被什么带走？跟着故事学习 chat、surf、surf the Internet、media、social media。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "查资料跑偏",
+    "采访线索",
+    "信息来源",
+    "群聊邀请",
+    "上网分心",
+    "真实故事",
+    "注意力管理",
+    "chat",
+    "surf",
+    "surf the Internet",
+    "media",
+    "social media"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 009",
+    "headline": [
+      "搜了三小时",
+      "只收藏了聊天群？"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-009-封面-4x3.png",
+      "alt": "第009集横版封面 · 4:3：搜了三小时，只收藏了聊天群？。",
+      "sha256": "59d2e2774e48d01f62c57e5e122734a6b168cdc4885368bf5e9d2546652d4d14",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-7a395a2f-4ade-441b-ac51-efabb3bea633.png"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-009-封面-3x4.png",
+      "alt": "第009集竖版封面 · 3:4：搜了三小时，只收藏了聊天群？。",
+      "sha256": "7a94a4e111073951e2d5900206210f11ccdc276c40cde662658c3245752eec98",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-75a8e70f-bd3d-4397-8dfb-1e4c09f3a37f.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

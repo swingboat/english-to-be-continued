@@ -1,0 +1,35 @@
+{
+  "name": "苏小满",
+  "updated_at": "2026-11-02T14:44:14+08:00",
+  "selection_status": "selected",
+  "current_audio_sha256": "746b2f99491248ef285cd2f5e85992a580c2fcbdd1bfa7414293394ad54dce9b",
+  "revision_direction": "轻柔、舒缓、有耐心的16岁少女声；柔软起音、轻盈共鸣、少量自然气息，音量克制，语速稍缓，句尾轻收。情绪平和、像在近处安慰熟悉的朋友；减少强调、尖亮感与上扬，保留自然清晰的英语发音。用户已确认先使用当前音色，作为后续配音参考。",
+  "note": "用户确认先使用当前轻柔、舒缓、有耐心的少女声，作为苏小满后续配音参考。",
+  "history": [
+    {
+      "reviewed_on": "2026-11-02",
+      "source": "user-listening-feedback",
+      "user_feedback": "苏小满是一个什么样的性格，我感觉这个声音不是很好听",
+      "selection_status": "not-selected",
+      "discarded_audio_sha256": "78aec104f73ab06ecfe51ca813c68e847b9f4fa9b7939e60dbe497557e25318d",
+      "audio_deleted": true,
+      "original_instruction": "A 16-year-old female high-school student with a light, clear, fresh mid-high teenage voice. She is observant, sincere, practical and quietly determined. Her phrasing is direct and well organized, with warmth and a little dry amusement. She speaks as an equal to her classmates, with a youthful lightly textured voice, natural contractions and small pauses. No mature professional presenter sound, baby talk or exaggerated cuteness."
+    },
+    {
+      "reviewed_on": "2026-11-02",
+      "source": "user-listening-feedback",
+      "user_feedback": "我感觉还是不够温和",
+      "selection_status": "not-selected",
+      "discarded_audio_sha256": "1145adadf2a8c8c4fd93e861398359a6429df157e9589f3fae34e66bfd72118b",
+      "audio_deleted": true,
+      "original_instruction": "A 16-year-old female high-school student talking warmly with a close classmate. A youthful, clear, smooth and gently rounded teenage female voice in a comfortable middle-to-upper register, with a soft luminous tone and light natural resonance. Friendly, thoughtful, attentive and quietly cheerful, with a small genuine smile in her voice. Her speech flows easily, with natural contractions, relaxed sentence openings and small expressive changes of pitch. When admitting she gets nervous, let a little honest shyness show; when sharing her own idea, she is gently assured. Keep the phrasing personal and conversational, like a real schoolgirl talking nearby. Favor a smooth clear tone with little nasal edge, little vocal fry and only a light trace of air. Avoid shrill brightness, a clipped commanding delivery, an adult teacher or presenter sound, whispering, baby talk and exaggerated sugary cuteness."
+    }
+  ],
+  "provisional": true,
+  "source": "user-listening-feedback",
+  "user_feedback": "好，先使用这个",
+  "voice_fit": "approved-for-current-use",
+  "approved_on": "2026-11-02",
+  "reference_audio": "苏小满.wav",
+  "reference_text": "苏小满.txt"
+}

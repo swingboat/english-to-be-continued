@@ -1,0 +1,609 @@
+{
+  "id": "B01E011",
+  "number": 11,
+  "title": "设备清单很豪华，钱包不同意。",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "reading-html",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      1024,
+      1536
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        502,
+        371
+      ],
+      [
+        523,
+        3,
+        498,
+        371
+      ],
+      [
+        3,
+        387,
+        502,
+        361
+      ],
+      [
+        523,
+        387,
+        498,
+        361
+      ],
+      [
+        3,
+        761,
+        502,
+        341
+      ],
+      [
+        523,
+        761,
+        498,
+        341
+      ],
+      [
+        3,
+        1116,
+        502,
+        417
+      ],
+      [
+        523,
+        1116,
+        498,
+        417
+      ]
+    ]
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 22,
+  "words": [
+    {
+      "word": "range",
+      "part": "n.",
+      "meaning": "一系列；范围",
+      "expression": "His list covers a wide range of microphones.",
+      "translation": "他的清单涵盖多种多样的麦克风。",
+      "usage": "a wide range of + 复数名词，表示种类广泛的一系列事物。清单上种类多，并不代表都要买。",
+      "question": "分身的清单覆盖了哪些东西？种类广就等于都需要吗？",
+      "scene": 2,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "various",
+      "part": "adj.",
+      "meaning": "各种各样的",
+      "expression": "He shows me various designs.",
+      "translation": "他给我看各种各样的设计。",
+      "usage": "various + 复数名词，如 various designs。这里指清单上不同设计的麦克风，都是纸上的候选。",
+      "question": "分身给小帅看的 designs 都是已经买到的设备吗？",
+      "scene": 2,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "sort",
+      "part": "n.",
+      "meaning": "种类；类型",
+      "expression": "What sort of microphone do we need?",
+      "translation": "我们需要哪种麦克风？",
+      "usage": "What sort of ...? 询问种类；本集的 sort 是名词。问题要从采访地点、连接方式和声音是否听清来回答。",
+      "question": "他们要在安静桌边采访，哪些条件能帮助判断需要哪种设备？",
+      "scene": 3,
+      "source": "第一册 Unit 1 词表 · 印刷页 109 / PDF 第 111 页"
+    },
+    {
+      "word": "all sorts of",
+      "part": "phr.",
+      "meaning": "各种各样的",
+      "expression": "He wants all sorts of equipment.",
+      "translation": "他想要各种各样的设备。",
+      "usage": "all sorts of 可接复数名词，也可接 equipment 这样的不可数名词。equipment 本身不加 s。",
+      "question": "巨型清单上除了麦克风，还有哪些想要的设备？",
+      "scene": 2,
+      "source": "第一册 Unit 1 词表 · 印刷页 109 / PDF 第 111 页"
+    },
+    {
+      "word": "quality",
+      "part": "n.",
+      "meaning": "质量；品质",
+      "expression": "The sound quality is good enough for our interview.",
+      "translation": "这个音质足以满足我们的采访。",
+      "usage": "sound quality 指音质。good enough for ... 表示对某项实际任务已经够用；本集结论来自同一位置的试录和回放。",
+      "question": "苏小满通过什么判断这支旧麦克风是否够用？",
+      "scene": 6,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "necessity",
+      "part": "n.",
+      "meaning": "必需品；必要的事物",
+      "expression": "A new microphone is not a necessity today.",
+      "translation": "今天，新买一支麦克风并非必需。",
+      "usage": "a necessity 表示一件必需的东西。旧设备借用测试通过，所以本次不必购买；结论针对这次桌边采访。",
+      "question": "为什么他们留下了麦克风预算，却没有马上购买？",
+      "scene": 7,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    }
+  ],
+  "review_words": [
+    {
+      "word": "hardware",
+      "meaning": "计算机硬件",
+      "expression": "We already have working hardware.",
+      "translation": "我们已经有能正常使用的硬件。",
+      "scene": 3
+    },
+    {
+      "word": "laptop",
+      "meaning": "笔记本电脑",
+      "expression": "My clone records it on our laptop.",
+      "translation": "分身用我们正在使用的笔记本电脑录下这句话。",
+      "scene": 5
+    }
+  ],
+  "supplemental_review_words": [
+    {
+      "word": "senior",
+      "meaning": "较高年级的；高年级学生",
+      "expression": "I am a senior secondary school student.",
+      "translation": "我是一名高中生。",
+      "question": "回想第四集，怎样用 senior 描述小帅现在就读的学段？",
+      "first_teaching_episode": 4
+    },
+    {
+      "word": "secondary",
+      "meaning": "中等教育的；中学的",
+      "expression": "I go to a secondary school.",
+      "translation": "我在一所中学上学。",
+      "question": "secondary school 是什么学校？用一句英文说出你的理解。",
+      "first_teaching_episode": 4
+    },
+    {
+      "word": "previous",
+      "meaning": "以前的；先前的",
+      "expression": "My previous school was smaller.",
+      "translation": "我以前的学校更小。",
+      "question": "从现在的学校说到以前的学校，可以用哪个词？",
+      "first_teaching_episode": 4
+    },
+    {
+      "word": "campus",
+      "meaning": "校园",
+      "expression": "We walk across the campus.",
+      "translation": "我们穿过校园。",
+      "question": "从教学楼走到图书馆，走过的是学校的哪片空间？",
+      "first_teaching_episode": 4
+    },
+    {
+      "word": "junior",
+      "meaning": "较低年级的；低年级学生",
+      "expression": "I was a junior secondary school student before.",
+      "translation": "我以前是一名初中生。",
+      "question": "junior secondary school 对应哪个学段？试着与 senior secondary school 对照。",
+      "first_teaching_episode": 4
+    },
+    {
+      "word": "chat",
+      "meaning": "聊天；闲聊",
+      "expression": "We chat about our first day at school.",
+      "translation": "我们聊起开学第一天。",
+      "question": "第九集从漫无目的浏览回到同学经历，用 chat 说一句怎样聊开学第一天。",
+      "first_teaching_episode": 9
+    },
+    {
+      "word": "surf",
+      "meaning": "上网浏览",
+      "expression": "I surf online after school.",
+      "translation": "我放学后上网浏览。",
+      "question": "单独用 surf 表示上网浏览，试着造一个短句。",
+      "first_teaching_episode": 9
+    },
+    {
+      "word": "surf the Internet",
+      "meaning": "上网；浏览互联网",
+      "expression": "We surf the Internet for interview ideas.",
+      "translation": "我们上网查找采访思路。",
+      "question": "第九集原本想上网查什么？用完整短语 surf the Internet 回答。",
+      "first_teaching_episode": 9
+    },
+    {
+      "word": "media",
+      "meaning": "媒体；传播媒介",
+      "expression": "School radio is a form of media.",
+      "translation": "校园广播是一种媒体形式。",
+      "question": "广播、报纸等传播信息的媒介，可以统称为什么？",
+      "first_teaching_episode": 9
+    },
+    {
+      "word": "social media",
+      "meaning": "社交媒体",
+      "expression": "I turn off my social media alerts.",
+      "translation": "我关闭自己的社交媒体提醒。",
+      "question": "第十集小帅关闭了哪一类提醒？说出完整短语。",
+      "first_teaching_episode": 9
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "这张清单，自己就能当桌布",
+      "place": "周一 16:10 · 学校广播准备室",
+      "shot": "三位学生穿校服，小帅红内搭、分身蓝内搭，苏小满戴圆眼镜。分身展开几乎垂到地面的纸质设备清单，小帅托住尾端。桌上只有一台银色电脑，尚无真实麦克风。",
+      "action": "周末借用的电脑已在周一早上登记归还。放学后三人在老师批准、家长知情的项目时段来到广播准备室，登记使用同一台电脑。分身把周末画的设备清单带来了；三问提纲、原先短试音和口述草稿均保留。",
+      "sound": "纸卷哗啦展开，末端轻扫桌沿；仅为制作参考。",
+      "cues": [
+        {
+          "who": "分身",
+          "text": "我先研究了一下麦克风，清单不长——你再往后拉一点。"
+        },
+        {
+          "who": "小帅",
+          "text": "再往后就是门口了。这是清单还是迎宾地毯？"
+        },
+        {
+          "who": "苏小满",
+          "text": "先把三问提纲拿出来，我们只准备一场采访。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "It is Monday after school.",
+          "zh": "周一放学后。"
+        },
+        {
+          "id": "EN002",
+          "en": "My clone brings a list of microphones.",
+          "zh": "分身带来一份麦克风清单。"
+        },
+        {
+          "id": "EN003",
+          "en": "The list reaches the floor.",
+          "zh": "清单一直垂到地板上。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "种类很多，问题还是那三个",
+      "place": "16:12 · 同一张准备桌",
+      "shot": "分身举起的巨型清单挡住了自己的脸，纸上的麦克风、悬臂架、调音台和灯光都是图案。红内搭小帅和圆眼镜苏小满从两边看清单，蓝袖分身在纸后，仍然只有三人。",
+      "action": "分身列了不同形状和用途的麦克风，还顺手加上架子、调音台、灯光。苏小满翻开只有三条问题的笔记本，发现设备愿望已经远远多过采访问题。这里没有真实商品报价、购物链接或下单行为。",
+      "sound": "翻页，分身讲得兴起，苏小满用笔轻敲提纲。",
+      "cues": [
+        {
+          "who": "分身",
+          "en": "There is a wide range of microphones.",
+          "zh": "麦克风的种类可多了。"
+        },
+        {
+          "who": "分身",
+          "en": "Various designs! All sorts of equipment!",
+          "zh": "各种设计！各种各样的设备！"
+        },
+        {
+          "who": "苏小满",
+          "text": "我们的三个问题，都快被架子遮住了。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN004",
+          "en": "His list covers a wide range of microphones.",
+          "zh": "他的清单涵盖多种多样的麦克风。"
+        },
+        {
+          "id": "EN005",
+          "en": "He shows me various designs.",
+          "zh": "他给我看各种各样的设计。"
+        },
+        {
+          "id": "EN006",
+          "en": "He wants all sorts of equipment.",
+          "zh": "他想要各种各样的设备。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "钱包只有一条意见",
+      "place": "16:14 · 清单与钱包面对面",
+      "shot": "小帅打开几乎空的钱包，里面只有一枚零钱，表情平静得好笑。分身捧着巨型纸清单开始心虚，苏小满指出小笔记本上的需求。",
+      "action": "小帅看看自己的零用零钱，再看看清单，没有拿个人钱包替项目垫付的承诺。苏小满把问题写成三条：采访在哪里、要听清什么、怎样连接现有电脑。原有电脑在第八集已经确认可用，本集不再重复“电脑坏了”的误会。",
+      "sound": "钱包扣轻响，短暂停顿。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "我的钱包看完只给了一枚赞成票，还是枚硬币。"
+        },
+        {
+          "who": "小帅",
+          "en": "What sort of microphone do we need?",
+          "zh": "我们需要哪种麦克风？"
+        },
+        {
+          "who": "苏小满",
+          "text": "先看采访地点、声音和连接。电脑已经能用，项目经费也得先问老师。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN007",
+          "en": "I open my wallet. One coin looks back.",
+          "zh": "我打开钱包，一枚硬币像在看着我。"
+        },
+        {
+          "id": "EN008",
+          "en": "What sort of microphone do we need?",
+          "zh": "我们需要哪种麦克风？"
+        },
+        {
+          "id": "EN009",
+          "en": "We already have working hardware.",
+          "zh": "我们已经有能正常使用的硬件。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "先借一支，先试一句",
+      "place": "16:17 · 广播准备室器材借用桌",
+      "shot": "苏小满展示老师登记给项目组试用的旧黑色有线 USB 手持麦克风，只有一支，放在打开的盒中，有库存标签图标。三人围桌，银色电脑在旁；老师不入镜。",
+      "action": "指导老师确认电脑接口和借用条件，登记借出广播站现有的一支普通 USB 手持麦克风，供项目组在校内指定区域试录，使用后交回保管。图书馆老师同意他们在安静的指定桌边测试，采访也安排坐下进行。现有室内设备能用，桌边采访仍需现场检查收音。",
+      "sound": "盒盖打开，线缆轻轻放到桌上。",
+      "cues": [
+        {
+          "who": "指导老师（画外）",
+          "text": "这支和电脑兼容。先在批准的位置试录，听过再判断，试完把设备交回来。"
+        },
+        {
+          "who": "苏小满",
+          "text": "图书馆那边同意用安静桌位，我们坐着聊，不用边走边录。"
+        },
+        {
+          "who": "分身",
+          "text": "那先试它，清单先待命。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN010",
+          "en": "Our teacher lends us a simple USB microphone.",
+          "zh": "老师借给我们一支普通的 USB 麦克风。"
+        },
+        {
+          "id": "EN011",
+          "en": "We must test it before buying anything.",
+          "zh": "买东西之前，我们得先测试它。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "采访地点，先听一句",
+      "place": "16:22 · 图书馆旁获准使用的安静桌位",
+      "shot": "小帅握住唯一的黑色麦克风说一句测试词，线缆连接唯一的银色电脑，分身在指导下操作，苏小满拿着三问笔记。身后书架，没有其他人物。",
+      "action": "三人在获准位置接好已确认兼容的 USB 麦克风。小帅用普通说话音量念一句开场，分身按老师说明保存为单独的本次测试，不覆盖旧短试音或小帅个人草稿。现场测试只验证这次桌边谈话的实际效果，不是正式采访。",
+      "sound": "小帅说一句“Welcome to our first-day story.”，仅作剧本参考，本项目不制作录音。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "就按明天坐的位置、平常说话的声音试。"
+        },
+        {
+          "who": "小帅",
+          "en": "Welcome to our first-day story.",
+          "zh": "欢迎来听我们的开学第一天故事。"
+        },
+        {
+          "who": "分身",
+          "text": "存成新的测试文件了，没有覆盖以前的。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN012",
+          "en": "We sit at a quiet table near the library.",
+          "zh": "我们坐在图书馆旁一张安静的桌子边。"
+        },
+        {
+          "id": "EN013",
+          "en": "I say a short line into the microphone.",
+          "zh": "我对着麦克风说了一句简短的话。"
+        },
+        {
+          "id": "EN014",
+          "en": "My clone records it on our laptop.",
+          "zh": "分身用我们正在使用的笔记本电脑录下这句话。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "旧外壳，听得清",
+      "place": "16:24 · 同一位置回放",
+      "shot": "唯一的麦克风已放回打开的盒子，电脑显示简单波形和播放图标。三人听电脑扬声器回放，苏小满比小幅赞许手势，分身有些意外。没有耳机和新设备。",
+      "action": "回放前，小帅脱下外套搭到椅背，仍穿红 T 恤。三人用电脑回放测试。苏小满逐句听清，小帅也确认没有漏字；在当前安静位置和试录设置下，效果满足这次谈话。分身看看旧麦克风外壳，又看看自己纸上的豪华图案，终于承认清单不能代替试听。",
+      "sound": "短回放的情节说明；不提供实际音频文件。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "en": "The sound quality is good enough for our interview.",
+          "zh": "这个音质足以满足我们的采访。"
+        },
+        {
+          "who": "分身",
+          "text": "它外壳有点旧，声音倒没跟着变旧。"
+        },
+        {
+          "who": "小帅",
+          "text": "我每个字都听见了，包括刚才那点紧张。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN015",
+          "en": "We play it back.",
+          "zh": "我们把录音放出来听。"
+        },
+        {
+          "id": "EN016",
+          "en": "Xiaoman can hear every word.",
+          "zh": "小满听得清每一个字。"
+        },
+        {
+          "id": "EN017",
+          "en": "The sound quality is good enough for our interview.",
+          "zh": "这个音质足以满足我们的采访。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "把想要的折小，把必需的留下",
+      "place": "16:27 · 整理借用清单",
+      "shot": "分身把长长的愿望清单折小，苏小满和小帅核对简短清单，图标为麦克风、线缆、安静桌位。麦克风在盒中，电脑仍只有一台。",
+      "action": "三人决定本次优先登记借用已通过现场试录的麦克风，老师确认采访时可借。有限的项目经费只保留给确有必要、借用又无法解决的收音问题，今天没有购买。设备预算不从小帅个人钱包出。整理后按约交回麦克风和电脑，由老师保管，采访时再领用。",
+      "sound": "长纸一折再折，最后轻轻放到桌上。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "en": "A new microphone is not a necessity today.",
+          "zh": "今天，新买一支麦克风并非必需。"
+        },
+        {
+          "who": "分身",
+          "text": "那我把“都想要”折到背面，“这次要用”留在正面。"
+        },
+        {
+          "who": "小帅",
+          "text": "好，清单终于不用单独占一个座位了。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN018",
+          "en": "A new microphone is not a necessity today.",
+          "zh": "今天，新买一支麦克风并非必需。"
+        },
+        {
+          "id": "EN019",
+          "en": "We keep the money and borrow this one.",
+          "zh": "我们留下经费，借用这一支。"
+        },
+        {
+          "id": "EN020",
+          "en": "My clone folds his list. It finally fits the table.",
+          "zh": "分身把清单折起来，桌子终于装得下它了。"
+        }
+      ],
+      "table": {
+        "caption": "这次采访的实际需要",
+        "columns": [
+          "需要",
+          "已有或借用",
+          "这次决定"
+        ],
+        "rows": [
+          [
+            "清楚录下桌边谈话",
+            "普通 USB 麦克风现场试录通过",
+            "登记借用，今天不买"
+          ],
+          [
+            "录音与保存",
+            "现有学校电脑、兼容线缆",
+            "按批准时段领用"
+          ],
+          [
+            "安静采访位置",
+            "老师同意的图书馆旁桌位",
+            "坐下采访；现场再检查"
+          ],
+          [
+            "架子、调音台、灯光",
+            "只在分身的愿望图上",
+            "本次不列为必需品"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "设备有着落，轮到三问了",
+      "place": "16:30 · 保存安排，准备归还设备",
+      "shot": "苏小满在纸日历上勾选采访安排，小帅指着笔记本上的三个问号，分身拿着折得很小的清单，举手先问。麦克风仍在盒中，电脑待交回。",
+      "action": "苏小满记下当天午休已与高马尾同学、指导老师和图书馆老师确认的安排：周二放学后 16:40—16:50，在获准的安静桌位采访；来回路线也已到校核对。受访同学愿意讲述首日去图书馆迷路、得到帮助的经历，正式采访还没开始。采访前先约一次远程核对三问，具体连线安排在下一集确认。",
+      "sound": "笔尖打勾，合上小清单。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "明天放学后四点四十，她有十分钟，老师和桌位也都确认好了。正式录之前，我们先连线对一下三问。"
+        },
+        {
+          "who": "分身",
+          "text": "那我可以把提纲整理得更好看一点吗？这次先问。"
+        },
+        {
+          "who": "小帅",
+          "text": "可以。先别边聊边改，不然我可能追不上你的“更好看”。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN021",
+          "en": "Our interview is set for Tuesday after school.",
+          "zh": "我们的采访定在周二放学后。"
+        },
+        {
+          "id": "EN022",
+          "en": "First, we will check the questions together by phone.",
+          "zh": "在那之前，我们会先通过电话一起核对问题。"
+        }
+      ]
+    }
+  ],
+  "continuity": {
+    "start": "承接第十集已保存三问提纲及便携收音的疑问，时间跳至周一放学后。",
+    "end": [
+      "周一早上已归还周末借用电脑，下午在老师批准的时段登记使用同一台。",
+      "老师登记借出的普通 USB 麦克风在安静桌位试录通过，本次优先借用，未购买设备。",
+      "经费保留给确有必要且无法借用解决的需求，个人钱包未为项目垫款。",
+      "周一午休已核对图书馆路线并确认周二 16:40—16:50 采访，采访尚未进行。",
+      "三问仍为在哪里迷路、谁帮了你、当时感觉怎样；先约远程核对，下一集落实连线。",
+      "周三放学后 16:40—16:50 十分钟试播时段保留，节目还没完成或播出。"
+    ],
+    "props": [
+      "小帅红内搭、分身蓝内搭，短黑发同脸、都不戴眼镜；苏小满短发圆眼镜。",
+      "学校一台银色电脑、一支登记借用的普通黑色 USB 手持麦克风和兼容线缆，使用后交回老师保管，未带回家。",
+      "豪华设备均为纸上图案，没有真实调音台、灯光或额外麦克风；本集不展示手机。",
+      "老师和家长知情，分身仅参加获准课后项目；苏小满主编、小帅统筹、分身协助声音。",
+      "旧短试音、小帅个人口述草稿和准备笔记仍在，本次短测试单独保存，正式受访同学尚未录音。",
+      "周五搬桌与英语分享已完成，月底篮球补选仍待申请。"
+    ],
+    "next": "第十二集落实远程核对三问；连线延迟与分身不断修改提纲碰到一起，需要锁定同一版流程。"
+  }
+}

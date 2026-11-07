@@ -1,0 +1,84 @@
+{
+  "name": "班主任",
+  "version": "v001",
+  "created_at": "2026-11-02T14:24:29+08:00",
+  "status": "generated-awaiting-listening-review",
+  "character": {
+    "name": "班主任",
+    "gender": "男",
+    "age": 42,
+    "personality": "理性、负责、温和而有原则",
+    "voice_identity": "homeroom-teacher",
+    "seed": 421,
+    "direction_zh": "清晰稳健的成年男中音，比爸爸更利落，强调规则但不训斥；42岁为制作建议。",
+    "instruct": "A male homeroom teacher in his early forties speaking to high-school students in a quiet classroom. A clear, steady adult male mid-register voice with a focused, slightly dry texture. Patient, fair and quietly authoritative. Articulate short instructions, natural emphasis and measured pauses, with warmth underneath firm boundaries. No shouting, deep cinematic narration or exaggerated sternness.",
+    "text": "Before you agree to another activity, check the time. You can ask for help, but you still need to make your own choices. Tell me what you can finish, and we'll make a realistic schedule. Taking responsibility starts with being clear about your commitments.",
+    "evidence": [
+      "production/book-01/ep-004/image-prompt.txt：mature man, homeroom teacher",
+      "production/book-01/ep-004/episode.json：本人承担学校职责"
+    ]
+  },
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
+  "revision": "5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "model_path": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/cache/huggingface/hub/models--mlx-community--Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit/snapshots/5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "generation": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.05,
+    "max_tokens": 700
+  },
+  "language": "English",
+  "full_instruction": "A male homeroom teacher in his early forties speaking to high-school students in a quiet classroom. A clear, steady adult male mid-register voice with a focused, slightly dry texture. Patient, fair and quietly authoritative. Articulate short instructions, natural emphasis and measured pauses, with warmth underneath firm boundaries. No shouting, deep cinematic narration or exaggerated sternness. Speak clear, natural conversational American English. Use a comfortable medium pace and natural sentence pauses so a high-school English learner can follow. Keep an everyday human delivery, with no music or sound effects, no announcer performance, and no theatrical exaggeration. Read only the supplied text.",
+  "environment": {
+    "python": "3.13.4",
+    "executable": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/.venv/bin/python",
+    "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "hardware": "Apple M3 Pro",
+    "packages": {
+      "mlx-audio": "0.6.3",
+      "mlx": "0.32.4",
+      "numpy": "2.5.4"
+    },
+    "ffmpeg": "ffmpeg version 7.1.1 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "sample_rate": 24000,
+  "channels": 1,
+  "samples": 464640,
+  "duration_seconds": 19.36,
+  "generation_seconds": 9.402,
+  "peak": 0.7957904934883118,
+  "rms": 0.10164579548725325,
+  "mp3_duration_seconds": 19.416,
+  "checks": {
+    "finite_waveform": true,
+    "peak_below_full_scale": true,
+    "mp3_full_decode": true
+  },
+  "listening_review": {
+    "gender": "pending",
+    "age": "pending",
+    "personality": "pending",
+    "pronunciation_and_completeness": "pending"
+  },
+  "identity_note": "VoiceDesign candidate only; the seed is not a persistent speaker identity. Shared voice_identity does not guarantee matching timbre.",
+  "files": {
+    "班主任.wav": {
+      "bytes": 929324,
+      "sha256": "6ae234463019c9ed5a62db2d25d2ffadfb0b529c374f285bbe7c45c52aab195c"
+    },
+    "班主任.mp3": {
+      "bytes": 311084,
+      "sha256": "9b97eaff1b7399dabdb78f9697406f5fb501ce9cad70f3b9855bf924a7832f41"
+    },
+    "班主任.txt": {
+      "bytes": 257,
+      "sha256": "1866aa026b3317f46dd94c62dda561f8e0b86ec759e822039b1ccc96ceeae826"
+    },
+    "音色描述.txt": {
+      "bytes": 707,
+      "sha256": "ce8342e83c72e750392fe001a4f04ba1cce266c694559567a02014c31cc0a1b0"
+    }
+  }
+}

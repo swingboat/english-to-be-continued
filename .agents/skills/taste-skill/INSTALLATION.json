@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/Leonxlnx/taste-skill",
+  "upstream_path": "skills/taste-skill",
+  "ref": "main",
+  "skill_sha256": "3435ed963b15a1b6447746ec8844ab2cd38d8d2e8ead3451937f42df01e408c4",
+  "installed_on": "2026-11-02",
+  "scope": "project-only",
+  "local_path": ".agents/skills/taste-skill",
+  "skill_name": "design-taste-frontend"
+}

@@ -1,0 +1,686 @@
+{
+  "episode": {
+    "id": "B01E004",
+    "number": 4,
+    "title": "两张脸，只能领一张学生任务单。",
+    "series": "英语有续集",
+    "season": "我被自己的分身卷了",
+    "format": "独立阅读 HTML：英文解说、中英字幕、图片、学习单词",
+    "art": {
+      "file": "storyboard.png",
+      "source_dimensions": [
+        887,
+        1774
+      ],
+      "panels": [
+        [
+          3,
+          3,
+          435,
+          415
+        ],
+        [
+          451,
+          3,
+          433,
+          415
+        ],
+        [
+          3,
+          429,
+          435,
+          400
+        ],
+        [
+          451,
+          429,
+          433,
+          400
+        ],
+        [
+          3,
+          840,
+          435,
+          421
+        ],
+        [
+          451,
+          840,
+          433,
+          421
+        ],
+        [
+          3,
+          1271,
+          435,
+          500
+        ],
+        [
+          451,
+          1271,
+          433,
+          500
+        ]
+      ]
+    },
+    "production_language": {
+      "voiceover": "English",
+      "subtitles": [
+        "English",
+        "简体中文"
+      ],
+      "narrator": "小帅第一人称叙述",
+      "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+    },
+    "subtitle_pair_count": 24,
+    "words": [
+      {
+        "word": "senior",
+        "part": "形容词",
+        "meaning": "较高年级的；高级的",
+        "expression": "Now I'm in senior secondary school.",
+        "translation": "现在我上高中了。",
+        "usage": "本集用在 senior secondary school（高中）中，与 junior secondary school（初中）对照。senior 还有“高级的”等词义。",
+        "question": "小帅现在上的高中，英语里的哪一个词与 junior 对应？",
+        "scene": 3,
+        "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+      },
+      {
+        "word": "secondary",
+        "part": "形容词",
+        "meaning": "中等教育的",
+        "expression": "I finished junior secondary school.",
+        "translation": "我读完了初中。",
+        "usage": "secondary school 指中学。教材用 junior secondary school 表示初中，用 senior secondary school 表示高中；secondary 在这两个搭配中均与中等教育有关。",
+        "question": "junior secondary school 和 senior secondary school 中共有的哪个词表示“中等教育的”？",
+        "scene": 2,
+        "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+      },
+      {
+        "word": "previous",
+        "part": "形容词",
+        "meaning": "以前的；先前的",
+        "expression": "At my previous school, I often stayed quiet.",
+        "translation": "在以前的学校，我经常保持沉默。",
+        "usage": "previous 放在名词 school 前，指现在这所学校之前就读的学校。它修饰学校，不等于“昨天”。",
+        "question": "小帅说的 previous school，是现在的高中，还是之前读的学校？",
+        "scene": 2,
+        "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+      },
+      {
+        "word": "campus",
+        "part": "名词",
+        "meaning": "校园",
+        "expression": "He may help with approved projects on campus after class.",
+        "translation": "他可以在课后参与校园里已经获准开展的项目。",
+        "usage": "on campus 是常用搭配，表示“在校园里”。这句话说的是有条件参与课后项目，不能理解成分身可以代替小帅上课。",
+        "question": "老师允许分身参与项目的地点，用哪两个词表达“在校园里”？",
+        "scene": 3,
+        "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+      },
+      {
+        "word": "junior",
+        "part": "形容词",
+        "meaning": "较低年级的；初级的",
+        "expression": "Finishing junior secondary school did not change that.",
+        "translation": "读完初中，也没能改变这一点。",
+        "usage": "junior secondary school 指初中。that 指前句提到的“总是保持沉默”的习惯；本集用 junior 与 senior 对照学习。",
+        "question": "小帅已经读完的是 junior secondary school 还是 senior secondary school？",
+        "scene": 2,
+        "source": "Unit 1 · 分单元词表第 109 页（PDF 第 111 页）"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "volunteer",
+        "meaning": "自愿做；主动提出",
+        "expression": "We volunteer to lead a run!",
+        "translation": "我们自愿带队跑步！",
+        "scene": 4
+      },
+      {
+        "word": "goal",
+        "meaning": "目标",
+        "expression": "My goal is to do my own part.",
+        "translation": "我的目标是做好自己该做的事。",
+        "scene": 7
+      }
+    ],
+    "supplemental_review_words": [
+      {
+        "word": "stressful",
+        "meaning": "充满压力的；令人紧张的",
+        "question": "回想第二集：三个邀请撞在同一时间，小帅会怎样形容这种处境？补全 This is ___!",
+        "expression": "This is stressful!",
+        "translation": "这也太让人紧张了！"
+      },
+      {
+        "word": "challenging",
+        "meaning": "有挑战性的",
+        "question": "分身觉得调整安排虽然难，但做得到。补全 It's ___, but possible.",
+        "expression": "It's challenging, but possible.",
+        "translation": "这很有挑战性，但做得到。"
+      },
+      {
+        "word": "arise",
+        "meaning": "出现；发生",
+        "question": "第二集中，什么都答应容易出现问题。补全 Problems ___ when you say yes to everything.",
+        "expression": "Problems arise when you say yes to everything.",
+        "translation": "当你什么都答应时，问题就会出现。"
+      },
+      {
+        "word": "expectation",
+        "meaning": "期待；预期",
+        "question": "第二集中，两人对安排有不同期待。补全 We have different ___. 注意用复数。",
+        "expression": "We have different expectations.",
+        "translation": "我们有不同的期待。"
+      },
+      {
+        "word": "pressure",
+        "meaning": "压力",
+        "question": "小帅找老师时承认有压力。补全 I'm under ___.",
+        "expression": "I'm under pressure.",
+        "translation": "我感到有压力。"
+      }
+    ],
+    "scenes": [
+      {
+        "id": 1,
+        "panel": 0,
+        "name": "答应来，就真的来了",
+        "place": "次日早读前 · 班主任办公室",
+        "shot": "班主任坐在桌后，看着并排的红内搭小帅与蓝内搭分身，意外地停住动作。桌上只有一张学生任务单，苏小满陪两人来到门口。",
+        "action": "兑现上一集的约定。小帅先开口请老师听一件事，老师第一次看到两个小帅同时出现。苏小满在场说明自己亲眼见到的情况。",
+        "sound": "两下敲门声；老师的笔在纸上停住。",
+        "cues": [
+          {
+            "who": "小帅",
+            "text": "老师，昨天还有件事没解释。我今天自己来说。"
+          },
+          {
+            "who": "班主任",
+            "text": "先等一下……我怎么听到两声‘老师好’？"
+          },
+          {
+            "who": "苏小满",
+            "text": "老师，我昨天也亲眼看到了。我陪他们来说明。"
+          },
+          {
+            "who": "分身",
+            "text": "这回我先不抢答。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN001",
+            "en": "The next morning, Xiaoman comes with us to the teacher's office.",
+            "zh": "第二天早上，小满陪我们一起去老师办公室。"
+          },
+          {
+            "id": "EN002",
+            "en": "We have two faces and one student task sheet.",
+            "zh": "我们有两张脸，面前却只有一张学生任务单。"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "panel": 1,
+        "name": "换了学校，不能继续躲",
+        "place": "同一间办公室 · 小帅的说明",
+        "shot": "小帅诚恳地对老师说明，低低拿着自己的手机。分身在后方安静听着；苏小满作证后已回教室早读，不在这一格中。",
+        "action": "小帅说清一次生成机会、代替开口和后来主动报名的经过。他承认在以前的初中也习惯沉默，升学并没有自动改变自己。老师先听完，再联系家长。",
+        "sound": "手机轻轻放回口袋的声音；老师把椅子转向两人。",
+        "cues": [
+          {
+            "who": "小帅",
+            "text": "手机只能生成一次。我怕英语说错，就让他替我开口；后来报名和接邀请，我也得自己处理。"
+          },
+          {
+            "who": "小帅",
+            "en": "At my previous school, I often stayed quiet.",
+            "zh": "在以前的学校，我经常保持沉默。"
+          },
+          {
+            "who": "小帅",
+            "en": "Finishing junior secondary school did not change that.",
+            "zh": "读完初中，也没能改变这一点。"
+          },
+          {
+            "who": "班主任",
+            "text": "我听明白了。先联系你妈妈，让她来一起把日常安排说清楚。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN003",
+            "en": "I explain everything, from the phone to my fear of speaking.",
+            "zh": "我把一切解释清楚，从手机的事到我害怕开口的原因。"
+          },
+          {
+            "id": "EN004",
+            "en": "At my previous school, I often stayed quiet.",
+            "zh": "在以前的学校，我经常保持沉默。"
+          },
+          {
+            "id": "EN005",
+            "en": "Finishing junior secondary school did not change that.",
+            "zh": "读完初中，也没能改变这一点。"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "panel": 2,
+        "name": "任务单只递给本人",
+        "place": "办公室 · 班主任桌前",
+        "shot": "老师把唯一的学生任务单推向红内搭小帅。分身也本能地伸手，随即收住；老师温和地指向本人。",
+        "action": "老师明确小帅仍是学生与班长试任的承担者，不允许分身代课。分身愿意协作，可以在家长同意后，参与有老师在场、已经批准的校园课后项目。广播提案还没有获批。",
+        "sound": "纸张在桌面轻滑；分身伸手又收回，衣袖轻响。",
+        "cues": [
+          {
+            "who": "小帅",
+            "en": "Now I'm in senior secondary school.",
+            "zh": "现在我上高中了。"
+          },
+          {
+            "who": "班主任",
+            "text": "上课、作业和班长试任，由小帅本人承担。这张任务单也只给本人。"
+          },
+          {
+            "who": "分身",
+            "text": "那我能做点什么？我也想帮忙。"
+          },
+          {
+            "who": "班主任",
+            "text": "家长同意、你自己愿意，又有老师在场时，可以参加已经获准的校园课后项目。不能替他上课。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN006",
+            "en": "Now I'm in senior secondary school. I must do my own part.",
+            "zh": "现在我上高中了，得做好自己该做的事。"
+          },
+          {
+            "id": "EN007",
+            "en": "My clone cannot attend lessons for me.",
+            "zh": "分身不能替我上课。"
+          },
+          {
+            "id": "EN008",
+            "en": "He may help with approved projects on campus after class.",
+            "zh": "他可以在课后参与校园里已经获准开展的项目。"
+          },
+          {
+            "id": "EN009",
+            "en": "He needs Mum's permission and a teacher there.",
+            "zh": "这需要妈妈同意，也要有老师在场。"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "panel": 3,
+        "name": "妈妈来了，他又想报名",
+        "place": "同日稍后 · 办公室",
+        "shot": "妈妈接到老师电话后来到学校，打量两个小帅。红内搭小帅拿着那张任务单认真解释，蓝内搭分身又举起手；老师在桌旁，可位于画面边缘。",
+        "action": "小帅也亲自向妈妈说明。妈妈听完同意先安排分身住下，并接受学校的课后参与条件。老师交代明天晨间活动的协调任务，分身脱口答应带跑；小帅接过责任，提出先询问同学的意见。跑步方式和参加意愿尚未确认。",
+        "sound": "妈妈放下包；分身说到报名时语速突然变快。",
+        "cues": [
+          {
+            "who": "妈妈",
+            "text": "昨晚说有事要当面讲，原来是这么大一件事。经过你再给我讲一遍。"
+          },
+          {
+            "who": "小帅",
+            "text": "好。从昨天那次生成说起。"
+          },
+          {
+            "who": "妈妈",
+            "text": "我知道了。先让他住家里；学校这几条安排，我们都按说好的来。"
+          },
+          {
+            "who": "班主任",
+            "text": "明天班级晨间活动的安排由你协调，有同学提议跑步，你先收收意见。"
+          },
+          {
+            "who": "分身",
+            "en": "We volunteer to lead a run!",
+            "zh": "我们自愿带队跑步！"
+          },
+          {
+            "who": "小帅",
+            "text": "协调我来做。先问大家想怎么参加，别替全班答应。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN010",
+            "en": "Our teacher calls Mum. She comes to hear us both.",
+            "zh": "老师联系了妈妈，她来听我们两个说明情况。"
+          },
+          {
+            "id": "EN011",
+            "en": "He asks me to organise tomorrow's morning activity.",
+            "zh": "老师让我安排明天的晨间活动。"
+          },
+          {
+            "id": "EN012",
+            "en": "My clone shouts, \"We volunteer to lead a run!\"",
+            "zh": "分身喊道：“我们自愿带队跑步！”"
+          },
+          {
+            "id": "EN013",
+            "en": "\"I'll ask the class first,\" I say.",
+            "zh": "我说：“我先问问同学们。”"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "panel": 4,
+        "name": "他需要的，也有一张床",
+        "place": "当晚 · 家里的备用房间",
+        "shot": "妈妈打开备用房间，把一条叠好的蓝色被子交给分身。房间里有一张普通单人床。小帅站在门边看着，爸爸在画外。",
+        "action": "妈妈白天先接分身回家，小帅本人留校上课。晚上小帅也向下班到家的爸爸当面说明，父母同意先让分身住备用房间，后续生活安排一起商量。妈妈拿来被子，分身问的不再是能替谁做事，而是自己能不能安心住下。",
+        "sound": "门打开的轻响；折叠被子柔软的摩擦声。",
+        "cues": [
+          {
+            "who": "爸爸（画外）",
+            "text": "我听完了。先一起把日子安排好，有事当面说。"
+          },
+          {
+            "who": "分身",
+            "text": "我也能有地方睡吗？"
+          },
+          {
+            "who": "妈妈",
+            "text": "这间先给你住。你也要睡觉、吃饭，有什么需要就说。"
+          },
+          {
+            "who": "小帅",
+            "text": "原来多一个我，不只是多一双能干活的手。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN014",
+            "en": "At home, Dad hears the story, and Mum opens the spare room.",
+            "zh": "回到家，爸爸也听了事情经过，妈妈打开了备用房间。"
+          },
+          {
+            "id": "EN015",
+            "en": "My clone asks if he can stay.",
+            "zh": "分身问自己能不能住下来。"
+          },
+          {
+            "id": "EN016",
+            "en": "She gives him a blanket. \"You need a bed, too.\"",
+            "zh": "妈妈递给他一条被子：“你也需要一张床。”"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "panel": 5,
+        "name": "多一个人，也多一份碗",
+        "place": "晚饭后 · 厨房",
+        "shot": "妈妈指着水槽旁两份用过的碗盘，两个男生露出几乎同步的惊讶表情。妈妈平静又带点笑意。",
+        "action": "饭各吃一份，家务也一起分担。妈妈只给出一句很具体的生活安排：两个人，就洗两份碗。不是把所有家务推给分身，小帅本人也必须动手。",
+        "sound": "两只碗轻碰；两个男生同步短促地“啊”一声。",
+        "cues": [
+          {
+            "who": "妈妈",
+            "text": "两个人，就洗两份碗。饭各吃一份，碗也各洗一份。"
+          },
+          {
+            "who": "小帅",
+            "text": "我刚才还以为——"
+          },
+          {
+            "who": "分身",
+            "text": "我刚才也以为——"
+          },
+          {
+            "who": "妈妈",
+            "text": "别互相指了。一个洗，一个擦，正好。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN017",
+            "en": "Then she points to the bowls.",
+            "zh": "接着，妈妈指向那几只碗。"
+          },
+          {
+            "id": "EN018",
+            "en": "\"Two boys. Two sets of dishes to wash.\"",
+            "zh": "“两个人，就洗两份碗。”"
+          },
+          {
+            "id": "EN019",
+            "en": "The extra pair of hands suddenly looks less exciting.",
+            "zh": "多一双手这件事，突然没那么让人兴奋了。"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "panel": 6,
+        "name": "一个洗，一个擦",
+        "place": "厨房 · 水槽前",
+        "shot": "红内搭小帅用海绵洗碗，蓝内搭分身站在旁边用毛巾擦一只干净的碗。两人位置分开，动作清楚，衣袖收好。",
+        "action": "小帅没有把自己的那份也交给分身。两人发现配合可以让活更快做完，但不能让任何一方凭空消失。这个小结果呼应学校里由本人承担职责的约定。",
+        "sound": "水流、擦碗声；轻微泡沫声，避免夸张打闹。",
+        "cues": [
+          {
+            "who": "分身",
+            "text": "原来两个人的效率，是两个人都得动手。"
+          },
+          {
+            "who": "小帅",
+            "text": "你也不是专门替我洗碗的。递一下毛巾？"
+          },
+          {
+            "who": "小帅心声",
+            "en": "My goal is to do my own part.",
+            "zh": "我的目标是做好自己该做的事。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN020",
+            "en": "I wash. He dries. Neither of us escapes.",
+            "zh": "我洗，他擦。我们谁也没躲掉。"
+          },
+          {
+            "id": "EN021",
+            "en": "My goal is to do my own part.",
+            "zh": "我的目标是做好自己该做的事。"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "panel": 7,
+        "name": "我还没问，他先计时",
+        "place": "当晚 · 家中书桌",
+        "shot": "唯一的学生任务单放在干燥的书桌上，小帅正写询问同学的问题。分身兴致勃勃地拿出家里原有的普通秒表，两人的红蓝内搭清晰可辨。",
+        "action": "小帅准备第二天上课前收集晨间活动意见，尚未问完任何人，也没有替全班决定强度。分身找出秒表，已经想象起整齐的队伍。次日是否跑、怎么跑，要回到大家的真实想法。分身可以在家帮忙设计计时，不能因为举手就进校带晨跑；明早由小帅和老师在现场协调。",
+        "sound": "铅笔落纸；秒表按键一声清脆提示。",
+        "cues": [
+          {
+            "who": "小帅",
+            "text": "先问想怎么运动、愿不愿意跑，还有能接受的速度……"
+          },
+          {
+            "who": "分身",
+            "text": "秒表找到了。我们要不要连休息也——"
+          },
+          {
+            "who": "小帅",
+            "text": "先放下。我还没问谁想跑呢。"
+          },
+          {
+            "who": "分身",
+            "text": "那我先负责……不按。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN022",
+            "en": "Later, I write down questions for the class.",
+            "zh": "晚些时候，我写下准备问同学们的问题。"
+          },
+          {
+            "id": "EN023",
+            "en": "My clone brings a stopwatch. He has already imagined a race.",
+            "zh": "分身拿来一只秒表。他已经想象起一场比赛了。"
+          },
+          {
+            "id": "EN024",
+            "en": "I have not even asked who wants to run.",
+            "zh": "我连谁想跑步都还没问呢。"
+          }
+        ]
+      }
+    ],
+    "continuity": {
+      "start": "苏小满已知分身来历，小帅亲口完成短介绍；三人约好次日向班主任说明，小帅也要当面向父母交代。",
+      "end": [
+        "班主任第一次看见两人同框并听完经过；妈妈到校听完，小帅当晚也亲自向爸爸说明，家长和老师现已知情。",
+        "上课、作业及一周班长试任都由红内搭小帅本人承担，唯一的学生任务单交给本人。分身没有被当作第二名正式学生，也不能代课。",
+        "分身可在本人愿意、家长同意、有老师在场时参与已经批准的校园课后项目；广播提案尚未获批。",
+        "白天由妈妈先接分身回家，小帅留校上课；父母同意分身暂住家里的备用房间，给他独立睡觉的地方，日常需要继续商量。",
+        "两人共同分担家务，一个洗碗、一个擦碗，没有把分身当作免费替工。",
+        "老师请小帅协调次日晨间活动；分身当场提出带跑，小帅本人接受协调责任，明确要先问同学意见。具体跑步安排、强度与参与意愿尚未确定。",
+        "周五搬桌 13:20—13:40、英语分享 14:00 的既定安排保留，月底篮球补选仍待另行申请。",
+        "分身的计时建议可以在家提出；次日晨间活动由小帅和老师在现场协调，分身不会因一次举手获得早间进校权限。"
+      ],
+      "props": [
+        "红内搭为本人，蓝内搭为唯一的分身；外貌相同，没有新增复制机会与其他超能力。",
+        "本集新出现的学生任务单只有一张，由老师交给小帅，最后带回家写问题；它不是第二集苏小满收走的活动确认表。",
+        "手机属于小帅；家里的普通秒表由分身拿出，不能遥控另一个人，也不代表学校已经批准他的晨跑参与。",
+        "妈妈为低马尾、米色开衫配绿色上衣；爸爸当晚在家听说明，以画外对白出现，无需额外人物特写。",
+        "苏小满完成陪同与见证后回班早读，有自己的上课安排；不能让她整天替两人处理事务。"
+      ],
+      "next": "第 005 集在次日晨间活动中兑现带跑提议，老师在场，小帅根据同学意见调整跑步强度、休息与参加方式。"
+    }
+  },
+  "publishing": {
+    "episode": "B01E004",
+    "title": "多了一个我，家务也多一份？｜英语有续集004",
+    "description": "小帅把分身的事告诉老师和父母。学校的职责仍由本人承担，家里则要给多出来的人安排住处，也得分担生活琐事。妈妈一句“两个人，就洗两份碗”，让分身从万能替工变成了家里的合作伙伴。一个洗、一个擦，你觉得怎样分工才合理？跟着故事学习 senior、secondary、previous、campus、junior。英文解说＋中英字幕，故事继续。",
+    "topics": [
+      "英语有续集",
+      "高中英语",
+      "英语单词",
+      "英语学习",
+      "校园故事"
+    ],
+    "keywords": [
+      "英语有续集",
+      "我被自己的分身卷了",
+      "高中英语",
+      "高一英语",
+      "北师大版英语",
+      "英语必修第一册",
+      "英语词汇",
+      "英语单词",
+      "单词记忆",
+      "情境学英语",
+      "英语解说",
+      "中英双语字幕",
+      "校园故事",
+      "校园日常",
+      "分身故事",
+      "小帅",
+      "小帅的分身",
+      "英语学习",
+      "家庭分工",
+      "校园生活",
+      "家务合作",
+      "本人负责",
+      "新环境",
+      "共同生活",
+      "洗碗日常",
+      "senior",
+      "secondary",
+      "previous",
+      "campus",
+      "junior"
+    ],
+    "cover_copy": {
+      "series": "英语有续集 · 004",
+      "headline": [
+        "多一个小帅",
+        "也多一份碗！"
+      ],
+      "supporting_line": "校园故事学英语 · 本集5词"
+    },
+    "covers": [
+      {
+        "id": "4x3",
+        "label": "横版封面 · 4:3",
+        "file": "cover-4x3.png",
+        "width": 1448,
+        "height": 1086,
+        "download_name": "英语有续集-004-封面-4x3.png",
+        "alt": "第004集横版封面 · 4:3：多一个小帅，也多一份碗！。",
+        "sha256": "585cad385add38dd6d226ebf39ac4d4d54318d2066fd7dcb0c6a967591001bcc",
+        "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-4e180720-093d-4e75-b9fc-64ac1e2dc665.png",
+        "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-499a551e-2578-410a-99e2-8088d93eab6f.png",
+        "correction_prompt": "correction-4x3.txt"
+      },
+      {
+        "id": "3x4",
+        "label": "竖版封面 · 3:4",
+        "file": "cover-3x4.png",
+        "width": 1086,
+        "height": 1448,
+        "download_name": "英语有续集-004-封面-3x4.png",
+        "alt": "第004集竖版封面 · 3:4：多一个小帅，也多一份碗！。",
+        "sha256": "bcf154c06e529616fd1d4f2ac92066e1eb58650bf99c811499b8c13af60f3cba",
+        "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-72c62136-469c-4e77-afc8-efb209102ac8.png"
+      }
+    ],
+    "image_generation": {
+      "mode": "built-in image_gen.imagegen",
+      "reference": "../storyboard.png",
+      "style_reference": "../../ep-001/publishing/cover-4x3.png",
+      "prompts": [
+        "prompt-4x3.txt",
+        "prompt-3x4.txt"
+      ],
+      "visual_reviewed": true
+    },
+    "topic_research": {
+      "checked_on": "2026-11-02",
+      "evidence": "data/douyin-publishing-policy.json",
+      "official_campaigns": [],
+      "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+    }
+  },
+  "other_episodes": {
+    "ep-006.html": "00fcf1cd882abdbe07616722050874a360add24e61416c1f378005dd4f5b28d1",
+    "ep-010.html": "c616305ddaf9ce8b3db2994dce5f93fa60c8244f840a88b074dfc3d95c559e36",
+    "ep-011.html": "7f9ad98fb0b55a3d40bde8a16cf84afb8311282d42ed80c9ffa3839cd9d0559d",
+    "ep-007.html": "bdf283b0e2c3c4eafe97bdae3e4af9d30745085a8332cd1bca652bc736d6b0c3",
+    "ep-001.html": "6b5d07b11d8ad32b764834227b2b915094861300908a574a0f6ae669c66c59c3",
+    "ep-014.html": "5a42352cd572c2771f783ad39c3e7c5205dbb333af54864c99115a930479a030",
+    "ep-002.html": "576e851e0b8331d270797d47d5a9d58606af194e990ac37ef02d579c2c0675ac",
+    "ep-003.html": "cdbd89926bc656e0e4d64ce6487f23f9ef20223e780e25bb1b9d818fa1881757",
+    "ep-015.html": "766f591929111a1d791e68e5f4e03f33f614b12ce8874bfbdacb823710ae90f0",
+    "ep-008.html": "dbead39cfe566ef6dc107f17a855087457d255344e4d21c47b608df8533c8d11",
+    "ep-012.html": "9d91b5843dbe6cba4b3a2f303ceb80907b8cfa265c078ede4092dc78f3c7f12a",
+    "ep-005.html": "1f53c5df16043085f4f01ab431631c08793ded72dc2a9d7dc55bd459cc7e4c75",
+    "ep-013.html": "14ca9e78034a4647b680effeac42d8025821637e17d8c9f49bb9d36a63fea4e5",
+    "ep-009.html": "0f40b048928d073ab9340808a04bbd57a9bbf001b19344aeb49f7e011bb9afec"
+  },
+  "media": {
+    "storyboard.png": "1232fe1a6d99df7ebf240da23963c131bf0950cfff477873e40e148e17aa8b58",
+    "publishing/cover-4x3.png": "585cad385add38dd6d226ebf39ac4d4d54318d2066fd7dcb0c6a967591001bcc",
+    "publishing/cover-3x4.png": "bcf154c06e529616fd1d4f2ac92066e1eb58650bf99c811499b8c13af60f3cba"
+  }
+}

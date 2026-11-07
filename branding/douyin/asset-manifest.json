@@ -1,0 +1,61 @@
+{
+  "account_name": "英语有续集",
+  "account_name_en": "English: To Be Continued",
+  "created_on": "2026-10-31",
+  "platform": "抖音个人主页",
+  "assets": [
+    {
+      "kind": "avatar",
+      "file": "英语有续集-抖音头像-1254x1254.png",
+      "path": "branding/douyin/英语有续集-抖音头像-1254x1254.png",
+      "width": 1254,
+      "height": 1254,
+      "ratio": 1.0,
+      "bytes": 2215602,
+      "sha256": "f72262767b6523b3abf1cdf823c9e31b7bf96ccdba369175be92ae5061885827",
+      "generation": "built-in image_gen.imagegen",
+      "original_generated_path": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-2e7a4f7a-5897-4061-80fe-ae865f290bf3.png"
+    },
+    {
+      "kind": "profile_background",
+      "file": "英语有续集-主页背景-1672x941.png",
+      "path": "branding/douyin/英语有续集-主页背景-1672x941.png",
+      "width": 1672,
+      "height": 941,
+      "ratio": 1.776833,
+      "bytes": 2286157,
+      "sha256": "9b48bf41d0dfa42c120c746f61b7e3353ad9b672b38fffa32dd1a39f239208e6",
+      "generation": "built-in image_gen.imagegen",
+      "original_generated_path": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-3644056f-96d9-4ce3-8589-63be277fb907.png"
+    }
+  ],
+  "prompt_file": "image-prompts.txt",
+  "reference_image": "production/book-01/ep-001/storyboard.png",
+  "reference_roles": [
+    "character identity",
+    "illustration style"
+  ],
+  "dimension_evidence_status": "头像方形、背景横版比例按设计平台通用参考制作；未核实抖音统一强制像素和大小限制。",
+  "design_sources": [
+    {
+      "title": "Canva可画头像尺寸",
+      "url": "https://www.canva.cn/sizes/avatar/",
+      "basis": "抖音头像400×400的设计参考；头像主体居中以适配圆形裁切。"
+    },
+    {
+      "title": "稿定设计抖音背景图模板",
+      "url": "https://www.gaoding.art/template/48232477",
+      "basis": "抖音背景图1125×633的设计参考，接近16:9。"
+    }
+  ],
+  "preview_note": "按中部保留文案和人物表情设计，最终可见范围以抖音App裁切预览为准。",
+  "visual_checks": [
+    "avatar has same-face boys with red/cyan undershirts and schoolbook",
+    "avatar core faces centered for circular crop",
+    "banner Chinese brand name verified",
+    "banner English name verified",
+    "banner Chinese tagline verified",
+    "banner has quiet bottom-left area and centered text"
+  ],
+  "uploaded_to_douyin": false
+}

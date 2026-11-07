@@ -1,0 +1,87 @@
+{
+  "collection_name": "我被自己的分身卷了｜英语必修第一册",
+  "description": "只想让分身替我说句 Hello，他却抢着报名当班长！跟着小帅和分身追校园轻科幻喜剧，在连续剧情里学北师大版英语必修第一册词汇。英文解说＋中英字幕，从第001集开始追。",
+  "collection_name_characters": 17,
+  "description_characters": 83,
+  "account_name": "英语有续集",
+  "story_name": "我被自己的分身卷了",
+  "textbook": "北师大版·英语必修 第一册",
+  "created_on": "2026-11-02",
+  "delivery": "合集名称、简介与1080×1080方形封面；原横竖版留存",
+  "cover_primary": "cover-1080x1080.png",
+  "copy_file": "合集发布文案.txt",
+  "prompt_file": "image-prompts-square.txt",
+  "generation": "built-in image_gen.imagegen",
+  "source_context": [
+    "README.md",
+    "docs/book-01-plan.md",
+    "production/book-01/ep-001/episode.json",
+    "branding/douyin/README.md"
+  ],
+  "constraints": [
+    "小帅与分身外貌一致，红蓝内搭区分",
+    "合集封面不包含单集序号",
+    "未将计划中的72集表述为已经全部发布",
+    "未提前呈现后续剧情结果",
+    "所提供比例为设计交付，不表述为抖音强制尺寸要求"
+  ],
+  "visual_checks": [
+    "中文账号名、故事名与教材范围拼写正确",
+    "两张封面人物一致，红蓝内搭正确",
+    "文字、面部完整，缩略图可辨",
+    "无单集序号、无本集词数、无全集已完成宣称",
+    "新版方形封面的中文账号名、故事名与教材范围拼写正确",
+    "新版方形封面两个人物面部和标题完整",
+    "主封面精确1080×1080像素，PNG文件小于5,000,000字节"
+  ],
+  "uploaded_to_douyin": false,
+  "assets": [
+    {
+      "file": "cover-3x4.png",
+      "ratio": "3:4",
+      "original_generated_path": "/Users/huyin/.codex/generated_images/01a19aed-a572-7be2-b250-aca00ebc7ae5/exec-ec295b7c-1784-43d2-b9af-1fd481d900a5.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2283216,
+      "sha256": "2fc7ff841c82576983443661cb4b8c1661bb122cd107676dc713824d3857ae23",
+      "usage": "archived"
+    },
+    {
+      "file": "cover-4x3.png",
+      "ratio": "4:3",
+      "original_generated_path": "/Users/huyin/.codex/generated_images/01a19aed-a572-7be2-b250-aca00ebc7ae5/exec-d7ee1f0d-0ea1-4bec-94ba-f0c088580bfe.png",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 2221596,
+      "sha256": "137554b6803742dfc3e4d855666302360f749dbce2f505424bcadf56dd07724a",
+      "usage": "archived"
+    },
+    {
+      "file": "cover-1080x1080.png",
+      "usage": "primary",
+      "ratio": "1:1",
+      "width": 1080,
+      "height": 1080,
+      "format": "PNG",
+      "bytes": 1933624,
+      "size_mb": 1.934,
+      "sha256": "479765ffe231923d22223638070482b0c5ad5a404cd9f6e5d1d89e9bc3cbac39",
+      "original_generated_path": "/Users/huyin/.codex/generated_images/01a19aed-a572-7be2-b250-aca00ebc7ae5/exec-b58bd22d-e775-4e89-a445-dc4f249132d3.png",
+      "generation": "built-in image_gen.imagegen",
+      "export": "macOS sips等比导出为1080×1080 PNG，无裁切"
+    }
+  ],
+  "updated_on": "2026-11-02",
+  "archived_covers": [
+    "cover-3x4.png",
+    "cover-4x3.png"
+  ],
+  "previous_prompt_file": "image-prompts.txt",
+  "cover_requirements": {
+    "source": "用户在当前会话提供的合集封面上传建议",
+    "recommended_width": 1080,
+    "recommended_height": 1080,
+    "file_size_limit_bytes": 5000000,
+    "verified": true
+  }
+}

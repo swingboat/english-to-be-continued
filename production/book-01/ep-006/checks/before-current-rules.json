@@ -1,0 +1,689 @@
+{
+  "episode": {
+    "id": "B01E006",
+    "number": 6,
+    "title": "她想要的不是保密费，是十分钟。",
+    "series": "英语有续集",
+    "season": "我被自己的分身卷了",
+    "format": "独立阅读 HTML：英文解说、中英字幕、图片、学习单词",
+    "art": {
+      "file": "storyboard.png",
+      "source_dimensions": [
+        887,
+        1774
+      ],
+      "panels": [
+        [
+          3,
+          3,
+          434,
+          391
+        ],
+        [
+          450,
+          3,
+          434,
+          391
+        ],
+        [
+          3,
+          407,
+          434,
+          403
+        ],
+        [
+          450,
+          407,
+          434,
+          403
+        ],
+        [
+          3,
+          823,
+          434,
+          393
+        ],
+        [
+          450,
+          823,
+          434,
+          393
+        ],
+        [
+          3,
+          1228,
+          434,
+          543
+        ],
+        [
+          450,
+          1228,
+          434,
+          543
+        ]
+      ]
+    },
+    "production_language": {
+      "voiceover": "English",
+      "subtitles": [
+        "English",
+        "简体中文"
+      ],
+      "narrator": "小帅第一人称叙述",
+      "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+    },
+    "subtitle_pair_count": 22,
+    "words": [
+      {
+        "word": "aim",
+        "part": "动词",
+        "meaning": "力求达到；旨在",
+        "expression": "I aim to give quiet students a voice.",
+        "translation": "我希望让安静的同学也能表达自己的想法。",
+        "usage": "aim to do sth 表示“力求做某事”。本句 give someone a voice 指让某人有表达和被听见的机会，体现苏小满做节目的目的。",
+        "question": "苏小满希望安静的同学也被听见，可以用 aim 后接什么结构表达？",
+        "scene": 2,
+        "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+      },
+      {
+        "word": "target",
+        "part": "名词",
+        "meaning": "目标",
+        "expression": "Our target is one ten-minute trial.",
+        "translation": "我们的目标是做一期十分钟的试播。",
+        "usage": "target 在此作名词，指本次具体要完成的目标：一期十分钟试播。ten-minute 放在名词前作修饰语，minute 用单数。",
+        "question": "分身想排满整天，苏小满把本次 target 缩成了什么？",
+        "scene": 4,
+        "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+      },
+      {
+        "word": "organise",
+        "part": "动词",
+        "meaning": "组织；安排",
+        "expression": "Who will organise it?",
+        "translation": "谁来组织这件事？",
+        "usage": "organise 是教材采用的英式拼写。本集指安排人员、时间与准备工作，不只是在纸上写节目名字。",
+        "question": "老师问谁来 organise 试播时，除了选题，还需要安排什么？",
+        "scene": 5,
+        "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+      },
+      {
+        "word": "voluntary",
+        "part": "形容词",
+        "meaning": "自愿的；志愿的",
+        "expression": "Taking part is voluntary.",
+        "translation": "参与是自愿的。",
+        "usage": "voluntary 在这里描述参与的性质。与前面学过的动词 volunteer（自愿做、主动提出）区分：可以说 I volunteer，也可以说 Taking part is voluntary。",
+        "question": "小帅不替全班报名，怎样用 voluntary 说明参与是自愿的？",
+        "scene": 7,
+        "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+      },
+      {
+        "word": "competence",
+        "part": "名词",
+        "meaning": "能力；胜任能力",
+        "expression": "We will build competence through practice.",
+        "translation": "我们会通过练习培养胜任工作的能力。",
+        "usage": "competence 在这里指胜任节目制作工作的实际能力。build competence 表示逐步培养能力；分身也需要练习设备操作。",
+        "question": "分身很有热情，但还没学过设备操作，怎样培养所需的 competence？",
+        "scene": 6,
+        "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "goal",
+        "meaning": "目标",
+        "expression": "One small goal. Still a real challenge.",
+        "translation": "目标虽小，仍是个实实在在的挑战。",
+        "scene": 8
+      },
+      {
+        "word": "challenge",
+        "meaning": "挑战",
+        "expression": "One small goal. Still a real challenge.",
+        "translation": "目标虽小，仍是个实实在在的挑战。",
+        "scene": 8
+      }
+    ],
+    "supplemental_review_words": [
+      {
+        "word": "senior",
+        "meaning": "较高年级的；高级的",
+        "question": "回想第四集：小帅现在读高中。补全 Now I'm in ___ secondary school.",
+        "expression": "Now I'm in senior secondary school.",
+        "translation": "现在我上高中了。"
+      },
+      {
+        "word": "secondary",
+        "meaning": "中等教育的",
+        "question": "初中与高中两个表达中共有哪个词？补全 junior ___ school / senior ___ school.",
+        "expression": "junior secondary school / senior secondary school",
+        "translation": "初中／高中"
+      },
+      {
+        "word": "previous",
+        "meaning": "以前的；先前的",
+        "question": "第四集中，小帅说起之前的学校。补全 At my ___ school, I often stayed quiet.",
+        "expression": "At my previous school, I often stayed quiet.",
+        "translation": "在以前的学校，我经常保持沉默。"
+      },
+      {
+        "word": "campus",
+        "meaning": "校园",
+        "question": "回想第四集：分身可在有许可和老师在场时参加校园课后项目。补全 on ___.",
+        "expression": "on campus",
+        "translation": "在校园里"
+      },
+      {
+        "word": "junior",
+        "meaning": "较低年级的；初级的",
+        "question": "小帅已经读完初中。补全 Finishing ___ secondary school did not change that.",
+        "expression": "Finishing junior secondary school did not change that.",
+        "translation": "读完初中，也没能改变这一点。"
+      }
+    ],
+    "scenes": [
+      {
+        "id": 1,
+        "panel": 0,
+        "name": "这次，十分钟真的留出来",
+        "place": "同日午休 · 安静的教室",
+        "shot": "苏小满在课桌对面打开自己的广播构想笔记本，红内搭小帅把黑色秒表收进口袋，准备认真听。此时只有两人，分身仍在家。",
+        "action": "兑现上一集课间的约定。小帅为苏小满留出午休的讨论时间，让她从头讲完提案。这十分钟是听提案的时间，和后面申请的试播时长是两件事。",
+        "sound": "午休教室的轻微环境声；秒表收进口袋后不再响。",
+        "cues": [
+          {
+            "who": "小帅",
+            "text": "上次你陪我找老师，我还没正式道谢。"
+          },
+          {
+            "who": "苏小满",
+            "text": "那就把约好的十分钟留给我，把提案听完。"
+          },
+          {
+            "who": "小帅",
+            "text": "好，这次不替你说算了，也不按计时器催你。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN001",
+            "en": "At lunch, Xiaoman finally gets her ten minutes.",
+            "zh": "午休时，小满终于等到了留给她的十分钟。"
+          },
+          {
+            "id": "EN002",
+            "en": "I put the stopwatch away and listen.",
+            "zh": "我收好秒表，认真听她说。"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "panel": 1,
+        "name": "先让安静的人被听见",
+        "place": "同一张课桌 · 苏小满的提案",
+        "shot": "苏小满指着笔记本里的麦克风与声波示意，认真说明想法。小帅前倾听着，画面没有正在工作的广播设备。",
+        "action": "苏小满完整说出节目目的：让不擅长抢话的同学也能分享校园小故事。第一期可以从自己的经历开始，再邀请愿意参与的人，话题是入学第一天受到的帮助。小帅听完后提出放学后一起向老师申请。",
+        "sound": "笔记本翻页声；小帅偶尔一句简短回应。",
+        "cues": [
+          {
+            "who": "苏小满",
+            "en": "I aim to give quiet students a voice.",
+            "zh": "我希望让安静的同学也能表达自己的想法。"
+          },
+          {
+            "who": "苏小满",
+            "text": "先做一小期。题目就问：入学第一天，什么事让你没那么害怕？"
+          },
+          {
+            "who": "小帅",
+            "text": "可以先用我们自己的故事做样稿，再请愿意分享的同学参加。"
+          },
+          {
+            "who": "苏小满",
+            "text": "嗯，先把一期讲清楚。我们放学后去问问老师。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN003",
+            "en": "\"I aim to give quiet students a voice,\" she says.",
+            "zh": "她说：“我希望让安静的同学也能表达自己的想法。”"
+          },
+          {
+            "id": "EN004",
+            "en": "She wants to start with one short radio show.",
+            "zh": "她想先从一期短节目开始。"
+          },
+          {
+            "id": "EN005",
+            "en": "Her first question is simple: what helped you on your first day?",
+            "zh": "她的第一个问题很简单：入学第一天，什么帮到了你？"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "panel": 2,
+        "name": "他一来，节目表就展开了",
+        "place": "放学后 · 老师在场的提案讨论",
+        "shot": "蓝内搭分身在获准的放学后讨论中展开一长张折叠节目表，红内搭小帅惊讶地看着，苏小满拿着笔记本，老师坐在近旁。",
+        "action": "老师先同意这一次放学后的提案讨论。小帅向妈妈说明时间，得到家长许可，由妈妈送分身到校；老师全程在场。分身听说要做广播，带来自己在家拟的全天节目表。此次进校许可只覆盖这场讨论。",
+        "sound": "折叠纸一段接一段展开的沙沙声；小帅一声意外的轻呼。",
+        "cues": [
+          {
+            "who": "班主任",
+            "text": "今天先把提案说清楚。我在这里听，家长也同意他来参加这一次讨论。"
+          },
+          {
+            "who": "分身",
+            "text": "我在家想好了！先从早间新闻开始——"
+          },
+          {
+            "who": "小帅",
+            "text": "等等，你这张纸怎么还没展开完？"
+          },
+          {
+            "who": "苏小满",
+            "text": "我们刚才说的是一期。先让我看看。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN006",
+            "en": "Our teacher agrees to a planning meeting after class.",
+            "zh": "老师同意放学后开一次提案讨论。"
+          },
+          {
+            "id": "EN007",
+            "en": "Mum brings my clone, with permission.",
+            "zh": "得到许可后，妈妈把分身送来。"
+          },
+          {
+            "id": "EN008",
+            "en": "He brings a timetable that unfolds onto the floor.",
+            "zh": "他带来的节目表一展开，纸都垂到了地上。"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "panel": 3,
+        "name": "整张表，只圈一个小格",
+        "place": "讨论桌前 · 长节目表",
+        "shot": "折叠节目表从桌沿垂下，分身还骄傲地拿着一头。苏小满用红笔只圈出开头的一个小空格，小帅与老师看着这个鲜明反差。",
+        "action": "分身从每天一档越想越多，直接列到早中晚。苏小满把目标缩回一期十分钟试播，保留自己的目的，也让第一次合作有可完成的范围。画面只画空格与红圈，具体时长由 HTML 文字说明。",
+        "sound": "分身快速报节目；红笔在纸上轻轻一圈，语速随之停住。",
+        "cues": [
+          {
+            "who": "分身",
+            "text": "早间新闻，午间访谈，晚间音乐！每天都有内容。"
+          },
+          {
+            "who": "苏小满",
+            "en": "Our target is one ten-minute trial.",
+            "zh": "我们的目标是做一期十分钟的试播。"
+          },
+          {
+            "who": "小帅",
+            "text": "你那张表，比我们整天的课还长。先做她圈的这一格。"
+          },
+          {
+            "who": "分身",
+            "text": "那我把后面的先折回来。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN009",
+            "en": "\"Breakfast news. Lunch interviews. Evening music!\" he announces.",
+            "zh": "他宣布：“早间新闻，午间访谈，晚间音乐！”"
+          },
+          {
+            "id": "EN010",
+            "en": "Xiaoman circles one small box.",
+            "zh": "小满只圈出了一个小格。"
+          },
+          {
+            "id": "EN011",
+            "en": "\"Our target is one ten-minute trial.\"",
+            "zh": "“我们的目标是做一期十分钟的试播。”"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "panel": 4,
+        "name": "有节目，还得有人安排",
+        "place": "同一场讨论 · 候选分工",
+        "shot": "长表大部分已折回桌上，三人分别向老师提出自己愿意承担的准备工作。苏小满指着笔记本，小帅指向自己，分身作出小幅度的举手动作。",
+        "action": "老师问谁来组织。苏小满愿意选题和整理稿子，小帅愿意统筹人员与时间，分身愿意学着检查声音。这里是三人提出的候选分工，正式书面分工要在下一次试机前确认。",
+        "sound": "几次简短、不抢话的接话声；折纸已经安静下来。",
+        "cues": [
+          {
+            "who": "班主任",
+            "en": "Who will organise it?",
+            "zh": "谁来组织这件事？"
+          },
+          {
+            "who": "苏小满",
+            "text": "选题和稿子，我先准备。"
+          },
+          {
+            "who": "小帅",
+            "text": "人员和时间我来安排，先写一份大家都能确认的分工。"
+          },
+          {
+            "who": "分身",
+            "text": "声音检查我想学。我先把自己能做的列出来。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN012",
+            "en": "\"Who will organise it?\" our teacher asks.",
+            "zh": "老师问：“谁来组织这件事？”"
+          },
+          {
+            "id": "EN013",
+            "en": "Xiaoman offers to choose stories. I can arrange people and time.",
+            "zh": "小满愿意挑选故事，我可以安排人员和时间。"
+          },
+          {
+            "id": "EN014",
+            "en": "My clone offers to check the sound.",
+            "zh": "分身提出想负责声音检查。"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "panel": 5,
+        "name": "热情有了，操作还得练",
+        "place": "讨论桌旁 · 老师递来说明册",
+        "shot": "老师把一本封面只有麦克风小图标的设备说明册递给分身。分身收起夸张的主持姿态，诚恳地笑着，小帅与苏小满在旁支持他。说明册仍合着。",
+        "action": "老师鼓励三人通过练习培养实际能力。分身承认自己和小帅一样，还没学过这套设备的操作，不会因多一张脸就自动精通。三人同意先交分工、再在老师指导下试机；本集不提前测试设备。",
+        "sound": "说明册落在桌上的轻响；分身坦白前短暂停顿。",
+        "cues": [
+          {
+            "who": "班主任",
+            "en": "We will build competence through practice.",
+            "zh": "我们会通过练习培养胜任工作的能力。"
+          },
+          {
+            "who": "分身",
+            "text": "我还没用过这套设备。刚才说声音检查，是想从这里开始学。"
+          },
+          {
+            "who": "班主任",
+            "text": "说清楚就好。先列会做什么、需要学什么，下一次我带你们试机。"
+          },
+          {
+            "who": "小帅",
+            "text": "那我们把要学的也写进去。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN015",
+            "en": "\"We will build competence through practice,\" our teacher says.",
+            "zh": "老师说：“我们会通过练习培养胜任工作的能力。”"
+          },
+          {
+            "id": "EN016",
+            "en": "My clone admits he needs to learn the controls.",
+            "zh": "分身承认，自己还需要学习设备怎么操作。"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "panel": 6,
+        "name": "报名这件事，各人自己说",
+        "place": "同一间教室 · 确认参与意愿",
+        "shot": "小帅张开手掌说明参与方式；苏小满与分身分别自愿举起一只手，老师点头。桌上是已折好的长表和笔记本，没有其他同学被安排进来。",
+        "action": "小帅用晨间活动中学到的做法，只确认在场每个人自己的意愿，不替全班报名。未来邀请的分享者也由本人决定是否参加。分身的参与仍受家长许可、课后时段与老师在场的条件约束。",
+        "sound": "两次先后举手的衣袖声；语气轻松，没有集体表态的压力。",
+        "cues": [
+          {
+            "who": "小帅",
+            "en": "Taking part is voluntary.",
+            "zh": "参与是自愿的。"
+          },
+          {
+            "who": "苏小满",
+            "text": "我愿意。第一期先从我们自己的小故事开始。"
+          },
+          {
+            "who": "分身",
+            "text": "我也愿意。这次只报我自己。"
+          },
+          {
+            "who": "班主任",
+            "text": "可以。后续有人来分享，也先问本人意愿。"
+          }
+        ],
+        "narration": [
+          {
+            "id": "EN017",
+            "en": "\"Taking part is voluntary,\" I say.",
+            "zh": "我说：“参与是自愿的。”"
+          },
+          {
+            "id": "EN018",
+            "en": "We each choose a job. We cannot volunteer for everyone else.",
+            "zh": "我们各自选择想做的事，不能替其他所有人报名。"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "panel": 7,
+        "name": "十分钟，先把它做好",
+        "place": "讨论结束前 · 原则同意试播",
+        "shot": "老师指着折回后的节目表上唯一圈出的格子，点头表示原则同意。苏小满满意地合上笔记本，小帅松一口气，分身主动收起多余的折纸段落，说明册仍在桌上。",
+        "action": "老师原则同意准备一期十分钟试播，要求先提交书面分工并在指导下完成设备检查，之后才确定播出日期。三人得到了明确的小目标，也知道下一步要亲自完成什么。讨论后分身由家长接回，未获得日间常驻或代课权限。",
+        "sound": "最后几下收纸声；老师合起笔，讨论结束。",
+        "cues": [
+          {
+            "who": "班主任",
+            "text": "一期，十分钟，原则同意。先交分工，再做设备检查，通过后我们再排试播时间。"
+          },
+          {
+            "who": "苏小满",
+            "text": "好，我的提案终于有下一步了。"
+          },
+          {
+            "who": "分身",
+            "text": "我先把晚间音乐折起来。只做这一格。"
+          },
+          {
+            "who": "小帅心声",
+            "en": "One small goal. Still a real challenge.",
+            "zh": "目标虽小，仍是个实实在在的挑战。"
+          }
+        ],
+        "table": {
+          "caption": "本次讨论得到的结果",
+          "columns": [
+            "项目",
+            "当前状态"
+          ],
+          "rows": [
+            [
+              "一期十分钟试播",
+              "原则同意准备，未开始播出"
+            ],
+            [
+              "书面分工与设备检查",
+              "下一次在老师指导下提交、完成"
+            ],
+            [
+              "正式试播日期",
+              "检查通过后再确定"
+            ]
+          ]
+        },
+        "narration": [
+          {
+            "id": "EN019",
+            "en": "Our teacher approves one ten-minute trial in principle.",
+            "zh": "老师原则同意做一期十分钟的试播。"
+          },
+          {
+            "id": "EN020",
+            "en": "First, we must submit our roles and check the equipment.",
+            "zh": "我们得先交清分工，再检查设备。"
+          },
+          {
+            "id": "EN021",
+            "en": "The date will be set after that.",
+            "zh": "试播日期要在那之后再确定。"
+          },
+          {
+            "id": "EN022",
+            "en": "One small goal. Still a real challenge.",
+            "zh": "目标虽小，仍是个实实在在的挑战。"
+          }
+        ]
+      }
+    ],
+    "continuity": {
+      "start": "晨间活动已调整，小帅约好午休听完苏小满的十分钟广播提案。分身在家，老师和家长已知其来历，广播尚未获批。",
+      "end": [
+        "小帅兑现午休约定，听完苏小满的提案；她的目的是让安静的同学也能表达，第一期拟谈入学第一天受到的帮助。",
+        "老师先批准一次放学后的提案讨论，家长同意并接送分身；他只在这场有人监督的课后讨论中到校，没有日间常驻或代课权限。",
+        "分身的全天节目表缩回一期十分钟，三人愿意围绕这个具体目标准备。",
+        "老师原则同意一期十分钟试播；书面分工与设备检查尚未完成，正式试播日期还未确定。",
+        "候选分工是苏小满选题和稿件、小帅统筹人员与时间、分身学习声音检查；下一集正式确认，分身没有自动掌握设备的新能力。",
+        "参与自愿，不替全班报名，也没有把家长和老师已知的分身来历变成新的秘密交易。",
+        "周五搬桌 13:20—13:40、英语分享 14:00 的既定安排保留，月底篮球补选仍待另行申请。"
+      ],
+      "props": [
+        "红内搭为小帅本人，蓝内搭为唯一分身。分身仅从放学后讨论的第三格起出现，午休两人听提案时不在学校。",
+        "黑色秒表收在小帅口袋，本集不催苏小满结束，也不被当作广播设备。",
+        "苏小满沿用原来的广播构想笔记本；长折叠节目表由分身在家拟好带来，红圈只表示保留的十分钟范围。",
+        "老师递来的是设备说明册，本集没有开机试播。设备试机留到下一集，日期要在检查后再定。",
+        "午休听提案的十分钟与申请的一期十分钟试播，是两种不同用途的时间，不互相替代。"
+      ],
+      "next": "第 007 集提交并确认分工，在老师指导下试机；设备不出声时，小帅留下排查并请合适的老师协助，准备组也会知道两人的身份与分工。"
+    }
+  },
+  "publishing": {
+    "episode": "B01E006",
+    "title": "分身想包全天，她只要十分钟｜英语有续集006",
+    "description": "苏小满终于把广播提案讲完：让安静的同学也有机会说出自己的校园故事。分身一来却展开全天节目表，她只圈出一期十分钟。老师原则同意准备试播，要求先交清分工、再检查设备，日期之后再定。第一次合作，你会先做多大？跟着故事学习 aim、target、organise、voluntary、competence。英文解说＋中英字幕，故事继续。",
+    "topics": [
+      "英语有续集",
+      "高中英语",
+      "英语单词",
+      "英语学习",
+      "校园故事"
+    ],
+    "keywords": [
+      "英语有续集",
+      "我被自己的分身卷了",
+      "高中英语",
+      "高一英语",
+      "北师大版英语",
+      "英语必修第一册",
+      "英语词汇",
+      "英语单词",
+      "单词记忆",
+      "情境学英语",
+      "英语解说",
+      "中英双语字幕",
+      "校园故事",
+      "校园日常",
+      "分身故事",
+      "小帅",
+      "小帅的分身",
+      "英语学习",
+      "广播提案",
+      "十分钟试播",
+      "明确目标",
+      "自愿参与",
+      "团队合作",
+      "听完再说",
+      "缩小范围",
+      "aim",
+      "target",
+      "organise",
+      "voluntary",
+      "competence"
+    ],
+    "cover_copy": {
+      "series": "英语有续集 · 006",
+      "headline": [
+        "节目排了一整天",
+        "先做好这十分钟！"
+      ],
+      "supporting_line": "校园故事学英语 · 本集5词"
+    },
+    "covers": [
+      {
+        "id": "4x3",
+        "label": "横版封面 · 4:3",
+        "file": "cover-4x3.png",
+        "width": 1448,
+        "height": 1086,
+        "download_name": "英语有续集-006-封面-4x3.png",
+        "alt": "第006集横版封面 · 4:3：节目排了一整天，先做好这十分钟！。",
+        "sha256": "671bcbb342f7198e9ffb01a1e80475acb06572703bc4806adcd92ca2545c19df",
+        "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-29c086a6-affa-4b97-b879-ad2971161aaf.png",
+        "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-a1eec6f4-50f1-4fb5-9ebd-22ec64968fa0.png",
+        "correction_prompt": "correction-4x3.txt"
+      },
+      {
+        "id": "3x4",
+        "label": "竖版封面 · 3:4",
+        "file": "cover-3x4.png",
+        "width": 1086,
+        "height": 1448,
+        "download_name": "英语有续集-006-封面-3x4.png",
+        "alt": "第006集竖版封面 · 3:4：节目排了一整天，先做好这十分钟！。",
+        "sha256": "aa1452d40bd9c03a8d9491e018c88398a94d0c35e9b0e1c9e425cdf1ff0295e0",
+        "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-282e4fad-23f1-46ea-888d-e49dc3e66c81.png"
+      }
+    ],
+    "image_generation": {
+      "mode": "built-in image_gen.imagegen",
+      "reference": "../storyboard.png",
+      "style_reference": "../../ep-001/publishing/cover-4x3.png",
+      "prompts": [
+        "prompt-4x3.txt",
+        "prompt-3x4.txt"
+      ],
+      "visual_reviewed": true
+    },
+    "topic_research": {
+      "checked_on": "2026-11-02",
+      "evidence": "data/douyin-publishing-policy.json",
+      "official_campaigns": [],
+      "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+    }
+  },
+  "other_episodes": {
+    "ep-010.html": "c616305ddaf9ce8b3db2994dce5f93fa60c8244f840a88b074dfc3d95c559e36",
+    "ep-011.html": "7f9ad98fb0b55a3d40bde8a16cf84afb8311282d42ed80c9ffa3839cd9d0559d",
+    "ep-007.html": "bdf283b0e2c3c4eafe97bdae3e4af9d30745085a8332cd1bca652bc736d6b0c3",
+    "ep-001.html": "10b7cdaaada55d8de7cb0d7bbfcca843cc5bf3c862d5236c84afa8cbc4bae495",
+    "ep-014.html": "5a42352cd572c2771f783ad39c3e7c5205dbb333af54864c99115a930479a030",
+    "ep-002.html": "576e851e0b8331d270797d47d5a9d58606af194e990ac37ef02d579c2c0675ac",
+    "ep-003.html": "cdbd89926bc656e0e4d64ce6487f23f9ef20223e780e25bb1b9d818fa1881757",
+    "ep-015.html": "766f591929111a1d791e68e5f4e03f33f614b12ce8874bfbdacb823710ae90f0",
+    "ep-008.html": "dbead39cfe566ef6dc107f17a855087457d255344e4d21c47b608df8533c8d11",
+    "ep-012.html": "9d91b5843dbe6cba4b3a2f303ceb80907b8cfa265c078ede4092dc78f3c7f12a",
+    "ep-004.html": "2087c1cdfe41feee5fff291ce3a00964d6aee4eeabb801f6b11c837df9be486f",
+    "ep-005.html": "b7fc7f465605dc852e5ef3b18ad434f1e2322069315453fe9f34ff7b8e5fa130",
+    "ep-013.html": "14ca9e78034a4647b680effeac42d8025821637e17d8c9f49bb9d36a63fea4e5",
+    "ep-009.html": "0f40b048928d073ab9340808a04bbd57a9bbf001b19344aeb49f7e011bb9afec"
+  },
+  "media": {
+    "storyboard.png": "a426294cf9d4ab9385b17438567778c09a6f1afa9b00c4c1ceaf3192ef23b3ce",
+    "publishing/cover-4x3.png": "671bcbb342f7198e9ffb01a1e80475acb06572703bc4806adcd92ca2545c19df",
+    "publishing/cover-3x4.png": "aa1452d40bd9c03a8d9491e018c88398a94d0c35e9b0e1c9e425cdf1ff0295e0"
+  }
+}

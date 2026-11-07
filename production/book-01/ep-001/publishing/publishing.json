@@ -1,0 +1,89 @@
+{
+  "episode": "B01E001",
+  "title": "让分身替我说句Hello，他竟然当上班长？｜英语有续集001",
+  "description": "小帅只想让分身替自己说句 Hello，分身却举手自荐，成了试任一周的班长，还带回三份时间重叠、等待确认的活动邀请。一个只想回家，一个主动接受挑战——换作你，会先处理哪件事？跟着本集校园故事，学习 confidence、volunteer、goal、challenge、schedule。英文解说＋中英字幕，故事还没完。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "英语自我介绍",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "班长试任",
+    "自信表达",
+    "自愿报名",
+    "学习目标",
+    "接受挑战",
+    "日程安排",
+    "时间冲突",
+    "confidence",
+    "volunteer",
+    "goal",
+    "challenge",
+    "schedule"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 001",
+    "headline": [
+      "只让你说 Hello",
+      "你怎么当上班长了？"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-001-封面-4x3.png",
+      "alt": "第001集4比3横版封面：只让你说Hello，你怎么当上班长了？红内搭的小帅惊讶地拿着夹板，蓝内搭的分身竖起拇指。",
+      "sha256": "ed69dfade5f7ac00f35ffc0a7f6e3f5cab37c40852c9cb4254d6a35271bf0ee0",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-bc112146-82ac-4ee1-901e-20b4e0703590.png",
+      "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-e9dacc34-1b76-4f7b-82ed-f68ae07c582f.png",
+      "correction_prompt": "image-correction-prompt.txt"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-001-封面-3x4.png",
+      "alt": "第001集3比4竖版封面：只让你说Hello，你怎么当上班长了？红内搭的小帅和蓝内搭的分身同框，突出相同外貌与不同反应。",
+      "sha256": "58d5bc76d00c301a0361c24afb3c8ee55f0edde4c7ee8791f49d64aa531aac26",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-4ec1d7bf-7f10-4161-bf5b-7560413c7ffc.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "prompts": "image-prompts.txt"
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

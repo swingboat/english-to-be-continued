@@ -1,0 +1,11 @@
+{
+  "name": "高马尾同学",
+  "reviewed_on": "2026-11-02",
+  "selection_status": "selected",
+  "source": "current-chat-user-clarification",
+  "user_feedback": "我们在会话“每个角色的语音”中不是已经确认了每个人物的声音了吗？",
+  "note": "按用户本次说明采用当前已有参考音色；本记录不表示补做了一次逐人试听。",
+  "reference_audio": "高马尾同学.wav",
+  "reference_text": "高马尾同学.txt",
+  "current_audio_sha256": "92f29074e546e6693df870fa47790874706593d817351e305dcae0965c0696de"
+}

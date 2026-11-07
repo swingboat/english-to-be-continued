@@ -1,0 +1,92 @@
+{
+  "episode": "B01E010",
+  "title": "戒手机差点把节目也删了？｜英语有续集010",
+  "description": "整理分心截图时，分身把节目准备文件夹也一起选中了。删除确认框弹出的瞬间，小帅喊停、按下取消，短试音和口述草稿都还在。三人改为减少提醒、关掉多余标签，再集中准备一个采访故事。少一点打断，不必把成果也清空。你会先关掉哪种提醒？跟着故事学习 addict、reduce、remove、entirely、stressed。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "减少打断",
+    "保留成果",
+    "误删取消",
+    "节目准备",
+    "整理文件",
+    "专注任务",
+    "通知管理",
+    "addict",
+    "reduce",
+    "remove",
+    "entirely",
+    "stressed"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 010",
+    "headline": [
+      "为了戒手机",
+      "差点删掉节目！"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-010-封面-4x3.png",
+      "alt": "第010集横版封面 · 4:3：为了戒手机，差点删掉节目！。",
+      "sha256": "e498ca68f4783364081be6ce47464604f47b62f3dc8e67d9d519f09bfd3d217d",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-9b3879ea-cf45-45d9-a582-bbcba9e78472.png"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-010-封面-3x4.png",
+      "alt": "第010集竖版封面 · 3:4：为了戒手机，差点删掉节目！。",
+      "sha256": "823401dd686b691db6d29f787ea1288158b89b3ef1f1106cd147045e39a7fe52",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-c67032f6-0c93-45f8-ae0a-54a56d6617d5.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

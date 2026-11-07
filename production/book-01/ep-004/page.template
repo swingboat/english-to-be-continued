@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="description" content="英语有续集第一册第四集：完整剧本、八幅漫画、五个学习单词、24组双语字幕与六位人物的离线音色试听。">
+<title>第 004 集 · 两张脸，只能领一张学生任务单。｜英语有续集</title>
+<style>@@FONT_CSS@@
+.panel-raster{background-image:url("@@SHEET_URI@@")}
+@@PAGE_CSS@@</style>
+<link rel="icon" href="data:,">
+</head>
+<body>
+<a class="skip" href="#script">跳到完整剧本</a>
+<header class="header"><div class="header-inner"><a class="brand" href="#top">英语有续集<span>第一册 · 第四集</span></a><nav class="nav" aria-label="本集内容"><a href="#script">剧本</a><a href="#words">单词</a><a href="#cast">人物与配音</a><a href="#publishing">发布资料</a></nav></div></header>
+<main id="top">
+<section class="hero" aria-labelledby="episode-title"><div class="hero-copy"><h1 id="episode-title"><span>两张脸，</span><span>一张任务单。</span></h1><div class="hero-intro"><p class="intro-copy">跟着小帅的分身故事学英语。学校里的责任，家里的碗，两个人都得自己面对。</p><a class="button primary" href="#script">阅读本集</a></div></div><div class="hero-band"><figure class="hero-picture">@@COVER_ART@@<figcaption>老师只把学生任务单交给本人。</figcaption></figure><figure class="hero-picture home-picture">@@HOME_ART@@<figcaption>回到家，一个洗碗，一个擦碗。</figcaption></figure></div></section>
+<div class="page-body">
+<aside class="language-note" aria-labelledby="language-note-title"><h2 id="language-note-title">英文解说与双语字幕</h2><div><p>本集采用小帅（Xiaoshuai）的第一人称英文解说。每条英文正文都是可直接朗读的解说稿，也是英文字幕；紧接的中文行为逐句对应的简体中文字幕。</p><p>只朗读英文正文，编号与类型标签不朗读。人物引语由小帅转述，心声沿用他的声音，角色对白参考另列。配音、剪辑与字幕时间轴在另一个项目完成。</p></div><dl class="episode-facts"><div><dt>8 幅</dt><dd>故事图片与完整分镜</dd></div><div><dt>@@SUBTITLE_COUNT@@ 组</dt><dd>英文解说与双语字幕</dd></div><div><dt>5 个</dt><dd>本集学习单词</dd></div><div><dt>6 位</dt><dd>人物与离线音色试听</dd></div></dl></aside>
+<div class="word-strip" aria-label="本集学习单词">@@WORD_LINKS@@</div>
+<section class="section" id="script" aria-labelledby="script-title"><div class="section-head"><h2 id="script-title">完整剧本与图片</h2><p>从向老师和父母说明，到两个人共同洗碗。每格的英文解说、中英字幕、人物对白和表演语气均在这里。</p></div><nav class="contents" aria-label="故事段落">@@CONTENTS@@</nav><ol class="scenes">@@SCRIPT_SCENES@@</ol></section>
+<section class="section word-section" id="words" aria-labelledby="words-title"><div class="section-head"><h2 id="words-title">五个词，回到校园里</h2><p>从 previous school 回想过去，到 senior secondary school 面对现在。把词义、例句和故事里的行动连起来。</p></div><div class="vocab-grid">@@WORD_CARDS@@</div>@@REVIEW_WORDS@@@@SUPPLEMENTAL_REVIEW@@</section>
+<section class="section" id="cast" aria-labelledby="cast-title"><div class="section-head"><h2 id="cast-title">人物与配音设定</h2><p>六位人物的参考语音均已内嵌，支持离线播放，不自动播放。试听用于辨认音色，并供后续视频项目录制本集解说和对白时参考。</p></div><div class="voice-routing"><h3>英文解说用小帅的声音</h3><div><p>全部 24 条英文解说由小帅讲述。分身和妈妈的引语也由他转述，保持小帅的声线；EN021 为内心独白，声音略收、稍留停顿。</p><p>角色对白若另行录制，按下表使用各自的固定音色。爸爸第 5 格的画外音、老师和妈妈的电话，以及后续采访回放，均沿用对应人物的声音。</p><p>小帅与分身保持相近的少年男声，通过自信程度与节奏区分。每镜的解说情绪与角色语气在剧本中单列；下方试听文本是音色参考文本。</p></div></div><div class="cast-grid">@@CAST_CARDS@@</div><p class="cast-source">音色及采用状态依据 <code>voices/book-01/cast.json</code> 和人物目录中的试听反馈。年龄为配音设计年龄感。苏小满保留“暂定采用”，其他五位均已选定；参考 WAV 与文本的项目路径逐人列出。</p></section>
+@@PUBLISHING_SECTION@@
+@@TOPIC_RESEARCH@@
+<section class="section continuity-section" aria-labelledby="continuity-title"><h2 id="continuity-title">责任分清了，故事待续</h2><details class="continuity"><summary>本集结果与后续承接</summary><div class="continuity-grid"><div><h3>本集留下的结果</h3><ul>@@CONTINUITY_END@@</ul></div><div><h3>继续故事时记住这些</h3><ul>@@CONTINUITY_PROPS@@</ul></div></div><div class="next"><h3>下一集：先问大家怎么跑</h3><p>小帅准备询问同学的晨间活动意愿，具体跑步强度、休息和参加方式仍待商量。明早由他和老师在现场协调，分身先在家协助计时准备。</p></div></details></section>
+</div>
+</main>
+<footer class="footer"><h2>各做一份，<br>故事待续。</h2><div><p>英语有续集 · 第一册第四集<br>两张脸，只能领一张学生任务单。<br>我被自己的分身卷了</p><nav class="footer-nav" aria-label="返回本集内容"><a href="#script">再读剧本</a><a href="#words">复习单词</a><a href="#cast">试听人物</a><a href="#top">回到开头</a></nav></div><p class="credits">原创校园故事 · 本集插画由 imagegen 生成 · 字体 Schibsted Grotesk（SIL OFL）</p></footer>
+<script>@@PAGE_JS@@</script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+{
+  "episode": "B01E015",
+  "checked_on": "2026-11-01",
+  "status": "passed",
+  "static": {
+    "scenes": 8,
+    "embedded_pngs": 1,
+    "image_dimensions": [
+      1024,
+      1536
+    ],
+    "panel_clip_windows": 8,
+    "new_words": 5,
+    "main_review_words": 2,
+    "supplemental_review_words": 11,
+    "unique_review_words": 13,
+    "subtitle_pairs": 22,
+    "narration_words": 164,
+    "dialogue_entries": 24,
+    "source_subtitles_match": true,
+    "am_time_marker_vs_be_verb_tested": true,
+    "am_keyword_links_in_narration": 2,
+    "vocabulary_source_pages_match": true,
+    "unique_ids_and_valid_anchors": true,
+    "offline_single_file": true,
+    "no_video_audio_script_controls": true,
+    "previous_14_episodes_unchanged": true,
+    "total_episodes": 72,
+    "delivered_episodes": 15,
+    "total_vocabulary_entries": 358,
+    "first_appearance_html_ready": 72,
+    "document_links_exist": true
+  },
+  "html_sha256": "acae826b1ef09efd71ed22d28df9837c709738cfb5be2d5f5f62c9ed13a3e071",
+  "image_sha256": "865f6f7fdb0ba01f348c10d4e1cd4dc897b412e97f63c03a3692a64c91c1b933",
+  "images": {
+    "mode": "built-in imagegen reference generation",
+    "selected_original": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-84fbc6e4-fde7-4159-8799-cbb30d138453.png",
+    "asset": "production/book-01/ep-015/storyboard.png",
+    "prompts": "production/book-01/ep-015/image-prompt.txt"
+  },
+  "browser": {
+    "tool": "tabbit-cli",
+    "layouts": [
+      {
+        "viewport_width": 375,
+        "document_width": 375,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      },
+      {
+        "viewport_width": 768,
+        "document_width": 768,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      },
+      {
+        "viewport_width": 1440,
+        "document_width": 1440,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      }
+    ],
+    "word_links_checked": [
+      "apartment",
+      "living room",
+      "am",
+      "shift",
+      "from time to time"
+    ],
+    "am_time_links_checked_scenes": [
+      1,
+      6
+    ],
+    "incorrect_be_am_links_in_review": 0,
+    "review_links_checked": [
+      "schedule",
+      "pressure"
+    ],
+    "dialogue_expand_collapse": true,
+    "supplemental_answers_checked": [
+      "hardware",
+      "teen"
+    ],
+    "expanded_review_overflow": [],
+    "mobile_table_width": 343,
+    "mobile_table_scroll_width": 343,
+    "screenshots": [
+      "desktop-cover.png",
+      "desktop-subtitles.png",
+      "mobile-subtitles.png"
+    ],
+    "visual_review": "passed"
+  },
+  "bytes": 16986168,
+  "sha256": "f87591c34fccabf2cf90d33580e52e690e151a950144269baa4f1410dd94d66a",
+  "distinct_embedded_images": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json",
+  "publishing_browser_verified": true
+}

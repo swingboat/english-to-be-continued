@@ -1,0 +1,92 @@
+{
+  "episode": "B01E007",
+  "title": "分工表上两个小帅，到底谁负责？｜英语有续集007",
+  "description": "同一个名字在分工表上写了两遍，事情却没说清谁负责。小帅留下来求助，指导老师找到了松动的音频线。三人重新写明主编、统筹和声音协助，各自为自己的工作签名。知道什么时候求助，也是在认真负责。你做小组任务时会先确认什么？跟着故事学习 responsible、be responsible for、function、seek、professional。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "明确分工",
+    "承担责任",
+    "主动求助",
+    "校园广播",
+    "设备检查",
+    "团队协作",
+    "个人签名",
+    "responsible",
+    "be responsible for",
+    "function",
+    "seek",
+    "professional"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 007",
+    "headline": [
+      "两个小帅都签名",
+      "到底谁来负责？"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-007-封面-4x3.png",
+      "alt": "第007集横版封面 · 4:3：两个小帅都签名，到底谁来负责？。",
+      "sha256": "718bc443a134f6c3898889582cc9e7b9e9396631ed61601554e34caa1225372c",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-4787d28c-3466-4014-a4b3-e71da6337cac.png"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-007-封面-3x4.png",
+      "alt": "第007集竖版封面 · 3:4：两个小帅都签名，到底谁来负责？。",
+      "sha256": "25949e2f91dc1d47b43c083f9c5e61bd4beaa2610b2af18c7a510648dc323383",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-4f3d2ca2-d727-4516-8406-f6de7ac6abb2.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

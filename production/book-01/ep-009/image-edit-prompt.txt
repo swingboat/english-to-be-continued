@@ -1,0 +1,8 @@
+Use case: precise-object-edit / identity-preserve
+Edit target: the supplied Episode 009 eight-panel comic sheet.
+Change ONLY the SECOND ROW RIGHT panel, panel 4. Keep all other seven panels unchanged.
+In panel 4, replace the large tablet-like floating screen in the foreground with the SAME SILVER CLAMSHELL LAPTOP seen throughout the sheet. The laptop must sit ON THE DINING TABLE, with its keyboard/base and hinge clearly visible. Its screen can be tilted toward the viewer and show the same generic blank chat-invite grid, no lettering or numbers. No separate tablet exists.
+The foreground boy demonstrating the laptop is the CLONE: his white-and-teal jacket must have a clearly CYAN BLUE undershirt all the way from collar to waist, with NO red fabric patch. His face and messy black hair stay identical, no glasses.
+The ORIGINAL boy remains at the right/back looking toward the clock, wearing the plain RED T-SHIRT, and must stay a separate person with separate face/body.
+Preserve mother at left with low ponytail, cream cardigan and sage-green blouse carrying lunch; preserve Xiaoman at lower right with bob and round glasses holding the nearly blank notebook. Keep all four people, their expressions, warm home environment and noon clock.
+Preserve exact 2-column by 4-row comic layout, dimensions, gutters, colors and manga quality. No text, digits, speech bubbles or new objects. Only fix panel 4's laptop-versus-tablet and the clone's blue undershirt.

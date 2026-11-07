@@ -1,0 +1,615 @@
+{
+  "id": "B01E009",
+  "number": 9,
+  "title": "搜了三小时，收获二十个聊天群。",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "独立阅读 HTML：英文解说、中英字幕、图片、学习单词",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      887,
+      1774
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        433,
+        403
+      ],
+      [
+        450,
+        3,
+        434,
+        403
+      ],
+      [
+        3,
+        419,
+        433,
+        405
+      ],
+      [
+        450,
+        419,
+        434,
+        405
+      ],
+      [
+        3,
+        836,
+        433,
+        393
+      ],
+      [
+        450,
+        836,
+        434,
+        393
+      ],
+      [
+        3,
+        1241,
+        433,
+        530
+      ],
+      [
+        450,
+        1241,
+        434,
+        530
+      ]
+    ]
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 22,
+  "words": [
+    {
+      "word": "chat",
+      "part": "动词",
+      "meaning": "聊天；闲聊",
+      "expression": "Soon we chat more than we search.",
+      "translation": "没多久，我们聊天比查资料还多。",
+      "usage": "chat 在这里作动词，描述三人从搜索变成在群聊、评论中闲聊。常见搭配有 chat with someone（和某人聊天）。",
+      "question": "三人嘴上说查资料，实际上聊天更多，可以怎样用 chat 表达？",
+      "scene": 3,
+      "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+    },
+    {
+      "word": "surf",
+      "part": "动词",
+      "meaning": "上网浏览；冲浪",
+      "expression": "I start to surf for funny videos.",
+      "translation": "我开始上网找搞笑视频。",
+      "usage": "surf 可以指冲浪，也可指上网浏览。本集的 for funny videos 表示浏览时寻找搞笑视频，和原来的采访任务逐渐偏离。",
+      "question": "小帅开始寻找搞笑视频时，surf 描述的是什么动作？",
+      "scene": 3,
+      "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+    },
+    {
+      "word": "surf the Internet",
+      "part": "短语",
+      "meaning": "网上冲浪；浏览互联网",
+      "expression": "We surf the Internet for interview ideas.",
+      "translation": "我们上网寻找采访思路。",
+      "usage": "surf the Internet 是整组表达，for interview ideas 说明最初的浏览目的。Internet 保留教材的首字母大写写法。",
+      "question": "怎样把 surf 和 the Internet 连起来，表达“上网寻找采访思路”？",
+      "scene": 2,
+      "source": "Unit 1 · 分单元词表第 107 页（PDF 第 109 页）"
+    },
+    {
+      "word": "media",
+      "part": "名词",
+      "meaning": "媒体；传播媒介",
+      "expression": "Radio is part of the media, too.",
+      "translation": "广播也是媒体的一部分。",
+      "usage": "the media 在这里统称媒体。苏小满意识到校园广播也要把材料整理清楚，记下来源，再决定怎样讲给听众。",
+      "question": "为什么苏小满说广播也是 media 的一部分后，要大家写清资料从哪里来？",
+      "scene": 5,
+      "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+    },
+    {
+      "word": "social media",
+      "part": "名词短语",
+      "meaning": "社交媒体",
+      "expression": "One link leads to social media.",
+      "translation": "一个链接把我们带到了社交媒体。",
+      "usage": "social media 指人们发布、分享内容并互动的社交媒体。本集的动态、评论和群聊入口让查资料变成不断点开新内容。",
+      "question": "搜索结果里的一个链接，把三人带到了什么平台环境？",
+      "scene": 2,
+      "source": "Unit 1 · 分单元词表第 108 页（PDF 第 110 页）"
+    }
+  ],
+  "review_words": [
+    {
+      "word": "search engine",
+      "meaning": "搜索引擎",
+      "expression": "We use a search engine to find interview ideas.",
+      "translation": "我们用搜索引擎寻找采访思路。",
+      "scene": 1
+    },
+    {
+      "word": "digital",
+      "meaning": "数字的；数码的",
+      "expression": "We open a digital notebook for useful leads.",
+      "translation": "我们打开数字笔记，准备记下有用线索。",
+      "scene": 1
+    }
+  ],
+  "supplemental_review_words": [
+    {
+      "word": "stressful",
+      "meaning": "充满压力的；令人紧张的",
+      "expression": "This is stressful!",
+      "translation": "这也太让人紧张了！",
+      "question": "回想第二集：三个活动撞期让小帅紧张。补全 This is ___!",
+      "first_teaching_episode": 2
+    },
+    {
+      "word": "challenging",
+      "meaning": "富有挑战性的；有难度的",
+      "expression": "It's challenging, but possible.",
+      "translation": "很有挑战性，但能做到。",
+      "question": "回想第二集：分身认为虽然有挑战但能做到。补全 It's ___, but possible.",
+      "first_teaching_episode": 2
+    },
+    {
+      "word": "arise",
+      "meaning": "（问题或困难）出现；发生",
+      "expression": "Problems arise when you say yes to everything.",
+      "translation": "什么都答应，麻烦就来了。",
+      "question": "什么都答应时问题容易出现。补全 Problems ___ when you say yes to everything.",
+      "first_teaching_episode": 2
+    },
+    {
+      "word": "expectation",
+      "meaning": "期待；预料；预期",
+      "expression": "We have different expectations.",
+      "translation": "我们俩的期待不一样。",
+      "question": "第二集中两人期待不同。补全 We have different ___. 注意复数。",
+      "first_teaching_episode": 2
+    },
+    {
+      "word": "pressure",
+      "meaning": "压力",
+      "expression": "I'm under pressure.",
+      "translation": "我现在压力好大。",
+      "question": "小帅承认有压力。补全 I'm under ___.",
+      "first_teaching_episode": 2
+    },
+    {
+      "word": "responsible",
+      "meaning": "负责任的；负责的",
+      "expression": "Being responsible also means knowing when to ask.",
+      "translation": "负责任，也意味着知道什么时候该求助。",
+      "question": "回想第七集：负责任也意味着知道何时求助。补全 Being ___ also means knowing when to ask.",
+      "first_teaching_episode": 7
+    },
+    {
+      "word": "be responsible for",
+      "meaning": "对……负责；负责……",
+      "expression": "I will be responsible for the schedule.",
+      "translation": "我会负责时间安排。",
+      "question": "怎样表达负责时间安排？补全 I will ___ the schedule.",
+      "first_teaching_episode": 7
+    },
+    {
+      "word": "function",
+      "meaning": "功能；作用",
+      "expression": "What is the function of this button?",
+      "translation": "这个按钮有什么功能？",
+      "question": "分身问按钮有什么功能。补全 What is the ___ of this button?",
+      "first_teaching_episode": 7
+    },
+    {
+      "word": "seek",
+      "meaning": "寻求；请求",
+      "expression": "We need to seek help.",
+      "translation": "我们需要寻求帮助。",
+      "question": "第七集小帅留下寻求帮助。补全 We need to ___ help.",
+      "first_teaching_episode": 7
+    },
+    {
+      "word": "professional",
+      "meaning": "专业的；职业的",
+      "expression": "Now we have someone with professional experience.",
+      "translation": "现在，有具备专业经验的人来帮忙了。",
+      "question": "谁能提供合适的经验？补全 Now we have someone with ___ experience.",
+      "first_teaching_episode": 7
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "借来的电脑，写好的任务",
+      "place": "周六上午九点 · 小帅家中",
+      "shot": "妈妈把水果盘放到家中餐桌，三名学生围着同一台银色笔记本电脑与苏小满的笔记本开始查资料。小帅在家脱下外套穿红色 T 恤，黑色手机放在手边；蓝内搭分身坐在电脑旁。妈妈为低马尾、米色开衫配绿色上衣。",
+      "action": "周五离校前，指导老师已登记同意周末借用电脑，家长知情，周一归还。苏小满与家长说好后周六来小帅家合作，妈妈在家。学校的麦克风和音箱没有带回，分身也没有周末自行进校。三人仍围绕“入学第一天得到的帮助”查找采访思路，数字笔记只建好栏目，还没有采访材料。",
+      "sound": "水果盘轻放；电脑打开，笔记本翻到采访页。",
+      "cues": [
+        {
+          "who": "妈妈",
+          "text": "老师登记借回的电脑，周一记得带回去。你们先把今天要找什么说清楚。"
+        },
+        {
+          "who": "苏小满",
+          "text": "还是第一天得到过什么帮助。每个人先找一条能用的线索。"
+        },
+        {
+          "who": "小帅",
+          "text": "数字笔记开好了，先用搜索引擎找思路。"
+        },
+        {
+          "who": "分身",
+          "text": "这次我一定带回很多资料。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "On Saturday, we work at my home, using the borrowed laptop.",
+          "zh": "周六，我们用借来的电脑在我家一起准备。"
+        },
+        {
+          "id": "EN002",
+          "en": "We use a search engine to find interview ideas.",
+          "zh": "我们用搜索引擎寻找采访思路。"
+        },
+        {
+          "id": "EN003",
+          "en": "We open a digital notebook for useful leads.",
+          "zh": "我们打开数字笔记，准备记下有用线索。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "一个链接，还有下一个",
+      "place": "同一张餐桌 · 刚开始浏览",
+      "shot": "电脑显示无品牌的搜索框、动态卡片与评论气泡示意，三人好奇地靠近。分身看电脑，苏小满拿着笔记本，小帅的黑色手机仍在桌上。",
+      "action": "最初的搜索是为采访服务。三人点开一个讨论入学经历的链接，接着被相关动态和评论吸引，不断跳到下一条。尚未记录可追溯的具体采访对象。",
+      "sound": "鼠标轻点；几次短促的“这个也看看”。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "We surf the Internet for interview ideas.",
+          "zh": "我们上网寻找采访思路。"
+        },
+        {
+          "who": "苏小满",
+          "text": "这条在聊开学经历，我看一下大家怎么说。"
+        },
+        {
+          "who": "分身",
+          "text": "旁边还有相关讨论，再开一个。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN004",
+          "en": "We surf the Internet for interview ideas.",
+          "zh": "我们上网寻找采访思路。"
+        },
+        {
+          "id": "EN005",
+          "en": "One link leads to social media.",
+          "zh": "一个链接把我们带到了社交媒体。"
+        },
+        {
+          "id": "EN006",
+          "en": "The next link looks interesting, too.",
+          "zh": "下一个链接看着也挺有意思。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "嘴上查资料，手上看小猫",
+      "place": "餐桌与旁边沙发 · 越看越偏",
+      "shot": "小帅在沙发边举着自己的黑色手机，被猫视频逗笑。餐桌旁分身指着电脑里的聊天气泡，苏小满正轮到用同一台电脑回复评论，笔记本暂时搁在旁边。三人只有一台电脑和一部手机。",
+      "action": "浏览渐渐偏离问题。小帅看起搞笑视频，苏小满以为评论能提供观点，自己却加入了争论；分身不断收藏讨论群入口。大家都参与了分心，不把失误只推给分身。",
+      "sound": "三人的笑声、键盘轻响，消息提示偶尔插进来。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "这只猫第一天上学的表情……你们看一眼，就一眼。"
+        },
+        {
+          "who": "苏小满",
+          "text": "等一下，这条评论我得回。他把问题说反了。"
+        },
+        {
+          "who": "分身",
+          "text": "这个讨论群也能找灵感，我先收藏入口。"
+        },
+        {
+          "who": "小帅",
+          "text": "我们不是在查采访资料吗？……先看完这一条。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN007",
+          "en": "I start to surf for funny videos.",
+          "zh": "我开始上网找搞笑视频。"
+        },
+        {
+          "id": "EN008",
+          "en": "Soon we chat more than we search.",
+          "zh": "没多久，我们聊天比查资料还多。"
+        },
+        {
+          "id": "EN009",
+          "en": "Xiaoman starts replying to a debate. I watch a cat.",
+          "zh": "小满开始回复一场争论，我则看着一只猫。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "二十个群，半页采访都没有",
+      "place": "中午十二点 · 妈妈端来午饭",
+      "shot": "妈妈端着午饭回到餐桌，带着一点平静的笑意。分身展示电脑里一排排群聊入口，小帅意外地看向墙上的钟，苏小满摊开几乎空白的采访页。图片不写具体数字，三小时与二十个入口由 HTML 说明。",
+      "action": "三小时过去，分身收藏了二十个群聊邀请入口，却没有明确的采访对象或可直接采用的材料，并不表示加入了二十个群。苏小满承认只抄了句热评，还找不到这是谁的经历。妈妈让他们趁最后一道菜上桌前，说清上午到底留下了什么。",
+      "sound": "饭碗轻放；三人看时间后短暂停住。",
+      "cues": [
+        {
+          "who": "妈妈",
+          "text": "最后一道菜马上好。你们查了三小时，查到的东西能下饭吗？"
+        },
+        {
+          "who": "分身",
+          "text": "我收藏了二十个群聊入口！"
+        },
+        {
+          "who": "苏小满",
+          "text": "我只抄了一句热评，还不知道是谁的经历。采访页几乎没动。"
+        },
+        {
+          "who": "小帅",
+          "text": "我连猫的表情都记住了，就是没记下一条素材。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN010",
+          "en": "Three hours later, Mum brings lunch.",
+          "zh": "三小时后，妈妈端来了午饭。"
+        },
+        {
+          "id": "EN011",
+          "en": "My clone has saved twenty group invites.",
+          "zh": "分身收藏了二十个群聊邀请入口。"
+        },
+        {
+          "id": "EN012",
+          "en": "Our interview page is still almost empty.",
+          "zh": "我们的采访页却仍然几乎空着。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "各带回一条，说清从哪来",
+      "place": "同一张餐桌 · 收回注意力",
+      "shot": "小帅把黑色手机正面朝下放好，指向笔记本里空着的采访页。苏小满和分身收起笑意，分身关掉电脑上多余的动态页。妈妈回厨房准备最后一道菜。",
+      "action": "小帅问现在哪条材料能真正用在节目里。苏小满想到广播也是媒体，热闹本身不能替代真实的经历。三人重新约定：每人带回一条有明确来源的线索，能直接讲的与仍需核对的分开记。",
+      "sound": "手机轻放到桌面；多余页面关闭，提示音少下来。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "先各带回一条真正有用的线索，写清从哪来。我们现在能用哪一条？"
+        },
+        {
+          "who": "苏小满",
+          "en": "Radio is part of the media, too.",
+          "zh": "广播也是媒体的一部分。"
+        },
+        {
+          "who": "苏小满",
+          "text": "我们得知道是谁的经历、愿不愿意讲，不能只抄一句热评。"
+        },
+        {
+          "who": "分身",
+          "text": "好。我去找能对照的资料，群入口先不加了。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN013",
+          "en": "\"What can we actually use?\" I ask.",
+          "zh": "我问：“我们到底能用什么？”"
+        },
+        {
+          "id": "EN014",
+          "en": "\"Radio is part of the media, too,\" Xiaoman says.",
+          "zh": "小满说：“广播也是媒体的一部分。”"
+        },
+        {
+          "id": "EN015",
+          "en": "We each need one useful lead, with a clear source.",
+          "zh": "我们每人需要一条有用线索，还要写清来源。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "自己的经历，愿意讲的人",
+      "place": "家中餐桌 · 短电话确认",
+      "shot": "小帅在纸上写自己的入学第一天经历，苏小满借用那一部黑色手机给同学打电话。分身在旁听着，翻看小帅带回的校园手册。没有第二部手机或通话分屏。",
+      "action": "小帅写下自己第一天英语紧张、苏小满等他把介绍说完的亲身经历。苏小满经小帅同意，借他的手机联系已认识的高马尾广播协助同学。对方愿意讲自己第一天找图书馆走错楼、被同学带路的经历，具体采访时间留到周一再约，本次只是确认意愿。",
+      "sound": "笔落纸；一小段普通电话对话，环境安静下来。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "我可以讲自己的第一天：怕说错，你等我把那句介绍说完了。这个我真经历过。"
+        },
+        {
+          "who": "苏小满",
+          "text": "借我手机问一下昨天帮忙的同学？问问她愿不愿意讲开学第一天的经历。"
+        },
+        {
+          "who": "小帅",
+          "text": "可以。你先问她愿不愿意讲。"
+        },
+        {
+          "who": "高马尾同学（电话）",
+          "text": "我愿意。我第一天走错了楼，有同学带我去图书馆。周一再约具体时间吧，我也准备吃饭了。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN016",
+          "en": "I write down my own first-day experience.",
+          "zh": "我写下自己入学第一天的经历。"
+        },
+        {
+          "id": "EN017",
+          "en": "Xiaoman calls our helper. She agrees to tell her story.",
+          "zh": "小满给来帮忙的同学打电话，对方愿意分享自己的故事。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "手册里的路，周一去核对",
+      "place": "同一张餐桌 · 三条线索汇合",
+      "shot": "分身展开小帅书包里校园新生手册的折页地图，指着路径和图书馆图标。小帅把三张简短来源记录放在一起，苏小满写进笔记本，黑色手机已回到桌上。",
+      "action": "分身在学校新生手册中找到图书馆的位置示意，可支持同学的问路故事，周一到校再核对具体路线。三人把本人经历、同学受访意愿、手册地图分别记下来源与待办。手册中的位置不是已经完成的实地采访，不把待核对线索写成定稿事实。",
+      "sound": "手册翻页；三张便笺依次放在桌上。",
+      "cues": [
+        {
+          "who": "分身",
+          "text": "手册里有图书馆的位置。周一回校，我们沿着这条路核对，再问她当时走到了哪儿。"
+        },
+        {
+          "who": "苏小满",
+          "text": "一条本人经历，一个愿意受访的人，一份能回校核对的地图。都有出处了。"
+        },
+        {
+          "who": "小帅",
+          "text": "这些才进准备笔记。采访时间和路线还要确认，先别当成最终稿。"
+        }
+      ],
+      "table": {
+        "caption": "留下的三条线索",
+        "columns": [
+          "线索与来源",
+          "目前能做什么"
+        ],
+        "rows": [
+          [
+            "小帅本人的首日经历",
+            "本人愿意分享，可先留一小段口述草稿"
+          ],
+          [
+            "高马尾同学的电话回应",
+            "受访意愿已确认，具体采访时间周一再约"
+          ],
+          [
+            "学校新生手册地图",
+            "已找到图书馆位置示意，周一到校核对路线"
+          ]
+        ]
+      },
+      "narration": [
+        {
+          "id": "EN018",
+          "en": "My clone opens the school guide and marks the library.",
+          "zh": "分身打开校园手册，标出图书馆的位置。"
+        },
+        {
+          "id": "EN019",
+          "en": "We have an experience, a willing speaker, and a place to check.",
+          "zh": "我们有了亲身经历、愿意分享的人，还有一个待核对的地点。"
+        },
+        {
+          "id": "EN020",
+          "en": "Each note says where the information came from.",
+          "zh": "每条记录都写清了信息从哪里来。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "第一段真故事，下一条新提醒",
+      "place": "午饭前收尾 · 半分钟口述草稿",
+      "shot": "小帅对着电脑内置麦克风简短讲述，苏小满用电脑保存一小段波形，分身在旁支持。原版那部黑色手机放在桌上亮起一个新通知。家里没有独立录音麦克风、音箱或新设备。",
+      "action": "三人重新确认做身边同学的生活采访，保留入学第一天得到帮助的选题。先用电脑内置麦克风留半分钟小帅自愿分享的个人口述草稿，与第八集的短试音一起存入广播准备工程，尚未剪辑或正式播出。收好电脑去吃午饭时，手机又亮起新消息，给下一集的清理干扰埋下引子；本集不删除文件。",
+      "sound": "一小段平静口述；保存后，新消息轻响一次。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "On my first day, I was nervous, but Xiaoman let me finish.",
+          "zh": "入学第一天我很紧张，但小满等我把话说完。"
+        },
+        {
+          "who": "苏小满",
+          "text": "先把这段存成口述草稿。正式采访再约，别照着热帖拼节目。"
+        },
+        {
+          "who": "分身",
+          "text": "终于多了一段我们自己的东西。"
+        },
+        {
+          "who": "妈妈（画外）",
+          "text": "该吃饭了，消息一会儿再看。"
+        },
+        {
+          "who": "小帅",
+          "text": "好，保存完就收。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN021",
+          "en": "We choose real interviews. For now, I record my own story.",
+          "zh": "我们选择做真实采访，眼下先录下我自己的故事。"
+        },
+        {
+          "id": "EN022",
+          "en": "Then another message lights up my phone.",
+          "zh": "这时，又一条新消息点亮了我的手机。"
+        }
+      ]
+    }
+  ],
+  "continuity": {
+    "start": "周五的个人承诺已完成，短数字试音已保存。三人开始找入学第一天采访问题的思路，试播仍定在下周三放学后 16:40—16:50。",
+    "end": [
+      "本集是周六上午九点到中午的家中合作；学校登记允许周末借电脑，家长知情并在家。分身没有周末擅自进校，学校麦克风和音箱也未带回。",
+      "搜索逐渐变成看搞笑视频、回复争论和收藏群入口，三人都分了心。二十个指收藏的群聊邀请入口，不表示已经加入或采访了二十个群。",
+      "留下三条可追溯线索：小帅本人的首日经历、已确认愿意受访的高马尾同学、待到校核对的手册地图。具体采访时间与路线核对仍留到周一安排。",
+      "小帅自愿留下一段半分钟个人口述草稿，与第八集短试音一起保存到广播准备工程；没有正式采访他人，也没有完成十分钟节目或播出。",
+      "选题仍是同学入学第一天得到的帮助，三人决定从身边人的真实经历继续准备，而不照着热帖拼节目。",
+      "新消息再次亮起，下一集处理提醒与工作文件的界限；本集没有删除软件或文件。",
+      "苏小满主编、小帅本人统筹、分身协助声音的分工不变，下周三放学后 16:40—16:50 的十分钟试播时段保留，月底篮球补选仍待申请。"
+    ],
+    "props": [
+      "银色笔记本电脑由学校登记周末借用，周一归还。只有一台电脑和原版的一部黑色手机，没有给分身新增手机或复制机会。",
+      "小帅在家可脱下外套，始终穿红色 T 恤；分身蓝内搭配白绿外套，两人不戴眼镜。苏小满戴圆眼镜，妈妈为低马尾、米色开衫配绿色上衣，不是广播指导老师。",
+      "黑色手机在第三格由小帅看视频，第五格正面朝下放好，第六格经同意借给苏小满打电话，第七格归还桌上，结尾亮起通知。",
+      "苏小满沿用广播笔记本；校园新生手册从小帅书包里取出，地图是虚构校园道具，不指向真实学校。",
+      "家中短口述使用笔记本内置麦克风，不出现准备室的桌面麦克风、音箱或耳机；只记录剧情里的草稿成果，本项目不生成音视频文件。",
+      "实际解说分别使用 surf、surf the Internet、media、social media，单词与固定短语有独立词卡；页内锚点统一小写，显示仍保留 Internet 的大写写法。"
+    ],
+    "next": "第 010 集在午饭后继续整理，分身想清空干扰，却误选包含短试音和个人口述草稿的广播准备工程，小帅及时拦住。"
+  }
+}

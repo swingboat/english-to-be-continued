@@ -1,0 +1,21 @@
+第一册抖音合集方形封面
+日期：2026-11-02
+制作方式：内置 image_gen.imagegen 重新排版生成，随后使用 macOS sips 等比导出为精确的 1080×1080 PNG；无裁切。
+上传建议依据：用户在当前会话提供“文件大小不超过5M，分辨率1080*1080最佳”；按不超过5,000,000字节校验。
+参考图：branding/douyin/book-01-collection/cover-3x4.png
+最终文件：cover-1080x1080.png
+
+【完整生成提示词】
+Use case: ads-marketing.
+Asset type: Ready-to-upload Douyin Book 1 COLLECTION cover. Edit/recompose the referenced existing portrait collection cover into a SQUARE, target exactly 1080 x 1080 pixels, 1:1 aspect ratio.
+Input image 1: EDIT TARGET and strict identity/style/copy reference. Preserve the same two teenage characters, their same facial identities, same age, same school uniforms, same red and cyan undershirts, warm hand-painted cinematic anime art, deep-teal/ivory/red/cyan palette, sunlit ordinary high-school corridor, and comedy premise. This is a new square composition of the same cover.
+Primary request: Redesign the layout naturally to fill a square canvas. Keep all words and both faces fully visible and large at thumbnail size. Do not stretch or simply crop the portrait.
+Composition: Small brand at top; very bold two-line Chinese story title in the upper area on clean warm-ivory space, with a narrow textbook label beneath. Two expressive waist/chest-up boys form a close pair in the lower half, both heads fully visible and distinct from the text. Original Xiaoshuai with red inner shirt looks comically shocked and holds one clipboard. His ONE solid human clone with cyan-blue inner shirt grins confidently and volunteers with one raised hand; adjust the height/pose so the entire palm fits within the square and does not cover any text or face. Same face, same messy short black hair, no glasses, natural five-fingered hands. Only two people. Clipboard uses only abstract marks, no extra writing. Keep important content inside an approximately 7% safety margin. No extra props or scenes.
+Text (verbatim, preserve and render all these four lines exactly):
+Small brand: “英语有续集”
+Large title line 1: “我被自己的”
+Large title line 2: “分身卷了”
+Textbook label: “北师大版 · 英语必修第一册”
+Typography: Heavy clean simplified-Chinese sans serif, high contrast and readable. Emphasize “分身” in warm red, rest of main title deep teal. Keep the headline the strongest visual focus. Preserve the refined warm-ivory title backdrop and restrained yellow underline of the reference. Simplify decorative marks where necessary for square legibility.
+Constraints: Square 1:1, target 1080x1080. The same existing story and copy only. No episode number, no additional captions, no “全集”, no “已完结”, no trophies or future plot outcomes, no platform UI, no play button, no watermarks, no letterboxing or borders. Opaque background. Deliver a polished final collection cover.
+

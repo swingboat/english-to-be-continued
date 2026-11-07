@@ -1,0 +1,92 @@
+{
+  "episode": "B01E008",
+  "title": "电脑有波形却没声？先放下采购单｜英语有续集008",
+  "description": "录音波形明明在，却听不到声音。分身已经列出两页硬件采购单，还挡住了屏幕。小满发现播放轨道被静音，在指导老师帮助下取消静音，同一段试音终于能听见了。设备够用，先把情况看清，再查采访资料。你也遇过这种小误会吗？跟着故事学习 laptop、digital、hardware、engine、search engine。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "录音试音",
+    "轨道静音",
+    "采购清单",
+    "先查原因",
+    "设备够用",
+    "信息查找",
+    "校园广播",
+    "laptop",
+    "digital",
+    "hardware",
+    "engine",
+    "search engine"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 008",
+    "headline": [
+      "电脑没坏！",
+      "是我们点错了"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-008-封面-4x3.png",
+      "alt": "第008集横版封面 · 4:3：电脑没坏！，是我们点错了。",
+      "sha256": "7ba209ec286ee6ef5b4ce51a77b0506fdba305b1a6d6540d1b236c26b68d9538",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-ede96b4d-ed12-40a9-9a1d-3e3e1cece0f7.png"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-008-封面-3x4.png",
+      "alt": "第008集竖版封面 · 3:4：电脑没坏！，是我们点错了。",
+      "sha256": "6260759b2e270931f787f51be9b3eec8977ede5822f495546b05a5e643cce833",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-d528ffa1-bb1a-4cbb-9df4-2382f927d780.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

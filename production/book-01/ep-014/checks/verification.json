@@ -1,0 +1,120 @@
+{
+  "episode": "B01E014",
+  "checked_on": "2026-11-01",
+  "status": "passed",
+  "static": {
+    "kind": "review-story",
+    "scenes": 8,
+    "embedded_pngs": 1,
+    "image_dimensions": [
+      1024,
+      1536
+    ],
+    "panel_clip_windows": 8,
+    "new_words": 0,
+    "core_review_cards": 6,
+    "supplemental_review_cards": 10,
+    "unique_review_words": 16,
+    "subtitle_pairs": 22,
+    "narration_words": 168,
+    "dialogue_entries": 22,
+    "source_subtitles_match": true,
+    "vocabulary_first_teaching_and_pages_match": true,
+    "unique_ids_and_valid_anchors": true,
+    "offline_single_file": true,
+    "no_video_audio_script_controls": true,
+    "ten_minute_flow_table_verified": true,
+    "previous_13_episodes_unchanged": true,
+    "total_episodes": 72,
+    "delivered_episodes": 14,
+    "total_vocabulary_entries": 358,
+    "first_appearance_html_ready": 67,
+    "no_new_first_appearance_in_review_episode": true,
+    "document_links_exist": true
+  },
+  "html_sha256": "c853e83d17fa0ce0135d2add27f62b61c0d502fc6afa19c32b68ba59b1a4dd08",
+  "image_sha256": "3b860bea2961011c4f178b85f4e6afd30599cdf0ced94d616eecac6d67b60f92",
+  "images": {
+    "mode": "built-in imagegen reference generation + cue card and clock continuity edit",
+    "initial_original": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-205e2957-940e-457f-8a23-439e576b50cd.png",
+    "selected_original": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-c36ca976-9bcb-46ec-b7c6-7697a99c330b.png",
+    "asset": "production/book-01/ep-014/storyboard.png",
+    "prompts": "production/book-01/ep-014/image-prompt.txt"
+  },
+  "browser": {
+    "tool": "tabbit-cli",
+    "layouts": [
+      {
+        "viewport_width": 375,
+        "document_width": 375,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      },
+      {
+        "viewport_width": 768,
+        "document_width": 768,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      },
+      {
+        "viewport_width": 1440,
+        "document_width": 1440,
+        "overflow": [],
+        "scene_picture_windows": 8,
+        "external_resources": []
+      }
+    ],
+    "expanded_core_and_supplemental_layouts": [
+      {
+        "viewport_width": 375,
+        "document_width": 375,
+        "core_answers_open": 6,
+        "overflow": []
+      },
+      {
+        "viewport_width": 768,
+        "document_width": 768,
+        "core_answers_open": 6,
+        "overflow": []
+      },
+      {
+        "viewport_width": 1440,
+        "document_width": 1440,
+        "core_answers_open": 6,
+        "overflow": []
+      }
+    ],
+    "core_review_links_and_answers_checked": [
+      "confidence",
+      "volunteer",
+      "goal",
+      "schedule",
+      "organise",
+      "quality"
+    ],
+    "core_expand_collapse": true,
+    "dialogue_expand_collapse": true,
+    "supplemental_answers_checked": [
+      "be responsible for",
+      "according to"
+    ],
+    "mobile_table_width": 343,
+    "mobile_table_scroll_width": 343,
+    "screenshots": [
+      "desktop-cover.png",
+      "desktop-review.png",
+      "mobile-subtitles.png"
+    ],
+    "visual_review": "passed"
+  },
+  "bytes": 16010931,
+  "sha256": "7b2279fd52cc2eb08bbd5534f27d80d979e2c996b7ee2bcc361f38797b7aef6b",
+  "distinct_embedded_images": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json",
+  "publishing_browser_verified": true
+}

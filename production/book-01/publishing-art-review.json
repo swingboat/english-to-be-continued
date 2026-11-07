@@ -1,0 +1,546 @@
+{
+  "checked_on": "2026-11-01",
+  "status": "passed",
+  "mode": "built-in image_gen.imagegen",
+  "selected_covers": 28,
+  "notes": [
+    "Episode 002 clipboard corrected to neutral rows, not three rejected invitations.",
+    "Episode 005 cover excludes the clone from the school track.",
+    "Episode 014 uses exactly three cue cards and unlit pre-broadcast indicators.",
+    "Episode 015 mother has a low ponytail, cream cardigan and green blouse; no school audio gear at home."
+  ],
+  "assets": [
+    {
+      "episode": 2,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-002/publishing/cover-4x3.png",
+      "sha256": "c8f6cc4ae4d98acb82db9f6523a6c57a91bc01bc1e0f159e515c6bdf31b3ef42",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 2,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-002/publishing/cover-3x4.png",
+      "sha256": "74c4c45f08cf7eb1fe8c2e196263d6ed9aaa5cffacbabe4b722b82982cf35d8b",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 3,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-003/publishing/cover-4x3.png",
+      "sha256": "ea7976654a4f82d8659b5e5c0586dfc83f1c3527f5b17bd8d2ffa38d27c7b243",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 3,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-003/publishing/cover-3x4.png",
+      "sha256": "60dce0b1af262c1f44ceb5d713c1fad3feec95e6466d76035fd98f52292b5646",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 4,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-004/publishing/cover-4x3.png",
+      "sha256": "585cad385add38dd6d226ebf39ac4d4d54318d2066fd7dcb0c6a967591001bcc",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 4,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-004/publishing/cover-3x4.png",
+      "sha256": "bcf154c06e529616fd1d4f2ac92066e1eb58650bf99c811499b8c13af60f3cba",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 5,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-005/publishing/cover-4x3.png",
+      "sha256": "d1a55c340c779cddaa33b6b208bbc0329be86aba8c3b35fb1a1b2f1cc6ebfb90",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 5,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-005/publishing/cover-3x4.png",
+      "sha256": "163c74cb837f5f9b901d39f88ba6aad45cf04e2f263a8c09f4b2598f225ff430",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 6,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-006/publishing/cover-4x3.png",
+      "sha256": "671bcbb342f7198e9ffb01a1e80475acb06572703bc4806adcd92ca2545c19df",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 6,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-006/publishing/cover-3x4.png",
+      "sha256": "aa1452d40bd9c03a8d9491e018c88398a94d0c35e9b0e1c9e425cdf1ff0295e0",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 7,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-007/publishing/cover-4x3.png",
+      "sha256": "718bc443a134f6c3898889582cc9e7b9e9396631ed61601554e34caa1225372c",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 7,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-007/publishing/cover-3x4.png",
+      "sha256": "25949e2f91dc1d47b43c083f9c5e61bd4beaa2610b2af18c7a510648dc323383",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 8,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-008/publishing/cover-4x3.png",
+      "sha256": "7ba209ec286ee6ef5b4ce51a77b0506fdba305b1a6d6540d1b236c26b68d9538",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 8,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-008/publishing/cover-3x4.png",
+      "sha256": "6260759b2e270931f787f51be9b3eec8977ede5822f495546b05a5e643cce833",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 9,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-009/publishing/cover-4x3.png",
+      "sha256": "59d2e2774e48d01f62c57e5e122734a6b168cdc4885368bf5e9d2546652d4d14",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 9,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-009/publishing/cover-3x4.png",
+      "sha256": "7a94a4e111073951e2d5900206210f11ccdc276c40cde662658c3245752eec98",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 10,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-010/publishing/cover-4x3.png",
+      "sha256": "e498ca68f4783364081be6ce47464604f47b62f3dc8e67d9d519f09bfd3d217d",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 10,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-010/publishing/cover-3x4.png",
+      "sha256": "823401dd686b691db6d29f787ea1288158b89b3ef1f1106cd147045e39a7fe52",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 11,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-011/publishing/cover-4x3.png",
+      "sha256": "f48264c198c9918ff1890fa4e4fdbabdbe32005391ceff386cfeb2ac69481bc9",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 11,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-011/publishing/cover-3x4.png",
+      "sha256": "7280a6832a947c372f192434520c566567ec7f787636738ff39377e12b3a5f48",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 12,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-012/publishing/cover-4x3.png",
+      "sha256": "4ff35b988ec93d5224359900d976acd775f3eb7e02134a0858b4a72588ee44f1",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 12,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-012/publishing/cover-3x4.png",
+      "sha256": "462c9100d164d955fe8622ab7bbc843cca2337b710a07f9a0d9860752a02171e",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 13,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-013/publishing/cover-4x3.png",
+      "sha256": "27514abc4d008d72612a0305a57e7078226ba3766363ad02e5c268af4157b553",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 13,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-013/publishing/cover-3x4.png",
+      "sha256": "ff8d533172a52eb164062885558d8772b66e56ce601cd04c0226966c8918bb89",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 14,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-014/publishing/cover-4x3.png",
+      "sha256": "1310b6b02f81a323bc59937ad0f3214398587e348ee894833508ad4d037c98da",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 14,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-014/publishing/cover-3x4.png",
+      "sha256": "2f839dc6ffb3354f70c15ecbad779a470a861a83f8738a9fd44a2a40f49b3d88",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 15,
+      "ratio": "4x3",
+      "asset": "production/book-01/ep-015/publishing/cover-4x3.png",
+      "sha256": "74cc53a25486a31fc57193703361a31ef04a0d250b6517d324605754689973d1",
+      "size": [
+        1448,
+        1086
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    },
+    {
+      "episode": 15,
+      "ratio": "3x4",
+      "asset": "production/book-01/ep-015/publishing/cover-3x4.png",
+      "sha256": "9dcfd88c49ea5ba0589857ff78d321be1c2169efc257dd608960c129675d84ae",
+      "size": [
+        1086,
+        1448
+      ],
+      "status": "passed",
+      "checked": [
+        "episode number and headline",
+        "5/6 word count or review label",
+        "cast and costume identity",
+        "setting and prop continuity",
+        "complete text and faces",
+        "exact aspect ratio"
+      ]
+    }
+  ]
+}

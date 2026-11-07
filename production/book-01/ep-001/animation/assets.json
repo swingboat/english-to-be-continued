@@ -1,0 +1,38 @@
+{
+  "updated_on": "2026-11-06",
+  "generator": "built-in imagegen",
+  "images": [
+    {
+      "file": "assets/backgrounds.png",
+      "width": 2172,
+      "height": 724,
+      "mode": "RGB",
+      "bytes": 2059386,
+      "sha256": "73467dd94ed25c9b7e1f6d39a382f8bbe9c65947c21492a1e97ce92e6c3eedab"
+    },
+    {
+      "file": "assets/characters.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 2148667,
+      "sha256": "d47ce0c54523efc3ecb7416fc3f8936bab0c69f9e53533ae154c24204ac2132c"
+    },
+    {
+      "file": "assets/clone-body.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1157986,
+      "sha256": "2e4e925223452706045c3b08aa1e9433e58378e2c074deb159cfaa97099f1678"
+    },
+    {
+      "file": "assets/clone-rig.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1524815,
+      "sha256": "50f81a87fd5393a9a23890880f9d9f199b2796d7a05c039cd0ec40e63308e0ce"
+    }
+  ]
+}

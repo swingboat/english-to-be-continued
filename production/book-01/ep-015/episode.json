@@ -1,0 +1,599 @@
+{
+  "id": "B01E015",
+  "number": 15,
+  "kind": "new-vocabulary-story",
+  "title": "我妈下班了，我的录音才刚开始。",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "reading-html",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      1024,
+      1536
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        502,
+        373
+      ],
+      [
+        519,
+        3,
+        502,
+        373
+      ],
+      [
+        3,
+        389,
+        502,
+        347
+      ],
+      [
+        519,
+        389,
+        502,
+        347
+      ],
+      [
+        3,
+        750,
+        502,
+        346
+      ],
+      [
+        519,
+        750,
+        502,
+        346
+      ],
+      [
+        3,
+        1109,
+        502,
+        424
+      ],
+      [
+        519,
+        1109,
+        502,
+        424
+      ]
+    ]
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 22,
+  "words": [
+    {
+      "word": "apartment",
+      "part": "n.",
+      "meaning": "公寓；一套公寓住房",
+      "expression": "We are in our apartment.",
+      "translation": "我们在自己家这套公寓里。",
+      "usage": "apartment 指一套公寓住房；客厅 living room 是这套住房中的一个房间。两者分别说的是整套住房和房间。",
+      "question": "apartment 和 living room，哪一个指整套住房，哪一个指其中的房间？",
+      "scene": 1,
+      "source": "第一册 Unit 1 词表 · 印刷页 107 / PDF 第 109 页"
+    },
+    {
+      "word": "living room",
+      "part": "n. phr.",
+      "meaning": "客厅；起居室",
+      "expression": "I stop the phone recording in the living room.",
+      "translation": "我在客厅停下手机里的试音。",
+      "usage": "in the living room 表示在客厅。家里的公共空间也要照顾家人的作息，设备准备好不等于对方此时方便。",
+      "question": "妈妈想先坐下休息时，小帅在客厅先停下了什么？",
+      "scene": 3,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "am",
+      "match_context": "time-marker",
+      "part": "abbr.",
+      "meaning": "上午（时间标记）",
+      "expression": "It is eight am on Saturday.",
+      "translation": "周六早上八点。",
+      "usage": "时间后的 am 也常写作 a.m.，读字母 A、M。eight am 是上午八点；I am 中的 am 是动词 be 的形式，意思与用法不同。",
+      "question": "eight am 表示上午还是下午？它与 I am 中的 am 有什么不同？",
+      "scene": 1,
+      "source": "第一册 Unit 1 词表 · 印刷页 107 / PDF 第 109 页"
+    },
+    {
+      "word": "shift",
+      "part": "n.",
+      "meaning": "轮班；班次",
+      "expression": "Mum comes home after a night shift.",
+      "translation": "妈妈下了夜班回到家。",
+      "usage": "a night shift 表示一个夜班。小帅刚开始新一天，妈妈却刚结束一班工作，两人的时间状态不同。",
+      "question": "为什么同样是早上八点，小帅准备开始，妈妈却需要休息？",
+      "scene": 2,
+      "source": "第一册 Unit 1 词表 · 印刷页 107 / PDF 第 109 页"
+    },
+    {
+      "word": "from time to time",
+      "part": "phr.",
+      "meaning": "不时；有时；偶尔",
+      "expression": "Mum works nights from time to time.",
+      "translation": "妈妈有时会上夜班。",
+      "usage": "from time to time 表示有时发生，不是每天或一直发生。安排采访时，要确认这一次的实际作息。",
+      "question": "妈妈是每天都上夜班吗？为什么采访时间仍要按这一次的情况确认？",
+      "scene": 5,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    }
+  ],
+  "review_words": [
+    {
+      "word": "schedule",
+      "meaning": "日程；安排",
+      "expression": "My clone points at our schedule.",
+      "translation": "分身指着我们的安排表。",
+      "scene": 2
+    },
+    {
+      "word": "pressure",
+      "meaning": "压力",
+      "expression": "Our plan is putting pressure on her.",
+      "translation": "我们的计划正在给她带来压力。",
+      "scene": 5
+    }
+  ],
+  "supplemental_review_words": [
+    {
+      "word": "laptop",
+      "meaning": "笔记本电脑",
+      "expression": "We used the school laptop for our interview.",
+      "translation": "我们当时用学校的笔记本电脑进行采访。",
+      "question": "回想第八集开始使用、后来在图书馆采访时借用的是什么设备？本集它仍在学校保管。",
+      "first_teaching_episode": 8
+    },
+    {
+      "word": "digital",
+      "meaning": "数字的；数码的",
+      "expression": "We keep a digital copy of the outline.",
+      "translation": "我们保留一份数字版提纲。",
+      "question": "纸提纲之外，还可以用 digital 怎样描述另一种保存形式？",
+      "first_teaching_episode": 8
+    },
+    {
+      "word": "hardware",
+      "meaning": "计算机硬件",
+      "expression": "The hardware is working.",
+      "translation": "硬件运行正常。",
+      "question": "第八集电脑没坏，静音的是播放轨道。用 hardware 描述检查结果。",
+      "first_teaching_episode": 8
+    },
+    {
+      "word": "engine",
+      "meaning": "引擎；发动机",
+      "expression": "A car engine makes the car move.",
+      "translation": "汽车发动机使汽车行驶。",
+      "question": "engine 单独使用时，可以指汽车的什么部件？",
+      "first_teaching_episode": 8
+    },
+    {
+      "word": "search engine",
+      "meaning": "搜索引擎",
+      "expression": "We use a search engine to find interview ideas.",
+      "translation": "我们用搜索引擎查找采访思路。",
+      "question": "回想第八集准备查采访思路时用到的完整短语。",
+      "first_teaching_episode": 8
+    },
+    {
+      "word": "teen",
+      "meaning": "青少年",
+      "expression": "I am a teen with a very long script.",
+      "translation": "我是个拿着超长逐字稿的青少年。",
+      "question": "第十三集采访前的小帅，拿着什么显眼的东西？用 teen 说一句。",
+      "first_teaching_episode": 13
+    },
+    {
+      "word": "native",
+      "meaning": "本地的；本国的；母语的",
+      "expression": "I want to sound like a native speaker.",
+      "translation": "我想说得像母语使用者一样自然。",
+      "question": "第十三集小帅开场时很在意说得自然，可以用 native speaker 怎样表达他的期待？",
+      "first_teaching_episode": 13
+    },
+    {
+      "word": "saying",
+      "meaning": "格言；谚语",
+      "expression": "I even prepare a saying: 'Practice makes perfect.'",
+      "translation": "我甚至准备了一句格言：“熟能生巧。”",
+      "question": "第十三集背好的格言没有接上真实回答。用 saying 描述小帅准备的东西。",
+      "first_teaching_episode": 13
+    },
+    {
+      "word": "ahead",
+      "meaning": "在前面；提前；向前",
+      "expression": "I am already thinking ahead to my next question.",
+      "translation": "我已经提前想着下一条问题了。",
+      "question": "第十三集对方的话还没讲完，小帅已提前想着什么？用 ahead 回答。",
+      "first_teaching_episode": 13
+    },
+    {
+      "word": "get ahead",
+      "meaning": "取得进步；获得成功",
+      "expression": "To get ahead, I need to listen first.",
+      "translation": "想取得进步，我得先认真听。",
+      "question": "第十三集小帅发现，想在交流中 get ahead，需要先做什么？",
+      "first_teaching_episode": 13
+    },
+    {
+      "word": "revise",
+      "meaning": "修改；复习",
+      "expression": "We revise the script for tomorrow's trial broadcast.",
+      "translation": "我们为第二天的试播修改主持稿。",
+      "question": "回想第十三集，采访结束后为什么要 revise 主持结语？",
+      "first_teaching_episode": 13
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "我的一天刚开始，她的一班刚结束",
+      "place": "周六 08:00 · 小帅家的公寓",
+      "shot": "妈妈提工作包从门口回家，低马尾、米色开衫配绿色上衣。小帅红 T 恤在桌前用唯一黑手机试录开场；蓝内搭分身拿纸表，圆眼镜苏小满拿笔记。没有电脑和外接麦克风。",
+      "action": "第一期试播后的周四，小帅已问过妈妈，她愿意以后分享工作生活，但说好本周六夜班后先休息，醒来再确认采访。三人原约八点准备提纲和试录小帅自己的开场，爸爸在家、家长知情。小帅却把“八点开始准备”写成“八点采访”，只记得妈妈八点到家。她进门时，他的开场试音才刚开始。",
+      "sound": "门锁轻响，小帅刚念一句开场；不生成实际音频。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "开场我先试一句：今天，我们想听妈妈讲她的一天……"
+        },
+        {
+          "who": "分身",
+          "text": "八点，准备表第一项。"
+        },
+        {
+          "who": "苏小满",
+          "text": "阿姨回来了，我们先问问她现在的状态。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "It is eight am on Saturday.",
+          "zh": "周六早上八点。"
+        },
+        {
+          "id": "EN002",
+          "en": "We are in our apartment.",
+          "zh": "我们在自己家这套公寓里。"
+        },
+        {
+          "id": "EN003",
+          "en": "I have just started a test recording.",
+          "zh": "我刚开始录一小段开场试音。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "表上写八点，她只想先坐下",
+      "place": "08:01 · 妈妈走到客厅沙发旁",
+      "shot": "妈妈坐向沙发，工作包放在身旁，神情疲倦而温和。分身指纸质安排表，小帅和苏小满抬头看她，唯一手机仍在桌上。",
+      "action": "妈妈刚结束夜班，想先坐一会儿。分身指着小帅写的八点安排，差点照表催录。苏小满看见妈妈的疲惫，提醒那是学生准备好的时间，不是妈妈确认的正式采访开始时间。",
+      "sound": "工作包放下，沙发坐垫轻响，分身把语速放慢。",
+      "cues": [
+        {
+          "who": "分身",
+          "text": "可是表上写着八点开始……"
+        },
+        {
+          "who": "妈妈",
+          "text": "我刚下夜班，先让我坐一会儿。"
+        },
+        {
+          "who": "苏小满",
+          "text": "我们准备好了，不代表阿姨现在方便。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN004",
+          "en": "Mum comes home after a night shift.",
+          "zh": "妈妈下了夜班回到家。"
+        },
+        {
+          "id": "EN005",
+          "en": "She wants to sit down.",
+          "zh": "她想先坐下来。"
+        },
+        {
+          "id": "EN006",
+          "en": "My clone points at our schedule.",
+          "zh": "分身指着我们的安排表。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "先停下手机里的那一句",
+      "place": "08:02 · 客厅工作桌",
+      "shot": "小帅按停同一部黑手机，屏幕转暗，神情有点不好意思。妈妈坐在旁边，分身放低纸表，苏小满示意慢下来。",
+      "action": "小帅停下自己的开场试音，正式采访还没开始。他意识到妈妈当时说的是先补觉、醒后再确认，自己只记住了到家的钟点。妈妈此时需要休息，三人的准备可以先收起来。",
+      "sound": "停止试音的一次轻点，屋内安静下来。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "我先停。你说过回来先休息，我只把八点记得特别牢。"
+        },
+        {
+          "who": "妈妈",
+          "text": "愿意讲我的一天，也得先把这一班过完。"
+        },
+        {
+          "who": "分身",
+          "text": "我也只盯着纸上的第一格了。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN007",
+          "en": "I stop the phone recording in the living room.",
+          "zh": "我在客厅停下手机里的试音。"
+        },
+        {
+          "id": "EN008",
+          "en": "I was ready to interview her. She was ready to rest.",
+          "zh": "我准备采访她，她却准备休息了。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "早餐最想要的，是安静",
+      "place": "08:03 · 沙发与工作桌之间",
+      "shot": "小帅摊手关心妈妈想吃什么，妈妈带笑将一根手指轻放唇边，示意安静。分身举笔的动作停住，苏小满会心地合拢笔记。桌上黑手机已停止，旁边只有普通水杯。",
+      "action": "桌上已备简单早餐。小帅想先照顾妈妈，问她最想要什么早餐。妈妈温和地答“安静”。分身原本还想把答案记进采访栏，听见后也终于放下笔。小帅拿来温水，先不追问工作故事。",
+      "sound": "妈妈一句“安静”后留出短暂停顿，随后只听见轻放笔的声音。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "What would you like for breakfast?",
+          "zh": "早餐你最想要什么？"
+        },
+        {
+          "who": "妈妈",
+          "en": "Quiet.",
+          "zh": "安静。"
+        },
+        {
+          "who": "分身",
+          "text": "这条……我用放下笔来记。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN009",
+          "en": "I ask what she would like for breakfast.",
+          "zh": "我问她早餐最想要什么。"
+        },
+        {
+          "id": "EN010",
+          "en": "'Quiet,' she says.",
+          "zh": "她说：“安静。”"
+        },
+        {
+          "id": "EN011",
+          "en": "Even my clone puts his pen down.",
+          "zh": "连分身也把笔放下了。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "我们的表，漏掉了她的上一班",
+      "place": "08:04 · 重新看纸质安排表",
+      "shot": "小帅看着原来只填自己任务的纸表，苏小满协助补上月亮图标和留白休息段，分身安静看着。妈妈仍在沙发上，不需填写整张计划表。",
+      "action": "妈妈有时轮到夜班，今天就是这样一次。小帅的表只写采访、试音、整理，却没有妈妈上一班何时结束、现在是否有精神。三人把八点那格改为收起准备，让采访安排跟着受访者的实际时间走。",
+      "sound": "纸上轻轻划改，不再边问边催。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "这张表写满了我们要做什么，却没写阿姨上一班什么时候结束。"
+        },
+        {
+          "who": "小帅",
+          "text": "我以为到家就是有空。原来她的一天和我的不是同一条起跑线。"
+        },
+        {
+          "who": "分身",
+          "text": "先把休息留出来，不能把这一格也填成任务。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN012",
+          "en": "Mum works nights from time to time.",
+          "zh": "妈妈有时会上夜班。"
+        },
+        {
+          "id": "EN013",
+          "en": "I wrote down my plans, but not her working hours.",
+          "zh": "我写了自己的计划，却没写她的工作时间。"
+        },
+        {
+          "id": "EN014",
+          "en": "Our plan is putting pressure on her.",
+          "zh": "我们的计划正在给她带来压力。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "换个上午，先听她的时间",
+      "place": "08:05 · 只简短确认新时间",
+      "shot": "妈妈指向纸日历上的另一个上午，用太阳图标示意，小帅在她同意后写下新时段。分身与苏小满点头，黑手机仍停止录音。",
+      "action": "三人简短问妈妈什么时候方便，不要求她现在填一份长日程。妈妈今晚不上夜班，同意改约周日 10:00—10:10，在家中客厅分享，开始前再确认一下。今天先让她休息，新的节目选题仍需后续整理和老师确认播出安排。",
+      "sound": "一句短问、妈妈点头，纸上写下约定。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "那你什么时候愿意聊十分钟？"
+        },
+        {
+          "who": "妈妈",
+          "text": "今晚我不上夜班，明天上午十点可以。开始前再问我一下。"
+        },
+        {
+          "who": "苏小满",
+          "text": "记好了，今天不录正式采访。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN015",
+          "en": "We ask her when she would like to talk.",
+          "zh": "我们问她什么时候愿意聊。"
+        },
+        {
+          "id": "EN016",
+          "en": "She is off tonight, so Sunday morning works for her.",
+          "zh": "她今晚不上班，所以周日早上对她合适。"
+        },
+        {
+          "id": "EN017",
+          "en": "We agree on ten minutes at ten am.",
+          "zh": "我们约好上午十点，聊十分钟。"
+        }
+      ],
+      "table": {
+        "caption": "先记受访者的时间，再安排我们的准备",
+        "columns": [
+          "时间",
+          "实际状态或约定",
+          "这次怎么做"
+        ],
+        "rows": [
+          [
+            "周六 08:00",
+            "小帅准备试音；妈妈刚下夜班",
+            "停下试音，先让妈妈休息"
+          ],
+          [
+            "周六白天",
+            "正式采访尚未开始",
+            "另找安静处整理提纲，不催妈妈回答"
+          ],
+          [
+            "周日 10:00—10:10",
+            "妈妈同意的新时段，今晚不上夜班",
+            "开始前再确认是否方便，再决定开录"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "今天先把客厅还给休息",
+      "place": "08:07 · 收起手机与纸笔",
+      "shot": "小帅把唯一黑手机收进桌屉，分身放下笔并折起纸表，苏小满合上笔记准备离开。妈妈在沙发上喝水，桌上不再留手机。",
+      "action": "三人改好安排，收起手机和纸笔。苏小满按与家长说好的时间准备轻声告辞，小帅和分身把后续整理挪到自己的房间。客厅先安静下来，正式采访留待已约的新时段。",
+      "sound": "抽屉轻合、纸页合拢，三人压低声音。",
+      "cues": [
+        {
+          "who": "小帅",
+          "text": "手机先收起来。后面的提纲我们换个地方慢慢整理。"
+        },
+        {
+          "who": "分身",
+          "text": "这一格先留白。"
+        },
+        {
+          "who": "苏小满",
+          "text": "我也先回去了，阿姨好好休息。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN018",
+          "en": "We change the schedule and put the phone away.",
+          "zh": "我们改好安排，把手机收起来。"
+        },
+        {
+          "id": "EN019",
+          "en": "Xiaoman closes her notebook. We speak softly.",
+          "zh": "小满合上笔记本，我们放轻声音。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "空出一格，心里却还没松开",
+      "place": "08:10 · 苏小满告辞，妈妈先闭目休息",
+      "shot": "妈妈在沙发上先闭目休息。小帅安静拿着还有多项勾选框、也有一块留白的纸表，神情稍有担心；分身站在一旁，苏小满在门口轻轻挥手告辞。手机已收好。",
+      "action": "妈妈可以休息了，苏小满按约离开。小帅开始给别人的时间留位置，也保留了周日开始前再确认的约定；但看着余下的准备，他仍担心自己答应的每件事，想把空格再填满。分身先等他想清楚，承接下一集“日程空了，人怎么还是很累”。",
+      "sound": "门轻合，屋里安静，留下小帅看纸表的停顿。",
+      "cues": [
+        {
+          "who": "妈妈",
+          "text": "现在这样就很好。明天聊之前，再来叫我。"
+        },
+        {
+          "who": "小帅（心里）",
+          "text": "采访挪走了，可我答应的准备……是不是还得再多做一点？"
+        },
+        {
+          "who": "分身",
+          "text": "你先想想真正要做什么，我不替你把空格填上。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN020",
+          "en": "Mum can rest now.",
+          "zh": "妈妈现在可以休息了。"
+        },
+        {
+          "id": "EN021",
+          "en": "I keep a little space in my plan for other people.",
+          "zh": "我开始在计划里给别人的时间留点位置。"
+        },
+        {
+          "id": "EN022",
+          "en": "Still, I worry about everything I have promised.",
+          "zh": "可我仍担心着自己答应的每件事。"
+        }
+      ]
+    }
+  ],
+  "continuity": {
+    "start": "第十四集第一期校园广播已完成，老师邀请准备家人生活提案，小帅随后问过妈妈意愿。",
+    "end": [
+      "妈妈愿意分享，但本周六夜班后需先休息；学生把八点准备误写成采访开始，现已纠正。",
+      "小帅停下自己的开场试音，今天没有开始正式妈妈采访；家中只使用原有黑手机。",
+      "三人改约周日 10:00—10:10，妈妈今晚不上夜班，开始前再确认是否方便。",
+      "苏小满 08:10 告辞，手机和纸笔收起，客厅留给妈妈休息。",
+      "小帅给别人的时间留白，仍担心自己的承诺，下一集继续处理日程减少后的压力。",
+      "第二期选题与播出安排尚待后续整理，第一期已完成，不重新变成待播。"
+    ],
+    "props": [
+      "小帅家的住处是公寓，客厅有原先沙发和工作桌。妈妈低马尾、米色开衫配绿色上衣，无眼镜。",
+      "小帅红 T 恤短黑发，分身蓝内搭校服短黑发，苏小满短发圆眼镜；爸爸在家、画外知情，无需新增人物入镜。",
+      "家中只有小帅原有一部黑手机，三人准备小会获家长知情；学校电脑、麦克风、调音台仍在学校保管。",
+      "此前学校访谈录音、原短试音、小帅个人口述草稿和第一期主持稿保留。",
+      "妈妈偶尔轮到夜班，未设定具体职业或新工作场所；本次上午的不同状态有明确原因。",
+      "周五搬桌与英语分享已完成，月底篮球补选仍待申请。"
+    ],
+    "next": "第十六集小帅删去一些准备事项，仍怕让人失望；苏小满帮他找出真正有压力的承诺。"
+  }
+}

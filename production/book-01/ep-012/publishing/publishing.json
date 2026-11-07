@@ -1,0 +1,92 @@
+{
+  "episode": "B01E012",
+  "title": "我讲第三条，你怎么还在第一条？｜英语有续集012",
+  "description": "远程核对采访问题，语音有延迟，分身又边聊边改提纲。小帅讲到第三条，受访同学却还在看新照片的第一条。小满叫停，三人选定“核对版 A”，确认同一顺序，再一条条交接。延迟还在，沟通却能继续。你们的小组讨论也有过版本打架吗？跟着故事学习 convenient、according to、update、meanwhile、distance。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "远程核对",
+    "通话延迟",
+    "统一版本",
+    "轮流交接",
+    "采访提纲",
+    "更新顺序",
+    "确认理解",
+    "convenient",
+    "according to",
+    "update",
+    "meanwhile",
+    "distance"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 012",
+    "headline": [
+      "我讲到第三条",
+      "你还在第一条？"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-012-封面-4x3.png",
+      "alt": "第012集横版封面 · 4:3：我讲到第三条，你还在第一条？。",
+      "sha256": "4ff35b988ec93d5224359900d976acd775f3eb7e02134a0858b4a72588ee44f1",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-e74d9224-be35-4624-83a0-e0f3cb88b57b.png"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-012-封面-3x4.png",
+      "alt": "第012集竖版封面 · 3:4：我讲到第三条，你还在第一条？。",
+      "sha256": "462c9100d164d955fe8622ab7bbc843cca2337b710a07f9a0d9860752a02171e",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-0d68e5a0-acaa-47c0-8bbc-35e4bf7ae0d7.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

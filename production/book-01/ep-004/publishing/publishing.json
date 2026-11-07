@@ -1,0 +1,119 @@
+{
+  "episode": "B01E004",
+  "title": "多了一个我，家务也多一份？｜英语有续集004",
+  "description": "小帅把分身的事告诉老师和父母。学校的职责仍由本人承担，家里则要给多出来的人安排住处，也得分担生活琐事。妈妈一句“两个人，就洗两份碗”，让分身从万能替工变成了家里的合作伙伴。一个洗、一个擦，你觉得怎样分工才合理？跟着故事学习 senior、secondary、previous、campus、junior。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "家庭分工",
+    "校园生活",
+    "家务合作",
+    "本人负责",
+    "新环境",
+    "共同生活",
+    "洗碗日常",
+    "senior",
+    "secondary",
+    "previous",
+    "campus",
+    "junior"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 004",
+    "headline": [
+      "多一个小帅",
+      "也多一份碗！"
+    ],
+    "supporting_line": "校园故事学英语 · 本集5词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-004-封面-4x3.png",
+      "alt": "第004集横版封面 · 4:3：多一个小帅，也多一份碗！。",
+      "sha256": "585cad385add38dd6d226ebf39ac4d4d54318d2066fd7dcb0c6a967591001bcc",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-4e180720-093d-4e75-b9fc-64ac1e2dc665.png",
+      "initial_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-499a551e-2578-410a-99e2-8088d93eab6f.png",
+      "correction_prompt": "correction-4x3.txt"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-004-封面-3x4.png",
+      "alt": "第004集竖版封面 · 3:4：多一个小帅，也多一份碗！。",
+      "sha256": "bcf154c06e529616fd1d4f2ac92066e1eb58650bf99c811499b8c13af60f3cba",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-72c62136-469c-4e77-afc8-efb209102ac8.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-04",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "本次搜索未核实到同时满足官方发起方、完整规则、账号资格及本集适用性的有效官方活动；沿用5个系列及普通相关话题，发布当天复核",
+    "queries": [
+      "site.douyin.com 高中英语 英语单词 话题",
+      "site.douyin.com 抖音知识 官方 活动 2026 11月 英语 投稿",
+      "\"vibe知识大赏\" \"投稿时间\" \"11月30日\""
+    ],
+    "related_topic_sources": [
+      {
+        "url": "https://www.douyin.com/video/7690474881057672489",
+        "observation": "公开搜索结果可见高中英语等普通标签，不构成官方活动证明。"
+      }
+    ],
+    "candidate_campaigns": [
+      {
+        "topic": "vibe知识大赏",
+        "source_url": "https://www.douyin.com/video/7701282040913661211",
+        "official_initiator": null,
+        "checked_on": "2026-11-04",
+        "announced_on": "2026-10-27",
+        "validity": "检索摘要称即日起至11月30日；完整起止时间及活动规则待核实。",
+        "eligibility": "账号资格与英语剧情内容是否符合要求，尚未核实。",
+        "submission_requirements": "检索摘要称须带vibe知识大赏；热点科普可加vibe热点新知计划，完整投稿入口及规则未核实。",
+        "verification_status": "候选未核实，未采用",
+        "reason": "来源页未返回可读正文，公开摘要未能确认官方发起方身份及本集适用性。"
+      }
+    ]
+  }
+}

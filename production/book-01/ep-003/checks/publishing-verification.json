@@ -1,0 +1,115 @@
+{
+  "episode": 3,
+  "checked_on": "2026-11-01",
+  "status": "passed",
+  "html": "episodes/book-01/ep-003.html",
+  "sha256": "5248db2efd1565dc0ccbf5508a22ff8a1c96de3a79b85adcc47ca0b9d164cfb3",
+  "bytes": 16361732,
+  "scenes": 8,
+  "subtitle_pairs": 22,
+  "learning_cards": 5,
+  "vocabulary_mode": "new-and-review",
+  "topics": 6,
+  "unique_keywords": 30,
+  "covers": [
+    {
+      "file": "cover-4x3.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "ratio": "4x3",
+      "sha256": "ea7976654a4f82d8659b5e5c0586dfc83f1c3527f5b17bd8d2ffa38d27c7b243"
+    },
+    {
+      "file": "cover-3x4.png",
+      "size": [
+        1086,
+        1448
+      ],
+      "ratio": "3x4",
+      "sha256": "60dce0b1af262c1f44ceb5d713c1fad3feec95e6466d76035fd98f52292b5646"
+    }
+  ],
+  "original_story_html_preserved_exactly": true,
+  "story_source_and_storyboard_unchanged": true,
+  "preview_and_download_bytes_verified": true,
+  "external_assets": [],
+  "javascript_blocks": 0,
+  "offline_file_url_verified": true,
+  "viewports_checked": [
+    375,
+    768,
+    1440
+  ],
+  "landscape_viewport_checked": [
+    812,
+    375
+  ],
+  "horizontal_overflow": [],
+  "publishing_element_overflow": [],
+  "external_runtime_requests": [],
+  "cover_images_decoded": true,
+  "browser": {
+    "publishingNavVerified": true,
+    "wordLinkVerified": true,
+    "referenceDialogueVerified": true,
+    "structure": {
+      "unique": 30,
+      "topics": 6,
+      "scenes": 8,
+      "keywords": 30,
+      "panels": 8,
+      "subtitles": 22,
+      "cards": 5,
+      "images": [
+        {
+          "width": 1448,
+          "complete": true,
+          "height": 1086
+        },
+        {
+          "width": 1086,
+          "complete": true,
+          "height": 1448
+        }
+      ],
+      "links": [
+        {
+          "name": "英语有续集-003-封面-4x3.png",
+          "sameAsPreview": true,
+          "embedded": true
+        },
+        {
+          "name": "英语有续集-003-封面-3x4.png",
+          "sameAsPreview": true,
+          "embedded": true
+        }
+      ],
+      "resources": []
+    },
+    "layouts": [
+      {
+        "width": 375,
+        "document": 375,
+        "overflow": []
+      },
+      {
+        "width": 768,
+        "document": 768,
+        "overflow": []
+      },
+      {
+        "width": 1440,
+        "document": 1440,
+        "overflow": []
+      },
+      {
+        "width": 812,
+        "document": 812,
+        "overflow": []
+      }
+    ],
+    "episode": 3
+  }
+}

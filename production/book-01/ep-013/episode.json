@@ -1,0 +1,626 @@
+{
+  "id": "B01E013",
+  "number": 13,
+  "title": "背熟了台词，忘了听别人说什么。",
+  "series": "英语有续集",
+  "season": "我被自己的分身卷了",
+  "format": "reading-html",
+  "art": {
+    "file": "storyboard.png",
+    "source_dimensions": [
+      1024,
+      1536
+    ],
+    "panels": [
+      [
+        3,
+        3,
+        499,
+        370
+      ],
+      [
+        521,
+        3,
+        500,
+        370
+      ],
+      [
+        3,
+        387,
+        499,
+        358
+      ],
+      [
+        521,
+        387,
+        500,
+        358
+      ],
+      [
+        3,
+        759,
+        499,
+        336
+      ],
+      [
+        521,
+        759,
+        500,
+        336
+      ],
+      [
+        3,
+        1110,
+        499,
+        423
+      ],
+      [
+        521,
+        1110,
+        500,
+        423
+      ]
+    ]
+  },
+  "production_language": {
+    "voiceover": "English",
+    "subtitles": [
+      "English",
+      "简体中文"
+    ],
+    "narrator": "小帅第一人称叙述",
+    "instruction": "朗读英文解说栏；英文字幕与解说逐字对应，中文字幕辅助理解。配音与字幕时轴在视频制作项目完成。"
+  },
+  "subtitle_pair_count": 22,
+  "words": [
+    {
+      "word": "teen",
+      "forms": [
+        "teens"
+      ],
+      "part": "n.",
+      "meaning": "青少年",
+      "expression": "I am a teen with a very long script.",
+      "translation": "我是个拿着超长逐字稿的青少年。",
+      "usage": "teen 指十几岁的青少年，复数为 teens。三位制作同学与受访同学都还是高中生，采访也需要实际练习。",
+      "question": "小帅在采访前准备了什么，长得让人一眼就能看出？",
+      "scene": 1,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "native",
+      "part": "adj.",
+      "meaning": "本地的；本国的；母语的",
+      "expression": "I want to sound like a native speaker.",
+      "translation": "我想说得像母语使用者一样自然。",
+      "usage": "a native speaker 指以某种语言为母语的人。小帅期待把英语说得自然，却把注意力都放在背好的句子上。",
+      "question": "小帅开场时最在意什么？后来什么帮助他把采访继续下去？",
+      "scene": 2,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "saying",
+      "part": "n.",
+      "meaning": "格言；谚语",
+      "expression": "I even prepare a saying: 'Practice makes perfect.'",
+      "translation": "我甚至准备了一句格言：“熟能生巧。”",
+      "usage": "a saying 是常被人引用的格言或谚语。Practice makes perfect 是常见说法；在本集中，小帅准备好的格言没有接上同学的真实困惑。",
+      "question": "受访同学说自己不敢问路时，为什么这句格言听起来不合适？",
+      "scene": 2,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "ahead",
+      "part": "adv.",
+      "meaning": "在前面；提前；向前",
+      "expression": "I am already thinking ahead to my next question.",
+      "translation": "我已经提前想着下一条问题了。",
+      "usage": "think ahead 表示提前考虑。本格小帅想得太快，对方的话还没听完，他的心思已跑到下一问。",
+      "question": "小帅提前想着哪件事，以至于没有听完对方？",
+      "scene": 4,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "get ahead",
+      "part": "phr.",
+      "meaning": "取得进步；获得成功",
+      "expression": "To get ahead, I need to listen first.",
+      "translation": "想取得进步，我得先认真听。",
+      "usage": "get ahead 可表示在学习、工作等方面进步。本格指小帅在英语交流和采访能力上进步；其中 ahead 属于完整短语。",
+      "question": "小帅这次发现，想在采访中进步，需要先做什么？",
+      "scene": 6,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    },
+    {
+      "word": "revise",
+      "forms": [
+        "revises",
+        "revised",
+        "revising"
+      ],
+      "part": "vt.",
+      "meaning": "修改；复习",
+      "expression": "We revise the script for tomorrow's trial broadcast.",
+      "translation": "我们为明天的试播修改主持稿。",
+      "usage": "revise + 稿件可表示修改。本集根据刚听到的真实经历修改结语，让主持稿回应受访内容。",
+      "question": "采访结束后，三人为什么要修改原先准备好的结语？",
+      "scene": 8,
+      "source": "第一册 Unit 1 词表 · 印刷页 108 / PDF 第 110 页"
+    }
+  ],
+  "review_words": [
+    {
+      "word": "confidence",
+      "meaning": "信心；自信",
+      "expression": "My confidence grows with each real question.",
+      "translation": "每问出一个贴着真实回答的问题，我都更有信心。",
+      "scene": 7
+    },
+    {
+      "word": "chat",
+      "meaning": "聊天；闲聊",
+      "expression": "At last, we chat about what really happened.",
+      "translation": "终于，我们聊起了真正发生的事。",
+      "scene": 7
+    }
+  ],
+  "supplemental_review_words": [
+    {
+      "word": "aim",
+      "meaning": "目的；目标",
+      "expression": "Our aim is to share a true school story.",
+      "translation": "我们的目的是分享一个真实的校园故事。",
+      "question": "回想第六集的广播提案，用 aim 说说三人做节目的目的。",
+      "first_teaching_episode": 6
+    },
+    {
+      "word": "target",
+      "meaning": "目标",
+      "expression": "Our target is a ten-minute trial broadcast.",
+      "translation": "我们的目标是完成一次十分钟试播。",
+      "question": "第六集争取到的试播目标是什么？用 target 回答。",
+      "first_teaching_episode": 6
+    },
+    {
+      "word": "organise",
+      "meaning": "组织；安排",
+      "expression": "We organise the interview together.",
+      "translation": "我们一起安排采访。",
+      "question": "苏小满主编、小帅统筹、分身协助声音，怎样用 organise 说出他们在做的事？",
+      "first_teaching_episode": 6
+    },
+    {
+      "word": "voluntary",
+      "meaning": "自愿的；志愿的",
+      "expression": "The radio project is voluntary.",
+      "translation": "广播项目是自愿参加的。",
+      "question": "回想第六集，参加广播项目是自愿的吗？用 voluntary 回答。",
+      "first_teaching_episode": 6
+    },
+    {
+      "word": "competence",
+      "meaning": "能力；胜任能力",
+      "expression": "Our competence grows with practice.",
+      "translation": "我们的能力在练习中提升。",
+      "question": "三人如何通过试录、核对与采访提升能力？用 competence 说一句。",
+      "first_teaching_episode": 6
+    },
+    {
+      "word": "range",
+      "meaning": "一系列；范围",
+      "expression": "His list covers a wide range of microphones.",
+      "translation": "他的清单涵盖多种多样的麦克风。",
+      "question": "第十一集分身的设备清单为什么很长？用 a wide range of 回答。",
+      "first_teaching_episode": 11
+    },
+    {
+      "word": "various",
+      "meaning": "各种各样的",
+      "expression": "He shows me various designs.",
+      "translation": "他给我看各种各样的设计。",
+      "question": "第十一集清单上的设计不止一种，可以怎样用 various 描述？",
+      "first_teaching_episode": 11
+    },
+    {
+      "word": "sort",
+      "meaning": "种类；类型",
+      "expression": "What sort of microphone do we need?",
+      "translation": "我们需要哪种麦克风？",
+      "question": "选设备前，小帅用哪个问题询问所需的类型？",
+      "first_teaching_episode": 11
+    },
+    {
+      "word": "all sorts of",
+      "meaning": "各种各样的",
+      "expression": "He wants all sorts of equipment.",
+      "translation": "他想要各种各样的设备。",
+      "question": "分身不只想要麦克风，还想要架子、调音台等。用 all sorts of 描述。",
+      "first_teaching_episode": 11
+    },
+    {
+      "word": "quality",
+      "meaning": "质量；品质",
+      "expression": "The sound quality is good enough for our interview.",
+      "translation": "这个音质足以满足我们的采访。",
+      "question": "第十一集苏小满通过回放确认的 sound quality 怎么样？",
+      "first_teaching_episode": 11
+    },
+    {
+      "word": "necessity",
+      "meaning": "必需品；必要的事物",
+      "expression": "A new microphone is not a necessity today.",
+      "translation": "今天，新买一支麦克风并非必需。",
+      "question": "借用测试通过后，为什么不必马上买新麦克风？用 necessity 回答。",
+      "first_teaching_episode": 11
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "panel": 0,
+      "name": "三问没变，逐字稿长了",
+      "place": "周二 16:35 · 图书馆旁获准使用的安静桌位",
+      "shot": "四位学生到齐：小帅红内搭，分身蓝内搭，苏小满短发圆眼镜，受访同学棕色高马尾、不戴眼镜。小帅捧着长逐字稿练习；一台银色电脑、一支盒中的黑色有线手持麦克风在桌上。",
+      "action": "老师按登记安排让项目组领用第十一集测试通过的电脑与 USB 麦克风，家长知情。高马尾同学按约到场，三问顺序沿用核对版 A。小帅在昨晚核对后，又把自己想象的接话写成了长稿；事先确认的是问题，受访同学的完整经历还没有正式讲过。",
+      "sound": "纸页轻响，小帅小声练句子，其他人安静准备。",
+      "cues": [
+        {
+          "who": "分身",
+          "text": "三条问题还是三条。你这几页，是给每条都买了套房吗？"
+        },
+        {
+          "who": "小帅",
+          "text": "我把开场和接话都写好了，背熟应该就不会卡。"
+        },
+        {
+          "who": "苏小满",
+          "text": "先看同学愿意怎么讲，核对版 A 的三问留在手边。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN001",
+          "en": "It is Tuesday, just before our interview.",
+          "zh": "周二，正式采访就要开始了。"
+        },
+        {
+          "id": "EN002",
+          "en": "I am a teen with a very long script.",
+          "zh": "我是个拿着超长逐字稿的青少年。"
+        },
+        {
+          "id": "EN003",
+          "en": "I practise every sentence again.",
+          "zh": "我又把每句话练了一遍。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "panel": 1,
+      "name": "开场很顺，心里还放着一句格言",
+      "place": "16:40 · 确认录音后开始采访",
+      "shot": "小帅拿唯一的黑色麦克风，照长稿流畅开场；高马尾同学听着，苏小满看提纲，分身在唯一电脑前按老师说明记录。",
+      "action": "受访同学同意录音用于这次校园试播，也知道可以暂停。分身确认开始保存为新的正式采访文件。小帅很想把英语说得自然，稿里还夹了句准备在励志结尾用的“Practice makes perfect.”。",
+      "sound": "自然音量开场；本项目只提供文本，不制作实际录音。",
+      "cues": [
+        {
+          "who": "高马尾同学",
+          "text": "可以录，最后我们再一起听一下要用的片段。"
+        },
+        {
+          "who": "小帅",
+          "en": "Welcome. Where did you get lost on your first day?",
+          "zh": "欢迎你。开学第一天，你在哪里迷路了？"
+        },
+        {
+          "who": "小帅（心里）",
+          "text": "开场顺利，格言也背好了。接下来照着走就行。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN004",
+          "en": "I want to sound like a native speaker.",
+          "zh": "我想说得像母语使用者一样自然。"
+        },
+        {
+          "id": "EN005",
+          "en": "I even prepare a saying: 'Practice makes perfect.'",
+          "zh": "我甚至准备了一句格言：“熟能生巧。”"
+        },
+        {
+          "id": "EN006",
+          "en": "Our guest agrees to be recorded.",
+          "zh": "受访同学同意我们录音。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "panel": 2,
+      "name": "她说的，稿上没有",
+      "place": "16:41 · 第一个真实回答",
+      "shot": "麦克风传到高马尾同学手中，她手按胸口回想，小帅目光却落在写好的接话上。苏小满注意到他的视线，分身看电脑波形。四人都在同一桌旁。",
+      "action": "同学讲起第一天走错楼，还不好意思问路。她遇到的另一个新生也没找到图书馆，两人后来一起向高年级同学求助。小帅原想把故事接成“自己努力就能解决”，没等她讲完便去找自己预写的下一句。",
+      "sound": "同学讲到不好意思时放慢，小帅翻找稿件。",
+      "cues": [
+        {
+          "who": "高马尾同学",
+          "en": "I was too shy to ask for help.",
+          "zh": "我那时太害羞，不敢问人。"
+        },
+        {
+          "who": "高马尾同学",
+          "en": "Another new student was lost too.",
+          "zh": "另一个新生也迷路了。"
+        },
+        {
+          "who": "苏小满",
+          "text": "先让她把后面讲完。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN007",
+          "en": "She says she was too shy to ask for help.",
+          "zh": "她说自己当时太害羞，不敢问路。"
+        },
+        {
+          "id": "EN008",
+          "en": "Another new student was lost too.",
+          "zh": "另一个新生也迷路了。"
+        },
+        {
+          "id": "EN009",
+          "en": "This is not the answer in my script.",
+          "zh": "这跟我稿子里预想的回答不一样。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "panel": 3,
+      "name": "迷路，也能熟能生巧？",
+      "place": "16:42 · 背好的下一句卡住了",
+      "shot": "麦克风传回小帅，他盯着长稿卡在半句话，表情僵住。高马尾同学挑眉、带点善意调侃，苏小满举手提议暂停，分身等在电脑暂停位置。只有一支麦克风。",
+      "action": "小帅的心思已经跑到下一问，嘴里却蹦出预备的“Practice makes...”。同学顺势开个小玩笑，小帅才发现这句格言没有回应她刚才说的害羞与求助。苏小满征得大家同意，准备短暂停下。",
+      "sound": "半句停住，随后同学轻轻反问，留一拍反应。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "Practice makes...",
+          "zh": "熟能……"
+        },
+        {
+          "who": "高马尾同学",
+          "en": "Practice getting lost?",
+          "zh": "练习迷路吗？"
+        },
+        {
+          "who": "苏小满",
+          "text": "我们先暂停一下，好吗？不用着急把下一句接出去。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN010",
+          "en": "I am already thinking ahead to my next question.",
+          "zh": "我已经提前想着下一条问题了。"
+        },
+        {
+          "id": "EN011",
+          "en": "'Practice makes...' I begin.",
+          "zh": "我张口就是：“熟能……”"
+        },
+        {
+          "id": "EN012",
+          "en": "She asks, 'Practice getting lost?'",
+          "zh": "她问：“练习迷路吗？”"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "panel": 4,
+      "name": "先折起稿，再把话听回来",
+      "place": "16:43 · 经同意短暂停录",
+      "shot": "唯一麦克风暂放桌上，分身在电脑暂停记录。苏小满示意保留小三问卡，小帅自己把长稿折到一旁，高马尾同学耐心等候。",
+      "action": "大家同意短暂停录。苏小满问小帅还记得同学刚才哪句话，小帅答出“她不敢问路”。他把逐字稿折到旁边，保留核对版 A 三问，不再预设对方的回答。分身没有代答，等小帅重新开口。",
+      "sound": "暂停轻点，纸稿对折，短暂安静。",
+      "cues": [
+        {
+          "who": "苏小满",
+          "text": "她刚才说不敢问路。你现在最想知道，后来发生了什么？"
+        },
+        {
+          "who": "小帅",
+          "text": "我想知道，她后来怎么开口的。那句格言先放一边。"
+        },
+        {
+          "who": "高马尾同学",
+          "text": "可以，我们接着聊。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN013",
+          "en": "Xiaoman suggests a short pause.",
+          "zh": "小满提议短暂停一下。"
+        },
+        {
+          "id": "EN014",
+          "en": "I fold my script and keep the three questions.",
+          "zh": "我折起逐字稿，留下三条问题。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "panel": 5,
+      "name": "这句简单，可是接住了",
+      "place": "16:44 · 恢复采访",
+      "shot": "小帅放低三问卡，看着高马尾同学作简单追问；麦克风交到同学手里，她开始回答。苏小满记录，分身在电脑恢复新片段录音。",
+      "action": "经同学确认后继续记录。小帅先问“后来你做了什么”，再把唯一的有线麦克风交给对方。她讲清两位迷路新生一起向高年级同学问路，后者带她们找到图书馆；前面说的受助经历由此补全。",
+      "sound": "小帅问完停下，等同学完整讲完，不抢着补句子。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "What did you do next?",
+          "zh": "后来你做了什么？"
+        },
+        {
+          "who": "高马尾同学",
+          "en": "We asked a senior student together. She showed us the way.",
+          "zh": "我们一起问了一位高年级同学。她带我们找到了路。"
+        },
+        {
+          "who": "分身（动作参考）",
+          "text": "确认恢复记录，继续听，不替小帅接话。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN015",
+          "en": "To get ahead, I need to listen first.",
+          "zh": "想取得进步，我得先认真听。"
+        },
+        {
+          "id": "EN016",
+          "en": "I ask, 'What did you do next?'",
+          "zh": "我问：“后来你做了什么？”"
+        },
+        {
+          "id": "EN017",
+          "en": "She says they asked a senior student together.",
+          "zh": "她说，她们一起向一位高年级同学问了路。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "panel": 6,
+      "name": "找到路，也没那么孤单了",
+      "place": "16:46 · 聊到当时的感受",
+      "shot": "高马尾同学握着同一支麦克风，带笑讲完，小帅专注听、自然点头，苏小满记下关键感受，分身安静看电脑。回忆中的新生与高年级同学不另画成到场人物。",
+      "action": "小帅沿着原三问补问当时感觉，听到“有个人一起问，就没那么孤单了”。他简短复述确认同学的意思，对方点头。交流没有要求同学照拟好的台词说，三问顺序也没有中途重排。",
+      "sound": "语速放松，留出笑与点头的自然间隙。",
+      "cues": [
+        {
+          "who": "小帅",
+          "en": "How did you feel then?",
+          "zh": "那时你感觉怎样？"
+        },
+        {
+          "who": "高马尾同学",
+          "en": "Less alone. We could ask for help together.",
+          "zh": "没那么孤单了。我们可以一起开口求助。"
+        },
+        {
+          "who": "小帅",
+          "en": "So asking together helped you feel less alone?",
+          "zh": "所以，一起开口让你没那么孤单了？"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN018",
+          "en": "At last, we chat about what really happened.",
+          "zh": "终于，我们聊起了真正发生的事。"
+        },
+        {
+          "id": "EN019",
+          "en": "She says asking together made her feel less alone.",
+          "zh": "她说，一起开口让自己没那么孤单了。"
+        },
+        {
+          "id": "EN020",
+          "en": "My confidence grows with each real question.",
+          "zh": "每问出一个贴着真实回答的问题，我都更有信心。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "panel": 7,
+      "name": "把她的故事，留在稿里",
+      "place": "16:48—16:50 · 回听、保存并改结语",
+      "shot": "麦克风放回盒中，分身在唯一电脑上保存采访。高马尾同学点头确认使用片段，小帅与苏小满在短提纲上修改，长逐字稿已折在一旁。",
+      "action": "四人回听关键片段，同学确认可用于明天试播，愿意保留问路前的紧张和后来没那么孤单的感受。分身将采访保存为独立文件，旧试音和小帅个人草稿保留。三人把主持结语改为呼应“一起开口求助”，记下短暂卡顿处供后续制作处理。器材按登记交回老师，周三 16:40—16:50 试播仍待进行。",
+      "sound": "短回听与保存轻点，仅作剧本参考，无实际音频文件。",
+      "cues": [
+        {
+          "who": "高马尾同学",
+          "text": "这段可以用。把一开始不敢问路也留着吧，那才是我当时的感觉。"
+        },
+        {
+          "who": "苏小满",
+          "text": "结语就接她的经历：一起开口，会没那么孤单。明天再按这份短提纲试播。"
+        },
+        {
+          "who": "分身",
+          "text": "采访单独存好了。明天的提示卡我整理，顺序先不动。"
+        },
+        {
+          "who": "小帅",
+          "text": "这次我记住了。提示卡提醒问题，回答得先听。"
+        }
+      ],
+      "narration": [
+        {
+          "id": "EN021",
+          "en": "She approves the recording, and we save it.",
+          "zh": "她确认可以使用录音，我们把它保存下来。"
+        },
+        {
+          "id": "EN022",
+          "en": "We revise the script for tomorrow's trial broadcast.",
+          "zh": "我们为明天的试播修改主持稿。"
+        }
+      ],
+      "table": {
+        "caption": "主持稿怎么改：跟着受访者的真实回答走",
+        "columns": [
+          "听到的内容",
+          "接着怎么问",
+          "稿件调整"
+        ],
+        "rows": [
+          [
+            "她不敢问路",
+            "What did you do next?",
+            "折起预写的回答，保留三问"
+          ],
+          [
+            "两个新生一起求助",
+            "确认一起问路的经过",
+            "讲清高年级同学带路的事实"
+          ],
+          [
+            "后来没那么孤单",
+            "复述感受，请对方确认",
+            "结语呼应一起开口，保留原本的紧张"
+          ]
+        ]
+      }
+    }
+  ],
+  "continuity": {
+    "start": "承接第十二集周一完成的核对版 A 与小帅开始背稿，进入周二正式采访。",
+    "end": [
+      "周二 16:40—16:50 正式采访完成，受访同学确认可将回听的片段用于周三试播。",
+      "图书馆故事补全：她与另一位迷路新生一起问高年级同学，后者带路，同行使她没那么孤单。",
+      "小帅从预写接话转向听完再追问，三问仍为地点、帮助、感受，没有改写受访者的真实经历。",
+      "采访独立保存，旧短试音、小帅个人口述草稿和准备工程均保留；设备使用后交回老师。",
+      "主持结语已按访谈修改，提示卡留待整理，周三 16:40—16:50 试播尚未开始。"
+    ],
+    "props": [
+      "现场四位学生：小帅红内搭、分身蓝内搭、苏小满短发圆眼镜、棕色高马尾受访同学无眼镜，老师和家长知情。",
+      "同一台登记使用的银色电脑、一支兼容的黑色有线 USB 手持麦克风，采访中轮流传递，暂停时放到桌上。",
+      "没有额外麦克风、手机、耳机或豪华设备；回忆中的新生和高年级同学不在采访现场。",
+      "苏小满主编、小帅统筹并提问、分身协助声音，分身没有替小帅完成追问。",
+      "周五搬桌与英语分享已完成，月底篮球补选仍待申请。"
+    ],
+    "next": "第十四集周三试播前，整理好的提示卡出了顺序问题，三人靠明确分工和倾听完成第一期广播。"
+  }
+}

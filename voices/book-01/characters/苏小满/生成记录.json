@@ -1,0 +1,83 @@
+{
+  "name": "苏小满",
+  "created_at": "2026-11-02T14:40:27+08:00",
+  "status": "generated-awaiting-listening-review",
+  "character": {
+    "name": "苏小满",
+    "gender": "女",
+    "age": 16,
+    "personality": "清醒、细心、直率，有自己的广播目标，也会不自信",
+    "voice_identity": "su-xiaoman",
+    "seed": 1942,
+    "direction_zh": "轻柔、舒缓、有耐心的16岁少女声；柔软起音、轻盈共鸣、少量自然气息，音量克制，语速稍缓，句尾轻收。情绪平和、像在近处安慰熟悉的朋友；减少强调、尖亮感与上扬，保留自然清晰的英语发音。待用户试听确认。",
+    "instruct": "A gentle, soft-spoken 16-year-old girl speaking tenderly to a close friend beside her. A light, delicate teenage female voice, softly rounded and slightly airy, with a smooth warm tone and gentle vowel onsets. Her manner is caring, patient, modest and reassuring. Speak quietly at a comfortable unhurried conversational pace. Use small natural pauses, restrained pitch movement, soft sentence endings and very little emphatic stress. Let the words feel like a calm personal conversation with someone she trusts. Keep the voice youthful and clearly audible, with normal speech rather than whispering. Avoid sharp bright projection, punchy consonants, excited upward inflections, a forceful confident performance, a presenter delivery, heavy adult resonance, or babyish sweetness.",
+    "text": "Hey, take your time. I'm listening. You don't have to get every word right. I get nervous too, especially when something really matters to me. We can try it together. And this time, I'd like to finish telling you my idea.",
+    "evidence": [
+      "docs/book-01-plan.md：苏小满人物弧线",
+      "production/book-01/ep-013/episode.json：暂停采访、倾听再追问"
+    ]
+  },
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit",
+  "revision": "5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "model_path": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/cache/huggingface/hub/models--mlx-community--Qwen3-TTS-12Hz-1.7B-VoiceDesign-4bit/snapshots/5c390979e4b93af5f2932f90742ca99c7dd04687",
+  "generation": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.05,
+    "max_tokens": 700
+  },
+  "language": "English",
+  "full_instruction": "A gentle, soft-spoken 16-year-old girl speaking tenderly to a close friend beside her. A light, delicate teenage female voice, softly rounded and slightly airy, with a smooth warm tone and gentle vowel onsets. Her manner is caring, patient, modest and reassuring. Speak quietly at a comfortable unhurried conversational pace. Use small natural pauses, restrained pitch movement, soft sentence endings and very little emphatic stress. Let the words feel like a calm personal conversation with someone she trusts. Keep the voice youthful and clearly audible, with normal speech rather than whispering. Avoid sharp bright projection, punchy consonants, excited upward inflections, a forceful confident performance, a presenter delivery, heavy adult resonance, or babyish sweetness. Speak clear, natural conversational American English. Use a comfortable medium pace and natural sentence pauses so a high-school English learner can follow. Keep an everyday human delivery, with no music or sound effects, no announcer performance, and no theatrical exaggeration. Read only the supplied text.",
+  "environment": {
+    "python": "3.13.4",
+    "executable": "/Users/huyin/Swingboat/audio-research/experiments/tts/qwen3-tts/.venv/bin/python",
+    "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "hardware": "Apple M3 Pro",
+    "packages": {
+      "mlx-audio": "0.6.3",
+      "mlx": "0.32.4",
+      "numpy": "2.5.4"
+    },
+    "ffmpeg": "ffmpeg version 7.1.1 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "sample_rate": 24000,
+  "channels": 1,
+  "samples": 453120,
+  "duration_seconds": 18.88,
+  "generation_seconds": 8.512,
+  "peak": 0.522148609161377,
+  "rms": 0.08373494870389156,
+  "mp3_duration_seconds": 18.936,
+  "checks": {
+    "finite_waveform": true,
+    "peak_below_full_scale": true,
+    "mp3_full_decode": true
+  },
+  "listening_review": {
+    "gender": "pending",
+    "age": "pending",
+    "personality": "pending",
+    "pronunciation_and_completeness": "pending"
+  },
+  "identity_note": "VoiceDesign candidate only; the seed is not a persistent speaker identity. Shared voice_identity does not guarantee matching timbre.",
+  "files": {
+    "苏小满.wav": {
+      "bytes": 906284,
+      "sha256": "746b2f99491248ef285cd2f5e85992a580c2fcbdd1bfa7414293394ad54dce9b"
+    },
+    "苏小满.mp3": {
+      "bytes": 303404,
+      "sha256": "6ba15ad9b367e76b3a509fcc3f8e7844cc5b3da092a209f924ed2b80d9a1de5b"
+    },
+    "苏小满.txt": {
+      "bytes": 222,
+      "sha256": "2396e1c34188b30f055991d022c43ae32318383ceee73ab66fc4a573701e7cc5"
+    },
+    "音色描述.txt": {
+      "bytes": 1088,
+      "sha256": "e188caf1a6ff8b6bdccb0090d755b5a861dae5d18ac15cbcc60bd33c502b6d16"
+    }
+  }
+}

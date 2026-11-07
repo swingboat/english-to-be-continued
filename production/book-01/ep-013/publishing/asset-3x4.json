@@ -1,0 +1,11 @@
+{
+  "episode": "013",
+  "ratio": "3x4",
+  "file": "cover-3x4.png",
+  "width": 1086,
+  "height": 1448,
+  "ratio_exact": true,
+  "sha256": "ff8d533172a52eb164062885558d8772b66e56ce601cd04c0226966c8918bb89",
+  "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-17284d66-89b0-4ce7-b32c-f887eaa0d8c4.png",
+  "mode": "built-in image_gen.imagegen"
+}

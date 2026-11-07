@@ -1,0 +1,92 @@
+{
+  "episode": "B01E013",
+  "title": "采访台词全背熟，却接不上她的话｜英语有续集013",
+  "description": "小帅背好了采访逐字稿，受访同学一讲“不好意思问路”，他却接出预备的励志句。大家同意暂停后，他折起长稿、保留三问，重新问“后来你做了什么”。对方讲完一起求助、没那么孤单的经历，结语也跟着修改。你是在听对方，还是在等自己的下一句？跟着故事学习 teen、native、saying、ahead、get ahead、revise。英文解说＋中英字幕，故事继续。",
+  "topics": [
+    "英语有续集",
+    "高中英语",
+    "英语单词",
+    "英语学习",
+    "校园故事"
+  ],
+  "keywords": [
+    "英语有续集",
+    "我被自己的分身卷了",
+    "高中英语",
+    "高一英语",
+    "北师大版英语",
+    "英语必修第一册",
+    "英语词汇",
+    "英语单词",
+    "单词记忆",
+    "情境学英语",
+    "英语解说",
+    "中英双语字幕",
+    "校园故事",
+    "校园日常",
+    "分身故事",
+    "小帅",
+    "小帅的分身",
+    "英语学习",
+    "认真倾听",
+    "真实采访",
+    "临场追问",
+    "修改稿件",
+    "同学求助",
+    "不预设回答",
+    "teen",
+    "native",
+    "saying",
+    "ahead",
+    "get ahead",
+    "revise"
+  ],
+  "cover_copy": {
+    "series": "英语有续集 · 013",
+    "headline": [
+      "台词背得很熟",
+      "却没听见她的话"
+    ],
+    "supporting_line": "校园故事学英语 · 本集6词"
+  },
+  "covers": [
+    {
+      "id": "4x3",
+      "label": "横版封面 · 4:3",
+      "file": "cover-4x3.png",
+      "width": 1448,
+      "height": 1086,
+      "download_name": "英语有续集-013-封面-4x3.png",
+      "alt": "第013集横版封面 · 4:3：台词背得很熟，却没听见她的话。",
+      "sha256": "27514abc4d008d72612a0305a57e7078226ba3766363ad02e5c268af4157b553",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-d9a6888d-aee4-4c93-9123-83fdafdb4f1e.png"
+    },
+    {
+      "id": "3x4",
+      "label": "竖版封面 · 3:4",
+      "file": "cover-3x4.png",
+      "width": 1086,
+      "height": 1448,
+      "download_name": "英语有续集-013-封面-3x4.png",
+      "alt": "第013集竖版封面 · 3:4：台词背得很熟，却没听见她的话。",
+      "sha256": "ff8d533172a52eb164062885558d8772b66e56ce601cd04c0226966c8918bb89",
+      "original_generated_file": "/Users/huyin/.codex/generated_images/01a1911b-0335-73d1-9e32-69cfd0344a98/exec-17284d66-89b0-4ce7-b32c-f887eaa0d8c4.png"
+    }
+  ],
+  "image_generation": {
+    "mode": "built-in image_gen.imagegen",
+    "reference": "../storyboard.png",
+    "style_reference": "../../ep-001/publishing/cover-4x3.png",
+    "prompts": [
+      "prompt-4x3.txt",
+      "prompt-3x4.txt"
+    ],
+    "visual_reviewed": true
+  },
+  "topic_research": {
+    "checked_on": "2026-11-02",
+    "evidence": "data/douyin-publishing-policy.json",
+    "official_campaigns": [],
+    "status": "未核实到当前有效且适合本集的官方活动；采用普通相关话题与系列自有话题"
+  }
+}

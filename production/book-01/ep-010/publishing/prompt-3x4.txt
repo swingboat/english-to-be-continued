@@ -1,0 +1,13 @@
+Use case: ads-marketing. Create ONE finished PNG episode cover, not a collage or a mockup.
+Canvas: EXACT 1152 × 1536 pixels, EXACT 3:4 PORTRAIT. Fill the canvas, no borders/letterboxing.
+Input image 1: THIS episode storyboard, for character identity, wardrobe, setting and story continuity ONLY. Do NOT copy its eight-panel layout.
+Input image 2: episode 001 cover, for warm painted anime style, deep teal/cream/red typography and polished series branding ONLY. Do NOT reuse its text or story scene.
+Series cast when called for below: original Xiaoshuai has messy short BLACK hair, dark brown eyes, RED inner shirt, white/dark teal school jacket, NO glasses. His ONE identical clone has same face, height and short black hair, CYAN BLUE inner shirt and same school jacket, NO glasses. Xiaoman is a teenage girl with short black BOB hair and ROUND glasses, white/teal school jacket, her own notebook.
+Scene to illustrate: Exactly three main teenagers at the home worktable: ONE silver laptop displays a generic deletion confirmation dialog with only abstract buttons and folder icon, no readable text. RED-shirt Xiaoshuai reaches to the trackpad to CANCEL, startled but in control; BLUE-shirt clone pulls both hands back, sheepish; bob-haired round-glasses Xiaoman raises a small stop gesture. ONE black phone lies face DOWN to the side. Files are NOT deleted, no shattered laptop, no fire, no new recording gear.
+Design: funny, plausible, lively expressions with kind humor. Compose series label at top, a calm cream two-line headline in the upper third, and a large readable character scene below, balanced for a vertical thumbnail. Natural hands, normal anatomy, correct count of people and objects, faces and shirt colors readable. Keep all text and faces inside safe margins, no clipped letters.
+Exact text ONLY, clean bold Simplified Chinese sans serif:
+Small label: “英语有续集 · 010”
+Large headline line 1: “为了戒手机”
+Large headline line 2: “差点删掉节目！”
+Small supporting line: “校园故事学英语 · 本集5词”
+Deep teal headline with one relevant phrase in warm red, on warm cream, strong legibility. Every Chinese character exact. No extra captions, no word lists, no random UI text, no platform logo/UI, no watermark. Prop writing is abstract unless the scene explicitly allows exact prop text. Warm golden light, cinematic school-story anime painting matching references.

@@ -1,0 +1,135 @@
+{
+  "checks": [
+    "offline assets ready, no autoplay",
+    "8 scenes, 23 bilingual pairs, 5 words, 4 cast references",
+    "publishing copy and both offline covers retained",
+    "no abrupt canvas frame changes at 30 fps sampling",
+    "click starts playback",
+    "pause holds time",
+    "chapter seeks without autoplay",
+    "keyboard seek works",
+    "sound toggle state",
+    "full shot plays to 16 seconds and stops",
+    "replay restarts",
+    "offline audition decodes and pauses animation",
+    "no horizontal overflow at 768",
+    "no horizontal overflow at 390",
+    "no horizontal overflow at 375",
+    "reduced motion has no autoplay and retains illustration",
+    "no external resource requests",
+    "no browser errors"
+  ],
+  "screenshots": [
+    "desktop-poster.jpg",
+    "desktop-0.jpg",
+    "desktop-4-3.jpg",
+    "desktop-4-8.jpg",
+    "desktop-5-8.jpg",
+    "desktop-12.jpg",
+    "contact-sheet.jpg",
+    "768-0.jpg",
+    "768-4-8.jpg",
+    "768-5-8.jpg",
+    "768-12.jpg",
+    "390-0.jpg",
+    "390-4-8.jpg",
+    "390-5-8.jpg",
+    "390-12.jpg",
+    "375-0.jpg",
+    "375-4-8.jpg",
+    "375-5-8.jpg",
+    "375-12.jpg",
+    "reduced-motion.jpg"
+  ],
+  "requests": [],
+  "errors": [],
+  "temporal": {
+    "sample_fps": 30,
+    "frames": 481,
+    "mean_difference": 0.0016351180952705149,
+    "max_difference": 0.009013089546518195,
+    "worst_at": 4.766666666666667,
+    "seconds": [
+      {
+        "at": 1,
+        "difference": 0.00023312051157911725
+      },
+      {
+        "at": 2,
+        "difference": 0.0007399590494634068
+      },
+      {
+        "at": 3,
+        "difference": 0.0005628177196804648
+      },
+      {
+        "at": 4,
+        "difference": 0.0013059917897200032
+      },
+      {
+        "at": 5,
+        "difference": 0.006845913519728879
+      },
+      {
+        "at": 6,
+        "difference": 0.000457163318002098
+      },
+      {
+        "at": 7,
+        "difference": 0.0008304209029290729
+      },
+      {
+        "at": 8,
+        "difference": 0.0005201398975227951
+      },
+      {
+        "at": 9,
+        "difference": 0.0006043608286936174
+      },
+      {
+        "at": 10,
+        "difference": 0.0009683515896070363
+      },
+      {
+        "at": 11,
+        "difference": 0.004743731340272735
+      },
+      {
+        "at": 12,
+        "difference": 0.002955297345275559
+      },
+      {
+        "at": 13,
+        "difference": 0.0008116350964254014
+      },
+      {
+        "at": 14,
+        "difference": 0.00044178165093197773
+      },
+      {
+        "at": 15,
+        "difference": 0.0007181473412410232
+      },
+      {
+        "at": 16,
+        "difference": 0.0007465151698539498
+      }
+    ]
+  },
+  "playback": {
+    "wall_seconds": 16.00340000000596,
+    "rendered_frames": 961,
+    "median_frame_ms": 16.69999999999891,
+    "p95_frame_ms": 16.799999999999272,
+    "max_frame_ms": 16.80000000000291,
+    "final": {
+      "ready": true,
+      "playing": false,
+      "time": 16,
+      "duration": 16,
+      "sound": false,
+      "reducedMotion": false
+    }
+  },
+  "passed": true
+}

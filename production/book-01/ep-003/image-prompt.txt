@@ -1,0 +1,32 @@
+INITIAL GENERATION — EXACT PROMPT
+
+Use case: illustration-story
+Asset type: Episode 003 eight-panel storyboard, for a Chinese high-school English learning story called “英语有续集”.
+Primary request: A NEW coherent comic sheet with EXACTLY EIGHT rectangular panels, arranged TWO columns by FOUR rows, read left to right, top to bottom. Equal panel sizes, straight thin dark gutters. Match reference image 1 ONLY for character identity, school setting, color, ink and rendering, NOT its events. Entirely new scenes described below.
+Style: expressive polished modern school manga, detailed black hair, warm late-afternoon sunlight, teal ink, cream paper, clear cel shading, a gentle visual comedy. No text, no lettering, no speech bubbles, no logos or watermarks.
+Characters: ONLY three teenagers in this episode, no adults or other pupils. Xiaoshuai is the original boy, messy short black hair, brown eyes, white-and-teal school tracksuit jacket, RED undershirt, dark trousers. His single physical clone looks identical but wears a CYAN BLUE undershirt. Both have the same jacket. Xiaoman is a girl with chin-length black bob and round glasses, matching teal-white school jacket. Preserve reference faces, hairstyles, clothing, teenage proportions and realistic hands throughout. No extra clones, no third identical boy, no transformation effects.
+Continuity: Xiaoman already knows she saw two identical boys. She holds the single activity clipboard the original handed her at the end of the previous episode. The original owns the only smartphone. Clone has a small folded pocket cue card, NOT a second clipboard. Xiaoman also has her own slim notebook. A quiet open classroom is adjacent to the corridor; all three remain together. Original RED is the narrator; distinguish him consistently in each scene.
+Eight panels:
+1 TOP LEFT, corridor outside classroom: Xiaoman faces both boys with a patient questioning look, holding ONE clipboard against her chest; original red and clone blue comically point at each other, each hoping the other explains. No teacher.
+2 TOP RIGHT, same corridor: clone blue opens his small folded cue card and theatrically starts an over-polished explanation, palm raised like a presenter; Xiaoman raises an eyebrow, original red looks at the rehearsed performance in embarrassed disbelief. Keep faces large, all three readable.
+3 SECOND ROW LEFT: intimate original-red confession, nervous but sincere, hand to his chest and his OWN phone lowered in his other hand; Xiaoman listens without smiling at his expense. Clone blue is quieter in the background. Phone screen blank, no magical effect.
+4 SECOND ROW RIGHT: two identical boys side by side: clone-blue gestures outward proudly as though imagining applause, original-red candidly shrugs with a sheepish smile; Xiaoman observes thoughtfully at edge, clipboard still hers. Humor from different personalities, NOT from physical differences.
+5 THIRD ROW LEFT, inside quiet empty classroom: Xiaoman opens HER NOTEBOOK on a desk to a simple abstract radio-wave diagram, no writing. She points to her own idea with composed determination. Both boys listen, original red attentive, clone blue lowers his folded cue card. The single clipboard lies on desk by her notebook.
+6 THIRD ROW RIGHT: all three beside classroom desks, original red leans forward and speaks seriously, hand on chest, promising to explain to his teacher and parents tomorrow; Xiaoman nods, clone blue stands with them. Nobody is physically meeting adults yet. No phone call, no teacher, no parents.
+7 BOTTOM LEFT: original red stands beside a desk, introduces himself to Xiaoman with small brave open-hand gesture and nervous smile, slight blush; Xiaoman listens warmly. Clone blue sits quietly at a nearby desk with lips closed, giving a discreet thumbs-up. His seated placement must not merge with original.
+8 BOTTOM RIGHT: clone blue enthusiastically begins raising his hand for HIS own introduction; original red lightly lowers the clone's raised forearm in friendly comic alarm, as if reminding him not to volunteer for another job; Xiaoman laughs beside them, notebook and clipboard stacked on desk. Three distinct complete readable faces, affectionate comedy, no grabbing necks, no injury.
+Composition constraints: clear causal acting, consistent identities, no duplicated props, no text even on papers. Each panel is independent and enclosed; keep important faces safely inside margins for individual HTML framing. Vertical overall sheet aspect about 1:2. Eight equal panels, no inset panels.
+
+
+TARGETED REVISION — EXACT PROMPT
+
+Use case: precise-object-edit / illustration-story
+Edit target: the supplied Episode 003 eight-panel comic sheet.
+Keep the entire sheet and all of the FIRST SEVEN PANELS unchanged, preserving school manga style, warm lighting, grid geometry, faces, costumes, props and all actions. Change ONLY the BOTTOM RIGHT (eighth) panel.
+Correction required: the last panel currently accidentally shows only one boy wearing red while raising his hand. The story needs TWO distinct identical-faced boys plus the girl, all THREE teenagers clearly visible in this single last panel.
+Replace the composition of just the bottom-right panel with:
+LEFT: the CLONE, black messy hair, white and teal jacket, distinctly CYAN BLUE undershirt. He happily raises ONE hand to ask for his own turn introducing himself. His complete face and blue undershirt are visible.
+CENTER: ORIGINAL Xiaoshuai, same black messy hair and face, white and teal jacket, distinctly RED undershirt. He looks at the blue clone with friendly comic alarm and makes a gentle low palm-down calming gesture. HIS OWN HAND IS NOT RAISED. Both boys are fully separate, no merging bodies or arms.
+RIGHT: Xiaoman, black bob and round glasses, same jacket, laughing at the boys.
+A notebook and the single activity clipboard are stacked on the classroom desk in front. Same empty classroom. No adults, no new pupils. No text, letters, logos, bubbles or watermarks.
+Only fix panel eight. First seven panels stay unchanged. Preserve all eight panels and original dimensions.

@@ -1,0 +1,73 @@
+{
+  "checked_on": "2026-11-01",
+  "format": "reading-html",
+  "html": "episodes/book-01/ep-001.html",
+  "bytes": 15892494,
+  "sha256": "21db1d879dfd4510f77cea471313565afdd7f8937e323ef3237f7d58fd0afe64",
+  "scenes": 8,
+  "dialogue_entries": 31,
+  "words": [
+    "confidence",
+    "volunteer",
+    "goal",
+    "challenge",
+    "schedule"
+  ],
+  "embedded_images": 3,
+  "distinct_panel_windows": 8,
+  "offline_file_url_verified": true,
+  "external_runtime_requests": [],
+  "javascript_blocks": 0,
+  "video_elements": 0,
+  "audio_elements": 0,
+  "playback_controls": 0,
+  "viewports_checked": [
+    375,
+    768,
+    1440
+  ],
+  "horizontal_overflow": [],
+  "dialogue_overflow": [],
+  "checks": [
+    "all script paragraphs present",
+    "all eight pictures visible",
+    "vocabulary meanings and examples visible by default",
+    "table of contents links",
+    "keyword to vocabulary links",
+    "vocabulary to scene links",
+    "native details disclosure",
+    "valid local documentation links",
+    "one episode deliverable HTML",
+    "publishing title, description and six topics present",
+    "exactly 30 unique publishing keywords",
+    "exact 4:3 and 3:4 PNG covers embedded with native download links"
+  ],
+  "scope": "本项目交付剧本、图片、学习单词；视频由另一个项目制作。",
+  "character_name": "小帅",
+  "character_name_en": "Xiaoshuai",
+  "name_consistency_verified": true,
+  "name_update_on": "2026-10-31",
+  "screenshots_note": "剧本截图保留作此前检查记录；2026-11-01 新增发布区及封面的最新截图见 publishing-verification.json。",
+  "voiceover_language": "English",
+  "subtitle_languages": [
+    "English",
+    "简体中文"
+  ],
+  "subtitle_pair_count": 23,
+  "english_narration_entries": 23,
+  "narration_subtitle_pairs_verified": true,
+  "narration_layout_viewports_checked": [
+    375,
+    768,
+    1440
+  ],
+  "narration_horizontal_overflow": [],
+  "reference_dialogue_collapsed": true,
+  "subtitle_timing": "由视频项目根据配音对齐",
+  "current_narration_screenshot": "english-narration.png",
+  "distinct_embedded_image_payloads": 3,
+  "publishing_keywords": 30,
+  "publishing_topics": 6,
+  "publishing_covers": 2,
+  "publishing_verification": "publishing-verification.json"
+}

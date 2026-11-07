@@ -1,0 +1,102 @@
+{
+  "other_episodes_unchanged": 14,
+  "embedded_voices": [
+    {
+      "name": "小帅",
+      "sha256": "c051a6aae2cc0d63ee5284c156b43052afff9c345d245a01dcf9e9d9b369fd4f",
+      "status": "已选定"
+    },
+    {
+      "name": "小帅的分身",
+      "sha256": "ce3d88284545808c57c283d9240a92fc491e82efaafbe61926a1058eda5d4146",
+      "status": "已选定"
+    },
+    {
+      "name": "苏小满",
+      "sha256": "746b2f99491248ef285cd2f5e85992a580c2fcbdd1bfa7414293394ad54dce9b",
+      "status": "暂定采用"
+    },
+    {
+      "name": "班主任",
+      "sha256": "6ae234463019c9ed5a62db2d25d2ffadfb0b529c374f285bbe7c45c52aab195c",
+      "status": "已选定"
+    },
+    {
+      "name": "小帅妈妈",
+      "sha256": "61c3e40b112992cd5d8b7b77f7697a102ca29da427ef028e4293337e6307351c",
+      "status": "已选定"
+    },
+    {
+      "name": "小帅爸爸",
+      "sha256": "610628ff312ac2d3037126d98f54cc13ab96f1fc55561955af9a9d5c25ce2ffe",
+      "status": "已选定"
+    }
+  ],
+  "content": {
+    "scenes": 8,
+    "caption_pairs": 24,
+    "dialogue_entries": 33,
+    "words": 5,
+    "unique_keywords": 30,
+    "missing_links": 0
+  },
+  "audio_playback": [
+    {
+      "currentTime": 0.026461,
+      "duration": 13.84,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.06769,
+      "duration": 14.16,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.067694,
+      "duration": 18.88,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.067651,
+      "duration": 19.36,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.067753,
+      "duration": 17.68,
+      "error": null,
+      "otherPaused": true
+    },
+    {
+      "currentTime": 0.067284,
+      "duration": 15.28,
+      "error": null,
+      "otherPaused": true
+    }
+  ],
+  "cover_downloads": [
+    {
+      "filename": "英语有续集-004-封面-4x3.png",
+      "ratio": "4x3",
+      "sha256": "585cad385add38dd6d226ebf39ac4d4d54318d2066fd7dcb0c6a967591001bcc"
+    },
+    {
+      "filename": "英语有续集-004-封面-3x4.png",
+      "ratio": "3x4",
+      "sha256": "bcf154c06e529616fd1d4f2ac92066e1eb58650bf99c811499b8c13af60f3cba"
+    }
+  ],
+  "no_script": {
+    "captionCount": 24,
+    "opacity": "1",
+    "audio": 6
+  },
+  "reduced_motion": "no active animation",
+  "offline_file_url": true,
+  "console_errors": [],
+  "html_sha256": "2087c1cdfe41feee5fff291ce3a00964d6aee4eeabb801f6b11c837df9be486f"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "小帅妈妈",
+  "version": "v002",
+  "reviewed_on": "2026-11-02",
+  "source": "user-listening-feedback",
+  "user_feedback": "这个可以，就用这个吧",
+  "voice_fit": "approved",
+  "selection_status": "selected",
+  "reference_audio": "小帅妈妈.wav",
+  "reference_text": "小帅妈妈.txt",
+  "usage": "作为第一册小帅妈妈后续配音的参考音色；保留原始 WAV 和对应文本。",
+  "pronunciation_and_completeness": "not-separately-reviewed",
+  "history": [
+    {
+      "reviewed_on": "2026-11-02",
+      "source": "user-listening-feedback",
+      "user_feedback": "这个小帅妈妈的声音也太年轻了吧",
+      "age_fit": "rejected-too-young",
+      "selection_status": "not-selected",
+      "discarded_audio_sha256": "825741899d8f7f05980c424f84b7093ea66317e0c9e96841120cb7e45eacff53",
+      "audio_deleted": true
+    }
+  ]
+}
